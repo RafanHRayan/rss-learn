@@ -18,6 +18,12 @@ Thus, $$(a,b)=(\sin{\theta{}},\cos{\theta{}})$$.
 
 </details>
 
+***
+
+{% hint style="danger" %}
+This page in incomplete!
+{% endhint %}
+
 [^1]: This is _**only**_ true in a **unit circle** assuming that a positive angle goes _counterclockwise_ starting from the initial ray going from $$x=0$$ onward positively (to the right).
 
 [^2]: $$a$$ is the distance in the graph in the x-axis. $$b$$ is the distance in the graph in the y-axis.
