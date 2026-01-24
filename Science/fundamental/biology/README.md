@@ -21,14 +21,6 @@ layout:
 
 # Biology
 
-***
-
-<h4 align="center"><strong>Know This</strong></h4>
-
-[https://www.nysmigrant.org/sites/default/files/libraryfiles/5g%20Hndout.Part%20D-4%20Diffusion.pdf](https://www.nysmigrant.org/sites/default/files/libraryfiles/5g%20Hndout.Part%20D-4%20Diffusion.pdf)
-
-***
-
 ## Unit 1 — Foundations of Life
 
 **Contents:** Life processes, scientific method, experiment design, graphing, and lab tool usage.
