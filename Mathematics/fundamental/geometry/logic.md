@@ -46,7 +46,7 @@ If the antecedent is false, the conditional will not break regardless of the con
 
 ## Logical Order of Operations
 
-The order in which logical operations are performed are as follows.
+The order in which logical operations are performed are as follows...
 
 1. Parentheses
 2. Negations
@@ -70,7 +70,7 @@ The base conditional and its contrapositive are logically equivalent. The invers
 
 ### The Hidden Conditional Cases
 
-Hidden conditionals are written as English-language statements, but are actually conditional statements. The cases are listed as follows.
+Hidden conditionals are written as English-language statements, but are actually conditional statements. The cases are listed as follows...
 
 <details>
 
@@ -142,14 +142,12 @@ The biconditional is only true if both statements are true _or_ both statements 
 
 ## Arguments
 
-A set of statements is an argument if and only if it includes at least one premise and exactly one conclusion. In English-language statements, this is generally indicated with the word “therefore” right before the conclusion. The symbol for arguments in its shortened format is three dots (∴) that is in between the simple statements. Example is the following.
+A set of statements is an argument if and only if it includes at least one premise and exactly one conclusion. In English-language statements, this is generally indicated with the word “therefore” right before the conclusion. The symbol for arguments in its shortened format is three dots (∴) that is in between the simple statements. One example is the following...
 
 * $$A\land{}B$$
 * $$A\rightarrow{}C$$
 * $$\neg{}B$$
-* $$\therefore{}C$$
-
-(This will shown on a future page)
+    * $$\therefore{}C$$
 
 An argument is valid if and only if its premises necessarily imply its conclusion. An argument is sound if and only if it is valid and its premises are true.
 
