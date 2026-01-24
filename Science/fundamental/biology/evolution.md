@@ -120,7 +120,7 @@ When a trait is naturally selected to be more favorable for the species, it beco
 
 Artificial selection, similarly to natural selection, also shows evidence of evolution. However, artificial selection is the manual pressuring of a trait to be forcefully selected onto a species. Domestication is an example of this. For example, wolves that were more tame were given shelter by human ancestors. Over time, wolves gain traits more suited when living with humans and branched off into dogs.
 
-The acronym VISTA stands for the following, and represents requirements of both types of selection.
+The acronym VISTA stands for the following, and represents requirements of both types of selection...
 
 <table><thead><tr><th width="170.20233154296875" align="right">Letter Representation</th><th>Descriptions</th></tr></thead><tbody><tr><td align="right">Variation</td><td>Is the population <a data-footnote-ref href="#user-content-fn-2">varied</a>?</td></tr><tr><td align="right">Inheritance</td><td>Is the trait(s) <a data-footnote-ref href="#user-content-fn-3">heritable</a>?</td></tr><tr><td align="right">Selection Pressure</td><td>Is the trait being <a data-footnote-ref href="#user-content-fn-4">selected</a>, whether it be through natural favoring or artificial pressure?</td></tr><tr><td align="right">Time</td><td>Is the trait being inherited over many generations (not after a few years)?</td></tr><tr><td align="right">Adaptation</td><td>Has the trait become an adaptation and resulted in a more differently characterized species?</td></tr></tbody></table>
 
