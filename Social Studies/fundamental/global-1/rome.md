@@ -111,7 +111,7 @@ They had the strongest navy in the region at the time.
 
 The navy of Carthage was a double harbor, used dually for trade _and_ military.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-13 at 7.10.44 PM.png" alt=""><figcaption><p><strong>Image 1</strong> — DIagram of Carthaginian Double Harbor</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-13 at 7.10.44 PM.png" alt=""><figcaption><p><strong>Image 1</strong> — Diagram of Carthaginian Double Harbor</p></figcaption></figure></div>
 
 From Image 1, you can see that the narrow portion of the harbor was for commercial use. Merchants would line the boarders, leaving room in the center for military units; the latter were lined up in the inner portion of the harbor. This made docking very easy and fast.
 
