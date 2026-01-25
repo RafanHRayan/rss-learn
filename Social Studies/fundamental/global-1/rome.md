@@ -100,7 +100,7 @@ From 264-146 BCE, Rome slowly began to amass more territory. This got the attent
 Carthage was a Phoenician settlement founded in 814 BCE. The Phoenicians[^8] were highly into trade, primarily trading purple dye. Purple dye was very difficult to obtain and expensive to get; it was considered a color of royalty. In Latin, the Phoenicians were translated as the Punics.
 
 {% hint style="info" %}
-## Clarification
+### Clarification
 
 The Carthaginians are the Phoenicians are the Punics. All of these are just synonymous titles given to the _same_ settlement.
 {% endhint %}
@@ -231,14 +231,14 @@ Caesar goes back to Rome, yet he brings is army, disobeying Roman orders. If Cae
 The First Triumvirate ends upon the death of the two others. Crassus dies to war in a campaign in Turkey. Crassus flees to Egypt, where he is mercilessly beheaded. Caesar is the only one to remain and no one challenges him; the Senate declares him as dictator for life.
 
 {% hint style="info" %}
-## Extra Note
+### Extra Note
 
 Traditionally, those deceased prior are printed on coins. Julius Caesar was the first _**currently living**_ man to appear on a Roman Republican coin.
 {% endhint %}
 
 Caesar does many actions to help the public.
 
-<table><thead><tr><th width="199.92578125" align="right">Action</th><th>Description</th></tr></thead><tbody><tr><td align="right">Public Works</td><td>Caesar helped create jobs for the poor &#x26; provided new buildings (Forum Julium, Curia Julia, and Basilica Julia) to enhance the look of the city</td></tr><tr><td align="right">Expansion of Senate </td><td>Caesar expanded Senate form 600 to 900 members &#x26; appointed his supports to the Senate. Some of these supporters were Plebeians!</td></tr><tr><td align="right">Poor &#x26; Veterans</td><td>Caesar distributed public lands to the poor &#x26; veterans. He will set up colonies throughout Roman World to ensure veterans had land.</td></tr><tr><td align="right">Citizenship</td><td>Caesar granted Roman citizenship to many people in Rome’s provinces including Gauls, who fought alongside him. This allowed more people to participate in government.</td></tr><tr><td align="right">Food</td><td>Caesar regulated grain purchases. He oversaw grain operations carefully so that poor Romans could get access to food. He forbade those who could afford privately supplied grain from purchasing from the state grain supply.</td></tr></tbody></table>
+<table><thead><tr><th width="199.92578125" align="right">Action</th><th>Description</th></tr></thead><tbody><tr><td align="right">Public Works</td><td>Caesar helped create jobs for the poor &#x26; provided new buildings (Forum Julium, Curia Julia, and Basilica Julia) to enhance the look of the city</td></tr><tr><td align="right">Expansion of Senate</td><td>Caesar expanded Senate form 600 to 900 members &#x26; appointed his supports to the Senate. Some of these supporters were Plebeians!</td></tr><tr><td align="right">Poor &#x26; Veterans</td><td>Caesar distributed public lands to the poor &#x26; veterans. He will set up colonies throughout Roman World to ensure veterans had land.</td></tr><tr><td align="right">Citizenship</td><td>Caesar granted Roman citizenship to many people in Rome’s provinces including Gauls, who fought alongside him. This allowed more people to participate in government.</td></tr><tr><td align="right">Food</td><td>Caesar regulated grain purchases. He oversaw grain operations carefully so that poor Romans could get access to food. He forbade those who could afford privately supplied grain from purchasing from the state grain supply.</td></tr></tbody></table>
 
 1-2 months after Caesar is elected as dictator for life is when he is assassinated by Roman senators. After Caesar's death, a power vacuum is left, where many will try to seize. Caesar's rise to power marks the end of the Roman Republic.
 
@@ -258,7 +258,7 @@ Octavian changes his name to Augustus[^24], claiming the title of Princeps[^25] 
 
 ## Pax Romana
 
-For 207 years, Rome—after transitioning from a republic to an empire—began to experience immense  provisions of peace, wealth, and expansion. Pax was the Roman goddess of peace.
+For 207 years, Rome—after transitioning from a republic to an empire—began to experience immense provisions of peace, wealth, and expansion. Pax was the Roman goddess of peace.
 
 During this time, there were more status of Augustus than any other Roman ruler to date, portraying Augustus as religious[^27], commanding[^28], political[^29], and godlike[^30].
 
