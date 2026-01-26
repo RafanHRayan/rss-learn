@@ -18,7 +18,7 @@ In [a unit circle](#user-content-fn-1)[^1], a triangle formed by an angle with a
 
 <p align="center"><span class="math">\sin{\theta{}}=b \\ \cos{\theta{}}=a</span></p>
 
-Thus, $$(a,b)=(\sin{\theta{}},\cos{\theta{}})$$.
+Thus, $$(a,b)=(\cos{\theta{}},\sin{\theta{}})$$.
 
 </details>
 
@@ -50,12 +50,50 @@ $$\frac{\pi{}}{6}$$ is 30° and $$\frac{\pi{}}{3}$$ is 60°. From this, we can f
 
 $$\frac{\pi{}}{4}$$ is 45°. Thus, $$\sin{\frac{\pi{}}{4}}=\frac{\sqrt{2}}{2}$$, $$\cos{\frac{\pi{}}{4}}=\frac{\sqrt{2}}{2}$$, and $$\tan{\frac{\pi{}}{4}}=1$$.
 
+## Symmetric Trigonometric Identity
+
+The Symmetric Trigonometric Identity states how trigonometric functions values are related to the angles formed by their reflected rays.
+
+### Sine and Cosine Symmetric Identity
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-26 at 12.57.33 PM.png" alt=""><figcaption><p><strong>Image 3</strong> — Final result from <a href="https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-values-special-angles/v/trigonometry-unit-circle-symmetry">this</a> Khan Academy video lecture.</p></figcaption></figure></div>
+
+<details>
+
+<summary><i class="fa-chalkboard-user">:chalkboard-user:</i> <strong>Explanation</strong> of Image 3</summary>
+
+If we have angle that is $$\theta{}$$ radians from [the positive x-ray](#user-content-fn-3)[^3], reflecting the ray over the x-axis would yield an angle that is $$-\theta{}$$ radians from the positive x-ray to the resulting ray, and reflecting it over the y-axis would yield an angle that is $$\pi{}-\theta{}$$ radians from the positive x-ray to the resulting ray.
+
+Reflecting the ray, that which is a reflection of the original ray over the y-axis, over the x-axis yields an angle that is $$\pi{}+\theta$$ from the positive x-ray to the resulting ray.
+
+The trigonometric coordinates are written and their relations are also shown.
+
+</details>
+
+### Tangent Symmetric Identity
+
+We know that the tangent of any angle is the slope of the angles ray. Thus, we know that—according to Image 3—the slope of the green and pink rays are equal. Thus, $$\tan{\theta{}+\pi{}}=\tan{\theta{}}$$. Likewise, the slope of the blue and yellow rays are equal. Thus, $$\tan{\theta{}-\pi{}}=\tan{-\theta{}}$$.
+
+{% hint style="info" %}
+## Note
+
+Keep in mind that $$\tan{-\theta{}}=-\tan{\theta{}}$$. A trigonometric function of a negative value is equivalent to the _inverse_ of the _**same**_ trigonometric function of the _inverse_ of the value.
+{% endhint %}
+
+## Periodicity Trigonometric Identity
+
+The Periodicity Trigonometric Identity states that trigonometric functions values repeat at certain intervals[^4].
+
 ***
 
 {% hint style="danger" %}
-This page in incomplete! Changes will be made _very_ soon!
+This page in incomplete!
 {% endhint %}
 
 [^1]: This is _**only**_ true in a **unit circle** assuming that a positive angle goes _counterclockwise_ starting from the initial ray going from $$x=0$$ onward positively (to the right).
 
 [^2]: $$a$$ is the distance in the graph in the x-axis. $$b$$ is the distance in the graph in the y-axis.
+
+[^3]: The positive portion of the x-axis.
+
+[^4]: At periods. :D
