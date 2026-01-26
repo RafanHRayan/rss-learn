@@ -42,13 +42,15 @@ Knowing that $$\pi{}$$ radians is equivalent to 180°, 1 radian is equal to $$\f
 
 ## Special Trigonometric Values
 
-### Trigonometric Values of $$\frac{\pi{}}{6}$$ and $$\frac{\pi{}}{3}$$
+### Trigonometric Values of π/6 and π/3
 
 $$\frac{\pi{}}{6}$$ is 30° and $$\frac{\pi{}}{3}$$ is 60°. From this, we can find that $$\sin{\frac{\pi{}}{3}}=\frac{\sqrt{3}}{2}$$, $$\cos{\frac{\pi{}}{3}}=\frac{1}{2}$$, $$\sin{\frac{\pi{}}{6}}=\frac{1}{2}$$, and $$\cos{\frac{\pi{}}{6}}=\frac{\sqrt{3}}{2}$$. They reverse; do not mistake them for each other. The tangents of each are also reciprocals of each other. $$\tan{\frac{\pi{}}{3}}=\sqrt{3}$$ and $$\tan{\frac{\pi{}}{6}}=\frac{1}{\sqrt{3}}$$.
 
-### Trigonometric Values of $$\frac{\pi{}}{4}$$
+### Trigonometric Values of π/4
 
 $$\frac{\pi{}}{4}$$ is 45°. Thus, $$\sin{\frac{\pi{}}{4}}=\frac{\sqrt{2}}{2}$$, $$\cos{\frac{\pi{}}{4}}=\frac{\sqrt{2}}{2}$$, and $$\tan{\frac{\pi{}}{4}}=1$$.
+
+##
 
 ***
 
