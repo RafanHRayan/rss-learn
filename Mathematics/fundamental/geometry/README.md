@@ -21,12 +21,6 @@ layout:
 
 # Geometry
 
-{% hint style="info" %}
-## Note
-
-Logic is not technically a part of Euclidean geometry, but logical thinking is important for proving different geometrical theorems. This is why it is taught in this course.
-{% endhint %}
-
 ## Unit 1 — Logic
 
 **Contents:** Logical connectives and logical thinking.
@@ -34,6 +28,12 @@ Logic is not technically a part of Euclidean geometry, but logical thinking is i
 {% content-ref url="logic.md" %}
 [logic.md](logic.md)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+## Note
+
+Logic is not technically a part of Euclidean geometry, but logical thinking is important for proving different geometrical theorems. This is why it is taught in this course.
+{% endhint %}
 
 ## Unit 2 — Postulational System
 
