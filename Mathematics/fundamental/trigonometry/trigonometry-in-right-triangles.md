@@ -38,6 +38,14 @@ $$
 
 Using these ratios is helpful for finding missing sides and angles of right triangles. To find angles, we can rearrange the equations.
 
+{% hint style="info" %}
+## Note
+
+Since both hypotenuse measures cancel out...
+
+<p align="center"><span class="math">\tan{\theta{}}=\frac{\sin{\theta{}}}{\cos{\theta{}}}=\frac{\text{opp}}{\text{hyp}}*\frac{\text{hyp}}{\text{adj}}=\frac{\text{opp}}{\text{adj}}</span></p>
+{% endhint %}
+
 #### Use in Right Triangles
 
 In a right triangle, you would typically be given two of the three side lengths. Using the pythagorean theorem you can find the other side. You may also be given a side and an angle and use them to find a side.
@@ -46,7 +54,7 @@ In a right triangle, you would typically be given two of the three side lengths.
 
 Say you have two non-congruent triangles, $$\triangle{}ABC$$ and $$\triangle{}DEF$$. There are right angles at $$C$$ and $$F$$. If the angles at $$A$$ and $$D$$ were both equal to $$\theta{}\degree{}$$, both angles at points $$B$$ and $$E$$ would be equal to $$(90-\theta{})\degree{}$$. This is because triangles with two angles in common have all three angles in common and are similar triangles.
 
-More information found in the similar triangles unit in geometry...
+More information found in the similar polygons unit in geometry...
 
 \[Coming Soon]
 

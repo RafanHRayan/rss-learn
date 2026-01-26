@@ -31,7 +31,7 @@ The conjunction is the logical “and” operator. The conjunction can only be t
 The disjunction is the logical “or” operator. The conjunction will be true if _**at least one**_ of the simple statements is true. If both are false, the disjunction is false. In English-language statements, this is generally indicated with the word “or”. The symbol for disjunctions in its shortened format is with a V shape ($$\lor{}$$) that is between the simple statements (i.e. $$p\lor{}q$$).
 
 {% hint style="info" %}
-## Note
+### Note
 
 Compound statements can have more than one connective (i.e. $$p \land{}(q\lor{}r)$$).
 {% endhint %}
@@ -147,7 +147,7 @@ A set of statements is an argument if and only if it includes at least one premi
 * $$A\land{}B$$
 * $$A\rightarrow{}C$$
 * $$\neg{}B$$
-    * $$\therefore{}C$$
+  * $$\therefore{}C$$
 
 An argument is valid if and only if its premises necessarily imply its conclusion. An argument is sound if and only if it is valid and its premises are true.
 
