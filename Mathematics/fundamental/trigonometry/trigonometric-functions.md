@@ -82,7 +82,11 @@ Keep in mind that $$\tan{-\theta{}}=-\tan{\theta{}}$$. A trigonometric function 
 
 ## Periodicity Trigonometric Identity
 
-The Periodicity Trigonometric Identity states that trigonometric functions values repeat at certain intervals[^4].
+The Periodicity Trigonometric Identity states that trigonometric functions values repeat at certain intervals[^4]. This applies for sine, cosine, and tangent.
+
+## Graphing the Sine Function
+
+If we were to graph $$y=\sin{\theta{}}$$, we would get a sine wave.
 
 ***
 

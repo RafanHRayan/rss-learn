@@ -77,9 +77,11 @@ Logic is not technically a part of Euclidean geometry, but logical thinking is i
 
 ## Unit 7 — Constructions
 
-**Contents:** ...
+**Contents:** Use of a straightedge and compass, length operation with a compass, ...
 
-\[Coming Soon]
+{% content-ref url="constructions.md" %}
+[constructions.md](constructions.md)
+{% endcontent-ref %}
 
 ## Unit 8 — Similar Polygons
 
