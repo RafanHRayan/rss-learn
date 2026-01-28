@@ -86,7 +86,15 @@ The Periodicity Trigonometric Identity states that trigonometric functions value
 
 ## Graphing the Sine Function
 
-If we were to graph $$y=\sin{\theta{}}$$, we would get a sine wave.
+If we were to graph $$y=\sin{\theta{}}$$, we would get a sine wave. Image 4 shows the relationship between $$\theta{}$$ and $$\sin{\theta{}}$$ in a unit circle, a table, and [a graph](#user-content-fn-5)[^5].
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-27 at 7.30.28 PM.png" alt=""><figcaption><p><strong>Image 4</strong> — Final result from <a href="https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/graphs-of-sine-cosine-tangent/v/we-graph-domain-and-range-of-sine-function">this</a> Khan Academy video lecture.</p></figcaption></figure></div>
+
+As shown in Image 4, we also can conclude that domain and range of the sine function. More on domains and ranges below...
+
+\[Coming soon]
+
+
 
 ***
 
@@ -101,3 +109,5 @@ This page in incomplete!
 [^3]: The positive portion of the x-axis.
 
 [^4]: At periods. :D
+
+[^5]: Our beloved sine wave. :D
