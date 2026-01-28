@@ -15,9 +15,9 @@ To construct geometric figures, mathematicians require...
   * In order to draw circles.
   * In order to store lengths[^2] and distances.
 
-## Circles
+## Fundamentals of Circles
 
-A plane figure is a **circle** if and only if it is the set of all points equidistant from a fixed point. This point is known as the **center**, while the distance from the center to any point on the circle is the **radius**. Two circles are congruent if they have the same radius.
+A plane figure is a **circle** if and only if it is the set of all points equidistant from a fixed point. This point is known as the **center**. This set of points forms the **circumference**. The distance from the center to any point on the circle is the **radius**. Two circles are congruent if they have the _same_ radius.
 
 An circular **arc** is a _part_ of a circle.
 
