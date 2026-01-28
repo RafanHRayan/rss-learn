@@ -2,7 +2,7 @@
 description: >-
   A mathematics course combining advanced algebra and trigonometry concepts,
   acting as a bridge to calculus.
-icon: integral
+icon: sigma
 ---
 
 # Precalculus

@@ -2,7 +2,7 @@
 description: >-
   The branch of mathematics that specializes in the collecting, analyzing,
   interpreting, and presenting data to transform it into meaningful information.
-icon: chart-line
+icon: chart-mixed
 ---
 
 # Statistics
