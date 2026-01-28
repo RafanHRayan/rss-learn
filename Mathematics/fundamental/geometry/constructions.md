@@ -1,10 +1,10 @@
 ---
-description: Use of a straightedge and compass, length operation with a compass, ...
+description: Tools in constructions, fundamentals of circles, length operation, ...
 ---
 
 # Constructions
 
-## Tools
+## Tools in Constructions
 
 To construct geometric figures, mathematicians require...
 
@@ -37,7 +37,7 @@ A segment is a diameter if and only if it connects two points on a circle _**and
 
 </details>
 
-## Length Operation with a Compass
+## Length Operation
 
 As mentioned previously, you can use a compass to store lengths and distances. This can be used to create [a segment that is the result of operations upon other segments](#user-content-fn-3)[^3]. Create a line as a workstation to perform segment operations. We will call this line the workspace line.
 
