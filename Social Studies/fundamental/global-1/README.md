@@ -26,7 +26,9 @@ layout:
 
 **Contents:** ...
 
-\[Coming Soon]
+{% content-ref url="first-civilizations.md" %}
+[first-civilizations.md](first-civilizations.md)
+{% endcontent-ref %}
 
 ## River Valley Civilizations
 

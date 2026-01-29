@@ -5,6 +5,7 @@
 ## Fundamental
 
 * [Global 1](fundamental/global-1/README.md)
+  * [First Civilizations](fundamental/global-1/first-civilizations.md)
   * [Rome](fundamental/global-1/rome.md)
 
 ## Advanced
