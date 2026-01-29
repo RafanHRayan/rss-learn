@@ -169,7 +169,7 @@ Though, Catal Huyuk was very advanced for its time, it is not considered to be a
 
 [^9]: A theoretical cognitive module that proposes humans are predisposed to over-detect intentional agency in the environment, especially in uncertain or threatening situations.
 
-    &#x20;
+    &#x20;$$\text{}$$
 
     Often abbreviated as HADD.
 
