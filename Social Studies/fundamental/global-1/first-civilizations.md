@@ -33,69 +33,43 @@ Though we do not have any _specifically_ unique traits, we share all of them whi
 
 ### Evolution
 
-**Evolution** is a theory, but it is hard to back evolution because of the time period it takes to properly notice it. More on evolution in the biology unit here.
+**Evolution** is a theory, but it is hard to back evolution because of the time period it takes to properly notice it. More on evolution in the biology unit [here](https://rss-industries.gitbook.io/learn/sci/fundamental/biology/evolution).
 
-\With this problem in mind, Richard Lenski began an experiment with bacteria in 1988 named the Lenski Experiment: he separated the bacteria into twelve different containers and left them to duplicate.
+With this problem in mind, Richard Lenski began an experiment with bacteria in 1988 named the **Lenski Experiment**: he separated the bacteria into twelve different containers and left them to duplicate.
 
-<br>
+For the bacteria, 24 hours roughly equates to approximately 6.67 generations and every 500 generations, a sample is frozen for future reference on how the bacteria looked on a specific date. The experiment is ongoing to this day.
 
-For the bacteria, 24 hours roughly equates to approximately 6.[67](https://en.wikipedia.org/wiki/6-7_\(meme\)) generations and every 500 generations, a sample is frozen for future reference on how the bacteria looked on a specific date.
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption><p><strong>Image 1</strong> — Lenski Experiment Graph</p></figcaption></figure></div>
 
-<br>
+In Image 1, the cell size of bacteria increased over thousands of generations. The reason for this is because of natural selection; it was better to be larger, so over time, smaller bacteria died out and larger bacteria thrived. This resulted in an increase in cell size of the overall population. This is also known as **the struggles for existence**.
 
-The experiment is ongoing to this day.
-
-<br>
-
-| – Figure 1 \| Lenski Experiment Graph – |
-| --------------------------------------- |
-| ![](../../.gitbook/assets/unknown.png)  |
-
-<br>
-
-In the graph, the cell cize of bacteria increased over thousands of generations. The reason for this is because of natural selection7; it was better to be larger, so over time, smaller bacteria died out and larger bacteria thrived. This resulted in an increase in cell size of the overall population. This is also known as the struggles for existence8.
-
-<br>
-
-During the process of biological change, random variations9 can also occur in the traits of individual organisms and are passed on to their offspring.
-
-<br>
+During the process of biological change, random variations can also occur in the traits of individual organisms and are passed on to their offspring.
 
 ### Hominids
 
-Hominids10 are any human-like organisms that are bipedal11 and intelligent (to an extent).
+**Hominids** are any human-like organisms that are bipedal[^3] and intelligent[^4].
 
-<br>
+_Australopithecines_ are an ancestor of humans, existing about 3.2 million years ago. Lucy is the _only_ known australopithecus to be bipedal, making her famous for the reason we walk on two legs today.
 
-Australopithecines12 are an ancestor of humans, existing about 3.2 million years ago. Lucy13 is the only known australopithecus to be bipedal, making her famous for the reason we walk on two legs today.
+[_Homo Habilis_](#user-content-fn-5)[^5] is the hominid that first began using stone tools, marking the beginning of the [Paleolithic Age](#user-content-fn-6)[^6]. They existed around 2 million years ago.
 
-<br>
+Much later on, only about 100,000 to 30,000 years ago, _Homo Neanderthalensis_ walked the Earth.
 
-Homo Habilis14, which means “Handy Human”, is the hominid that first began using stone tools, marking the beginning of the Paleolithic Age15, more commonly referred to as the Stone Age. They existed around 2 million years ago.
-
-<br>
-
-Much later on, only about 100,000 to 30,000 years ago, Homo Neanderthalensis16 walked the Earth.
-
-<br>
-
-Finally, Homo Sapiens17, which means “Wise Man”, were found to have emerged 250,000 years ago in Africa. We still live on today.
-
-<br>
+Finally, [_Homo Sapiens_](#user-content-fn-7)[^7] were found to have emerged 250,000 years ago in Africa. We still live on today.
 
 ## The Paleolithic Age
 
-The Paleolithic Age happened between 2,000,000 BC and 12,000 BC. At this time, humans were hunter-gatherers18, since they primarily hunted and gathered their food from wherever they could find it. Humans at the time lived in small groups of around 25. They were nomadic19, meaning they only travelled and never lived in one place permanently.
+The Paleolithic Age happened between 2,000,000 BCE and 12,000 BCE. At this time, humans were hunter-gatherers, since they primarily hunted and gathered their food from wherever they could. Humans at the time lived in [small groups](#user-content-fn-8)[^8] and were nomadic, meaning they only travelled and never lived in one place permanently.
 
-<br>
+Our ancestors were affluent, meaning they had an abundant amount of free time. The reason humans are so different from other hominids is because of [Hyperactive Agent Detection Device](#user-content-fn-9)[^9] and the [Theory of Mind](#user-content-fn-10)[^10]. Humans are more creative, resulting in a leap in the development of art and religion.
 
-Our ancestors were affluent20, meaning they had an abundant amount of free time. The reason humans are so different from other homonids is because of Hyperactive Agent Detection Device (HADD)21 and the Theory of Mind22. Humans are more creative, resulting in a leap in the development of art and religion.
+Humans from the Paleolithic Age, as a result, created art on cave walls from pigments. This cave art can be found all over the world.$$\text{}$$
 
-<br>
+***
 
-Humans from the Paleolithic Age, as a result, created art on cave walls from pigments. This cave art can be found all over the world.
-
-<br>
+{% hint style="danger" %}
+This page is incomplete!
+{% endhint %}
 
 ## The Neolithic Age
 
@@ -130,24 +104,24 @@ The biggest mistake of farming was humans’ overall ability to survive. The har
 The eight elements of civilization28 are as follows:
 
 * Organized Religion
-* A form of religion.
-* All people worshipped a god or gods.
+  * A form of religion.
+  * All people worshipped a god or gods.
 * Social Classes
-* There is an upper class and a lower class.
-* The lower class is usually in a poorer condition in comparison to higher classes.
+  * There is an upper class and a lower class.
+  * The lower class is usually in a poorer condition in comparison to higher classes.
 * Art and Architecture
-* A large way humans expressed creativity and religion was through art.
-* Buildings are built in a certain way on purpose.
+  * A large way humans expressed creativity and religion was through art.
+  * Buildings are built in a certain way on purpose.
 * Cities
-* The settlement covers a huge amount of land and can house thousands of people.
+  * The settlement covers a huge amount of land and can house thousands of people.
 * Infrastructure
-* Buildings are built in a uniform way to allow easy travelling between places in a city.
+  * Buildings are built in a uniform way to allow easy travelling between places in a city.
 * System of Writing
-* A writing system is used to keep track of amounts, places, and people.
+  * A writing system is used to keep track of amounts, places, and people.
 * Job Specialization
-* Every type of task is covered by people who specialize in it.
+  * Every type of task is covered by people who specialize in it.
 * Central Government
-* There is a single ruler above everyone else.
+  * There is a single ruler above everyone else.
 
 <br>
 
@@ -177,6 +151,26 @@ Though, Catal Huyuk was very advanced for its time, it is not considered to be a
 
 <br>
 
-[^1]: Which comes from the Greek word [_historiai_](#user-content-fn-3)[^3].
+[^1]: Which comes from the Greek word [_historiai_](#user-content-fn-11)[^11].
 
 [^2]: Just names and dates.
+
+[^3]: Walking on two legs.
+
+[^4]: To an extent.
+
+[^5]: Means “_Handy human_.”
+
+[^6]: More commonly referred to as the Stone Age.
+
+[^7]: Means “_Wise man_.”
+
+[^8]: Only about 25 people each.
+
+[^9]: A theoretical cognitive module that proposes humans are predisposed to over-detect intentional agency in the environment, especially in uncertain or threatening situations.
+
+    &#x20;
+
+    Often abbreviated as HADD.
+
+[^10]: A theoretical cognitive module that proposes humans are predisposed to over-detect intentional agency in the environment, especially in uncertain or threatening situations.
