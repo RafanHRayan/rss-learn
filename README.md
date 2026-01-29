@@ -30,7 +30,7 @@ RSS Industries brings you learning[^1] materials on various subjects! Go through
 
 ## Searching
 
-You may search in the current subject[^2] you are in using ⌘+K. Use the dropdown to search through _all_ pages in the _entirety_ of RSS learn.
+You may search in the current subject[^2] you are in using <kbd>⌘</kbd>+<kbd>K</kbd>. Use the dropdown to search through _all_ pages in the _entirety_ of RSS learn.
 
 ***
 
