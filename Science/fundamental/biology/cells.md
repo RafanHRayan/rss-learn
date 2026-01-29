@@ -1,5 +1,7 @@
 ---
-description: Cell theory, cell size, levels of cellular organization, organelles, ...
+description: >-
+  Cell theory, cell size, levels of cellular organization, organelles, cell
+  membranes, ...
 ---
 
 # Cells
@@ -131,6 +133,26 @@ Here is a list of all the organelles found in cells.
 
 <table><thead><tr><th width="109.9375" align="center">Multiple</th><th width="175.19140625" align="center">Organelle</th><th width="355.0703125">Description</th><th align="center">Found in</th></tr></thead><tbody><tr><td align="center">True</td><td align="center">Mitochondrion</td><td>The site of <a data-footnote-ref href="#user-content-fn-6">cellular respiration</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Chloroplast</td><td>The site of <a data-footnote-ref href="#user-content-fn-7">photosynthesis</a>.</td><td align="center">Plants</td></tr><tr><td align="center">False</td><td align="center">Nucleus</td><td>Contains and protects<br>genetic information, coordinates <a data-footnote-ref href="#user-content-fn-8">cell’s activities</a>, and contains the <a data-footnote-ref href="#user-content-fn-9">nucleolus</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Ribosome</td><td>Carries out protein synthesis. They can be found on the Rough Endoplasmic Reticulum or in the <a data-footnote-ref href="#user-content-fn-10">cytoplasm</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Lysosome</td><td>Digests nutrients and recycles waste products.</td><td align="center">Animals</td></tr><tr><td align="center">True</td><td align="center">Vacuole</td><td>Storage area for water, nutrients, and waste. Animal cells have many smaller vacuoles with different functions. Plant cells have a large, central vacuole with a generalized purpose.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Rough Endoplasmic Reticulum</td><td>The <em>rough</em> endoplasmic reticulum is a system of<br>membrane-enclosed sacs and tubules in the cell. They carry out protein synthesis and send these folded <em><strong>proteins</strong></em> to golgi bodies for transport.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Smooth Endoplasmic Reticulum</td><td>The <em>smooth</em> endoplasmic reticulum is a system of<br>membrane-enclosed sacs and tubules in the cell. They send <em><strong>lipids</strong></em> to golgi bodies for transport.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Golgi Body</td><td>Receives <a data-footnote-ref href="#user-content-fn-11">products of the endoplasmic reticulum</a> which are modified and stored. These materials are then sent to other destinations.</td><td align="center">Both</td></tr></tbody></table>
 
+## Cell Membranes
+
+Cells have a **semi-permeable membrane**, meaning the membrane is _selective_ in what it allows to pass through. This is to allow efficient movement of things like water, nutrients, carbon dioxide, oxygen, and waste.
+
+Cell membranes are made of a **phospholipid bilayer**. Because phospholipids have a hydrophilic head and hydrophobic tails, the heads face [the exteriors of the membrane](#user-content-fn-12)[^12].
+
+{% columns %}
+{% column valign="middle" %}
+<div data-with-frame="true"><figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/0301_Phospholipid_Structure.jpg/510px-0301_Phospholipid_Structure.jpg" alt=""><figcaption><p><strong>Image 1</strong> — Phospholipid diagram.</p></figcaption></figure></div>
+{% endcolumn %}
+
+{% column valign="middle" %}
+
+
+<div data-with-frame="true"><figure><img src="https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/18/2014/07/19180852/0302_Phospholipid_Bilayer.jpg" alt=""><figcaption><p><strong>Image 2</strong> — Phospholipid bilayer diagram.</p></figcaption></figure></div>
+{% endcolumn %}
+{% endcolumns %}
+
+This creates a bilayer like what is shown in Image 2.
+
 [^1]: New cells are produced from old ones.
 
 [^2]: Specifically mitosis.
@@ -164,3 +186,5 @@ Here is a list of all the organelles found in cells.
 [^10]: Ribosomes in the cytoplasm are not bound (free).
 
 [^11]: Whether it be proteins from the RER or lipids from the SER.
+
+[^12]: Outside (extracellular) and inside (intracellular) the cell.
