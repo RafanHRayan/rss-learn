@@ -151,7 +151,7 @@ Though, Catal Huyuk was very advanced for its time, it is not considered to be a
 
 <br>
 
-[^1]: Which comes from the Greek word [_historiai_](#user-content-fn-11)[^11].
+[^1]: Which comes from the Greek word _historiai_, meaning "_inquiry_."
 
 [^2]: Just names and dates.
 
