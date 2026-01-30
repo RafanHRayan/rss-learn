@@ -24,7 +24,7 @@ layout:
 
 ## First Civilizations
 
-**Contents:** ...
+**Contents:** Defining history, human origination and evolution, the Stone Age, elements of civilization, and early civilizations.
 
 {% content-ref url="first-civilizations.md" %}
 [first-civilizations.md](first-civilizations.md)
