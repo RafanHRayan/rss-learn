@@ -230,7 +230,7 @@ Caesar goes back to Rome, yet he brings is army, disobeying Roman orders. If Cae
 
 The First Triumvirate ends upon the death of the two others. Crassus dies to war in a campaign in Turkey. Crassus flees to Egypt, where he is mercilessly beheaded. Caesar is the only one to remain and no one challenges him; the Senate declares him as dictator for life.
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### Extra Note
 
 Traditionally, those deceased prior are printed on coins. Julius Caesar was the first _**currently living**_ man to appear on a Roman Republican coin.

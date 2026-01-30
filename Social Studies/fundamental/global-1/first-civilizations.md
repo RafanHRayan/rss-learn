@@ -1,3 +1,9 @@
+---
+description: >-
+  Defining history, human origination and evolution, the Stone Age, elements of
+  civilization, and early civilizations.
+---
+
 # First Civilizations
 
 ## Defining History
@@ -65,91 +71,75 @@ Our ancestors were affluent, meaning they had an abundant amount of free time. T
 
 Humans from the Paleolithic Age, as a result, created art on cave walls from pigments. This cave art can be found all over the world.$$\text{}$$
 
-***
-
-{% hint style="danger" %}
-This page is incomplete!
-{% endhint %}
-
 ## The Neolithic Age
 
 ### Agriculture
 
 Many hominids ended up migrating out of Africa and into other parts of the world. After the last ice age ended, humans began eating more various plant life, including seeds. A while later, they figured out that planting seeds from plants with a larger harvest will yield that same abundance in seed harvest.
 
-<br>
+The end of the ice age led to a more wet environment, so planting crops would yield in _more_ crops. This led to the Neolithic Age, where agriculture became the main source of food. Since humans needed more room for farming, it led to the [agricultural intensification](#user-content-fn-11)[^11] of land. Over time, the land’s trees were removed in favor of more land. As a result, people could plant and harvest more crops from the same amount of land as before. This led to there being a greater population.
 
-The end of the ice age led to a more wet environment, so planting crops would yield in more crops. This led to the Neolithic Age23, where agriculture became the main source of food. Since humans needed more room for farming, it led to the agricultural intensification24 of land. Over time, the land’s trees were removed in favor of more land. As a result, people could plant and harvest more crops from the same amount of land as before. This led to there being a greater population.
+Humans also figured out that only planting crops and harvesting with a high yield of harvest would lead to an abundance in those plants. In doing this artificial selection, plants with a lower yield of harvest died out leaving only plants with higher yields.
 
-<br>
-
-Humans also figured out that only planting crops and harvesting with a high yield of harvest would lead to an abundance in those plants. In doing this artificial selection25, plants with a lower yield of harvest died out leaving only plants with higher yields.
-
-<br>
-
-Along with agriculture however, the domestication26 of livestock like cows, goats, sheep, and chickens followed. This led to pastoralism27, in which people practice herding as the primary economic activity of a society.
-
-<br>
+Along with agriculture however, the domestication of livestock[^12] followed. This led to pastoralism, in which people practice herding as the primary economic activity of a society.
 
 All of these new changes allowed humans to sustain more people, leading to larger civilizations and permanent settlements. Though it all seems to be positive, agriculture led to not the most prettiest sights of human history.
 
-<br>
+{% hint style="info" %}
+## Note
 
-The biggest mistake of farming was humans’ overall ability to survive. The hard work of farming caused humans to have poorer health, a shorter lifespan, and hard labor for a majority of the people.
+Though agriculture was generally beneficial to the development of humans, it wasn't all good.
 
-<br>
+The biggest _mistake_ of farming was humans’ overall ability to survive. The hard work of farming caused humans to have poorer health, a shorter lifespan, and hard labor for a majority of the people.
+{% endhint %}
 
 ## Civilization and Its Elements
 
-The eight elements of civilization28 are as follows:
+The eight elements of civilization are as follows:
 
-* Organized Religion
+* **Organized Religion**
   * A form of religion.
   * All people worshipped a god or gods.
-* Social Classes
+* **Social Classes**
   * There is an upper class and a lower class.
   * The lower class is usually in a poorer condition in comparison to higher classes.
-* Art and Architecture
+* **Art and Architecture**
   * A large way humans expressed creativity and religion was through art.
   * Buildings are built in a certain way on purpose.
-* Cities
+* **Cities**
   * The settlement covers a huge amount of land and can house thousands of people.
-* Infrastructure
+* **Infrastructure**
   * Buildings are built in a uniform way to allow easy travelling between places in a city.
-* System of Writing
+* **System of Writing**
   * A writing system is used to keep track of amounts, places, and people.
-* Job Specialization
+* **Job Specialization**
   * Every type of task is covered by people who specialize in it.
-* Central Government
+* **Central Government**
   * There is a single ruler above everyone else.
 
-<br>
+{% hint style="info" %}
+## Note
 
-A settlement does not need every single element to be considered a civilization.
-
-<br>
+A settlement does **not** need _every_ single element to be considered a civilization.
+{% endhint %}
 
 ## Early Examples of Places
 
 ### Gobekli Tepe
 
-The Gobekli Tepe29 predates agriculture. Knowing this, many people were surprised since the nomadic people of the Paleolithic Age wouldn’t have the time to build a structure like this if they were constantly moving from place to place.
-
-<br>
+The Gobekli Tepe predates agriculture. Knowing this, many people were surprised since the nomadic people of the Paleolithic Age wouldn’t have the time to build a structure like this if they were constantly moving from place to place.
 
 Gobekli Tepe was built with so much dedication because it is believed to be result of religion, leading many to think that it is a temple.
 
-<br>
-
 ### Catal Huyuk
 
-Catal Huyuk30 was one of the earliest civilizations of the Neolithic Age. There were no roads. Instead, people used ladders to let roofs access other roofs; every building had a way to get to its roof.
+Catal Huyuk was one of the earliest civilizations of the Neolithic Age. There were no roads. Instead, people used ladders to let roofs access other roofs; every building had a way to get to its roof.
 
-<br>
+{% hint style="info" %}
+## Note
 
-Though, Catal Huyuk was very advanced for its time, it is not considered to be a full-blown civilization, as it lacked some qualities that later-established civilizations had.
-
-<br>
+Though, Catal Huyuk was very advanced for its time, [it is not considered to be a full-blown civilization](#user-content-fn-13)[^13].
+{% endhint %}
 
 [^1]: Which comes from the Greek word _historiai_, meaning "_inquiry_."
 
@@ -174,3 +164,9 @@ Though, Catal Huyuk was very advanced for its time, it is not considered to be a
     Often abbreviated as HADD.
 
 [^10]: A theoretical cognitive module that proposes humans are predisposed to over-detect intentional agency in the environment, especially in uncertain or threatening situations.
+
+[^11]: The deliberate process of selecting specific, favorable traits in organisms to allow breeding. This is to ensure an _abundance_ of those specific traits.
+
+[^12]: Cows, goats, sheep, chickens, etc.
+
+[^13]: By future civilizations' standards.
