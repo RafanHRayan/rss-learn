@@ -26,16 +26,14 @@ RSS Industries brings you learning[^1] materials on various subjects! Go through
 
 ***
 
-## Searching
-
-You may search in the current subject[^2] you are in using <kbd>⌘</kbd>+<kbd>K</kbd>. Use the dropdown to search through _all_ pages in the _entirety_ of RSS learn.
-
-***
-
 ## Extra Resources
 
 {% content-ref url="study-steps.md" %}
 [study-steps.md](study-steps.md)
+{% endcontent-ref %}
+
+{% content-ref url="bxsci-schedules.md" %}
+[bxsci-schedules.md](bxsci-schedules.md)
 {% endcontent-ref %}
 
 ***
@@ -43,5 +41,3 @@ You may search in the current subject[^2] you are in using <kbd>⌘</kbd>+<kbd>K
 <p align="right">RSS Learn v13.1.1</p>
 
 [^1]: Get it? :D
-
-[^2]: Math, science, or social studies.
