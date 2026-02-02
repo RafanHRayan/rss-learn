@@ -75,7 +75,7 @@ The **contrapositive** of the statement would be the result of _both negating an
 {% hint style="info" %}
 ## Note
 
-The base conditional and its contrapositive are _logically equivalent_. The inverse and converse of the base conditional are also logically equivalent.
+The base conditional and its contrapositive are logically equivalent. The inverse and converse of the base conditional are also logically equivalent.
 {% endhint %}
 
 ### The Hidden Conditional Cases
