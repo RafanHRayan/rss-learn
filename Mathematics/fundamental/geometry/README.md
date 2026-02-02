@@ -23,7 +23,7 @@ layout:
 
 ## Unit 1 — Logic
 
-**Contents:** Logical connectives and logical thinking.
+**Contents:** Statements, logical connectives, and proofs.
 
 {% content-ref url="logic.md" %}
 [logic.md](logic.md)

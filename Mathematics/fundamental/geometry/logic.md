@@ -1,26 +1,26 @@
 ---
-description: Logical connectives and logical thinking.
+description: Statements, logical connectives, and proofs.
 ---
 
 # Logic
 
 ## Statements
 
-Logic is a two-valued system, consisting of true and false. In logic, statements are sentences that can _either_ have the value true or the value false. Statements can be closed or open.
+**Logic** is a [two-valued system](#user-content-fn-1)[^1]. In logic, statements are sentences that can _either_ have the value true or the value false. Statements can be closed or open.
 
-Open statements are ambiguous, making their truth value dependent on the substitution or variable; the substitutions that make the open statement true are part of the solution set. Closed statements, on the other hand, have a definite truth value. Closed statements cannot have a solution set because they always have _one_ truth value.
+**Open statements** are ambiguous, making their truth value dependent on the substitution or variable; the substitutions that make the open statement true are part of the solution set. **Closed statements**, on the other hand, have a definite truth value. Closed statements cannot have a solution set because they always have _one_ truth value.
 
-Statements can also be negated, in which their truth value will flip (i.e. true to false and false to true). In English-language statements, this is generally indicated with either the word “not” or the phrase “It is not the case that”. The symbol for negation in its shortened format is generally with top-right corner symbol ($$\text{}\neg{}$$) that will come right before the statement (i.e. $$\neg{}p$$).
-
-### Truth Tables
-
-A truth table shows all the possible truth value combinations for a compound statement. All simple and compound statements are given columns. The cases for compound statements are determined by the truth values for the cases for simple statements. Truth tables are used to help find statements with logical equivalence.
-
-There are two special cases inside truth tables. Tautologies are when statements are **true** in _every_ case. Contradictions are when statements are **false** in _every_ case.
+Statements can also be **negated**, in which their truth value will flip[^2]. In English-language statements, this is generally indicated with either the word “not” or the phrase “It is not the case that”. The symbol for negation in its shortened format is generally with top-right corner symbol ($$\text{}\neg{}$$) that will come right before the statement[^3].
 
 ### Compound Statements
 
-Simple statements are statements with only one letter or boolean (i.e. $$p$$ or “Roses are red.”). Compound statements, however, consist of one or more simple statements and _at least_ one connective.
+**Simple statements** are statements with only one letter or boolean (i.e. $$p$$ or “Roses are red.”). **Compound statements**, however, consist of one or more simple statements and _at least_ one connective.
+
+### Truth Tables
+
+A **truth table** shows all the possible truth value combinations for a compound statement. All simple and compound statements are given columns. The cases for compound statements are determined by the truth values for the cases for simple statements. Truth tables are used to help find statements with logical equivalence.
+
+There are two special cases inside truth tables. **Tautologies** are when statements are _true_ in _every_ case. **Contradictions** are when statements are _false_ in _every_ case.
 
 ## The Junction Connectives
 
@@ -136,7 +136,7 @@ These conditionals are hard to discern, so beware of them.
 
 ## The Biconditional
 
-The biconditional is when both statements necessarily imply each other. In English-language statements, this is generally indicated with the phrase [“if and only if”](#user-content-fn-1)[^1]. The symbol for biconditionals in its shortened format is a double arrow ($$\text{}\leftrightarrow{}$$) that is in between the simple statements (i.e. $$p\leftrightarrow{}q$$).
+The biconditional is when both statements necessarily imply each other. In English-language statements, this is generally indicated with the phrase [“if and only if”](#user-content-fn-4)[^4]. The symbol for biconditionals in its shortened format is a double arrow ($$\text{}\leftrightarrow{}$$) that is in between the simple statements (i.e. $$p\leftrightarrow{}q$$).
 
 The biconditional is only true if both statements are true _or_ both statements are false. In short, both simple statements must be the same truth value for the biconditional to be true.
 
@@ -274,7 +274,13 @@ Indirect proofs, also known as proofs by contradiction, prove an argument implic
 
 Both proofs are good methods in proving an argument.
 
-[^1]: Or the shortened form “iff” (intentionally with two letter f's).
+[^1]: Consisting of true and false.
+
+[^2]: True to false or false to true.
+
+[^3]: i.e. $$\neg{}p$$
+
+[^4]: Or the shortened form “iff” (intentionally with two letter f's).
 
     $$\text{}$$
 
