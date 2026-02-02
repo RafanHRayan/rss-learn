@@ -40,7 +40,7 @@ You may search in the current subject[^2] you are in using <kbd>⌘</kbd>+<kbd>K
 
 ***
 
-<p align="right">RSS Learn v12.3.6</p>
+<p align="right">RSS Learn v13.1.1</p>
 
 [^1]: Get it? :D
 
