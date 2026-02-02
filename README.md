@@ -38,6 +38,6 @@ RSS Industries brings you learning[^1] materials on various subjects! Go through
 
 ***
 
-<p align="right">RSS Learn v13.1.1</p>
+<p align="right">RSS Learn v13.1.2</p>
 
 [^1]: Get it? :D
