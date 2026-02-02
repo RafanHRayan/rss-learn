@@ -15,9 +15,7 @@ layout:
     visible: false
   metadata:
     visible: false
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
+metaLinks: {}
 ---
 
 # Welcome to RSS Learn!
