@@ -22,9 +22,14 @@ metaLinks: {}
 
 RSS Industries brings you learning[^1] materials on various subjects! Go through them using the dropdown in the top-left corner. Learn away....
 
-> "The beautiful thing about learning is nobody can take it away from you." — B.B. King
+> "The beautiful thing about learning is nobody can take it away from you." — B.B. Kingloc
 
-***
+```luau
+local PetName = "Daddy"
+local starter = "Suk meh, "
+local ending = "!"
+print(starter .. PetName .. ending)
+```
 
 ## Extra Resources
 
