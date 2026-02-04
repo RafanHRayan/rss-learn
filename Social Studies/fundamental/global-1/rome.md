@@ -308,7 +308,7 @@ During this time, there were more status of Augustus than any other Roman ruler 
 
     Duh. You should know that already.
 
-[^22]: This _most directly_ is interpreted as "the decision has been made."
+[^22]: This _most directly_ is interpreted as "_the decision has been made_."
 
 [^23]: **Will** _n. \[will]_ — A legal document specifying how you want your property, assets, and minor children's care handled after your death, appointing an executor to manage it and naming beneficiaries for your bequests, preventing state law intestacy rules from deciding your estate's fate.
 
