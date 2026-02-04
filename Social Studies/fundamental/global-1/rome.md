@@ -218,7 +218,7 @@ Julius Caesar is born in 100 BCE to the Patrician class. He received Greek educa
 
 Pompey was a Roman general with a powerful army, Crassus was of the wealthy, and Caesar was the popular one. Caesar was given imperium[^19] in Gaul, where he ruled and conquered with his own private army. He, however, was not given imperium in Italy[^20].
 
-> ["Veni vidi vici."](#user-content-fn-21)[^21] — Julius Caesar
+> ["Veni vidi vici."](#user-content-fn-21)[^21] — Julius Caesar$$\text{}$$
 
 The Senate is nervous about his success and popularity, eventually declaring him—along with Pompey—as an enemy of Rome. They demand that Caesar give up all of his holdings in Gaul and come back as a private citizen. He is ordered to arrive in Italy and to pass the Rubicon not with his army.
 
@@ -304,7 +304,7 @@ During this time, there were more status of Augustus than any other Roman ruler 
 
 [^21]: Means "_I came, I saw, I conquered._"
 
-    $$\text{}$$$$\text{}$$
+    &#x20;
 
     Duh. You should know that already.
 
