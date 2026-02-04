@@ -276,9 +276,11 @@ A slaves treatment was entirely up to the slaveholder; many slaves were respecte
 
 ### Bread and Circus
 
-_Panem Et Circenses_ meant "Bread and Circus" and represented the building and hosting of games at the colosseum. The colosseum was built in approximately 70 CE. The colosseum was built by enslaved Jews.
+_Panem Et Circenses_ meant "Bread and Circus" and represented the building and hosting of games at the colosseum. The colosseum was built in approximately 70 CE.
 
-In 66 CE, Jews in Rome rebelled and took Jerusalem. Four years later, Rome retook Jerusalem and enslaved the Jews there, causing a diaspora[^31] accross the entirety of the Roman empire.
+The colosseum had free entry, even to the poor. If you _were_ poor, you could go there for free food and entertainment. The ideal was that it was your leader that gave you this.
+
+The colosseum was built by enslaved Jews. In 66 CE, Jews in Rome rebelled and took Jerusalem. Four years later, Rome retook Jerusalem and enslaved the Jews there, causing a diaspora[^31] across the entirety of the Roman empire.
 
 ## Judaism
 
@@ -288,7 +290,7 @@ Abraham is asked by God to kill his son, Isaac. He almost does so, but is stoppe
 
 ### Book of Job
 
-...
+The Book of Job attempts to answer why bad things happen to good people, saying that life isn't fair to anyone and it should not cause anyone to lose their faith in God.
 
 ***
 
