@@ -50,8 +50,14 @@ layout:
 
 ## Rome
 
-**Contents:** Rome's time as a monarchy, as a republic, as an empire, Punic Wars, Roman politics, the Gracchi brothers, Julius Caesar, Augustus Caesar, Pax Romana, ...
+Rome's time as a monarchy, as a republic, as an empire, Punic Wars, Roman politics, the Gracchi brothers, Julius Caesar, Augustus Caesar, Pax Romana, Judaism, ...
 
 {% content-ref url="rome.md" %}
 [rome.md](rome.md)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+## Editor Note
+
+May split Rome unit into _Rome_ and _Rise of Monotheism_.
+{% endhint %}
