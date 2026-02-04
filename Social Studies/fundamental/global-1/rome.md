@@ -131,7 +131,7 @@ The Second and Third Punic Wars happen from 218-146 BCE.
 
 Hannibal, the son of Hamilcar, is enraged by the embarrassment Carthage has faced.
 
-> "I swear that so soon as age will permit ... I will use fire and steel to arrest the destiny of Rome." — Hannibal the Conqueror \[as a young boy, \~9 yrs of age]
+> "I swear that so soon as age will permit...I will use fire and steel to arrest the destiny of Rome." — Hannibal the Conqueror \[as a young boy, \~9 yrs of age]
 
 From 218-201 BCE, Rome was attacked by the Carthaginian army, now led by Hannibal.
 
@@ -177,7 +177,7 @@ Whoever controlled the government also controlled the wealth; this enticed gover
 
 Latifundias[^16] were typically specialized in the production of goods like grain, olive oil, and wine. [Owners of these latifundias started to purchase smaller nearby farms.](#user-content-fn-17)[^17] Senators benefited the most from this activity. A crisis is then caused by the creation of latifundias: the, now, unemployed farmers move to cities in search of job opportunities. Those that were given housing there had to live in _suffering_ conditions.
 
-> “Not only were \[city] buildings unheated…they contained airless rooms, indecently overcrowded: though poor in all the facilities that make for decent daily living, they were in addition so badly built and so high that they offered no means of safe exit from frequent fires that occurred. And if their tenants escaped typhoid, typhus, fire, they might easily meet their death in the collapse of the whole structure…The main population of the city that boasted its world conquest lived in cramped, noisy, airless, foul smelling, quarters and paid extortionate rents to merciless landlords.” — Mumford
+> “Not only were \[city] buildings unheated...they contained airless rooms, indecently overcrowded: though poor in all the facilities that make for decent daily living, they were in addition so badly built and so high that they offered no means of safe exit from frequent fires that occurred. And if their tenants escaped typhoid, typhus, fire, they might easily meet their death in the collapse of the whole structure…The main population of the city that boasted its world conquest lived in cramped, noisy, airless, foul smelling, quarters and paid extortionate rents to merciless landlords.” — Mumford
 
 Income inequality grew and [violence became more common in politics](#user-content-fn-18)[^18]. To respond to this, the Gracchi brothers scheme on a possible solution.
 
