@@ -2,7 +2,7 @@
 description: >-
   Rome's time as a monarchy, as a republic, as an empire, Punic Wars, Roman
   politics, the Gracchi brothers, Julius Caesar, Augustus Caesar, Pax Romana,
-  ...
+  Judaism, ...
 ---
 
 # Rome
@@ -258,9 +258,43 @@ Octavian changes his name to Augustus[^24], claiming the title of Princeps[^25] 
 
 ## Pax Romana
 
-For 207 years, Rome—after transitioning from a republic to an empire—began to experience immense provisions of peace, wealth, and expansion. Pax was the Roman goddess of peace.
+For 207 years, Rome—after transitioning from a republic to an empire—began to experience immense provisions of peace, wealth, and expansion.
+
+{% hint style="info" %}
+## Note
+
+Pax was the Roman goddess of peace.
+{% endhint %}
 
 During this time, there were more status of Augustus than any other Roman ruler to date, portraying Augustus as religious[^27], commanding[^28], political[^29], and godlike[^30].
+
+### Slavery in Rome
+
+Slavery was used in Rome as early as 1000 BCE, but skyrocketed in popularity—and population of slaves—in the third or second century BCE due to the taking of Carthage. Especially rich slaveholders tended to have multiple, taking them as property with a welded metal collar or tattoo.
+
+A slaves treatment was entirely up to the slaveholder; many slaves were respected with tombs and urns, but others were treated as if they weren't human.
+
+### Bread and Circus
+
+_Panem Et Circenses_ meant "Bread and Circus" and represented the building and hosting of games at the colosseum. The colosseum was built in approximately 70 CE. The colosseum was built by enslaved Jews.
+
+In 66 CE, Jews in Rome rebelled and took Jerusalem. Four years later, Rome retook Jerusalem and enslaved the Jews there, causing a diaspora[^31] accross the entirety of the Roman empire.
+
+## Judaism
+
+### Abraham and Isaac
+
+Abraham is asked by God to kill his son, Isaac. He almost does so, but is stopped by an angel who begs him to not, saying he has proven his faith and devotion to God.
+
+### Book of Job
+
+...
+
+***
+
+{% hint style="danger" %}
+This page is incomplete!
+{% endhint %}
 
 [^1]: Technically Romulus _and_ his brother Remus founded Rome. But, Remus was murdered by his own brother and Romulus ended up as the first king.
 
@@ -325,3 +359,5 @@ During this time, there were more status of Augustus than any other Roman ruler 
 [^29]: Some statues inspire that Augustus is a very educated politician.
 
 [^30]: Some statues inspire that Augustus is as powerful as a god.
+
+[^31]: **Diaspora** _n. \[dai-as-po-ra]_ — The spreading out of people from an orignating location; a dispersal from a homeland.
