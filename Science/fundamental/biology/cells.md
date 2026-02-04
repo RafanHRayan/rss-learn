@@ -8,7 +8,7 @@ description: >-
 
 ## Systems
 
-A system is a grouping of components that collaborate as part of a mechanism to perform a specific function or process. Systems...
+A **system** is a grouping of components that collaborate as part of a mechanism to perform a specific function or process. Systems...
 
 * ...specific components with different functions.
 * ...have compartmentalization and boundaries to encase their components.
@@ -17,7 +17,7 @@ A system is a grouping of components that collaborate as part of a mechanism to 
 
 ## Cell Theory
 
-Cell theory is of the following three rules...
+**Cell theory** is of the following three rules...
 
 1. _**All**_ living things are made up of cells.
 2. Cells are the _**most basic**_ unit of structure and function in living things.
@@ -27,7 +27,7 @@ Cell theory is of the following three rules...
 
 Organisms can be unicellular or multicellular. Multicellular organisms are made up of many cells, making it hard to not to question why cells are so small; it's hard to question why human beings aren't just one large cell.
 
-Diffusion is [the movement of molecules from a high to low concentration of such](#user-content-fn-3)[^3]. All cells have a cell membrane, which acts as a semi-permeable boundary to the [organelles](cells.md#organelles) in cells. This membrane allows materials in that cell use to do specific functions.
+**Diffusion** is [the movement of molecules from a high to low concentration of such](#user-content-fn-3)[^3]. All cells have a **cell membrane**, which acts as a boundary to the [organelles](cells.md#organelles) in cells. This membrane allows materials in that cell use to do specific functions.
 
 ### Cellular Efficiency
 
@@ -37,7 +37,7 @@ All cells require a certain amount of material to sustain itself. The following 
 
 As the volume of cells increase, the surface area also increases, [yet at a smaller exponentiation](#user-content-fn-4)[^4]. Thus, the ratio of volume to surface area also decreases exponentially. When there is a lot of volume, the cell has more inside of it, thus needing more materials to sustain itself. When the amount of surface area is too low to diffuse enough materials through, the cell increases its risk of dying.
 
-This ratio is called cellular efficiency; this is why cells are small, as the smaller the cell, the larger the efficiency.
+This ratio is called **cellular efficiency**; this is why cells are small, as the smaller the cell, the larger the efficiency.
 
 ## Levels of Organization
 
@@ -53,87 +53,17 @@ There are tons of different tissues, all for different purposes. There are four 
 
 ## Organelles
 
-An organelle[^5] is a specialized structure inside of a cell with a specific function. There are different organelles in prokaryotic and eukaryotic cells and fierrent organelles in plant and animal cells.
+An [**organelle**](#user-content-fn-5)[^5] is a specialized structure inside of a cell with a specific function. There are different organelles in prokaryotic and eukaryotic cells and different organelles in plant and animal cells.
 
-***
+Prokaryotic cells (consisting of bacteria and archaea) are comparatively smaller and have genetic material that is not contained in a nucleus. Eukaryotic cells (consisting of eukaryota) are larger and have nucleus-bound genetic material. Eukaryotic cells have a nucleus, while prokaryotic cells don't.
 
-{% columns %}
-{% column width="50%" %}
-<h3 align="center">Prokaryotic Cells</h3>
+Plant cells are comparatively larger with a rectangular or cubic shape. Animal cells are smaller and have a round or irregular shape. Plant cells exclusively have cell walls and chloroplasts. Animal cells exclusively have lysosomes.
 
-<p align="center">[Bacteria, Archaea]</p>
-
-***
-
-* Genetic material not contained in a nucleus
-* Generally smaller
-
-***
-
-<mark style="color:$info;">No exclusive organelles...</mark>
-{% endcolumn %}
-
-{% column width="50%" %}
-<h3 align="center">Eukaryotic Cells</h3>
-
-<p align="center">[Eukaryota]</p>
-
-***
-
-* Genetic material contained in a nucleus
-* Contain membrane-bound organelles
-* Include plants, animals, fungi, protists
-
-***
-
-#### Exclusive Organelles
-
-* Nucleus$$\text{}$$
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-{% columns %}
-{% column width="50%" %}
-<h3 align="center">Plant Cells</h3>
-
-***
-
-* 10-100 micrometers in length
-* Typically rectangular or cubic in shape
-
-***
-
-#### Exclusive Organelles
-
-* Cell Wall
-* Chloroplasts
-{% endcolumn %}
-
-{% column width="50%" %}
-<h3 align="center">Animal Cells</h3>
-
-***
-
-* 10-30 micrometers in length
-* Typically round or irregular in shape
-
-***
-
-#### Exclusive Organelles
-
-* Lysosomes$$\text{}$$
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-Here is a list of all the organelles found in cells.
+Here is a list of all the organelles found in cells...
 
 <table><thead><tr><th width="109.9375" align="center">Multiple</th><th width="175.19140625" align="center">Organelle</th><th width="355.0703125">Description</th><th align="center">Found in</th></tr></thead><tbody><tr><td align="center">True</td><td align="center">Mitochondrion</td><td>The site of <a data-footnote-ref href="#user-content-fn-6">cellular respiration</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Chloroplast</td><td>The site of <a data-footnote-ref href="#user-content-fn-7">photosynthesis</a>.</td><td align="center">Plants</td></tr><tr><td align="center">False</td><td align="center">Nucleus</td><td>Contains and protects<br>genetic information, coordinates <a data-footnote-ref href="#user-content-fn-8">cell’s activities</a>, and contains the <a data-footnote-ref href="#user-content-fn-9">nucleolus</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Ribosome</td><td>Carries out protein synthesis. They can be found on the Rough Endoplasmic Reticulum or in the <a data-footnote-ref href="#user-content-fn-10">cytoplasm</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Lysosome</td><td>Digests nutrients and recycles waste products.</td><td align="center">Animals</td></tr><tr><td align="center">True</td><td align="center">Vacuole</td><td>Storage area for water, nutrients, and waste. Animal cells have many smaller vacuoles with different functions. Plant cells have a large, central vacuole with a generalized purpose.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Rough Endoplasmic Reticulum</td><td>The <em>rough</em> endoplasmic reticulum is a system of<br>membrane-enclosed sacs and tubules in the cell. They carry out protein synthesis and send these folded <em><strong>proteins</strong></em> to golgi bodies for transport.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Smooth Endoplasmic Reticulum</td><td>The <em>smooth</em> endoplasmic reticulum is a system of<br>membrane-enclosed sacs and tubules in the cell. They send <em><strong>lipids</strong></em> to golgi bodies for transport.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Golgi Body</td><td>Receives <a data-footnote-ref href="#user-content-fn-11">products of the endoplasmic reticulum</a> which are modified and stored. These materials are then sent to other destinations.</td><td align="center">Both</td></tr></tbody></table>
 
-## Cell Membranes
+## Cell Membrane Structure
 
 Cells have a **semi-permeable membrane**, meaning the membrane is _selective_ in what it allows to pass through. This is to allow efficient movement of things like water, nutrients, carbon dioxide, oxygen, and waste.
 
@@ -152,6 +82,110 @@ Cell membranes are made of a **phospholipid bilayer**. Because phospholipids hav
 {% endcolumns %}
 
 This creates a bilayer like what is shown in Image 2.
+
+Proteins also inhabit the cell membrane, being _embedded_ within the phospholipid bilayer.
+
+\[insert img later]
+
+Image 3 shows the current accepted model for cell membranes, called fluid-mosaic models.
+
+### Evidence For The Structure of Cell Membranes
+
+Membranes have a chemical composition containing both proteins and lipids, proving the "mosaic" part of fluid-mosaic.
+
+When a membrane is split open and revealed, proteins can be seen in the layer showing that proteins aren't arranged in a layer surrounding the phospholipid bilayer.
+
+Two researchers at John Hopkins University—Frye and Ediden—labelled the proteins of two different cells. They then fused the two cells and recorded to find the labelled proteins all mixed together. This proves the "fluid" part of fluid-mosaic, as proteins aren't stationary and can move around in the membrane.
+
+## Cell Membrane Transport
+
+Cells need materials to move in and out of the cell. Cell membranes mediate this, by allowing some materials in and not allowing others. Some materials can easily pass through the membrane, but others need help.
+
+### Passive Transport
+
+**Passive transport** is a type of molecule movement into and out of the cell, where molecules _do not_ require energy and can easily pass through the cell. This happens when a molecule is going _with_ the **concentration gradient** (high to low concentration).
+
+{% hint style="info" %}
+## Note
+
+Passive transport _**is the same as**_ diffusion. They are interchangeable terms.
+{% endhint %}
+
+#### Simple Diffusion
+
+In **simple diffusion**, molecules like oxygen (O<sub>2</sub>) and carbon dioxide (CO<sub>2</sub>) are small enough to simply pass through the membrane. Water can also pass through, yet at a slow speed.
+
+#### Facilitated Diffusion
+
+This is also a type of diffusion, but it uses enzymes to help materials pass through the membrane. There are two types of facilitated diffusion.
+
+**Facilitated diffusion by a channel** is when the molecule "walks along" a corridor like enzyme. This is generally for specific molecules or ionic molecules. For example, water tends to pass through the membrane via an enzyme called the aquaporin.
+
+**Facilitated diffusion by a carrier** is when the enzyme changes its shape to allow the molecule to pass through. This is generally for larger molecules. For example, glucose tends to pass through the membrane via an enzyme called the GLUT Transporter.
+
+### Active Transport
+
+**Active transport** is a type of molecule movement into and out of the cell, where molecules _do_ require energy as they can't pass through the cell on their own. This happens when a molecule is going _against_ the concentration gradient (low to high concentration).
+
+{% hint style="info" %}
+## Example
+
+Though it might seem useless going against the concentration gradient is useful...
+
+In an environment, there may be _less_ glucose compared to inside a cell. The cell still needs the glucose, but can't use passive transport. Energy (specifically ATP) is used to _boost_ molecules to going against the concentration gradient.
+{% endhint %}
+
+### Sodium-Potassium Pump
+
+The Sodium-Potassium Pump is an enzyme that, upon activation, releases _three_ sodium ions and allows in _two_ potassium ions. This is generally done to balance the extracellular[^13] and intracellular[^14] environments.
+
+### Endocytosis and Exocytosis
+
+In **endocytosis**, a group of similar molecules attempting to enter a cell will have a vesicle[^15] form around them. When leaving, this same vesicle will merge with the membrane and release the molecules in **exocytosis**.
+
+{% hint style="info" %}
+## Note
+
+Vesicles and vacuoles are made up of phospholipid bilayers too.
+
+Enzymes—along with the nature and properties of phospholipids—help to connect the membranes of vesicles and vacuoles to that of the actual cell membrane.
+{% endhint %}
+
+## Osmosis
+
+**Osmosis** if the exclusive diffusion of _water_ from high to low concentrations of it across a semi-permeable membrane.
+
+### The Dissolving of Substances
+
+A **solvent** is a medium that _does_ the dissolving. A **solute** is a substance that _is_ being dissolved. Mixing a solvent with one or more solutes results in a **solution**.
+
+The **concentration** of a solution is calculated as the ratio between the amount of the solute to the amount of the solvent (solute:solvent). A solution is **dilute** if it has [a low concentration of the solute](#user-content-fn-16)[^16].
+
+### Extracellular Solutions
+
+Two regions reach **dynamic equilibrium** when the concentration in both regions are _equal_.
+
+An extracellular solution is **hypertonic** if it results in a net movement _outside_ of the cell.
+
+An extracellular solution is **hypotonic** if it results in a net movement _inside_ the cell.
+
+An extracellular solution is **isotonic** if it results in _no_ net movement.
+
+#### Situations Within Animal Cells
+
+In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Animal cells in this situation will crenate[^17].
+
+In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Animal cells in this situation will lyse[^18].
+
+In a _isotonic_ solution, water in the cells will enter at the same rate that they leave, resulting in _no_ net movement. Animal cells in this situation will look normal.
+
+#### Situations Within Plant Cells
+
+In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Plant cells in this situation will plasmolyse[^19].
+
+In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Plant cells in this situation become turgid[^20].
+
+In a _isotonic_ solution, water in the cells will enter at the same rate that they leave, resulting in _no_ net movement. Plant cells in this situation will look normal.
 
 [^1]: New cells are produced from old ones.
 
@@ -188,3 +222,19 @@ This creates a bilayer like what is shown in Image 2.
 [^11]: Whether it be proteins from the RER or lipids from the SER.
 
 [^12]: Outside (extracellular) and inside (intracellular) the cell.
+
+[^13]: Outside of the cell.
+
+[^14]: Inside the cell.
+
+[^15]: A kind of compartment, akin to that of vacuoles (vacuoles being larger).
+
+[^16]: There is more of the solvent than of the solute.
+
+[^17]: Crenated cells tend to look shrivelled up with jagged edges.
+
+[^18]: When a cell lyses, it bursts.
+
+[^19]: The plant cell's cytoplasm and cell membrane shrink and pull away from the rigid cell wall.
+
+[^20]: When there is a lot of water in the cell, the cell's vacuole swells, exerting pressure against the cell wall.
