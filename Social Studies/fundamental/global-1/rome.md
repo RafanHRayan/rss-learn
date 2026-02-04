@@ -185,7 +185,7 @@ Income inequality grew and [violence became more common in politics](#user-conte
 
 The older of the two, Tiberius Gracchus sought to fix the rising problems of the Struggle of The Orders.
 
-> “You fight and die to give luxury to other men … but you have not a foot of ground to call your own.” — Tiberius Gracchus
+> “You fight and die to give luxury to other men...but you have not a foot of ground to call your own.” — Tiberius Gracchus
 
 He started by _**attempting**_ to limit the size of rich estates, redistribute lands to the poor, and distribute grain to the poor. Because of his wills to help the general public, the Patrician class refuses to fund his land distribution plan.
 
