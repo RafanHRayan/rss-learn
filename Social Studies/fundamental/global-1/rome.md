@@ -302,9 +302,9 @@ During this time, there were more status of Augustus than any other Roman ruler 
 
 [^20]: The central area of Rome; the place where Rome was first founded.
 
-[^21]: Means "_I came, I saw, I conquered._"
+[^21]: Means "_I came, I saw, I conquered._"‎
 
-    &#x20;
+    ㅤ
 
     Duh. You should know that already.
 
