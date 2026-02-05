@@ -396,7 +396,104 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 * $$\triangle{ABC}$$ is an equilateral triangle.
   * $$\overline{AB} \cong{} \overline{BC} \cong{} \overline{AC}$$.
-* $$\triangle{ABC}$$ is inscirbed in circle $$O$$.
+* $$\triangle{ABC}$$ is inscribed in circle $$O$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Inscribing a Square in a Circle</summary>
+
+
+
+**Prelude:**
+
+* Draw circle $$O$$.
+* Mark $$A$$ as any point on the circumference of circle $$O$$.
+
+**Construction:**
+
+1. Draw $$\overrightarrow{AO}$$.
+2. Mark $$X$$ as the intersection between $$\overrightarrow{AO}$$ and circle $$O$$.
+3. Draw a circle centered at $$X$$ such that the radius is $$XO$$.
+4. Construct $$\overline{CD}$$ as the perpendicular bisector of $$\overline{AB}$$.
+5. Mark $$Y$$ and $$Z$$ as the intersections between $$\overline{CD}$$ and circle $$O$$.
+6. Draw $$\overline{AY}$$, $$\overline{BY}$$, $$\overline{BZ}$$, and $$\overline{AZ}$$.
+
+**Result:**
+
+* $$AYBZ$$ is a square.
+  * $$\overline{AY} \cong{} \overline{BY} \cong{} \overline{BZ} \cong{} \overline{AZ}$$.
+  * $$m\angle{AYB} = m\angle{YBZ} = m\angle{BZA} = m\angle{ZAY} = 90\degree{}$$.
+* $$AYBZ$$ is inscribed in circle $$O$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Inscribing a Hexagon in a Circle</summary>
+
+
+
+**Prelude:**
+
+* Draw circle $$O$$.
+* Mark $$A$$ as any point on the circumference of circle $$O$$.
+
+**Construction:**
+
+1. Draw $$\overrightarrow{AO}$$.
+2. Mark $$B$$ as the intersection between $$\overrightarrow{AO}$$ and circle $$O$$.
+3. Draw a circle centered at $$A$$ such that the radius is $$AO$$.
+4. Mark $$C$$ and $$D$$ as the intersections between circle $$A$$ and circle $$O$$.
+5. Draw a circle centered at $$B$$ such that the radius is $$BO$$.
+6. Mark $$E$$ and $$F$$ as the intersections between circle $$B$$ and circle $$O$$.
+7. Draw $$\overline{AD}$$$$\overline{}$$, $$\overline{DF}$$, $$\overline{BF}$$, $$\overline{BE}$$, $$\overline{CE}$$, and $$\overline{AC}$$.
+
+**Result:**
+
+* $$ADFBEC$$ is a regular hexagon.
+  * $$\overline{AD} \cong{} \overline{DF} \cong{} \overline{BF} \cong{} \overline{BE} \cong{} \overline{CE} \cong{} \overline{AC}$$.
+* $$ADFBEC$$ is inscribed in circle $$O$$.
+
+</details>
+
+
+
+<details>
+
+<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a ...</summary>
+
+A polygon is inscribed in a circle if and only if all of its vertices lie on the circumference of the circle.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Circumcenter of a Triangle</summary>
+
+
+
+**Prelude:**
+
+* Draw circle $$O$$.
+* Mark $$A$$ as any point on the circumference of circle $$O$$.
+
+**Construction:**
+
+1. Draw $$\overrightarrow{AO}$$.
+2. Mark $$B$$ as the intersection between $$\overrightarrow{AO}$$ and circle $$O$$.
+3. Draw a circle centered at $$A$$ such that the radius is $$AO$$.
+4. Mark $$C$$ and $$D$$ as the intersections between circle $$A$$ and circle $$O$$.
+5. Draw a circle centered at $$B$$ such that the radius is $$BO$$.
+6. Mark $$E$$ and $$F$$ as the intersections between circle $$B$$ and circle $$O$$.
+7. Draw $$\overline{AD}$$$$\overline{}$$, $$\overline{DF}$$, $$\overline{BF}$$, $$\overline{BE}$$, $$\overline{CE}$$, and $$\overline{AC}$$.
+
+**Result:**
+
+* $$ADFBEC$$ is a regular hexagon.
+  * $$\overline{AD} \cong{} \overline{DF} \cong{} \overline{BF} \cong{} \overline{BE} \cong{} \overline{CE} \cong{} \overline{AC}$$.
+* $$ADFBEC$$ is inscribed in circle $$O$$.
 
 </details>
 
