@@ -6,7 +6,7 @@ description: Tools in constructions, fundamentals of circles, length operation, 
 
 ## Tools in Constructions
 
-To construct geometric figures, mathematicians require...
+To **construct** geometric figures, mathematicians require...
 
 * ...a pencil[^1].
 * ...a **straightedge**.
@@ -53,6 +53,353 @@ To **subtract**, adjust the compass to match the length of the minuend[^4] segme
 
 To **multiply**, adjust the compass to match the length of the factor segment. Go on your workspace line and place the needle on one endpoint of the segment. Make a small arc to mark where the length of the first instance ends. Do the same for the [each repetition](#user-content-fn-7)[^7], placing the needle where the previous segment length ends. The combined length is the length of the resulting segment.
 
+## Fundamental Constructions
+
+These constructions are the most basic—yet most important—constructions that require little to no background knowledge.
+
+{% hint style="success" %}
+## Tip
+
+Though it is helpful to see the whole diagram, you do not need to draw the whole circle every time. You may draw arcs (portions of circles) on the [places where you need them](#user-content-fn-8)[^8].
+{% endhint %}
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing an Equilateral Triangle</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overline{AB}$$.
+
+**Construction:**
+
+1. Draw a circle centered at $$A$$ such that the radius is $$AB$$.
+2. Draw a circle centered at $$B$$ such that the radius is $$AB$$.
+3. Mark $$C$$ as one of the intersections of circle $$A$$ and circle $$B$$.
+4. Draw $$\overline{AC}$$ and $$\overline{BC}$$.
+
+**Result:**
+
+* $$\triangle{ABC}$$ is an equilateral triangle.
+  * $$\overline{AB} \cong{} \overline{BC} \cong{} \overline{AC}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Perpendicular Bisector</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overline{AB}$$.
+
+**Construction:**
+
+1. Draw a circle centered at $$A$$ such that the radius is $$AB$$.
+2. Draw a circle centered at $$B$$ such that the radius is $$AB$$.
+3. Mark $$C$$ and $$D$$ as the two intersections of circle $$A$$ and circle $$B$$.
+4. Draw $$\overline{CD}$$.
+5. Mark $$X$$ as the intersection between $$\overline{AB}$$ and $$\overline{CD}$$.
+
+**Result:**
+
+* $$\overline{CD}$$ is the perpendicular bisector of $$\overline{AB}$$.
+  * $$\overline{AX} \cong{} \overline{XB}$$.
+  * $$m\angle{AXC} = m\angle{CXB} = m\angle{BXD} = m\angle{AXD} = 90\degree{}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a <a data-footnote-ref href="#user-content-fn-9">Perpendicular Line</a></summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overline{AB}$$.
+* Mark $$C$$ such that it is not on $$\overline{AB}$$.
+
+**Construction:**
+
+1. Draw a circle centered at $$A$$ such that the radius is $$AC$$.
+2. Draw a circle centered at $$B$$ such that the radius is $$BC$$.
+3. $$C$$ is one of the intersections of circle $$A$$ and circle $$B$$. Mark $$D$$ as the other.
+4. Draw $$\overline{CD}$$.
+5. Mark $$X$$ as the intersection between $$\overline{AB}$$ and $$\overline{CD}$$.
+
+**Result:**
+
+* $$\overline{CD}$$ is the perpendicular bisector of $$\overline{AB}$$.
+  * $$\overline{AX} \cong{} \overline{XB}$$.
+  * $$m\angle{AXC} = m\angle{CXB} = m\angle{BXD} = m\angle{AXD} = 90\degree{}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing an Angle Bisector</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overrightarrow{AB}$$ and $$\overrightarrow{AC}$$.
+
+**Construction:**
+
+1. Draw a circle centered at $$A$$ of any radius, $$\theta{}$$, as long is it will intersect both rays.
+2. Mark $$L$$ as the intersection between $$\overrightarrow{AB}$$ and circle $$A$$.
+3. Mark $$M$$ as the intersection between $$\overrightarrow{AC}$$ and circle $$A$$.
+4. Draw a circle centered at $$L$$ of radius, $$\theta{}$$.
+5. Draw a circle centered at $$M$$ of radius, $$\theta{}$$.
+6. Mark $$N$$ as the intersection between circle $$L$$ and circle $$M$$.
+7. Draw $$\overrightarrow{AN}$$.
+
+**Result:**
+
+* $$\overrightarrow{AN}$$ bisects $$\angle{LAM}$$.
+  * $$\angle{LAN} \cong{} \angle{NAM}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Copying an Angle</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overrightarrow{AB}$$ and $$\overrightarrow{AC}$$.
+* Draw $$D$$.
+
+**Construction:**
+
+1. Draw a circle centered at $$A$$ of any radius, $$\theta{}$$, as long is it will intersect both rays.
+2. Mark $$L$$ as the intersection between $$\overrightarrow{AB}$$ and circle $$A$$.
+3. Mark $$M$$ as the intersection between $$\overrightarrow{AC}$$ and circle $$A$$.
+4. Draw $$\overline{BC}$$.
+5. Draw a ray in any direction with $$D$$ as the endpoint.
+6. Draw a circle centered at $$D$$ of radius, $$\theta{}$$.
+7. Mark $$E$$ as the intersection between $$\overrightarrow{D}$$ and circle $$D$$.
+8. Draw a circle centered at $$E$$ of radius, $$\overline{BC}$$.
+9. Mark $$F$$ as the intersection between cicle $$D$$ and circle $$E$$.
+10. Draw $$\overrightarrow{DF}$$.
+
+**Result:**
+
+* $$\angle{BAC} \cong{} \angle{FDE}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a <a data-footnote-ref href="#user-content-fn-10">Parallel Line</a></summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overleftrightarrow{AB}$$.
+* Mark $$C$$ such that it is not on $$\overleftrightarrow{AB}$$.
+
+**Construction:**
+
+1. Draw a circle centered at $$B$$ of radius, $$\overline{AC}$$.
+2. Draw a circle centered at $$A$$ of radius, $$\overline{AB}$$.
+3. Mark $$D$$ as the intersection between circle $$A$$ and circle $$B$$ that is on the same side of $$\overleftrightarrow{AB}$$ as $$C$$.
+4. Draw $$\overleftrightarrow{CD}$$.
+
+**Result:**
+
+* $$\overleftrightarrow{AB} \parallel{} \overleftrightarrow{CD}$$.
+
+{% hint style="success" %}
+## Alternate Method
+
+You may also construct a parallel line by copying an angle to make congruent corresponding angles.
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Dividing a Segment Into Congruent Parts</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overline{AB}$$.
+* Assume that the goal of this construction is to divide $$\overline{AB}$$ into $$n$$ congruent segments.
+
+**Construction:**
+
+1. Draw a ray from $$A$$ such that the measure of the resulting angle is less than 90°.
+2. Draw a circle centered at $$A$$ of a radius, $$\theta{}$$, ensuring that $$\theta{}$$ is approximately less than $$\frac{1}{n}$$ of $$\overline{AB}$$. Mark $$N_1$$ as the point of intersection from the ray drawn in step 1.
+   1. Do this step $$n$$ times starting at the previously constructed point each time and creating new points ($$N_2, N_3, N_4, ... , N_n$$).
+3. Draw $$\overline{BN_n}$$.
+4. Copy $$\angle{AN_nB}$$ at every other iteration point of $$N$$ ($$N_1,...,N_{n-1}$$).
+5. Mark iterations of $$P$$ ($$P_1,...,P_n$$) as the intersections between the iterations of $$N$$ and $$\overline{AB}$$.
+
+**Result:**
+
+* $$\overline{AP_1} \cong{} \overline{P_1P_2} \cong{} ... \cong{} \overline{P_{n-1}P_n}$$.
+
+{% hint style="info" %}
+## Clarification
+
+The diagrams above assume $$n=3$$, that being splitting $$\overline{AB}$$ into 3 congruent segments.
+{% endhint %}
+
+</details>
+
+## Advanced Constructions
+
+These constructions require well understanding of the [fundamental constructions](constructions.md#fundamental-constructions) in order to properly and precisely perform.
+
+The constructions are grouped—along with definitions—by relation or clarification...
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Rhombus</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overline{AB}$$.
+
+**Construction:**
+
+1. Construct $$\overline{CD}$$ as the perpendicular bisector of $$\overline{AB}$$.
+2. Draw $$\overline{AC}$$, $$\overline{BC}$$, $$\overline{BD}$$, and $$\overline{AD}$$.
+3. Mark $$X$$ as the intersection between $$\overline{AB}$$ and $$\overline{CD}$$.
+
+**Result:**
+
+* $$ABCD$$ is a rhombus.
+  * $$\overline{AC} \cong{} \overline{BC} \cong{} \overline{BD} \cong{} \overline{AD}$$.
+  * $$X$$ is the midpoint of $$\overline{AB}$$.
+  * $$X$$ is the midpoint of $$\overline{CD}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Rectangle</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overline{AB}$$.
+
+**Construction:**
+
+1. Construct $$\overline{AC}$$ as the perpendicular bisector of $$\overline{AB}$$.
+2. Construct $$\overline{BD}$$ as the perpendicular bisector of $$\overline{AB}$$.
+3. Draw $$\overline{CD}$$.
+
+**Result:**
+
+* $$ABCD$$ is a rectangle.
+  * $$\overline{AB} \cong{} \overline{CD}, \overline{AC} \cong{} \overline{BD}$$.
+  * $$\overline{AB} \parallel{} \overline{CD}, \overline{AC} \parallel{} \overline{BD}$$.
+  * $$m\angle{ABC} = m\angle{BCD} = m\angle{DAB} = m\angle{BCA} = 90\degree{}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Parallelogram</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overleftrightarrow{AB}$$.
+
+**Construction:**
+
+1. Draw a circle centered at $$A$$ of any radius, $$\theta{}$$.
+2. Draw a ray from $$A$$ and mark $$C$$ as the intersection between $$\overrightarrow{A}$$ and circle $$A$$.
+3. Draw a circle centered at $$B$$ of radius, $$\theta{}$$.
+4. Draw a ray from $$B$$ by copying $$\angle{A}$$ and mark $$D$$ as the intersection between $$\overrightarrow{B}$$ and circle $$B$$.
+5. Draw $$\overleftrightarrow{CD}$$.
+
+**Result:**
+
+* $$ABCD$$ is a parallelogram.
+  * $$\overline{AB} \cong{} \overline{CD}, \overline{AC} \cong{} \overline{BD}$$.
+  * $$\overline{AB} \parallel{} \overline{CD}, \overline{AC} \parallel{} \overline{BD}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a 45° Angle</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\overleftrightarrow{AB}$$.
+
+**Construction:**
+
+1. Construct $$\overleftrightarrow{CD}$$ as the perpendicular bisector of $$\overleftrightarrow{AB}$$.
+2. Mark $$X$$ as the intersection between $$\overleftrightarrow{AB}$$ and $$\overleftrightarrow{CD}$$.
+3. Construct $$\overrightarrow{XY}$$ as the angle bisector of $$\angle{CXB}$$.
+
+**Result:**
+
+* $$m\angle{CXY}=m\angle{YXB}=45\degree{}$$, since it is the result of bisecting a 90° angle.
+
+</details>
+
+
+
+<details>
+
+<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of an Inscribed Polygon</summary>
+
+A polygon is inscribed in a circle if and only if all of its vertices lie on the circumference of the circle.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Inscribing an Equilateral Triangle in a Circle</summary>
+
+
+
+**Prelude:**
+
+* Draw circle $$O$$.
+* Mark $$A$$ as any point on the circumference of circle $$O$$.
+
+**Construction:**
+
+1. Draw $$\overrightarrow{AO}$$.
+2. Mark $$X$$ as the intersection between $$\overrightarrow{AO}$$ and circle $$O$$.
+3. Draw a circle centered at $$X$$ such that the radius is $$XO$$.
+4. Mark $$B$$ and $$C$$ as the intersections between circle $$X$$ and circle $$O$$.
+5. Draw $$\overline{AB}$$, $$\overline{BC}$$, and $$\overline{AC}$$.
+
+**Result:**
+
+* $$\triangle{ABC}$$ is an equilateral triangle.
+  * $$\overline{AB} \cong{} \overline{BC} \cong{} \overline{AC}$$.
+* $$\triangle{ABC}$$ is inscirbed in circle $$O$$.
+
+</details>
+
 ***
 
 {% hint style="danger" %}
@@ -72,3 +419,9 @@ This page is incomplete!
 [^6]: Essentially, the **difference** of the lengths.
 
 [^7]: If asked to find the length 3 times that of a segment, add the segment's length 3 times. And so on...
+
+[^8]: i.e. points of intersection.
+
+[^9]: Given a line and a point not on the line, create a line that is perpendicular to the original line and passes through the point.
+
+[^10]: Given a line and a point not on the line, create a line that is parallel to the original line and passes through the point.
