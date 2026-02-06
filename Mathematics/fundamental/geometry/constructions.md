@@ -641,6 +641,14 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 In the real world, the centroid is the center of mass. If you were to take an actual object that shape of a triangle, locate the centroid, and balance it on that point, the triangle would balance!
 {% endhint %}
 
+***
+
+{% hint style="danger" %}
+This page is incomplete!
+
+Diagrams for all descripted constructions will be added later.
+{% endhint %}
+
 [^1]: Obviously...
 
 [^2]: Specifically lengths of segments.
