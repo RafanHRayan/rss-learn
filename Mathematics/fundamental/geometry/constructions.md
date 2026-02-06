@@ -17,25 +17,11 @@ To **construct** geometric figures, mathematicians require...
 
 ## Fundamentals of Circles
 
-A plane figure is a **circle** if and only if it is the set of all points equidistant from a fixed point. This point is known as the **center**. This set of points forms the **circumference**. The distance from the center to any point on the circle is the **radius**. Two circles are congruent if they have the _same_ radius.
+A plane figure is a **circle** if and only if it is the set of all points equidistant from a fixed point. This point is known as the **center**. This set of points forms the **circumference**. Two or more shapes are **concentric** if and only if they have the same center.
 
-An circular **arc** is a _part_ of a circle.
+The distance from the center to any point on the circle is the **radius**. Two circles are congruent if they have the _same_ radius. A segment is a **diameter** if and only if it connects two points on a circle _**and**_ passes through the center of the _same_ circle.
 
-<details>
-
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of Concentric Shapes</summary>
-
-Two or more shapes are concentric if and only if they have the same center.
-
-</details>
-
-<details>
-
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Diameter</summary>
-
-A segment is a diameter if and only if it connects two points on a circle _**and**_ passes through the center of the _same_ circle.
-
-</details>
+A circular **arc** is a _part_ of a circle.
 
 ## Length Operation
 
@@ -137,6 +123,12 @@ Though it is helpful to see the whole diagram, you do not need to draw the whole
 * $$\overline{CD}$$ is the perpendicular bisector of $$\overline{AB}$$.
   * $$\overline{AX} \cong{} \overline{XB}$$.
   * $$m\angle{AXC} = m\angle{CXB} = m\angle{BXD} = m\angle{AXD} = 90\degree{}$$.
+
+{% hint style="info" %}
+## Note
+
+This is also how to construct an altitude of a triangle.
+{% endhint %}
 
 </details>
 
@@ -363,6 +355,29 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 </details>
 
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Median</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\triangle{ABC}$$.
+* Assume that the goal is to find the median dropped from $$\angle{ABC}$$.
+
+**Construction:**
+
+1. Construct $$\overleftrightarrow{DE}$$ as the perpendicular bisector of $$\overleftrightarrow{AC}$$.
+2. Mark $$X$$ as the intersection between $$\overleftrightarrow{AC}$$ and $$\overleftrightarrow{DE}$$.
+3. Draw $$\overline{BX}$$.
+
+**Result:**
+
+* $$\overline{BX}$$ is a median of $$\triangle{ABC}$$.
+
+</details>
+
 
 
 <details>
@@ -462,40 +477,169 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Circumcircle</summary>
-
-A circle is a circumcircle if and only if it is tangent to every side of a triangle.
-
-</details>
-
-<details>
-
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Circumcenter of a Triangle</summary>
 
 
 
 **Prelude:**
 
-* Draw circle $$O$$.
-* Mark $$A$$ as any point on the circumference of circle $$O$$.
+* Draw $$\triangle{ABC}$$.
 
 **Construction:**
 
-1. Draw $$\overrightarrow{AO}$$.
-2. Mark $$B$$ as the intersection between $$\overrightarrow{AO}$$ and circle $$O$$.
-3. Draw a circle centered at $$A$$ such that the radius is $$AO$$.
-4. Mark $$C$$ and $$D$$ as the intersections between circle $$A$$ and circle $$O$$.
-5. Draw a circle centered at $$B$$ such that the radius is $$BO$$.
-6. Mark $$E$$ and $$F$$ as the intersections between circle $$B$$ and circle $$O$$.
-7. Draw $$\overline{AD}$$$$\overline{}$$, $$\overline{DF}$$, $$\overline{BF}$$, $$\overline{BE}$$, $$\overline{CE}$$, and $$\overline{AC}$$.
+1. Construct the perpendicular bisector of $$\overline{AB}$$.
+2. Construct the perpendicular bisector of $$\overline{BC}$$.
+3. Construct the perpendicular bisector of $$\overline{AC}$$.
+4. Mark $$X$$ as the intersection between all three perpendicular bisectors.
 
 **Result:**
 
-* $$ADFBEC$$ is a regular hexagon.
-  * $$\overline{AD} \cong{} \overline{DF} \cong{} \overline{BF} \cong{} \overline{BE} \cong{} \overline{CE} \cong{} \overline{AC}$$.
-* $$ADFBEC$$ is inscribed in circle $$O$$.
+* $$X$$ is the circumcenter of $$\triangle{ABC}$$.
 
 </details>
+
+<details>
+
+<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Circumcircle</summary>
+
+A circle is the circumcircle of a triangle if and only if all three points of the triangle lie on the circumference of the circle.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing the Circumcircle of a Triangle</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\triangle{ABC}$$.
+
+**Construction:**
+
+1. Locate the circumcenter of $$\triangle{ABC}$$. Mark the circumcenter as $$X$$.
+2. Draw a circle centered at $$X$$ such that the radius[^11] is $$AX$$, $$BX$$, or $$CX$$.
+
+**Result:**
+
+* $$X$$ is the circumcenter of $$\triangle{ABC}$$.
+* Circle $$X$$ is the circumcircle of $$\triangle{ABC}$$.
+
+</details>
+
+
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Incenter of a Triangle</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\triangle{ABC}$$.
+
+**Construction:**
+
+1. Construct the angle bisector of $$\angle{ABC}$$.
+2. Construct the angle bisector of $$\angle{BCA}$$.
+3. Construct the angle bisector of $$\angle{CAB}$$.
+4. Mark $$X$$ as the intersection between all three angle bisectors.
+
+**Result:**
+
+* $$X$$ is the incenter of $$\triangle{ABC}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of an Incircle</summary>
+
+A circle is the circumcircle of a triangle if and only if it is tangent to every side of the triangle.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing the Incircle of a Triangle</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\triangle{ABC}$$.
+
+**Construction:**
+
+1. Construct the angle bisector of $$\angle{ABC}$$.
+2. Construct the angle bisector of $$\angle{BCA}$$.
+3. Construct the angle bisector of $$\angle{CAB}$$.
+4. Mark $$X$$ as the intersection between all three angle bisectors.
+5. Construct a line perpendicular to any one of the sides of $$\triangle{ABC}$$, ensuring that $$X$$ is on it.
+6. Draw a circle centered at $$X$$ such that the radius is the length of this perpendicular line.
+
+**Result:**
+
+* $$X$$ is the incenter of $$\triangle{ABC}$$.
+* Circle $$X$$ is the incircle of $$\triangle{ABC}$$.
+
+</details>
+
+
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Orthocenter of a Triangle</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\triangle{ABC}$$.
+
+**Construction:**
+
+1. Construct the altitude of $$\angle{ABC}$$.
+2. Construct the altitude of $$\angle{BCA}$$.
+3. Construct the altitude of $$\angle{CAB}$$.
+4. Mark $$X$$ as the intersection between all three altitudes.
+
+**Result:**
+
+* $$X$$ is the orthocenter of $$\triangle{ABC}$$.
+
+</details>
+
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Centroid of a Triangle</summary>
+
+
+
+**Prelude:**
+
+* Draw $$\triangle{ABC}$$.
+
+**Construction:**
+
+1. Construct the median of $$\angle{ABC}$$.
+2. Construct the median of $$\angle{BCA}$$.
+3. Construct the median of $$\angle{CAB}$$.
+4. Mark $$X$$ as the intersection between all three medians.
+
+**Result:**
+
+* $$X$$ is the centroid of $$\triangle{ABC}$$.
+
+</details>
+
+{% hint style="success" %}
+## Fun Fact
+
+In the real world, the centroid is the center of mass. If you were to take a triangle, locate the centroid, and balance it on that point, the triangle would balance!
+{% endhint %}
 
 ***
 
@@ -522,3 +666,5 @@ This page is incomplete!
 [^9]: Given a line and a point not on the line, create a line that is perpendicular to the original line and passes through the point.
 
 [^10]: Given a line and a point not on the line, create a line that is parallel to the original line and passes through the point.
+
+[^11]: $$AX \cong{} BX \cong{} CX$$. Thus, it doesn't matter which length you reference as the radius for circle $$X$$.
