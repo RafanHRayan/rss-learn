@@ -641,6 +641,30 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 In the real world, the centroid is the center of mass. If you were to take an actual object that shape of a triangle, locate the centroid, and balance it on that point, the triangle would balance!
 {% endhint %}
 
+<details>
+
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Tangent of a Circle</summary>
+
+
+
+**Prelude:**
+
+* Draw circle $$O$$.
+* Mark $$X$$ as any point on circle $$O$$.
+
+**Construction:**
+
+1. Draw $$\overrightarrow{OX}$$.
+2. Draw a circle centered at $$X$$ of any radius, $$\theta{}$$, ensuring that it is less than $$OX$$.
+3. Mark $$Y$$ and $$Z$$ as the intersections between $$\overrightarrow{OX}$$ and circle $$X$$.
+4. Construct the perpendicular bisector of $$\overline{YZ}$$, denoted as $$\overleftrightarrow{AB}$$.
+
+**Result:**
+
+* $$\overleftrightarrow{AB}$$ is the tangent of circle $$O$$ that intersects circle $$O$$ at $$P$$.
+
+</details>
+
 ***
 
 {% hint style="danger" %}
