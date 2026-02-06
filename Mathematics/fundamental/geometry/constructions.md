@@ -462,9 +462,9 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a ...</summary>
+<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Circumcircle</summary>
 
-A polygon is inscribed in a circle if and only if all of its vertices lie on the circumference of the circle.
+A circle is a circumcircle if and only if it is tangent to every side of a triangle.
 
 </details>
 
