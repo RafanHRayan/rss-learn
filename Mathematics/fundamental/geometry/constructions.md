@@ -498,6 +498,8 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
   * $$\overline{AD} \cong{} \overline{DF} \cong{} \overline{BF} \cong{} \overline{BE} \cong{} \overline{CE} \cong{} \overline{AC}$$.
 * $$ADFBEC$$ is inscribed in circle $$O$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Inscribe hexa (2).png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 
@@ -506,7 +508,7 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Circumcenter of a Triangle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -523,6 +525,8 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 * $$X$$ is the circumcenter of $$\triangle{ABC}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/circumcenter.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
@@ -537,7 +541,7 @@ A circle is the circumcircle of a triangle if and only if all three points of th
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing the Circumcircle of a Triangle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (2).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -553,6 +557,8 @@ A circle is the circumcircle of a triangle if and only if all three points of th
 * $$X$$ is the circumcenter of $$\triangle{ABC}$$.
 * Circle $$X$$ is the circumcircle of $$\triangle{ABC}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/circumcircle.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 
@@ -561,7 +567,7 @@ A circle is the circumcircle of a triangle if and only if all three points of th
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Incenter of a Triangle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (3).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -577,6 +583,8 @@ A circle is the circumcircle of a triangle if and only if all three points of th
 **Result:**
 
 * $$X$$ is the incenter of $$\triangle{ABC}$$.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/incenter.png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -592,7 +600,7 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing the Incircle of a Triangle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (4).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -604,13 +612,17 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 2. Construct the angle bisector of $$\angle{BCA}$$.
 3. Construct the angle bisector of $$\angle{CAB}$$.
 4. Mark $$X$$ as the intersection between all three angle bisectors.
-5. Construct a line perpendicular to any one of the sides of $$\triangle{ABC}$$, ensuring that $$X$$ is on it.
-6. Draw a circle centered at $$X$$ such that the radius is the length of this perpendicular line.
+5. Mark $$X$$ as the intersection between all three angle bisectors.
+6. Construct a line perpendicular to any one of the sides of $$\triangle{ABC}$$, ensuring that $$X$$ is on it.
+7. Mark $$Y$$ as the intersection between this perpendicular line and the chosen side that is perpendicular to this line.
+8. Draw a circle centered at $$X$$ such that the radius is $$XY$$.
 
 **Result:**
 
 * $$X$$ is the incenter of $$\triangle{ABC}$$.
 * Circle $$X$$ is the incircle of $$\triangle{ABC}$$.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/incircle.png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -620,7 +632,7 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Orthocenter of a Triangle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (5).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -637,13 +649,15 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 * $$X$$ is the orthocenter of $$\triangle{ABC}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/orthocenter.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Centroid of a Triangle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (6).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -660,6 +674,8 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 * $$X$$ is the centroid of $$\triangle{ABC}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/centroid.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 {% hint style="success" %}
@@ -672,7 +688,7 @@ In the real world, the centroid is the center of mass. If you were to take an ac
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Tangent of a Circle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/circle O with X.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -688,17 +704,11 @@ In the real world, the centroid is the center of mass. If you were to take an ac
 
 **Result:**
 
-* $$\overleftrightarrow{AB}$$ is the tangent of circle $$O$$ that intersects circle $$O$$ at $$P$$.
+* $$\overleftrightarrow{AB}$$ is the tangent of circle $$O$$ that intersects circle $$O$$ at $$X$$.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tangent.png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
-
-***
-
-{% hint style="danger" %}
-This page is incomplete!
-
-Diagrams for all descripted constructions will be added later.
-{% endhint %}
 
 [^1]: Obviously...
 
