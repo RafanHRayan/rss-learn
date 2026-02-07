@@ -53,7 +53,7 @@ Though it is helpful to see the whole diagram, you do not need to draw the whole
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing an Equilateral Triangle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -71,13 +71,15 @@ Though it is helpful to see the whole diagram, you do not need to draw the whole
 * $$\triangle{ABC}$$ is an equilateral triangle.
   * $$\overline{AB} \cong{} \overline{BC} \cong{} \overline{AC}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Eq Tri.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Perpendicular Bisector</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -97,13 +99,15 @@ Though it is helpful to see the whole diagram, you do not need to draw the whole
   * $$\overline{AX} \cong{} \overline{XB}$$.
   * $$m\angle{AXC} = m\angle{CXB} = m\angle{BXD} = m\angle{AXD} = 90\degree{}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Perp Bisect.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a <a data-footnote-ref href="#user-content-fn-9">Perpendicular Line</a></summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB and C.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -124,6 +128,8 @@ Though it is helpful to see the whole diagram, you do not need to draw the whole
   * $$\overline{AX} \cong{} \overline{XB}$$.
   * $$m\angle{AXC} = m\angle{CXB} = m\angle{BXD} = m\angle{AXD} = 90\degree{}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Perp Line Point.png" alt=""><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
 ## Note
 
@@ -136,7 +142,7 @@ This is also how to construct an altitude of a triangle.
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing an Angle Bisector</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Ang BAC (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -157,13 +163,15 @@ This is also how to construct an altitude of a triangle.
 * $$\overrightarrow{AN}$$ bisects $$\angle{LAM}$$.
   * $$\angle{LAN} \cong{} \angle{NAM}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Ang Bisect.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Copying an Angle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Ang BAC and D.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -180,12 +188,14 @@ This is also how to construct an altitude of a triangle.
 6. Draw a circle centered at $$D$$ of radius, $$\theta{}$$.
 7. Mark $$E$$ as the intersection between $$\overrightarrow{D}$$ and circle $$D$$.
 8. Draw a circle centered at $$E$$ of radius, $$\overline{BC}$$.
-9. Mark $$F$$ as the intersection between cicle $$D$$ and circle $$E$$.
+9. Mark $$F$$ as the intersection between circle $$D$$ and circle $$E$$.
 10. Draw $$\overrightarrow{DF}$$.
 
 **Result:**
 
 * $$\angle{BAC} \cong{} \angle{FDE}$$.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Copy Angs (2).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -193,7 +203,7 @@ This is also how to construct an altitude of a triangle.
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a <a data-footnote-ref href="#user-content-fn-10">Parallel Line</a></summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Line AB and C.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -202,14 +212,16 @@ This is also how to construct an altitude of a triangle.
 
 **Construction:**
 
-1. Draw a circle centered at $$B$$ of radius, $$\overline{AC}$$.
-2. Draw a circle centered at $$A$$ of radius, $$\overline{AB}$$.
+1. Draw a circle centered at $$A$$ of radius, $$\overline{BC}$$.
+2. Draw a circle centered at $$B$$ of radius, $$\overline{AC}$$.
 3. Mark $$D$$ as the intersection between circle $$A$$ and circle $$B$$ that is on the same side of $$\overleftrightarrow{AB}$$ as $$C$$.
 4. Draw $$\overleftrightarrow{CD}$$.
 
 **Result:**
 
 * $$\overleftrightarrow{AB} \parallel{} \overleftrightarrow{CD}$$.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Parallel lines.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 ## Alternate Method
@@ -223,7 +235,7 @@ You may also construct a parallel line by copying an angle to make congruent cor
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Dividing a Segment Into Congruent Parts</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -237,11 +249,13 @@ You may also construct a parallel line by copying an angle to make congruent cor
    1. Do this step $$n$$ times starting at the previously constructed point each time and creating new points ($$N_2, N_3, N_4, ... , N_n$$).
 3. Draw $$\overline{BN_n}$$.
 4. Copy $$\angle{AN_nB}$$ at every other iteration point of $$N$$ ($$N_1,...,N_{n-1}$$).
-5. Mark iterations of $$P$$ ($$P_1,...,P_n$$) as the intersections between the iterations of $$N$$ and $$\overline{AB}$$.
+5. Mark iterations of $$P$$ ($$P_1,...,P_{n-1}$$) as the intersections between the iterations of $$N$$ and $$\overline{AB}$$.
 
 **Result:**
 
 * $$\overline{AP_1} \cong{} \overline{P_1P_2} \cong{} ... \cong{} \overline{P_{n-1}P_n}$$.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Segment Splitting Cong Parts.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 ## Clarification
@@ -261,7 +275,7 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Rhombus</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB (2).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -280,13 +294,15 @@ The constructions are grouped—along with definitions—by relation or clarific
   * $$X$$ is the midpoint of $$\overline{AB}$$.
   * $$X$$ is the midpoint of $$\overline{CD}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/rhomb.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Rectangle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB (3).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -294,8 +310,8 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 **Construction:**
 
-1. Construct $$\overline{AC}$$ as the perpendicular bisector of $$\overline{AB}$$.
-2. Construct $$\overline{BD}$$ as the perpendicular bisector of $$\overline{AB}$$.
+1. Construct $$\overleftrightarrow{AC}$$ as the perpendicular bisector of $$\overline{AB}$$.
+2. Construct $$\overleftrightarrow{BD}$$ as the perpendicular bisector of $$\overline{AB}$$.
 3. Draw $$\overline{CD}$$.
 
 **Result:**
@@ -305,13 +321,15 @@ The constructions are grouped—along with definitions—by relation or clarific
   * $$\overline{AB} \parallel{} \overline{CD}, \overline{AC} \parallel{} \overline{BD}$$.
   * $$m\angle{ABC} = m\angle{BCD} = m\angle{DAB} = m\angle{BCA} = 90\degree{}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/rect.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Parallelogram</summary>
 
-
+<figure><img src="../../.gitbook/assets/AB (4).png" alt=""><figcaption></figcaption></figure>
 
 **Prelude:**
 
@@ -331,13 +349,15 @@ The constructions are grouped—along with definitions—by relation or clarific
   * $$\overline{AB} \cong{} \overline{CD}, \overline{AC} \cong{} \overline{BD}$$.
   * $$\overline{AB} \parallel{} \overline{CD}, \overline{AC} \parallel{} \overline{BD}$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/parallelogram.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a 45° Angle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/line AB.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -353,13 +373,15 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 * $$m\angle{CXY}=m\angle{YXB}=45\degree{}$$, since it is the result of bisecting a 90° angle.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/45 deg ang.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Median</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Tringle ABC.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -375,6 +397,8 @@ The constructions are grouped—along with definitions—by relation or clarific
 **Result:**
 
 * $$\overline{BX}$$ is a median of $$\triangle{ABC}$$.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Median.png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -392,7 +416,7 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Inscribing an Equilateral Triangle in a Circle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Circle O with A.png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -413,13 +437,15 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
   * $$\overline{AB} \cong{} \overline{BC} \cong{} \overline{AC}$$.
 * $$\triangle{ABC}$$ is inscribed in circle $$O$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Inscribe eq tri.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Inscribing a Square in a Circle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Circle O with A (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -429,11 +455,10 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 **Construction:**
 
 1. Draw $$\overrightarrow{AO}$$.
-2. Mark $$X$$ as the intersection between $$\overrightarrow{AO}$$ and circle $$O$$.
-3. Draw a circle centered at $$X$$ such that the radius is $$XO$$.
-4. Construct $$\overline{CD}$$ as the perpendicular bisector of $$\overline{AB}$$.
-5. Mark $$Y$$ and $$Z$$ as the intersections between $$\overline{CD}$$ and circle $$O$$.
-6. Draw $$\overline{AY}$$, $$\overline{BY}$$, $$\overline{BZ}$$, and $$\overline{AZ}$$.
+2. Mark $$B$$ as the intersection between $$\overrightarrow{AO}$$ and circle $$O$$.
+3. Construct $$\overline{CD}$$ as the perpendicular bisector of $$\overline{AB}$$.
+4. Mark $$Y$$ and $$Z$$ as the intersections between $$\overline{CD}$$ and circle $$O$$.
+5. Draw $$\overline{AY}$$, $$\overline{BY}$$, $$\overline{BZ}$$, and $$\overline{AZ}$$.
 
 **Result:**
 
@@ -442,13 +467,15 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
   * $$m\angle{AYB} = m\angle{YBZ} = m\angle{BZA} = m\angle{ZAY} = 90\degree{}$$.
 * $$AYBZ$$ is inscribed in circle $$O$$.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Inscribe a squ.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Inscribing a Hexagon in a Circle</summary>
 
-
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Circle O with A (2).png" alt=""><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
