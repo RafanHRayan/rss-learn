@@ -1,7 +1,7 @@
 ---
 description: >-
   Cell theory, cell size, levels of cellular organization, organelles, cell
-  membranes, ...
+  membranes, and osmosis.
 ---
 
 # Cells

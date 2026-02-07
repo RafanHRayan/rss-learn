@@ -63,7 +63,7 @@ layout:
 
 ## Unit 6 — Cells
 
-**Contents:** Cell theory, cell size, levels of cellular organization, organelles, ...
+**Contents:** Cell theory, cell size, levels of cellular organization, organelles, cell membranes, and osmosis.
 
 {% content-ref url="cells.md" %}
 [cells.md](cells.md)
