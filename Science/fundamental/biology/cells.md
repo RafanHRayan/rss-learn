@@ -31,9 +31,9 @@ Organisms can be unicellular or multicellular. Multicellular organisms are made 
 
 ### Cellular Efficiency
 
-All cells require a certain amount of material to sustain itself. The following are volume to surface area ratios of some cubic shapes...
+All cells require a certain amount of material to sustain itself. The following are surface area to volume ratios of some cubic shapes...
 
-<table><thead><tr><th align="right">Block Size</th><th width="140.20703125" align="center">Volume</th><th width="139.546875" align="center">Surface Area</th><th>V:SA Ratio</th></tr></thead><tbody><tr><td align="right">1x1x1 cm</td><td align="center">1 cm<sup>3</sup></td><td align="center">6 cm<sup>2</sup></td><td>1:6</td></tr><tr><td align="right">2x2x2 cm</td><td align="center">8 cm<sup>3</sup></td><td align="center">24 cm<sup>2</sup></td><td>1:3</td></tr><tr><td align="right">3x3x3 cm</td><td align="center">27 cm<sup>3</sup></td><td align="center">54 cm<sup>2</sup></td><td>1:2</td></tr></tbody></table>
+<table><thead><tr><th align="right">Block Size</th><th width="140.20703125" align="center">Volume</th><th width="139.546875" align="center">Surface Area</th><th>SA:V Ratio</th></tr></thead><tbody><tr><td align="right">1x1x1 cm</td><td align="center">1 cm<sup>3</sup></td><td align="center">6 cm<sup>2</sup></td><td>6:1</td></tr><tr><td align="right">2x2x2 cm</td><td align="center">8 cm<sup>3</sup></td><td align="center">24 cm<sup>2</sup></td><td>3:1</td></tr><tr><td align="right">3x3x3 cm</td><td align="center">27 cm<sup>3</sup></td><td align="center">54 cm<sup>2</sup></td><td>2:1</td></tr></tbody></table>
 
 As the volume of cells increase, the surface area also increases, [yet at a smaller exponentiation](#user-content-fn-4)[^4]. Thus, the ratio of volume to surface area also decreases exponentially. When there is a lot of volume, the cell has more inside of it, thus needing more materials to sustain itself. When the amount of surface area is too low to diffuse enough materials through, the cell increases its risk of dying.
 
