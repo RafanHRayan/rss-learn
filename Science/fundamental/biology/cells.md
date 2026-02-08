@@ -91,17 +91,15 @@ This creates a bilayer like what is shown in Image 2.
 
 Proteins also inhabit the cell membrane, being _embedded_ within the phospholipid bilayer.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-07 at 6.42.53 PM.png" alt=""><figcaption><p><strong>Image 3</strong> — Example of the fluid-mosaic model.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-07 at 6.42.53 PM.png" alt="" width="563"><figcaption><p><strong>Image 3</strong> — Example of the fluid-mosaic model.</p></figcaption></figure></div>
 
 Image 3 shows the current accepted model for cell membranes, called [the fluid-mosaic model](#user-content-fn-14)[^14].
 
 ### Evidence For The Structure of Cell Membranes
 
-Membranes have a chemical composition containing both proteins and lipids, proving the "mosaic" part of fluid-mosaic.
-
-When a membrane is split open and revealed, proteins can be seen in the layer showing that proteins aren't arranged in a layer surrounding the phospholipid bilayer.
-
-Two researchers at John Hopkins University—Frye and Ediden—labelled the proteins of two different cells. They then fused the two cells and recorded to find the labelled proteins all mixed together. This proves the "fluid" part of fluid-mosaic, as proteins aren't stationary and can move around in the membrane.
+* Membranes have a chemical composition containing both proteins and lipids, proving the "mosaic" part of fluid-mosaic.
+* When a membrane was split open and revealed, proteins were seen in the layer, showing that proteins aren't arranged in a layer surrounding the phospholipid bilayer, rather embedded in them too.
+* Two researchers at John Hopkins University—Frye and Ediden—labelled the proteins of two different cells. They then fused the two cells and recorded to find the labelled proteins all mixed together. This proves the "fluid" part of fluid-mosaic, as proteins aren't stationary and can move around in the membrane.
 
 ## Cell Membrane Transport
 
