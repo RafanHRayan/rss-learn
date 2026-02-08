@@ -47,15 +47,19 @@ The levels are as follows...
 
 ### The Four Types of Tissue
 
-There are tons of different tissues, all for different purposes. There are four types...
+There are four types of tissues, all for different purposes...
 
-<table><thead><tr><th width="360.14453125" align="right">Level</th><th>Description</th></tr></thead><tbody><tr><td align="right">Epithelial Tissue</td><td>For protection.</td></tr><tr><td align="right">Connective Tissue</td><td>For support and protection.</td></tr><tr><td align="right">Muscle Tissue</td><td>For movement.</td></tr><tr><td align="right">Nervous Tissue</td><td>For communication.</td></tr></tbody></table>
+<table><thead><tr><th width="360.14453125" align="right">Type of Tissue</th><th>Function</th></tr></thead><tbody><tr><td align="right">Epithelial Tissue</td><td>For protection.</td></tr><tr><td align="right">Connective Tissue</td><td>For support and protection.</td></tr><tr><td align="right">Muscle Tissue</td><td>For movement.</td></tr><tr><td align="right">Nervous Tissue</td><td>For communication.</td></tr></tbody></table>
 
 ## Organelles
 
 An [**organelle**](#user-content-fn-5)[^5] is a specialized structure inside of a cell with a specific function. There are different organelles in prokaryotic and eukaryotic cells and different organelles in plant and animal cells.
 
+### Prokaryotic vs. Eukaryotic Cells
+
 Prokaryotic cells (consisting of bacteria and archaea) are comparatively smaller and have genetic material that is not contained in a nucleus. Eukaryotic cells (consisting of eukaryota) are larger and have nucleus-bound genetic material. Eukaryotic cells have a nucleus, while prokaryotic cells don't.
+
+### Plant vs. Animal Cells
 
 Plant cells are comparatively larger with a rectangular or cubic shape. Animal cells are smaller and have a round or irregular shape. Plant cells exclusively have cell walls and chloroplasts. Animal cells exclusively have lysosomes.
 
@@ -85,9 +89,9 @@ This creates a bilayer like what is shown in Image 2.
 
 Proteins also inhabit the cell membrane, being _embedded_ within the phospholipid bilayer.
 
-\[insert img later]
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-07 at 6.42.53 PM.png" alt=""><figcaption><p><strong>Image 3</strong> — Example of the fluid-mosaic model.</p></figcaption></figure></div>
 
-Image 3 shows the current accepted model for cell membranes, called fluid-mosaic models.
+Image 3 shows the current accepted model for cell membranes, called [the fluid-mosaic model](#user-content-fn-13)[^13].
 
 ### Evidence For The Structure of Cell Membranes
 
@@ -119,9 +123,21 @@ In **simple diffusion**, molecules like oxygen (O<sub>2</sub>) and carbon dioxid
 
 This is also a type of diffusion, but it uses enzymes to help materials pass through the membrane. There are two types of facilitated diffusion.
 
+<details>
+
+<summary><i class="fa-memo-pad">:memo-pad:</i> Facilitated Diffusion by a Channel</summary>
+
 **Facilitated diffusion by a channel** is when the molecule "walks along" a corridor like enzyme. This is generally for specific molecules or ionic molecules. For example, water tends to pass through the membrane via an enzyme called the aquaporin.
 
+</details>
+
+<details>
+
+<summary><i class="fa-memo-pad">:memo-pad:</i> Facilitated Diffusion by a Carrier</summary>
+
 **Facilitated diffusion by a carrier** is when the enzyme changes its shape to allow the molecule to pass through. This is generally for larger molecules. For example, glucose tends to pass through the membrane via an enzyme called the GLUT Transporter.
+
+</details>
 
 ### Active Transport
 
@@ -137,11 +153,13 @@ In an environment, there may be _less_ glucose compared to inside a cell. The ce
 
 ### Sodium-Potassium Pump
 
-The Sodium-Potassium Pump is an enzyme that, upon activation, releases _three_ sodium ions and allows in _two_ potassium ions. This is generally done to balance the extracellular[^13] and intracellular[^14] environments.
+The **Sodium-Potassium Pump** is an enzyme that, upon activation, releases _three_ sodium ions and allows in _two_ potassium ions. This is generally done to balance the extracellular[^14] and intracellular[^15] environments.
 
 ### Endocytosis and Exocytosis
 
-In **endocytosis**, a group of similar molecules attempting to enter a cell will have a vesicle[^15] form around them. When leaving, this same vesicle will merge with the membrane and release the molecules in **exocytosis**.
+In **endocytosis**, a group of similar molecules attempting to enter a cell will have a vesicle[^16] form around them. When leaving, this same vesicle will merge with the membrane and release the molecules in **exocytosis**.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Image 4</strong> — Comparison between exocytosis and endocytosis.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 ## Note
@@ -159,7 +177,7 @@ Enzymes—along with the nature and properties of phospholipids—help to connec
 
 A **solvent** is a medium that _does_ the dissolving. A **solute** is a substance that _is_ being dissolved. Mixing a solvent with one or more solutes results in a **solution**.
 
-The **concentration** of a solution is calculated as the ratio between the amount of the solute to the amount of the solvent (solute:solvent). A solution is **dilute** if it has [a low concentration of the solute](#user-content-fn-16)[^16].
+The **concentration** of a solution is calculated as the ratio between the amount of the solute to the amount of the solvent (solute:solvent). A solution is **dilute** if it has [a low concentration of the solute](#user-content-fn-17)[^17].
 
 ### Extracellular Solutions
 
@@ -173,19 +191,31 @@ An extracellular solution is **isotonic** if it results in _no_ net movement.
 
 #### Situations Within Animal Cells
 
-In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Animal cells in this situation will crenate[^17].
+In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Animal cells in this situation will crenate[^18].
 
-In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Animal cells in this situation will lyse[^18].
+In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Animal cells in this situation will lyse[^19].
 
 In a _isotonic_ solution, water in the cells will enter at the same rate that they leave, resulting in _no_ net movement. Animal cells in this situation will look normal.
 
 #### Situations Within Plant Cells
 
-In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Plant cells in this situation will plasmolyse[^19].
+In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Plant cells in this situation will plasmolyse[^20].
 
-In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Plant cells in this situation become turgid[^20].
+In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Plant cells in this situation become turgid[^21].
+
+{% hint style="success" %}
+## Fun Fact
+
+Celery becomes crisp when water is applied because plant cells become turgid when in a hypotonic solution.
+{% endhint %}
 
 In a _isotonic_ solution, water in the cells will enter at the same rate that they leave, resulting in _no_ net movement. Plant cells in this situation will look normal.
+
+{% hint style="info" %}
+## Note
+
+Cells—both plant and animal—eventually _die_ after being exposed to hypotonic or hypertonic solutions for too long.
+{% endhint %}
 
 [^1]: New cells are produced from old ones.
 
@@ -223,18 +253,24 @@ In a _isotonic_ solution, water in the cells will enter at the same rate that th
 
 [^12]: Outside (extracellular) and inside (intracellular) the cell.
 
-[^13]: Outside of the cell.
+[^13]: **"**_**Fluid**_**":** Components can move sideways across the membrane (like in a sea).
 
-[^14]: Inside the cell.
+    ㅤ
 
-[^15]: A kind of compartment, akin to that of vacuoles (vacuoles being larger).
+    **"**_**Mosaic**_**":** Membrane is composed of diverse parts (different proteins).
 
-[^16]: There is more of the solvent than of the solute.
+[^14]: Outside of the cell.
 
-[^17]: Crenated cells tend to look shrivelled up with jagged edges.
+[^15]: Inside the cell.
 
-[^18]: When a cell lyses, it bursts.
+[^16]: A kind of compartment, akin to that of vacuoles (vacuoles being larger).
 
-[^19]: The plant cell's cytoplasm and cell membrane shrink and pull away from the rigid cell wall.
+[^17]: There is more of the solvent than of the solute.
 
-[^20]: When there is a lot of water in the cell, the cell's vacuole swells, exerting pressure against the cell wall.
+[^18]: Crenated cells tend to look shrivelled up with jagged edges.
+
+[^19]: When a cell lyses, it bursts.
+
+[^20]: The plant cell's cytoplasm and cell membrane shrink and pull away from the rigid cell wall.
+
+[^21]: When there is a lot of water in the cell, the cell's vacuole swells, exerting pressure against the cell wall.
