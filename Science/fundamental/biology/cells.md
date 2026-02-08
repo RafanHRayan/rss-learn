@@ -43,7 +43,7 @@ This ratio is called **cellular efficiency**; this is why cells are small, as th
 
 The levels are as follows...
 
-<table><thead><tr><th width="299.73828125" align="right">Level</th><th>Description</th></tr></thead><tbody><tr><td align="right">Cell</td><td>A singular cell.</td></tr><tr><td align="right">Tissue</td><td>Multiple cells working together for one function.</td></tr><tr><td align="right">Organ</td><td>Multiple tissues working together for one function.</td></tr><tr><td align="right">Organ System</td><td>Multiple organs working together for one function.</td></tr><tr><td align="right">Organism</td><td>All organ systems working together <strong>to maintain homeostasis</strong>.</td></tr></tbody></table>
+<table><thead><tr><th width="299.73828125" align="right">Level</th><th>Description</th></tr></thead><tbody><tr><td align="right"><a data-footnote-ref href="#user-content-fn-5">Cell</a></td><td>A singular cell.</td></tr><tr><td align="right">Tissue</td><td>Multiple cells working together for one function.</td></tr><tr><td align="right">Organ</td><td>Multiple tissues working together for one function.</td></tr><tr><td align="right">Organ System</td><td>Multiple organs working together for one function.</td></tr><tr><td align="right">Organism</td><td>All organ systems working together <strong>to maintain homeostasis</strong>.</td></tr></tbody></table>
 
 ### The Four Types of Tissue
 
@@ -53,7 +53,7 @@ There are four types of tissues, all for different purposes...
 
 ## Organelles
 
-An [**organelle**](#user-content-fn-5)[^5] is a specialized structure inside of a cell with a specific function. There are different organelles in prokaryotic and eukaryotic cells and different organelles in plant and animal cells.
+An [**organelle**](#user-content-fn-6)[^6] is a specialized structure inside of a cell with a specific function. There are different organelles in prokaryotic and eukaryotic cells and different organelles in plant and animal cells.
 
 ### Prokaryotic vs. Eukaryotic Cells
 
@@ -65,13 +65,13 @@ Plant cells are comparatively larger with a rectangular or cubic shape. Animal c
 
 Here is a list of all the organelles found in cells...
 
-<table><thead><tr><th width="109.9375" align="center">Multiple</th><th width="175.19140625" align="center">Organelle</th><th width="355.0703125">Description</th><th align="center">Found in</th></tr></thead><tbody><tr><td align="center">True</td><td align="center">Mitochondrion</td><td>The site of <a data-footnote-ref href="#user-content-fn-6">cellular respiration</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Chloroplast</td><td>The site of <a data-footnote-ref href="#user-content-fn-7">photosynthesis</a>.</td><td align="center">Plants</td></tr><tr><td align="center">False</td><td align="center">Nucleus</td><td>Contains and protects<br>genetic information, coordinates <a data-footnote-ref href="#user-content-fn-8">cell’s activities</a>, and contains the <a data-footnote-ref href="#user-content-fn-9">nucleolus</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Ribosome</td><td>Carries out protein synthesis. They can be found on the Rough Endoplasmic Reticulum or in the <a data-footnote-ref href="#user-content-fn-10">cytoplasm</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Lysosome</td><td>Digests nutrients and recycles waste products.</td><td align="center">Animals</td></tr><tr><td align="center">True</td><td align="center">Vacuole</td><td>Storage area for water, nutrients, and waste. Animal cells have many smaller vacuoles with different functions. Plant cells have a large, central vacuole with a generalized purpose.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Rough Endoplasmic Reticulum</td><td>The <em>rough</em> endoplasmic reticulum is a system of<br>membrane-enclosed sacs and tubules in the cell. They carry out protein synthesis and send these folded <em><strong>proteins</strong></em> to golgi bodies for transport.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Smooth Endoplasmic Reticulum</td><td>The <em>smooth</em> endoplasmic reticulum is a system of<br>membrane-enclosed sacs and tubules in the cell. They send <em><strong>lipids</strong></em> to golgi bodies for transport.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Golgi Body</td><td>Receives <a data-footnote-ref href="#user-content-fn-11">products of the endoplasmic reticulum</a> which are modified and stored. These materials are then sent to other destinations.</td><td align="center">Both</td></tr></tbody></table>
+<table><thead><tr><th width="109.9375" align="center">Multiple</th><th width="175.19140625" align="center">Organelle</th><th width="355.0703125">Description</th><th align="center">Found in</th></tr></thead><tbody><tr><td align="center">True</td><td align="center">Mitochondrion</td><td>The site of <a data-footnote-ref href="#user-content-fn-7">cellular respiration</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Chloroplast</td><td>The site of <a data-footnote-ref href="#user-content-fn-8">photosynthesis</a>.</td><td align="center">Plants</td></tr><tr><td align="center">False</td><td align="center">Nucleus</td><td>Contains and protects<br>genetic information, coordinates <a data-footnote-ref href="#user-content-fn-9">cell’s activities</a>, and contains the <a data-footnote-ref href="#user-content-fn-10">nucleolus</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Ribosome</td><td>Carries out protein synthesis. They can be found on the Rough Endoplasmic Reticulum or in the <a data-footnote-ref href="#user-content-fn-11">cytoplasm</a>.</td><td align="center">Both</td></tr><tr><td align="center">True</td><td align="center">Lysosome</td><td>Digests nutrients and recycles waste products.</td><td align="center">Animals</td></tr><tr><td align="center">True</td><td align="center">Vacuole</td><td>Storage area for water, nutrients, and waste. Animal cells have many smaller vacuoles with different functions. Plant cells have a large, central vacuole with a generalized purpose.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Rough Endoplasmic Reticulum</td><td>The <em>rough</em> endoplasmic reticulum is a system of<br>membrane-enclosed sacs and tubules in the cell. They carry out protein synthesis and send these folded <em><strong>proteins</strong></em> to golgi bodies for transport.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Smooth Endoplasmic Reticulum</td><td>The <em>smooth</em> endoplasmic reticulum is a system of<br>membrane-enclosed sacs and tubules in the cell. They send <em><strong>lipids</strong></em> to golgi bodies for transport.</td><td align="center">Both</td></tr><tr><td align="center">False</td><td align="center">Golgi Body</td><td>Receives <a data-footnote-ref href="#user-content-fn-12">products of the endoplasmic reticulum</a> which are modified and stored. These materials are then sent to other destinations.</td><td align="center">Both</td></tr></tbody></table>
 
 ## Cell Membrane Structure
 
 Cells have a **semi-permeable membrane**, meaning the membrane is _selective_ in what it allows to pass through. This is to allow efficient movement of things like water, nutrients, carbon dioxide, oxygen, and waste.
 
-Cell membranes are made of a **phospholipid bilayer**. Because phospholipids have a hydrophilic head and hydrophobic tails, the heads face [the exteriors of the membrane](#user-content-fn-12)[^12].
+Cell membranes are made of a **phospholipid bilayer**. Because phospholipids have a hydrophilic head and hydrophobic tails, the heads face [the exteriors of the membrane](#user-content-fn-13)[^13].
 
 {% columns %}
 {% column valign="middle" %}
@@ -91,7 +91,7 @@ Proteins also inhabit the cell membrane, being _embedded_ within the phospholipi
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-07 at 6.42.53 PM.png" alt=""><figcaption><p><strong>Image 3</strong> — Example of the fluid-mosaic model.</p></figcaption></figure></div>
 
-Image 3 shows the current accepted model for cell membranes, called [the fluid-mosaic model](#user-content-fn-13)[^13].
+Image 3 shows the current accepted model for cell membranes, called [the fluid-mosaic model](#user-content-fn-14)[^14].
 
 ### Evidence For The Structure of Cell Membranes
 
@@ -153,11 +153,11 @@ In an environment, there may be _less_ glucose compared to inside a cell. The ce
 
 ### Sodium-Potassium Pump
 
-The **Sodium-Potassium Pump** is an enzyme that, upon activation, releases _three_ sodium ions and allows in _two_ potassium ions. This is generally done to balance the extracellular[^14] and intracellular[^15] environments.
+The **Sodium-Potassium Pump** is an enzyme that, upon activation, releases _three_ sodium ions and allows in _two_ potassium ions. This is generally done to balance the extracellular[^15] and intracellular[^16] environments.
 
 ### Endocytosis and Exocytosis
 
-In **endocytosis**, a group of similar molecules attempting to enter a cell will have a vesicle[^16] form around them. When leaving, this same vesicle will merge with the membrane and release the molecules in **exocytosis**.
+In **endocytosis**, a group of similar molecules attempting to enter a cell will have a vesicle[^17] form around them. When leaving, this same vesicle will merge with the membrane and release the molecules in **exocytosis**.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Image 4</strong> — Comparison between exocytosis and endocytosis.</p></figcaption></figure></div>
 
@@ -177,7 +177,7 @@ Enzymes—along with the nature and properties of phospholipids—help to connec
 
 A **solvent** is a medium that _does_ the dissolving. A **solute** is a substance that _is_ being dissolved. Mixing a solvent with one or more solutes results in a **solution**.
 
-The **concentration** of a solution is calculated as the ratio between the amount of the solute to the amount of the solvent (solute:solvent). A solution is **dilute** if it has [a low concentration of the solute](#user-content-fn-17)[^17].
+The **concentration** of a solution is calculated as the ratio between the amount of the solute to the amount of the solvent (solute:solvent). A solution is **dilute** if it has [a low concentration of the solute](#user-content-fn-18)[^18].
 
 ### Extracellular Solutions
 
@@ -191,17 +191,17 @@ An extracellular solution is **isotonic** if it results in _no_ net movement.
 
 #### Situations Within Animal Cells
 
-In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Animal cells in this situation will crenate[^18].
+In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Animal cells in this situation will crenate[^19].
 
-In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Animal cells in this situation will lyse[^19].
+In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Animal cells in this situation will lyse[^20].
 
 In a _isotonic_ solution, water in the cells will enter at the same rate that they leave, resulting in _no_ net movement. Animal cells in this situation will look normal.
 
 #### Situations Within Plant Cells
 
-In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Plant cells in this situation will plasmolyse[^20].
+In a _hypertonic_ solution, water in the cells will leave more than they enter, resulting in a net movement _outside_ of the cell. Plant cells in this situation will plasmolyse[^21].
 
-In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Plant cells in this situation become turgid[^21].
+In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Plant cells in this situation become turgid[^22].
 
 {% hint style="success" %}
 ## Fun Fact
@@ -229,48 +229,50 @@ Cells—both plant and animal—eventually _die_ after being exposed to hypotoni
 
 [^4]: Volume is exponentiated to the power of 3, yet surfaced area is to the power of 2. Though both increase exponentially, surface area increases at a slower rate.
 
-[^5]: Means "_little organ_."
+[^5]: Generally a specialized cell. Multiple of the same specilization tend to work together to perform functions.
 
-[^6]: The process that uses oxygen to release energy from sugars.
+[^6]: Means "_little organ_."
 
-    &#x20;$$\text{}$$
-
-    [More on this...](ecology.md#fluxes)
-
-[^7]: The process that uses sunlight to convert water and carbon dioxide into glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>).
+[^7]: The process that uses oxygen to release energy from sugars.
 
     &#x20;$$\text{}$$
 
     [More on this...](ecology.md#fluxes)
 
-[^8]: e.g. cell division, replication, etc.
+[^8]: The process that uses sunlight to convert water and carbon dioxide into glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>).
 
-[^9]: The place where ribosomes are made.
+    &#x20;$$\text{}$$
 
-[^10]: Ribosomes in the cytoplasm are not bound (free).
+    [More on this...](ecology.md#fluxes)
 
-[^11]: Whether it be proteins from the RER or lipids from the SER.
+[^9]: e.g. cell division, replication, etc.
 
-[^12]: Outside (extracellular) and inside (intracellular) the cell.
+[^10]: The place where ribosomes are made.
 
-[^13]: **"**_**Fluid**_**":** Components can move sideways across the membrane (like in a sea).
+[^11]: Ribosomes in the cytoplasm are not bound (free).
+
+[^12]: Whether it be proteins from the RER or lipids from the SER.
+
+[^13]: Outside (extracellular) and inside (intracellular) the cell.
+
+[^14]: **"**_**Fluid**_**":** Components can move sideways across the membrane (like in a sea).
 
     ㅤ
 
     **"**_**Mosaic**_**":** Membrane is composed of diverse parts (different proteins).
 
-[^14]: Outside of the cell.
+[^15]: Outside of the cell.
 
-[^15]: Inside the cell.
+[^16]: Inside the cell.
 
-[^16]: A kind of compartment, akin to that of vacuoles (vacuoles being larger).
+[^17]: A kind of compartment, akin to that of vacuoles (vacuoles being larger).
 
-[^17]: There is more of the solvent than of the solute.
+[^18]: There is more of the solvent than of the solute.
 
-[^18]: Crenated cells tend to look shrivelled up with jagged edges.
+[^19]: Crenated cells tend to look shrivelled up with jagged edges.
 
-[^19]: When a cell lyses, it bursts.
+[^20]: When a cell lyses, it bursts.
 
-[^20]: The plant cell's cytoplasm and cell membrane shrink and pull away from the rigid cell wall.
+[^21]: The plant cell's cytoplasm and cell membrane shrink and pull away from the rigid cell wall.
 
-[^21]: When there is a lot of water in the cell, the cell's vacuole swells, exerting pressure against the cell wall.
+[^22]: When there is a lot of water in the cell, the cell's vacuole swells, exerting pressure against the cell wall.
