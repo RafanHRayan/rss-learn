@@ -265,7 +265,7 @@ Cells—both plant and animal—eventually _die_ after being exposed to hypotoni
 
 [^16]: Inside the cell.
 
-[^17]: A kind of compartment, akin to that of vacuoles (vacuoles being larger).
+[^17]: A kind of compartment, akin to that of [vacuoles](cells.md#organelle-list) (vacuoles being larger).
 
 [^18]: There is more of the solvent than of the solute.
 
