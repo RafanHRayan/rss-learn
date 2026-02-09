@@ -81,8 +81,6 @@ Cell membranes are made of a **phospholipid bilayer**. Because phospholipids hav
 {% endcolumn %}
 
 {% column valign="middle" %}
-
-
 <div data-with-frame="true"><figure><img src="https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/18/2014/07/19180852/0302_Phospholipid_Bilayer.jpg" alt=""><figcaption><p><strong>Image 2</strong> — Phospholipid bilayer diagram.</p></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
@@ -110,9 +108,9 @@ Cells need materials to move in and out of the cell. Cell membranes mediate this
 **Passive transport** is a type of molecule movement into and out of the cell, where molecules _do not_ require energy and can easily pass through the cell. This happens when a molecule is going _with_ the **concentration gradient** (high to low concentration).
 
 {% hint style="info" %}
-## Note
+### Note
 
-Passive transport _**is the same as**_ diffusion. They are interchangeable terms.
+In a general perspective, passive transport _**is the same as**_ diffusion. They are interchangeable terms.
 {% endhint %}
 
 #### Simple Diffusion
@@ -144,7 +142,7 @@ This is also a type of diffusion, but it uses enzymes to help materials pass thr
 **Active transport** is a type of molecule movement into and out of the cell, where molecules _do_ require energy as they can't pass through the cell on their own. This happens when a molecule is going _against_ the concentration gradient (low to high concentration).
 
 {% hint style="info" %}
-## Example
+### Example
 
 Though it might seem useless going against the concentration gradient is useful...
 
@@ -162,7 +160,7 @@ In **endocytosis**, a group of similar molecules attempting to enter a cell will
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption><p><strong>Image 4</strong> — Comparison between exocytosis and endocytosis.</p></figcaption></figure></div>
 
 {% hint style="info" %}
-## Note
+### Note
 
 Vesicles and vacuoles are made up of phospholipid bilayers too.
 
@@ -204,7 +202,7 @@ In a _hypertonic_ solution, water in the cells will leave more than they enter, 
 In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Plant cells in this situation become turgid[^22].
 
 {% hint style="success" %}
-## Fun Fact
+### Fun Fact
 
 Celery becomes crisp when water is applied because plant cells become turgid when in a hypotonic solution.
 {% endhint %}
@@ -212,7 +210,7 @@ Celery becomes crisp when water is applied because plant cells become turgid whe
 In a _isotonic_ solution, water in the cells will enter at the same rate that they leave, resulting in _no_ net movement. Plant cells in this situation will look normal.
 
 {% hint style="info" %}
-## Note
+### Note
 
 Cells—both plant and animal—eventually _die_ after being exposed to hypotonic or hypertonic solutions for too long.
 {% endhint %}
@@ -223,7 +221,7 @@ Cells—both plant and animal—eventually _die_ after being exposed to hypotoni
 
 [^3]: When a specific type molecule is more concentrated in a zone, A, and less concentrated in a zone, B, they tend to move from Zone A to Zone B.
 
-    &#x20;$$\text{}$$
+    $$\text{}$$
 
     This movement is called diffusion!
 
@@ -235,13 +233,13 @@ Cells—both plant and animal—eventually _die_ after being exposed to hypotoni
 
 [^7]: The process that uses oxygen to release energy from sugars.
 
-    &#x20;$$\text{}$$
+    $$\text{}$$
 
     [More on this...](ecology.md#fluxes)
 
 [^8]: The process that uses sunlight to convert water and carbon dioxide into glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>).
 
-    &#x20;$$\text{}$$
+    $$\text{}$$
 
     [More on this...](ecology.md#fluxes)
 
