@@ -87,7 +87,9 @@ Logic is not technically a part of Euclidean geometry, but logical thinking is i
 
 **Contents:** ...
 
-\[Coming Soon]
+{% content-ref url="similar-polygons.md" %}
+[similar-polygons.md](similar-polygons.md)
+{% endcontent-ref %}
 
 ## Unit 9 — Circles
 

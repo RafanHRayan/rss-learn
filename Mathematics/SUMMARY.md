@@ -13,6 +13,7 @@
   * [Inequalities](fundamental/geometry/inequalities.md)
   * [Quadrilaterals](fundamental/geometry/quadrilaterals.md)
   * [Constructions](fundamental/geometry/constructions.md)
+  * [Similar Polygons](fundamental/geometry/similar-polygons.md)
 * [Trigonometry](fundamental/trigonometry/README.md)
   * [Trigonometry in Right Triangles](fundamental/trigonometry/trigonometry-in-right-triangles.md)
   * [Trigonometric Functions](fundamental/trigonometry/trigonometric-functions.md)
