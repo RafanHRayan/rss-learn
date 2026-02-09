@@ -181,11 +181,7 @@ The **concentration** of a solution is calculated as the ratio between the amoun
 
 Two regions reach **dynamic equilibrium** when the concentration in both regions are _equal_.
 
-An extracellular solution is **hypertonic** if it results in a net movement _outside_ of the cell.
-
-An extracellular solution is **hypotonic** if it results in a net movement _inside_ the cell.
-
-An extracellular solution is **isotonic** if it results in _no_ net movement.
+An extracellular solution is **hypertonic** if it results in a net movement _outside_ of the cell. An extracellular solution is **hypotonic** if it results in a net movement _inside_ the cell. An extracellular solution is **isotonic** if it results in _no_ net movement.
 
 #### Situations Within Animal Cells
 
