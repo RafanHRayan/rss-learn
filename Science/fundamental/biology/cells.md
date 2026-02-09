@@ -10,7 +10,7 @@ description: >-
 
 A **system** is a grouping of components that collaborate as part of a mechanism to perform a specific function or process. Systems...
 
-* ...specific components with different functions.
+* ...have specific components with different functions.
 * ...have compartmentalization and boundaries to encase their components.
 * ...have inputs and outputs.
 * ...process information.
