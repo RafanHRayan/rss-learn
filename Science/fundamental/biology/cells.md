@@ -125,7 +125,7 @@ This is also a type of diffusion, but it uses enzymes to help materials pass thr
 
 <summary><i class="fa-memo-pad">:memo-pad:</i> Facilitated Diffusion by a Channel</summary>
 
-**Facilitated diffusion by a channel** is when the molecule "walks along" a corridor like enzyme. This is generally for specific molecules or ionic molecules. For example, water tends to pass through the membrane via an enzyme called the aquaporin.
+**Facilitated diffusion by a channel** is when the molecule "walks along" a corridor like enzyme. This is generally for specific molecules or ionic molecules. For example, water tends to pass through the membrane via an enzyme called the **aquaporin**.
 
 </details>
 
@@ -133,7 +133,7 @@ This is also a type of diffusion, but it uses enzymes to help materials pass thr
 
 <summary><i class="fa-memo-pad">:memo-pad:</i> Facilitated Diffusion by a Carrier</summary>
 
-**Facilitated diffusion by a carrier** is when the enzyme changes its shape to allow the molecule to pass through. This is generally for larger molecules. For example, glucose tends to pass through the membrane via an enzyme called the GLUT Transporter.
+**Facilitated diffusion by a carrier** is when the enzyme changes its shape to allow the molecule to pass through. This is generally for larger molecules. For example, glucose tends to pass through the membrane via an enzyme called the **GLUT Transporter**.
 
 </details>
 
