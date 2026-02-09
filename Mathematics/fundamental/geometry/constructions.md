@@ -1,5 +1,7 @@
 ---
-description: Tools in constructions, fundamentals of circles, length operation, ...
+description: >-
+  Tools in constructions, fundamentals of circles, length operation, fundamental
+  constructions, and advanced constructions.
 ---
 
 # Constructions

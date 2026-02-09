@@ -77,7 +77,7 @@ Logic is not technically a part of Euclidean geometry, but logical thinking is i
 
 ## Unit 7 — Constructions
 
-**Contents:** Tools in constructions, fundamentals of circles, length operation, ...
+**Contents:** Tools in constructions, fundamentals of circles, length operation, fundamental constructions, and advanced constructions.
 
 {% content-ref url="constructions.md" %}
 [constructions.md](constructions.md)
