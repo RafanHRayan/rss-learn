@@ -24,6 +24,8 @@ RSS Industries brings you learning[^1] materials on various subjects! Go through
 
 > "The beautiful thing about learning is nobody can take it away from you." — B.B. Kingloc
 
+[apidog.com](https://apidog.com)
+
 ***
 
 ## Extra Resources
