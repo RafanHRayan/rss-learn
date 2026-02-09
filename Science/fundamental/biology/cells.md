@@ -159,7 +159,7 @@ The **Sodium-Potassium Pump** is an enzyme that, upon activation, releases _thre
 
 In **endocytosis**, a group of similar molecules attempting to enter a cell will have a vesicle[^17] form around them. When leaving, this same vesicle will merge with the membrane and release the molecules in **exocytosis**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Image 4</strong> — Comparison between exocytosis and endocytosis.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption><p><strong>Image 4</strong> — Comparison between exocytosis and endocytosis.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 ## Note
@@ -171,7 +171,7 @@ Enzymes—along with the nature and properties of phospholipids—help to connec
 
 ## Osmosis
 
-**Osmosis** if the exclusive diffusion of _water_ from high to low concentrations of it across a semi-permeable membrane.
+**Osmosis** if the exclusive diffusion of _water_ from high to low concentrations of it. This can be done directly across the membrane or through the use of enzymes.
 
 ### The Dissolving of Substances
 
