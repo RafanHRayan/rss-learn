@@ -310,13 +310,72 @@ The colosseum was built by enslaved Jews. In 66 CE, Jews in Rome rebelled and to
 
 ## Judaism
 
+Judaism developed as a monotheistic religion from polytheistic Mesopotamian beliefs.
+
 ### Abraham and Isaac
 
-Abraham is asked by God to kill his son, Isaac. He almost does so, but is stopped by an angel who begs him to not, saying he has proven his faith and devotion to God.
+Abraham is asked by God to kill his son, Isaac. He almost does so, but is stopped by an angel who begs him to not, saying he has proven his faith, fear, and devotion to God.
 
 ### Book of Job
 
-The Book of Job attempts to answer why bad things happen to good people, saying that life isn't fair to anyone and it should not cause anyone to lose their faith in God.
+The Book of Job attempts to answer why bad things happen to good people, saying that life isn't fair to anyone and it should not cause anyone to lose their covenant[^34] with God.
+
+### Birth of Moses
+
+Following a famine, the Hebrews [moved to Egypt](#user-content-fn-35)[^35] in about 1700 BCE.
+
+Abraham and his followers are said to have grown so numerous and powerful that they were forced into slavery. They were so feared in Egypt that the pharaoh himself commanded every newborn Israelite be drowned in the Nile.
+
+Moses was spared from this punishment! The Pharaoh’s daughter found him, abandoned and alone in the river, and raised him as Egyptian royalty.
+
+Moses eventually led the Israelites out of Egypt to the Sinai Desert in a mass exodus[^36]. During the journey, God gave Moses the 10 commandments.
+
+### Passover
+
+..
+
+### The Ten Commandments
+
+<details>
+
+<summary><i class="fa-scroll-torah">:scroll-torah:</i> The Ten Commandments</summary>
+
+That which is given to Moses on Mount Sinai...
+
+
+
+1. I am the lord—your God—who brought you out of Egypt. You shall have no other gods.
+2. You shall not make or worship idols.
+3. You shall not swear falsely by the name of the Lord your God.
+4. Remember the Sabbath[^37] and keep it holy.
+5. Honor your father and mother.
+6. You shall not murder.
+7. You shall not commit adultery.
+8. You shall not steal.
+9. You shall not bear false witness against your neighbor.
+10. You shall not covet your neighbor’s belongings.
+
+</details>
+
+The Torah is a _scroll_, not a book. It is not just the text that is sacred, the _object_ itself is sacred. At synagogues, a new section of the Torah is read each week by a Rabbi.
+
+{% hint style="warning" %}
+## Warning
+
+* The Torah is focused on **the here and now**.&#x20;
+* God gave these laws to show them how to live a Jewish life.
+* The Torah alludes to an afterlife but there is a lot of interpretation as to what that may be.
+
+
+
+You follow the law to be a good Jew, _**not**_ to reap any rewards in the afterlife.
+{% endhint %}
+
+### The First Jewish Temple
+
+King Solomon (961-922 BCE) brought the Hebrew Kingdom to its height, constructing the First Jewish Temple. In 722 BCE, the Assyrians (From Mesopotamia) conquered Israel. Solomon's temple is destroyed.
+
+Upon the conquests of Cyrus the Great,
 
 ***
 
@@ -397,3 +456,15 @@ This page is incomplete!
 [^32]: Some statues inspire that Augustus is as powerful as a god.
 
 [^33]: **Diaspora** _n. \[dai-as-po-ra]_ — The spreading out of people from an orignating location; a dispersal from a homeland.
+
+[^34]: **Covenant** _n. \[cu-ve-nant]_ — A binding agreement or pact made between two parties.
+
+    ㅤ
+
+    In a _religious_ context, the covenant with your God can be interpreted as your promise to God for devotion and belief.
+
+[^35]: Specifically to Goshen, a fertile area in the Nile Delta.
+
+[^36]: **Exodus** _n. \[ek-so-dus]_ — The departure of a large group of people.
+
+[^37]: Friday night and Saturday.
