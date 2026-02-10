@@ -256,6 +256,36 @@ Octavian steals Antony's will[^23] an publicly exposes him by reading it aloud. 
 
 Octavian changes his name to Augustus[^24], claiming the title of Princeps[^25] and Imperator[^26]. Octavian is Augustus Caesar. Augustus's rise to power marks the end of the Roman Republic and the civil wars.
 
+## Slavery in Rome
+
+Slavery was [used in Rome](#user-content-fn-27)[^27] as early as 1000 BCE, but skyrocketed in popularity—and population of slaves—in the third or second century BCE due to the taking of Carthage. By the first century BCE, slaves accounted for 30-40% of Italy.
+
+### Jobs of Slaves
+
+A slave's job varied, depending on their previous profession from before their land was captured. If you were a butler, you were enslaved as a butler; if you were a teacher, you were enslaved as a teacher; and so on.
+
+Those that didn't have a profession, were sent to work in agriculture.
+
+### Treatment of Slaves
+
+Especially rich slaveholders tended to have multiple, taking them as property with a [welded metal collar](#user-content-fn-28)[^28] or tattoo. A slaves treatment was entirely up to the slaveholder; many slaves were respected with tombs and urns, but others were treated as if they weren't even human.
+
+Slaves were not subject to the same laws, and could be given worse punishments than even the lowest of citizens of Rome.
+
+> "There is a proverb: 'You have as many enemies as you have slaves.' But in truth we make them our enemies. We abuse them as if they were beasts of burden. When we recline for dinner, one wipes our spittle, another picks up the scraps and crumbs thrown down by drunkards. The point of my argument is this: 'treat your inferior as you would like to be treated.'" — Seneca
+
+### Servile Wars
+
+Many slaves did as they were told, but others violently rebelled. Spartacus, an enslaved soldier escapee, became a leader in an uprising against The Roman Republic. This led to the Servile Wars in 73 BCE, where thousands of slaves rose up and demanded freedom.
+
+Eventually, Spartacus was killed in battle against an army led by [Crassus](rome.md#julius-caesar); the revolt fell apart.
+
+{% hint style="info" %}
+## Aftermath
+
+Approximately 6,000 rebel slaves were crucified along the _Via Appia_.
+{% endhint %}
+
 ## Pax Romana
 
 For 207 years, Rome—after transitioning from a republic to an empire—began to experience immense provisions of peace, wealth, and expansion.
@@ -266,13 +296,7 @@ For 207 years, Rome—after transitioning from a republic to an empire—began t
 Pax was the Roman goddess of peace.
 {% endhint %}
 
-During this time, there were more status of Augustus than any other Roman ruler to date, portraying Augustus as religious[^27], commanding[^28], political[^29], and godlike[^30].
-
-### Slavery in Rome
-
-Slavery was used in Rome as early as 1000 BCE, but skyrocketed in popularity—and population of slaves—in the third or second century BCE due to the taking of Carthage. Especially rich slaveholders tended to have multiple, taking them as property with a welded metal collar or tattoo.
-
-A slaves treatment was entirely up to the slaveholder; many slaves were respected with tombs and urns, but others were treated as if they weren't human.
+During this time, there were more status of Augustus than any other Roman ruler to date, portraying Augustus as religious[^29], commanding[^30], political[^31], and godlike[^32].
 
 ### Bread and Circus
 
@@ -280,7 +304,9 @@ _Panem Et Circenses_ meant "Bread and Circus" and represented the building and h
 
 The colosseum had free entry, even to the poor. If you _were_ poor, you could go there for free food and entertainment. The ideal was that it was your leader that gave you this.
 
-The colosseum was built by enslaved Jews. In 66 CE, Jews in Rome rebelled and took Jerusalem. Four years later, Rome retook Jerusalem and enslaved the Jews there, causing a diaspora[^31] across the entirety of the Roman empire.
+At the colosseum, gladiator games were held.
+
+The colosseum was built by enslaved Jews. In 66 CE, Jews in Rome rebelled and took Jerusalem. Four years later, Rome retook Jerusalem and enslaved the Jews there, causing a diaspora[^33] across the entirety of the Roman empire.
 
 ## Judaism
 
@@ -354,12 +380,20 @@ This page is incomplete!
 
 [^26]: Meaning "_commander-in-chief_."
 
-[^27]: Some statues inspire that Augustus is as religious as a priest.
+[^27]: Specifically in the Italian Peninsula.
 
-[^28]: Some statues inspire that Augustus is a strong general in military.
+[^28]: They would often have descriptions similar to that of modern-day _pets_:
 
-[^29]: Some statues inspire that Augustus is a very educated politician.
+    ㅤ
 
-[^30]: Some statues inspire that Augustus is as powerful as a god.
+    "I have run away. Catch me. If you take me back to my master \_\_\_\_\_, you'll be rewarded."
 
-[^31]: **Diaspora** _n. \[dai-as-po-ra]_ — The spreading out of people from an orignating location; a dispersal from a homeland.
+[^29]: Some statues inspire that Augustus is as religious as a priest.
+
+[^30]: Some statues inspire that Augustus is a strong general in military.
+
+[^31]: Some statues inspire that Augustus is a very educated politician.
+
+[^32]: Some statues inspire that Augustus is as powerful as a god.
+
+[^33]: **Diaspora** _n. \[dai-as-po-ra]_ — The spreading out of people from an orignating location; a dispersal from a homeland.
