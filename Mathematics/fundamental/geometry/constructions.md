@@ -535,7 +535,11 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 </details>
 
+{% hint style="info" %}
+## Note
 
+Constructions for the circumcenter, incenter, orthocenter, and centriod have videos in their relative groupings.
+{% endhint %}
 
 <details>
 
@@ -591,6 +595,14 @@ A circle is the circumcircle of a triangle if and only if all three points of th
 * Circle $$X$$ is the circumcircle of $$\triangle{ABC}$$.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/circumcircle.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+</details>
+
+<details>
+
+<summary><i class="fa-video">:video:</i> Circumcenter Construction Demo Video</summary>
+
+{% file src="../../.gitbook/assets/circumcenter_construction.mp4" %}
 
 </details>
 
@@ -659,6 +671,14 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 </details>
 
+<details>
+
+<summary><i class="fa-video">:video:</i> Incenter Construction Demo Video</summary>
+
+
+
+</details>
+
 
 
 <details>
@@ -688,6 +708,14 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <details>
 
+<summary><i class="fa-video">:video:</i> Orthocenter Construction Demo Video</summary>
+
+
+
+</details>
+
+<details>
+
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Centroid of a Triangle</summary>
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (6).png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -708,6 +736,14 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 * $$X$$ is the centroid of $$\triangle{ABC}$$.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/centroid.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+</details>
+
+<details>
+
+<summary><i class="fa-video">:video:</i> Centroid Construction Demo Video</summary>
+
+
 
 </details>
 
