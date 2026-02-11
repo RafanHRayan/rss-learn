@@ -304,9 +304,7 @@ _Panem Et Circenses_ meant "Bread and Circus" and represented the building and h
 
 The colosseum had free entry, even to the poor. If you _were_ poor, you could go there for free food and entertainment. The ideal was that it was your leader that gave you this.
 
-At the colosseum, gladiator games were held.
-
-The colosseum was built by enslaved Jews. In 66 CE, Jews in Rome rebelled and took Jerusalem. Four years later, Rome retook Jerusalem and enslaved the Jews there, causing a diaspora[^33] across the entirety of the Roman empire.
+At the colosseum, gladiator games were held. The colosseum was built by enslaved Jews.
 
 ## Judaism
 
@@ -318,21 +316,17 @@ Abraham is asked by God to kill his son, Isaac. He almost does so, but is stoppe
 
 ### Book of Job
 
-The Book of Job attempts to answer why bad things happen to good people, saying that life isn't fair to anyone and it should not cause anyone to lose their covenant[^34] with God.
+The Book of Job attempts to answer why bad things happen to good people, saying that life isn't fair to anyone and it should not cause anyone to lose their covenant[^33] with God.
 
 ### Birth of Moses
 
-Following a famine, the Hebrews [moved to Egypt](#user-content-fn-35)[^35] in about 1700 BCE.
+Following a famine, the Hebrews [moved to Egypt](#user-content-fn-34)[^34] in about 1700 BCE.
 
 Abraham and his followers are said to have grown so numerous and powerful that they were forced into slavery. They were so feared in Egypt that the pharaoh himself commanded every newborn Israelite be drowned in the Nile.
 
 Moses was spared from this punishment! The Pharaoh’s daughter found him, abandoned and alone in the river, and raised him as Egyptian royalty.
 
-Moses eventually led the Israelites out of Egypt to the Sinai Desert in a mass exodus[^36]. During the journey, God gave Moses the 10 commandments.
-
-### Passover
-
-..
+Moses eventually led the Israelites out of Egypt to the Sinai Desert in a mass exodus[^35]. During the journey, God gave Moses the 10 commandments.
 
 ### The Ten Commandments
 
@@ -347,7 +341,7 @@ That which is given to Moses on Mount Sinai...
 1. I am the lord—your God—who brought you out of Egypt. You shall have no other gods.
 2. You shall not make or worship idols.
 3. You shall not swear falsely by the name of the Lord your God.
-4. Remember the Sabbath[^37] and keep it holy.
+4. Remember the Sabbath[^36] and keep it holy.
 5. Honor your father and mother.
 6. You shall not murder.
 7. You shall not commit adultery.
@@ -375,7 +369,88 @@ You follow the law to be a good Jew, _**not**_ to reap any rewards in the afterl
 
 King Solomon (961-922 BCE) brought the Hebrew Kingdom to its height, constructing the First Jewish Temple. In 722 BCE, the Assyrians (From Mesopotamia) conquered Israel. Solomon's temple is destroyed.
 
-Upon the conquests of Cyrus the Great,
+Upon the conquests of Cyrus the Great, religious tolerance is taken into effect and Solomon's temple is rebuilt.
+
+#### Hanukkah
+
+The region would come under control of Antiochus in 175 BCE. He wanted to “hellenize” the regions and eliminate threat of Judaism. To do this, they slaughtered pigs (which were considered unclean) inside of the temple, essentially desecrating[^37] it.
+
+The successful revolt against Antiochus led to the Jewish celebration of Hanukkah.
+
+### Conquest of Rome
+
+Upon the conquest of Rome, the Arch of Titus was built to commemorate. Jewish people refused to walk under this arch. In 70 CE, the temple was destroyed. In 66 CE, Jews in Rome rebelled and took Jerusalem. Four years later, Rome retook Jerusalem and enslaved the Jews there, causing a diaspora[^38] across the entirety of the Roman empire.
+
+{% hint style="success" %}
+## Fun Fact
+
+This diaspora is, in part, why Jewish people are so diverse today. Despite this, Jewish people take up only 0.2% of the world population.
+{% endhint %}
+
+### The Prominent Problem of Monotheism
+
+Through the Romans were tolerant of all religions, you were required to take part in the rituals of the state religion. To the Romans, Judaism was seen as _foreign_ cult[^39].
+
+<details>
+
+<summary><i class="fa-file-lines">:file-lines:</i> <strong>Example of Cults</strong> — Cult of Mithras</summary>
+
+The Cult of Mithras was a cult of the Persian sun god Mithras that reached Rome in the first century CE.
+
+</details>
+
+## Christianity
+
+### Roman Religion
+
+Roman religion [followed Greek mythology but changed the names of the gods](#user-content-fn-40)[^40]. It was less of a spiritual experience and more of a "contractual" relationship between man and the gods. Sacrifice to the gods means that you would be rewarded!
+
+In 6 CE, Augustus Caesar turned the Kingdom of Judah into the Roman province of Judea. During this time, Jews split into those who cooperated with Rome and those who didn't.
+
+### Jesus Christ
+
+In the bible, God was said to have sent the Angel Gabriel to Mary to give her the message that she was going to give birth to Jesus. Jesus's birth is celebrated on Christmas.
+
+Jesus was said to have been born in Bethlehem under a volatile society, where Judea was under Roman control and was heavily taxed and suppressed[^41]. Not much is known about Jesus's childhood, but as an adult, Jesus was said to have been a Jewish Rabbi who followed Jewish law but wanted reforms.
+
+Jesus meditated in the desert, fasting for 40 days. During this time, the Devil is said to have visited Jesus to try to tempt him with food. Jesus resisted all of this. Today, Christians honor this as Lent, where they give up something they love for 40 days.
+
+### Jesus's Message
+
+Essentially, Christianity emerged out of Judaism. In the midst of the confusion and conflict in Judea, Jesus began his public preaching.
+
+He was said to have performed several miracles...
+
+* He turned water into wine.
+* He fed multitudes of people with just a few loaves and fish.
+* He walked on water.
+* He raised [the dead](#user-content-fn-42)[^42].
+
+> "You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, if any one strikes you on the right cheek, turn to that person the other cheek." — Jesus Christ
+
+Christianity appealed to the poorest of the plebeian class, slaves, women, and soldiers.
+
+> "Our Roman gods demand sacrifices from their subjects. Without their blessings, the Roman Empire is doomed. Yet those who follow the teachings of Christ refuse to make sacrifices to the gods, claiming that their God is the only true god. What nonsense!!! Those silly people and their silly ideas. They should get on their knees and worship the ground that Jupiter and Minerva have create." — Maximus, Roman Governor
+
+### Death and Resurrection of Jesus
+
+The night before Jesus was arrested for treason, he blessed his last Passover dinner. Under the reign of Tiberius, Rome executed Jesus via crucifixion.
+
+Christians believe that after three days, Jesus rose from the dead and later ascended into heaven. In Christianity they call this event the resurrection of Christ. Christians believe that by rising from the dead, Jesus saved humanity from their sins. This is what Christians celebrate on Easter.
+
+After Jesus' death, his disciples said he had risen from the dead, confirming his status as Messiah. The Apostles—his closest followers—began preaching and writing that Jesus was the Son of God. Christians formed their own churches for worship, fellowship, and instruction.
+
+{% hint style="info" %}
+## Note
+
+Those who believed in these teachings were Christians.
+{% endhint %}
+
+Christianity begins in 30 CE. Most people around Jesus (disciples) couldn’t read or write so they told stories. By 200 CE there may have been as many as fifty Gospels although there are only _four_ in the Bible.
+
+### First Days of Christianity
+
+Christianity was a proselytizing[^43] religion. Christian’s belief in one God threatened the emperor’s power/ability to control his people. Judaism was different because Jews recognized Roman political authority and did not try to convert people. Christians spread their ideas throughout the empire, which undermined Roman authority.
 
 ***
 
@@ -455,16 +530,28 @@ This page is incomplete!
 
 [^32]: Some statues inspire that Augustus is as powerful as a god.
 
-[^33]: **Diaspora** _n. \[dai-as-po-ra]_ — The spreading out of people from an orignating location; a dispersal from a homeland.
-
-[^34]: **Covenant** _n. \[cu-ve-nant]_ — A binding agreement or pact made between two parties.
+[^33]: **Covenant** _n. \[cu-ve-nant]_ — A binding agreement or pact made between two parties.
 
     ㅤ
 
     In a _religious_ context, the covenant with your God can be interpreted as your promise to God for devotion and belief.
 
-[^35]: Specifically to Goshen, a fertile area in the Nile Delta.
+[^34]: Specifically to Goshen, a fertile area in the Nile Delta.
 
-[^36]: **Exodus** _n. \[ek-so-dus]_ — The departure of a large group of people.
+[^35]: **Exodus** _n. \[ek-so-dus]_ — The departure of a large group of people.
 
-[^37]: Friday night and Saturday.
+[^36]: Friday night and Saturday.
+
+[^37]: **Desecrate** _v. \[de-si-crait]_ — To destroy something that is sacred, not necessarily by physical means.
+
+[^38]: **Diaspora** _n. \[dai-as-po-ra]_ — The spreading out of people from an orignating location; a dispersal from a homeland.
+
+[^39]: **Cult** _n. \[cult]_ — A group of people who deeply believe in something.
+
+[^40]: The main principles were the same.
+
+[^41]: Both economically and politically.
+
+[^42]: Lazarus was resurructed by Jesus.
+
+[^43]: **Proselytizing** _adj. \[pro-sel-i-tai-zing]_ — Attempting to convert people into a religion.
