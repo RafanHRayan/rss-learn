@@ -675,7 +675,7 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <summary><i class="fa-video">:video:</i> Incenter Construction Demo Video</summary>
 
-
+{% file src="../../.gitbook/assets/incenter_construction.mp4" %}
 
 </details>
 
@@ -710,7 +710,7 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <summary><i class="fa-video">:video:</i> Orthocenter Construction Demo Video</summary>
 
-
+{% file src="../../.gitbook/assets/orthocenter_construction.mp4" %}
 
 </details>
 
@@ -743,7 +743,7 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <summary><i class="fa-video">:video:</i> Centroid Construction Demo Video</summary>
 
-
+{% file src="../../.gitbook/assets/centroid_construction (1).mp4" %}
 
 </details>
 
