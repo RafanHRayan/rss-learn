@@ -275,6 +275,33 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 <details>
 
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Median</summary>
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Tringle ABC.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+**Prelude:**
+
+* Draw $$\triangle{ABC}$$.
+* Assume that the goal is to find the median dropped from $$\angle{ABC}$$.
+
+**Construction:**
+
+1. Construct $$\overleftrightarrow{DE}$$ as the perpendicular bisector of $$\overleftrightarrow{AC}$$.
+2. Mark $$X$$ as the intersection between $$\overleftrightarrow{AC}$$ and $$\overleftrightarrow{DE}$$.
+3. Draw $$\overline{BX}$$.
+
+**Result:**
+
+* $$\overline{BX}$$ is a median of $$\triangle{ABC}$$.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Median.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+</details>
+
+
+
+<details>
+
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Rhombus</summary>
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -355,6 +382,8 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 </details>
 
+
+
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a 45° Angle</summary>
@@ -381,26 +410,28 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 <details>
 
-<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Median</summary>
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Tringle ABC.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a 15° Angle</summary>
 
 **Prelude:**
 
-* Draw $$\triangle{ABC}$$.
-* Assume that the goal is to find the median dropped from $$\angle{ABC}$$.
+* Draw $$\overline{AB}$$.
 
 **Construction:**
 
-1. Construct $$\overleftrightarrow{DE}$$ as the perpendicular bisector of $$\overleftrightarrow{AC}$$.
-2. Mark $$X$$ as the intersection between $$\overleftrightarrow{AC}$$ and $$\overleftrightarrow{DE}$$.
-3. Draw $$\overline{BX}$$.
+1. Construct equilateral $$\triangle{ABC}$$.
+2. Take one of the angles of $$\triangle{ABC}$$.
+3. Construct $$\overrightarrow{\theta{}X}$$ as the angle bisector of the chosen angle, where $$\theta{}$$ is the vertex of the chosen angle.
+4. Bisect the one of the resulting angles.
 
 **Result:**
 
-* $$\overline{BX}$$ is a median of $$\triangle{ABC}$$.
+* One of the resulting angles is a 15° angle.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Median.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% hint style="info" %}
+## Clarification
+
+The diagrams choose $$\angle{ABC}$$ to bisect originally in step 2.
+{% endhint %}
 
 </details>
 
