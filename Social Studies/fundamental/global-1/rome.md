@@ -448,14 +448,63 @@ Those who believed in these teachings were Christians.
 
 Christianity begins in 30 CE. Most people around Jesus (disciples) couldn’t read or write so they told stories. By 200 CE there may have been as many as fifty Gospels although there are only _four_ in the Bible.
 
+In 202 CE, Rome issued a law forbidding future conversion, persecution of Christians would follow. The Government was struggling and much of the instability was blamed on Christians. Eventually, Rome makes practicing Christianity punishable by _death_.
+
 ### First Days of Christianity
 
 Christianity was a proselytizing[^43] religion. Christian’s belief in one God threatened the emperor’s power/ability to control his people. Judaism was different because Jews recognized Roman political authority and did not try to convert people. Christians spread their ideas throughout the empire, which undermined Roman authority.
 
+### Gospels
+
+Before the Bible was compiled, it wasn't clear on what happened and what didn't. For example, the Gospel of John recognizes Jesus as the incarnate God. Jesus’s deification[^44] was different. The sole human manifestation of the only God in the universe. Many others recognized Jesus in different ways.
+
+## Creation of a Christian Rome
+
+### Roman Tetrarchy
+
+Emperor Diocletian divided the Empire into a tetrarchy. This quickly became a civil war and led to the rise of Constantine.
+
+### Constantine
+
+Legend has it that Constantine had a dream where he saw [a symbol in the sky](#user-content-fn-45)[^45] and the words "conquer by this." When he wakes up, he has the symbol emblazoned onto soldier's shields. As he goes to war, Constantine goes on to reunite the empire.
+
+Constantine appoints Christian advisors and Bishops to the emperor’s court. He confiscates pagan[^46] treasuries. He builds and repairs Christian Churches and grants tax concessions to the Christian Leaders.
+
+This appeals all Romans to Christianity, and religion begins to determine politics.
+
+### Clarification of Christianity
+
+Tertullian of Carthage (160-220 CE) had an idea, called _trinitas_. It stated that God was [the Father](#user-content-fn-47)[^47], [the Son](#user-content-fn-48)[^48], and [the Holy Spirit](#user-content-fn-49)[^49], yet each of the three were not each other.
+
+### Council of Nicaea
+
+As Christianity and politics became more intertwined, Constantine sought to unify the Church. In 325, Constantine called the Council of Nicaea to establish a set Christian Orthodoxy. The Church had to be unified for the Empire to be unified.
+
+### Creation of the First Official Bible
+
+There were about 50 gospels, yet only 4 were approved by Constantine; the others were removed. The removed gospel typically contradicted the beliefs of Constantine and were, consequently, not favored.
+
+For example, The Gospel of Thomas eliminates the need for priests. Constantine wants priests to maintain the new Christian Orthodoxy and to provide organization. To accept the Gospel of Mary Magdalene would be to accept that women can have a place in the Church, and therefore the government. Thus, both were omitted.
+
+Hours before his death, Constantine was baptized to unify the Roman Empire by legalizing Christianity, supporting the church, and cleansing his sins.
+
+### Theodosius I
+
+Despite the Nicene Creed, many Christians continued to read banned gospels and held unapproved beliefs. Many Romans also continued to practice the polytheistic Roman religion and followed sacred cults like Mithras.
+
+Theodosius I made a few changes...
+
+* He made haruspicy[^50] punishable by death.
+* He ended [the Olympics](#user-content-fn-51)[^51] in Greece.
+* He encouraged the destruction of Pagan temples.
+* He made Pagan holidays workdays.
+
+Eventually, Christianity and Pagan celebrations blend together, fostering practices like handing ornaments on a tree on Christmas.
+
 ***
 
-{% hint style="danger" %}
-This page is incomplete!
+{% hint style="warning" %}
+This page may be incomplete...
 {% endhint %}
 
 [^1]: Technically Romulus _and_ his brother Remus founded Rome. But, Remus was murdered by his own brother and Romulus ended up as the first king.
@@ -555,3 +604,19 @@ This page is incomplete!
 [^42]: Lazarus was resurructed by Jesus.
 
 [^43]: **Proselytizing** _adj. \[pro-sel-i-tai-zing]_ — Attempting to convert people into a religion.
+
+[^44]: **Deification** _n. \[dee-if-i-cay-shun]_ — The becoming of god-like.
+
+[^45]: It was a mix of the Roman letters _chi_ and _rho_, the first two letters in the word Christ.
+
+[^46]: **Pagan** _n. \[pay-gen]_ — Any religion that is not Christianity.
+
+[^47]: Jewish originating God.
+
+[^48]: Jesus.
+
+[^49]: The godlike that works on Earth.
+
+[^50]: **Haruspicy** _n. \[ha-rus-pi-ci]_ — The practice of predicting the future through reading animal entrails.
+
+[^51]: The Olympics were not held again until 1896.
