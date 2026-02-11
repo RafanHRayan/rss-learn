@@ -50,14 +50,28 @@ layout:
 
 ## Rome
 
-Rome's time as a monarchy, as a republic, as an empire, Punic Wars, Roman politics, the Gracchi brothers, Julius Caesar, Augustus Caesar, Pax Romana, Judaism, ...
+**Contents:** Rome's time as a monarchy, as a republic, as an empire, Punic Wars, Roman politics, the Gracchi brothers, Julius Caesar, Augustus Caesar, slavery in Rome, and the Pax Romana.
 
 {% content-ref url="rome.md" %}
 [rome.md](rome.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-## Editor Note
+## The Rise of Monotheism
 
-May split Rome unit into _Rome_ and _Rise of Monotheism_.
-{% endhint %}
+**Contents:** Judaism, Christianity, and the conversion of Rome into Christianity.
+
+{% content-ref url="the-rise-of-monotheism.md" %}
+[the-rise-of-monotheism.md](the-rise-of-monotheism.md)
+{% endcontent-ref %}
+
+## ...
+
+**Contents:** ...
+
+\[Coming Soon]
+
+## ...
+
+**Contents:** ...
+
+\[Coming Soon]
