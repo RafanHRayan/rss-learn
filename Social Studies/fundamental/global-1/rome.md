@@ -499,7 +499,7 @@ Theodosius I made a few changes...
 * He encouraged the destruction of Pagan temples.
 * He made Pagan holidays workdays.
 
-Eventually, Christianity and Pagan celebrations blend together, fostering practices like handing ornaments on a tree on Christmas.
+Eventually, Christianity and Pagan celebrations blend together, fostering practices like hanging ornaments on a tree on Christmas.
 
 ***
 
