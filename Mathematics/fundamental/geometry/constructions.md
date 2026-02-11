@@ -704,6 +704,12 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/orthocenter.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+{% hint style="success" %}
+## Tip
+
+The orthocenter of a _right_ triangle is always the vertex of the right angle!
+{% endhint %}
+
 </details>
 
 <details>
