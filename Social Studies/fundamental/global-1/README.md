@@ -18,6 +18,8 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: true
 ---
 
 # Global 1
@@ -56,7 +58,7 @@ layout:
 [rome.md](rome.md)
 {% endcontent-ref %}
 
-## The Rise of Monotheism
+## Rise of Monotheism
 
 **Contents:** Judaism, Christianity, and the conversion of Rome into Christianity.
 
@@ -64,11 +66,13 @@ layout:
 [the-rise-of-monotheism.md](the-rise-of-monotheism.md)
 {% endcontent-ref %}
 
-## ...
+## Byzantine Empire
 
 **Contents:** ...
 
-\[Coming Soon]
+{% content-ref url="byzantine-empire.md" %}
+[byzantine-empire.md](byzantine-empire.md)
+{% endcontent-ref %}
 
 ## ...
 

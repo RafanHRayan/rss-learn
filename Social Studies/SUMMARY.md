@@ -7,7 +7,8 @@
 * [Global 1](fundamental/global-1/README.md)
   * [First Civilizations](fundamental/global-1/first-civilizations.md)
   * [Rome](fundamental/global-1/rome.md)
-  * [The Rise of Monotheism](fundamental/global-1/the-rise-of-monotheism.md)
+  * [Rise of Monotheism](fundamental/global-1/the-rise-of-monotheism.md)
+  * [Byzantine Empire](fundamental/global-1/byzantine-empire.md)
 
 ## Advanced
 
