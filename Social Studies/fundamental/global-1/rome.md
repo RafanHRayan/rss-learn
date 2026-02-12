@@ -1,7 +1,7 @@
 ---
 description: >-
-  Rome's time as a monarchy, as a republic, as an empire, Punic Wars, Roman
-  politics, the Gracchi brothers, Julius Caesar, Augustus Caesar, slavery in
+  Rome's time as a monarchy, as a republic, as an empire, Punic Wars, roman
+  politics, the Gracchi brothers, Julius and Augustus Caesar, slavery in
   Rome, and the Pax Romana.
 ---
 
