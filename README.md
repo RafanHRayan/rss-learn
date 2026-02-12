@@ -1,20 +1,6 @@
 ---
 description: Welcome to your team’s developer platform
 icon: house-chimney
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 metaLinks: {}
 ---
 
@@ -23,6 +9,8 @@ metaLinks: {}
 RSS Industries brings you learning[^1] materials on various subjects! Go through them using the dropdown in the top-left corner. Learn away....
 
 > "The beautiful thing about learning is nobody can take it away from you." — B.B. Kingloc
+
+<p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search RSS Learn</button></p>
 
 ***
 
