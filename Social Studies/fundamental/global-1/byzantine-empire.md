@@ -36,6 +36,12 @@ The Hippodrome was&#x20;
 
 Both of the above quotes are written by the same writer.
 
+***
+
+{% hint style="danger" %}
+This page is incomplete!
+{% endhint %}
+
 [^1]: Though this is the death of the Roman empire, the Byzantine Empire lives on as Rome for over one thousand _more_ years.
 
 [^2]: Though this is now referenced as the Byzantine Empire, it was still known as Rome at the time.
