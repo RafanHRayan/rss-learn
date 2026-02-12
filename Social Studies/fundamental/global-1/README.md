@@ -50,7 +50,7 @@ layout:
 
 ## Rome
 
-**Contents:** Rome's time as a monarchy, as a republic, as an empire, Punic Wars, roman politics, the Gracchi brothers, Julius and Augustus Caesar, slavery in Rome, and the Pax Romana.
+**Contents:** Rome's time as a monarchy, as a republic, as an empire, Punic Wars, Roman politics, the Gracchi brothers, Julius and Augustus Caesar, slavery in Rome, and the Pax Romana.
 
 {% content-ref url="rome.md" %}
 [rome.md](rome.md)
