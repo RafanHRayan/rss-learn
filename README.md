@@ -10,7 +10,15 @@ RSS Industries brings you learning[^1] materials on various subjects! Go through
 
 > "The beautiful thing about learning is nobody can take it away from you." — B.B. Kingloc
 
+***
+
+## Search
+
 <p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search RSS Learn</button></p>
+
+{% hint style="info" %}
+If you're searching for a page about an actual subject, **change the filter**.
+{% endhint %}
 
 ***
 
