@@ -14,7 +14,15 @@ RSS Industries brings you learning[^1] materials on various subjects! Go through
 
 ## Search
 
-<p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search RSS Learn</button></p>
+{% columns %}
+{% column %}
+<p align="right"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search RSS Learn</button></p>
+{% endcolumn %}
+
+{% column %}
+<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask AI</button>
+{% endcolumn %}
+{% endcolumns %}
 
 {% hint style="info" %}
 If you're searching for a page about an actual subject, **change the filter**.
