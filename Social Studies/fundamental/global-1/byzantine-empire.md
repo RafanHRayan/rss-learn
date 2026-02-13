@@ -26,7 +26,11 @@ From 527-565 CE, Justinian sought to [renovate Rome](#user-content-fn-4)[^4], fi
 
 ## The Hippodrome
 
-The Hippodrome was&#x20;
+The Hippodrome was...
+
+{% hint style="info" %}
+**Editor Note** — Continue writing starting at slide 22.
+{% endhint %}
 
 ## Viewpoints of Justinian
 
