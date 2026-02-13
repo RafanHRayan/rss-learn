@@ -18,7 +18,7 @@ To further defend what was now left of Rome, the capital (Constantinople) decide
 
 Justinian was not anyone of royal blood. His uncle—who was originally a pig farmer—made his name for himself as a soldier in the army. He continued to gain more and more support until he was declared emperor. Justinian was named emperor after his uncle died.
 
-### Thodora
+### Theodora
 
 Theodora also wasn't of royal blood. Her father was a bear-trainer, but she was named co-empress by Justinian. Justinian consulted her on political matters.
 
