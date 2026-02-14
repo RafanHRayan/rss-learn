@@ -15,20 +15,30 @@ RSS Industries brings you learning materials on various things!
 Lol + Sample Text = Smthn Funni
 
 {% hint style="info" %}
-### Note
+#### Note
 
 I don't just mean you.
+
 {% hint style="info" %}
-### Clarification
+#### Clarification
 
 I mean your mom, too.
+
 > Dan dan dannnnnnn!!!!
+{% endhint %}
+
+{% hint style="info" %}
+#### Clarification 2.0
+
+Here's another one!
+
+> Dan dan dannnnnnnnnnnnaaananananannn!!!!
 {% endhint %}
 {% endhint %}
 
 </details>
 
-Don't forget about how much I *love* turtles!
+Don't forget about how much I _love_ turtles!
 
 <details>
 
