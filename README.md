@@ -22,15 +22,17 @@ metaLinks: {}
 
 # Welcome to RSS Learn!
 
-RSS Industries brings you learning[^1] materials on various subjects! Browse through this expansive[^2] knowledge base using the dropdown in the top-left corner. Learn away....
+RSS Industries brings you learning materials on various things! Browse through this expansive[^1] knowledge base using the dropdown in the top-left corner. Learn away....
 
 > "The beautiful thing about learning is nobody can take it away from you." — B.B. Kingloc
 
 ***
 
-## Libraries
+<h2 align="center">Libraries</h2>
 
 Here are all of our available libraries! You may also access them—and this homepage—from anywhere in the dropdown in the top-left corner of any page.
+
+<h4 align="center">Educational</h4>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a></p>
 
@@ -38,9 +40,13 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a></p>
 
+<h4 align="center">Gaming Reference</h4>
+
+<p align="center"><a href="./" class="button secondary" data-icon="swords">Coming Soon</a></p>
+
 ***
 
-## Extra Resources
+<h2 align="center">Extra Resources</h2>
 
 {% content-ref url="study-steps.md" %}
 [study-steps.md](study-steps.md)
@@ -52,14 +58,14 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-## Upcoming
+<h2 align="center">Upcoming</h2>
+
+> Swords? What are those?
 
 > There may be a new logo coming soon...
 
 ***
 
-<p align="right"><strong>RSS Learn</strong> v14.0</p>
+<p align="right"><strong>RSS Learn</strong> v14.1</p>
 
-[^1]: Get it? :D
-
-[^2]: Hell no it's not.
+[^1]: Hell no it's not.
