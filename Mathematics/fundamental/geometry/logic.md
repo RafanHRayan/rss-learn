@@ -84,7 +84,7 @@ The base conditional and its contrapositive are logically equivalent. The invers
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> The When Case</summary>
+<summary><i class="fa-note">:note:</i> The When Case</summary>
 
 **Example:** “I bring my own bags when I go to the grocery store.”
 
@@ -96,7 +96,7 @@ The base conditional and its contrapositive are logically equivalent. The invers
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> The Unless Case</summary>
+<summary><i class="fa-note">:note:</i> The Unless Case</summary>
 
 **Example:** “I won’t plant anything unless the soil tests well.”
 
@@ -108,7 +108,7 @@ The base conditional and its contrapositive are logically equivalent. The invers
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> The Only If Case</summary>
+<summary><i class="fa-note">:note:</i> The Only If Case</summary>
 
 **Example:** “I cry only if I’m sad.”
 
@@ -120,7 +120,7 @@ The base conditional and its contrapositive are logically equivalent. The invers
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> The Every Case</summary>
+<summary><i class="fa-note">:note:</i> The Every Case</summary>
 
 **Example:** “Every NBA player is taller than me.”
 
@@ -132,7 +132,7 @@ The base conditional and its contrapositive are logically equivalent. The invers
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> The Not x If y Case</summary>
+<summary><i class="fa-note">:note:</i> The Not x If y Case</summary>
 
 **Example:** “No wild grizzly bears live in New York.”
 
@@ -166,7 +166,7 @@ The following list of rules and laws will help prove different arguments.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> DeMorgan's Laws</summary>
+<summary><i class="fa-note">:note:</i> DeMorgan's Laws</summary>
 
 If a junction is inside negated parentheses, each simple statement is negated and the junction symbol is switched to the other.
 
@@ -176,9 +176,11 @@ $$\neg{}(P\lor{}\neg{}Q) \\ \therefore{}\neg{}P\land{}Q$$
 
 </details>
 
+
+
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Modus Ponens</summary>
+<summary><i class="fa-note">:note:</i> Modus Ponens</summary>
 
 If a conditional is true and its antecedent is true, the consequent must also be true.
 
@@ -188,7 +190,7 @@ $$Z\rightarrow{}\neg{}G \\ Z \\ \therefore{}\neg{}G$$
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Modus Tollens</summary>
+<summary><i class="fa-note">:note:</i> Modus Tollens</summary>
 
 If a conditional is true and its consequent is false, the antecedent must also be false.
 
@@ -198,7 +200,7 @@ $$Q\rightarrow{}R \\ \neg{}R \\ \therefore{}\neg{}Q$$
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Chain Rule</summary>
+<summary><i class="fa-note">:note:</i> Chain Rule</summary>
 
 If a first statement implies a second statement and the second statement implies a third statement, the first statement will also imply the third statement.
 
@@ -206,9 +208,11 @@ $$A\rightarrow{}B \\ B\rightarrow{}C \\ \therefore{}A\rightarrow{}C$$
 
 </details>
 
+
+
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Conjunction Rule</summary>
+<summary><i class="fa-note">:note:</i> Conjunction Rule</summary>
 
 If two statements are true, the conjunction of those two statements is also true.
 
@@ -218,7 +222,7 @@ $$A \\ B \\ \therefore{}A\land{}B$$
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Conjunction Elimination Rule</summary>
+<summary><i class="fa-note">:note:</i> Conjunction Elimination Rule</summary>
 
 If a conjunction is true, the two statements are also true.
 
@@ -226,9 +230,11 @@ $$X\land{}Y \\ \therefore{}X \\ \therefore{}Y$$
 
 </details>
 
+
+
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Disjunction Introduction Rule</summary>
+<summary><i class="fa-note">:note:</i> Disjunction Introduction Rule</summary>
 
 If a statement is true, any disjunction containing the statement is true.
 
@@ -238,7 +244,7 @@ $$A \\ \therefore{}A\lor{}B$$
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Disjunctive Syllogism Rule</summary>
+<summary><i class="fa-note">:note:</i> Disjunctive Syllogism Rule</summary>
 
 If a disjunction is true and one of the statements is false, the other statement is true.
 
@@ -246,9 +252,11 @@ $$W\lor{}\neg{}E \\ E \\ \therefore{}W$$
 
 </details>
 
+
+
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Double Negation Rule</summary>
+<summary><i class="fa-note">:note:</i> Double Negation Rule</summary>
 
 A statement that has been negated twice is equivalent to the original statement.
 
@@ -258,7 +266,7 @@ $$\neg{}\neg{}X \\ \therefore{}X$$
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> <a data-footnote-ref href="#user-content-fn-10">Law of the Contrapositive</a></summary>
+<summary><i class="fa-note">:note:</i> <a data-footnote-ref href="#user-content-fn-10">Law of the Contrapositive</a></summary>
 
 If a conditional is true, its contrapositive is also true.
 

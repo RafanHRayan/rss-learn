@@ -8,11 +8,11 @@ description: Fundamental postulates, definitions, and theorems of Euclidean geom
 
 Around 300 BCE, when famous mathematician Euclid gave birth to what we call Euclidean Geometry, he defined many different—and fittingly called—definitions. The most important are as follows.
 
-|             I. A point is that which has no part.            |
-| :----------------------------------------------------------: |
-|             II. A line is length without breadth.            |
-|  V. A surface[^1] is that which has length and breadth only. |
-| XXXVI. A space is that which has length, breadth, and width. |
+|                       **I.** A **point** is that which has no part.                       |
+| :---------------------------------------------------------------------------------------: |
+|                       **II.** A **line** is length without breadth.                       |
+| **V.** A [**surface**](#user-content-fn-1)[^1] is that which has length and breadth only. |
+|            **XXXVI.** A **space** is that which has length, breadth, and width.           |
 
 Essentially, points are locations, lines are one-dimensional figures, planes are two-dimensional figures, and spaces are three-dimensional figures. These are fundamental concepts into understanding more advanced ones.
 
@@ -57,7 +57,7 @@ The following are all the ways angles relate to other angles.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Congruent Angles</summary>
+<summary><i class="fa-note">:note:</i> Congruent Angles</summary>
 
 Two angles are congruent if and only if their measures are equal.
 
@@ -65,7 +65,7 @@ Two angles are congruent if and only if their measures are equal.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Adjacent Angles</summary>
+<summary><i class="fa-note">:note:</i> Adjacent Angles</summary>
 
 Two angles are adjacent if and only if they share a vertex and a ray, _and_ don't cause overlap with each other.
 
@@ -73,7 +73,7 @@ Two angles are adjacent if and only if they share a vertex and a ray, _and_ don'
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Complementary Angles</summary>
+<summary><i class="fa-note">:note:</i> Complementary Angles</summary>
 
 Two angles are complementary if and only if their measures sum to 90°.
 
@@ -81,7 +81,7 @@ Two angles are complementary if and only if their measures sum to 90°.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Supplementary Angles</summary>
+<summary><i class="fa-note">:note:</i> Supplementary Angles</summary>
 
 Two angles are supplementary if and only if their measures sum to 180°.
 
@@ -89,7 +89,7 @@ Two angles are supplementary if and only if their measures sum to 180°.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Vertical Angles</summary>
+<summary><i class="fa-note">:note:</i> Vertical Angles</summary>
 
 Two angles are verticals angles if and only if their rays are opposite rays and they share a vertex.
 
@@ -97,7 +97,7 @@ Two angles are verticals angles if and only if their rays are opposite rays and 
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Linear Pairs</summary>
+<summary><i class="fa-note">:note:</i> Linear Pairs</summary>
 
 Two angles form a linear pair if and only if they are adjacent _**and**_ supplementary.
 
@@ -117,7 +117,7 @@ A relation is an association between two elements in a space. A relation is an e
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Reflexive Property</summary>
+<summary><i class="fa-note">:note:</i> Reflexive Property</summary>
 
 Any object is associated with itself (i.e. $$A$$ is associated with $$A$$).
 
@@ -125,7 +125,7 @@ Any object is associated with itself (i.e. $$A$$ is associated with $$A$$).
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Symmetric Property</summary>
+<summary><i class="fa-note">:note:</i> Symmetric Property</summary>
 
 If an object is associated with a second object, then the second object is associated with the first (i.e. $$A$$ is associated with $$B$$, thus  is associated with $$A$$).
 
@@ -133,7 +133,7 @@ If an object is associated with a second object, then the second object is assoc
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Transitive Property</summary>
+<summary><i class="fa-note">:note:</i> Transitive Property</summary>
 
 If an object is associated with a second object and the second object is associated with a third object, then the first object is also associated with the third object (i.e. $$A$$ is associated with $$B$$ and $$B$$ is associated with $$C$$, therefore $$A$$ is associated with $$C$$).
 
@@ -145,7 +145,7 @@ Keep in mind that though these are properties, they are only all satisfied only 
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Collinear Points</summary>
+<summary><i class="fa-note">:note:</i> Collinear Points</summary>
 
 Points are collinear if and only if they are on the same line (i.e. in $$\overline{ABC}$$, $$A$$, $$B$$, and $$C$$ are collinear).
 
@@ -153,7 +153,7 @@ Points are collinear if and only if they are on the same line (i.e. in $$\overli
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Concurrent Lines</summary>
+<summary><i class="fa-note">:note:</i> Concurrent Lines</summary>
 
 Lines are concurrent if they all meet (share) at the same vertex (i.e. $$\overrightarrow{XA}$$, $$\overrightarrow{XB}$$, and $$\overrightarrow{XC}$$ are concurrent because they all meet at point $$X$$).
 
@@ -161,7 +161,7 @@ Lines are concurrent if they all meet (share) at the same vertex (i.e. $$\overri
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Opposite Rays</summary>
+<summary><i class="fa-note">:note:</i> Opposite Rays</summary>
 
 Rays are opposite rays if and only if they share a vertex and are angled in a way that they would form a line together (i.e. $$\overrightarrow{GF}$$  and $$\overrightarrow{GH}$$ would be opposite rays if and only if $$\overleftrightarrow{FGH}$$ exists).
 
@@ -169,7 +169,7 @@ Rays are opposite rays if and only if they share a vertex and are angled in a wa
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Midpoints</summary>
+<summary><i class="fa-note">:note:</i> Midpoints</summary>
 
 A point is a midpoint if and only if the regions behind and in front of it are equal in length (i.e. $$M$$ would be the midpoint of $$\overline{XY}$$ if and only if $$XM=MY$$).
 
@@ -177,7 +177,7 @@ A point is a midpoint if and only if the regions behind and in front of it are e
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Segment Bisectors</summary>
+<summary><i class="fa-note">:note:</i> Segment Bisectors</summary>
 
 A line is a segment bisector if and only if the point at which it intersects is the midpoint (i.e. $$\overleftrightarrow{AB}$$ intersects $$\overline{CD}$$ at $$X$$; if $$X$$ is the midpoint of $$\overline{CD}$$, then $$\overleftrightarrow{AB}$$ would be a segment bisector).
 
@@ -185,7 +185,7 @@ A line is a segment bisector if and only if the point at which it intersects is 
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Angle Bisectors</summary>
+<summary><i class="fa-note">:note:</i> Angle Bisectors</summary>
 
 A line is an angle bisector if and only if the line passes through the angle such that the two partition angles created are equivalent (i.e. $$\overrightarrow{GH}$$ splits the angle $$\angle{}AGB$$; if $$\angle{}AGH$$ and $$\angle{}HGB$$ are congruent, then $$\overrightarrow{GH}$$ is an angle bisector).
 
@@ -195,7 +195,7 @@ A line is an angle bisector if and only if the line passes through the angle suc
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Partition Postulate</summary>
+<summary><i class="fa-note">:note:</i> Partition Postulate</summary>
 
 The whole is equivalent to the sum of its parts.
 
@@ -203,15 +203,17 @@ The whole is equivalent to the sum of its parts.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Substitution Postulate</summary>
+<summary><i class="fa-note">:note:</i> Substitution Postulate</summary>
 
 Distinct expressions of equivalent measure may be substituted for one another in any equation.
 
 </details>
 
+
+
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Addition Postulate</summary>
+<summary><i class="fa-note">:note:</i> Addition Postulate</summary>
 
 When _**stuff**_ is added to equivalent _**stuff**_, the sums are equivalent.
 
@@ -219,7 +221,7 @@ When _**stuff**_ is added to equivalent _**stuff**_, the sums are equivalent.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Subtraction Postulate</summary>
+<summary><i class="fa-note">:note:</i> Subtraction Postulate</summary>
 
 When _**stuff**_ is subtracted from equivalent _**stuff**_, the differences are equivalent.
 
@@ -227,7 +229,7 @@ When _**stuff**_ is subtracted from equivalent _**stuff**_, the differences are 
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Multiplication Postulate</summary>
+<summary><i class="fa-note">:note:</i> Multiplication Postulate</summary>
 
 When _**stuff**_ is multiplied by equivalent _**stuff**_, the products are equivalent.
 
@@ -235,7 +237,7 @@ When _**stuff**_ is multiplied by equivalent _**stuff**_, the products are equiv
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Division Postulate</summary>
+<summary><i class="fa-note">:note:</i> Division Postulate</summary>
 
 When _**stuff**_ is divided by equivalent _**stuff**_, the quotients are equivalent.
 
@@ -251,7 +253,7 @@ In the Addition, Subtraction, Multiplication, and Division Postulates, the word 
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of Congruence (<span class="math">\text{}\cong{}</span>)</summary>
+<summary><i class="fa-note">:note:</i> Definition of Congruence (<span class="math">\text{}\cong{}</span>)</summary>
 
 If two objects are congruent, their measures are equal; the vice versa is also true.
 
@@ -259,7 +261,15 @@ If two objects are congruent, their measures are equal; the vice versa is also t
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of an Angle Bisector</summary>
+<summary><i class="fa-note">:note:</i> Definition of a Segment Bisector</summary>
+
+If a line is a segment bisector, then it intersects at the other line's midpoint; the vice versa is also true.
+
+</details>
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Definition of an Angle Bisector</summary>
 
 If an angle bisector exists, then the two partition angles formed by the bisector will be equivalent in measure; the vice versa is also true.
 
@@ -267,7 +277,7 @@ If an angle bisector exists, then the two partition angles formed by the bisecto
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of Complementary Angles</summary>
+<summary><i class="fa-note">:note:</i> Definition of Complementary Angles</summary>
 
 If two angles are complementary, then their measures sum to 90°; the vice versa is also true.
 
@@ -275,7 +285,7 @@ If two angles are complementary, then their measures sum to 90°; the vice versa
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of Supplementary Angles</summary>
+<summary><i class="fa-note">:note:</i> Definition of Supplementary Angles</summary>
 
 If two angles are supplementary, then their measures sum to 180°; the vice versa is also true.
 
@@ -283,7 +293,7 @@ If two angles are supplementary, then their measures sum to 180°; the vice vers
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Linear Pair</summary>
+<summary><i class="fa-note">:note:</i> Definition of a Linear Pair</summary>
 
 If two angles form a linear pair, then they are adjacent and supplementary; the vice versa is also true.
 
@@ -291,7 +301,7 @@ If two angles form a linear pair, then they are adjacent and supplementary; the 
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Midpoint</summary>
+<summary><i class="fa-note">:note:</i> Definition of a Midpoint</summary>
 
 If there is a midpoint on a line, then the regions before and after the midpoint are equal in measure; the vice versa is also true.
 
@@ -299,17 +309,9 @@ If there is a midpoint on a line, then the regions before and after the midpoint
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of Perpendicular Lines (<span class="math">\text{}\perp{} </span>)</summary>
+<summary><i class="fa-note">:note:</i> Definition of Perpendicular Lines (<span class="math">\text{}\perp{} </span>)</summary>
 
 If two lines are perpendicular, then they form 90° angles at their intersection; the vice versa is also true.
-
-</details>
-
-<details>
-
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Segment Bisector</summary>
-
-If a line is a segment bisector, then it intersects at the other line's midpoint; the vice versa is also true.
 
 </details>
 
@@ -317,4 +319,4 @@ If a line is a segment bisector, then it intersects at the other line's midpoint
 
 Using these postulates, definitions, and properties, you should be able to create proofs to prove different aspects of diagrams (proving that an angle is supplementary to another angle, that a segment bisects and angle, etc.).
 
-[^1]: What we now call a **plane**.
+[^1]: **What we now call a plane.**
