@@ -14,9 +14,13 @@ RSS Industries brings you learning[^1] materials on various subjects! Go through
 
 ## Libraries
 
-* [Mathematics](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/ "mention")
-* [Science](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/ "mention")
-* [Social Studies](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/ "mention")
+Here are all of our available libraries! You may also access them from anywhere in the dropdown in the top left corner of any page.
+
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a></p>
+
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/" class="button primary" data-icon="flask">Science</a></p>
+
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a></p>
 
 ***
 
