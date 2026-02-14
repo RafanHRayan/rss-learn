@@ -1,5 +1,7 @@
 ---
-description: Judaism, Christianity, and the conversion of Rome into Christianity.
+description: >-
+  Judaism, Christianity, the conversion of Rome into Christianity, and the
+  branching of Christianity.
 ---
 
 # Rise of Monotheism
