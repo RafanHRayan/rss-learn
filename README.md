@@ -15,11 +15,14 @@ layout:
     visible: false
   metadata:
     visible: true
+  tags:
+    visible: true
+metaLinks: {}
 ---
 
 # Welcome to RSS Learn!
 
-RSS Industries brings you learning[^1] materials on various subjects! Go through them using the dropdown in the top-left corner. Learn away....
+RSS Industries brings you learning[^1] materials on various subjects! Browse through this expansive[^2] knowledge base using the dropdown in the top-left corner. Learn away....
 
 > "The beautiful thing about learning is nobody can take it away from you." — B.B. Kingloc
 
@@ -58,3 +61,5 @@ Here are all of our available libraries! You may also access them—and this hom
 <p align="right"><strong>RSS Learn</strong> v14.0</p>
 
 [^1]: Get it? :D
+
+[^2]: Hell no it's not.
