@@ -31,15 +31,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 > Hey...what's that new resource?
 
-<h2 align="center">Countdown</h2>
-
-<div class="progress">
-  <div class="progress-bar" role="progressbar" aria-valuenow="36"
-  aria-valuemin="0" aria-valuemax="100" style="width:36%">
-    <span class="sr-only">36% Complete</span>
-  </div>
-</div>
-
 ***
 
 <p align="right"><strong>RSS Learn</strong> v15.0</p>
