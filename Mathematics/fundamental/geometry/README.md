@@ -33,11 +33,6 @@ layout:
 ### Note
 
 Logic is not technically a part of Euclidean geometry, but logical thinking is important for proving different geometrical theorems. This is why it is taught in this course.
-{% hint style="info" %}
-### Inside Note
-
-This is a not inside of the one around it.
-{% endhint %}
 {% endhint %}
 
 ## Unit 2 — Postulational System
