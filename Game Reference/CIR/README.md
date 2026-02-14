@@ -14,6 +14,8 @@ The game "_released_" on \_\_\_\_\_\_\_\_\_ \_\_, \_\_\_\_\_.
 <p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search CIR wiki...</button></p>
 
 {% hint style="info" %}
+## Clarification
+
 All information marked with a "<i class="fa-location-plus">:location-plus:</i>" is _not included_ in the base Combat Initiation and is unique to CIR. All information marked with a "<i class="fa-location-exclamation">:location-exclamation:</i>" is _modified_ from the base Combat Initiation.
 {% endhint %}
 
