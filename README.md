@@ -7,8 +7,6 @@ metaLinks: {}
 
 RSS Industries brings you learning materials on various things! Browse through this expansive[^1] knowledge base using the dropdown in the top-left corner. Learn away....
 
-> "The beautiful thing about learning is nobody can take it away from you." — B.B. Kingloc
-
 ***
 
 <h2 align="center">Libraries</h2>
@@ -25,7 +23,7 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <h4 align="center">Game Reference</h4>
 
-<p align="center"><a href="./" class="button secondary" data-icon="swords">Coming Soon</a></p>
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/CNtaDR4SagJHxplwfZen/" class="button primary" data-icon="swords">Combat Initiation Refurbished</a></p>
 
 ***
 
@@ -33,10 +31,8 @@ Here are all of our available libraries! You may also access them—and this hom
 
 > Hey...what's that new resource?
 
-> Swords? What are those?
-
 ***
 
-<p align="right"><strong>RSS Learn</strong> v14.3</p>
+<p align="right"><strong>RSS Learn</strong> v15.0</p>
 
 [^1]: Hell no it's not.
