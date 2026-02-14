@@ -1,22 +1,10 @@
 ---
 hidden: true
 icon: flask
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Science
 
-This section of RSS Learn teaches you about various **science** topics. Use the sidebar to select a topic!
+This section of RSS Learn teaches you about various **science** topics. Use the sidebar or search using the bar below. You may search when on any page by using the search bar on the top or pressing <kbd>⌘</kbd>+<kbd>K</kbd>.
+
+<p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search science library...</button></p>
