@@ -36,6 +36,12 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
+## Upcoming
+
+> There may be a new logo coming soon...
+
+***
+
 <p align="right">RSS Learn v14.0</p>
 
 [^1]: Get it? :D
