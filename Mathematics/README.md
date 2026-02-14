@@ -1,22 +1,10 @@
 ---
 hidden: true
 icon: calculator-simple
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Mathematics
 
-This section of RSS Learn teaches you about various **math** topics. Use the sidebar to select a topic!
+This section of RSS Learn teaches you about various **math** topics. Use the sidebar to select a topic or search using the bar below. You may search when on any page by using the search bar on the top or pressing <kbd>⌘</kbd>+<kbd>K</kbd> or <kbd>Ctrl</kbd>+<kbd>K</kbd>.
+
+<p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search mathematics library...</button></p>
