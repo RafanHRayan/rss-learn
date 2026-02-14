@@ -205,7 +205,7 @@ Eventually, Christianity and Pagan celebrations blend together, fostering practi
 
 After Constantine, Christianity splits into two similar religions at around 700 CE due to an argument in Christianity.
 
-Icons[^20] were used at the time to keep believers in remembrance of God. Emperor Leo III wanted to remove icons, doing so in 726 CE. He felt that icons were sinful as they were made by painters for the sinful thought of profit, and attempted to represent something that couldn't be represented. Iconoclasts[^21] and Iconodules[^22] clashed, causing riots.
+Icons[^20] were used at the time to keep believers in remembrance of God. Emperor Leo III wanted to remove icons, doing so in 726 CE. He felt that icons were sinful as they were made by painters for the sinful thought of profit, and attempted to represent something that couldn't be represented. Iconoclasts[^21] and iconodules[^22] clashed, causing riots.
 
 Emperor Leo III's outlaw of icons was removed in 780 CE. Christianity, however, was split. Iconoclasts became Orthodox Christians; iconodules became Catholic Christians.
 
