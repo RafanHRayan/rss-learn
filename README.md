@@ -32,17 +32,23 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <h2 align="center">Extra Resources</h2>
 
+{% content-ref url="bxsci-schedules.md" %}
+[bxsci-schedules.md](bxsci-schedules.md)
+{% endcontent-ref %}
+
 {% content-ref url="study-steps.md" %}
 [study-steps.md](study-steps.md)
 {% endcontent-ref %}
 
-{% content-ref url="bxsci-schedules.md" %}
-[bxsci-schedules.md](bxsci-schedules.md)
+{% content-ref url="the-history-of-rss-learn.md" %}
+[the-history-of-rss-learn.md](the-history-of-rss-learn.md)
 {% endcontent-ref %}
 
 ***
 
 <h2 align="center">Upcoming</h2>
+
+> Hey...what's that new resource?
 
 > Swords? What are those?
 
@@ -50,6 +56,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-<p align="right"><strong>RSS Learn</strong> v14.1</p>
+<p align="right"><strong>RSS Learn</strong> v14.2</p>
 
 [^1]: Hell no it's not.
