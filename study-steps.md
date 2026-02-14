@@ -9,13 +9,13 @@ Try to follow these steps in order to study the most efficiently.
 
 {% stepper %}
 {% step %}
-### <i class="fa-file-pen">:file-pen:</i> Know What to Study
+### <i class="fa-seal-question">:seal-question:</i> Know What to Study
 
 Make sure you know what you need to know. This is important before studying.
 {% endstep %}
 
 {% step %}
-### <i class="fa-book">:book:</i> Reading
+### <i class="fa-book-open-cover">:book-open-cover:</i> Reading
 
 Just read. Pretty boring, but don't underestimate the power of reading notes.
 {% endstep %}
@@ -27,7 +27,7 @@ If you can, mnemonics will help you _**very**_ much on the test, making things e
 {% endstep %}
 
 {% step %}
-### <i class="fa-note">:note:</i> Writing
+### <i class="fa-memo-pad">:memo-pad:</i> Writing
 
 Rewrite your notes to ensure they are fresher in your mind. This can help with rote memorization, as writing helps you remember things easier.
 
@@ -35,7 +35,7 @@ If you want to take things a step further, you can try **blurting**. Blurting is
 {% endstep %}
 
 {% step %}
-### <i class="fa-question">:question:</i> Creating Custom Exams/Quizzes
+### <i class="fa-file-pen">:file-pen:</i> Creating Custom Exams/Quizzes
 
 Creating your own exams will force you to think about **how questions may come up on your exam**, which is very healthy for learning the material as well.
 
@@ -43,7 +43,7 @@ Once you can create your own exams, you have reached _**true mastery**_!
 {% endstep %}
 
 {% step %}
-### <i class="fa-bed">:bed:</i> Final Small Revisions
+### <i class="fa-bed">:bed:</i> The Day Before
 
 Never overdo it the day and night before the test. Light revisions are **all** that are necessary. Get a good night's sleep, and eat healthy the morning of the exam.
 {% endstep %}
@@ -57,4 +57,4 @@ Always skip questions you don't understand and mark them to return to them later
 {% endstep %}
 {% endstepper %}
 
-**Good luck on your exams! :D**
+Good luck on your exams! :D
