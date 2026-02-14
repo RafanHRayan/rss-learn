@@ -60,7 +60,7 @@ layout:
 
 ## Rise of Monotheism
 
-**Contents:** Judaism, Christianity, and the conversion of Rome into Christianity.
+**Contents:** Judaism, Christianity, the conversion of Rome into Christianity, and the branching of Christianity.
 
 {% content-ref url="the-rise-of-monotheism.md" %}
 [the-rise-of-monotheism.md](the-rise-of-monotheism.md)
@@ -68,7 +68,7 @@ layout:
 
 ## Byzantine Empire
 
-**Contents:** ...
+**Contents:** Formation of the Byzantine Empire, Justinian, and the Hagia Sophia.
 
 {% content-ref url="byzantine-empire.md" %}
 [byzantine-empire.md](byzantine-empire.md)

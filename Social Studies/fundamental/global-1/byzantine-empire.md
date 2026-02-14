@@ -1,3 +1,7 @@
+---
+description: Formation of the Byzantine Empire, Justinian, and the Hagia Sophia.
+---
+
 # Byzantine Empire
 
 ## Formation of the Byzantine Empire
