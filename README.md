@@ -1,7 +1,20 @@
 ---
 hidden: true
 icon: house-chimney
-metadata: {}
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Welcome to RSS Learn!
