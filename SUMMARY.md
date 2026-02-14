@@ -7,7 +7,6 @@
 * [Study Steps](study-steps.md)
 * [BxSci Schedules](bxsci-schedules.md)
 * [The History of RSS Learn](the-history-of-rss-learn.md)
-* [Test File](test-file.md)
 
 ## External Resources
 

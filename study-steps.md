@@ -27,7 +27,7 @@ If you can, mnemonics will help you _**very**_ much on the test, making things e
 {% endstep %}
 
 {% step %}
-### <i class="fa-memo-pad">:memo-pad:</i> Writing
+### <i class="fa-typewriter">:typewriter:</i> Writing
 
 Rewrite your notes to ensure they are fresher in your mind. This can help with rote memorization, as writing helps you remember things easier.
 
@@ -49,7 +49,7 @@ Never overdo it the day and night before the test. Light revisions are **all** t
 {% endstep %}
 
 {% step %}
-### <i class="fa-pencil">:pencil:</i> Test-Taking
+### <i class="fa-pencil-line">:pencil-line:</i> Test-Taking
 
 Always stay calm and composed. **Never** get nervous because of time, but **never** forget about it either.
 
