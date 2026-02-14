@@ -2,7 +2,7 @@
 description: Judaism, Christianity, and the conversion of Rome into Christianity.
 ---
 
-# The Rise of Monotheism
+# Rise of Monotheism
 
 ## Judaism
 
@@ -201,6 +201,14 @@ Theodosius I made a few changes...
 
 Eventually, Christianity and Pagan celebrations blend together, fostering practices like hanging ornaments on a tree on Christmas.
 
+## The Branching of Christianity
+
+After Constantine, Christianity splits into two similar religions at around 700 CE due to an argument in Christianity.
+
+Icons[^20] were used at the time to keep believers in remembrance of God. Emperor Leo III wanted to remove icons, doing so in 726 CE. He felt that icons were sinful as they were made by painters for the sinful thought of profit, and attempted to represent something that couldn't be represented. Iconoclasts[^21] and Iconodules[^22] clashed, causing riots.
+
+Emperor Leo III's outlaw of icons was removed in 780 CE. Christianity, however, was split. Iconoclasts became Orthodox Christians; iconodules became Catholic Christians.
+
 ***
 
 {% hint style="warning" %}
@@ -248,3 +256,9 @@ This page may be incomplete...
 [^18]: **Haruspicy** _n. \[ha-rus-pi-ci]_ — The practice of predicting the future through reading animal entrails.
 
 [^19]: The Olympics were not held again until 1896.
+
+[^20]: **Icon** _n. \[ai-con]_ — A religious work of art that is used for devotional purposes in Christianity.
+
+[^21]: **Iconoclast** _n. \[ai-con-no-clast]_ — Someone who wishes for icons to be removed, believing that they are sinful.
+
+[^22]: **Iconodule** _n. \[ai-con-no-jul]_ — Someone who venerates icons, using them to remember God.
