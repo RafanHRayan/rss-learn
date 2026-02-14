@@ -5,7 +5,7 @@ metaLinks: {}
 
 # Welcome to RSS Learn!
 
-RSS Industries brings you learning materials on various things! Browse through this expansive[^1] knowledge base using the dropdown in the top-left corner. Learn away....
+RSS Industries brings you learning materials on various things! Browse through this expansive[^1] knowledge base using the dropdown in the top-left corner. Learn away...
 
 ***
 
