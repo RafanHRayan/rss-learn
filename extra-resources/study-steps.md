@@ -1,29 +1,11 @@
 ---
 description: Steps for studying success.
 icon: list-check
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # Study Steps
 
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-***
+Try to follow these steps in order to study the most efficiently.
 
 {% stepper %}
 {% step %}

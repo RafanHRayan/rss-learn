@@ -32,16 +32,16 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <h2 align="center">Extra Resources</h2>
 
-{% content-ref url="bxsci-schedules.md" %}
-[bxsci-schedules.md](bxsci-schedules.md)
+{% content-ref url="extra-resources/bxsci-schedules.md" %}
+[bxsci-schedules.md](extra-resources/bxsci-schedules.md)
 {% endcontent-ref %}
 
-{% content-ref url="study-steps.md" %}
-[study-steps.md](study-steps.md)
+{% content-ref url="extra-resources/study-steps.md" %}
+[study-steps.md](extra-resources/study-steps.md)
 {% endcontent-ref %}
 
-{% content-ref url="the-history-of-rss-learn.md" %}
-[the-history-of-rss-learn.md](the-history-of-rss-learn.md)
+{% content-ref url="extra-resources/the-history-of-rss-learn.md" %}
+[the-history-of-rss-learn.md](extra-resources/the-history-of-rss-learn.md)
 {% endcontent-ref %}
 
 ***

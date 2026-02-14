@@ -9,6 +9,6 @@ icon: book-sparkles
 
 <summary><i class="fa-house-tree">:house-tree:</i> Origins</summary>
 
-Comnig soon...
+Coming soon...
 
 </details>

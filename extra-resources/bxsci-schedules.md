@@ -1,29 +1,9 @@
 ---
 description: Schedules for the Bronx High School of Science.
 icon: bell-school
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # BxSci Schedules
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-***
 
 ## Bell Schedule
 
