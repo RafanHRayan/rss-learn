@@ -1,6 +1,7 @@
 ---
 hidden: true
 icon: house-chimney
+metadata: {}
 ---
 
 # Welcome to RSS Learn!
