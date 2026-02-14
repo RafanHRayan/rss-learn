@@ -42,6 +42,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-<p align="right">RSS Learn v14.0</p>
+<p align="right">**RSS Learn** v14.0</p>
 
 [^1]: Get it? :D
