@@ -14,7 +14,7 @@ RSS Industries brings you learning[^1] materials on various subjects! Go through
 
 ## Libraries
 
-Here are all of our available libraries! You may also access them—and this homepage—from anywhere in the dropdown in the top left corner of any page.
+Here are all of our available libraries! You may also access them—and this homepage—from anywhere in the dropdown in the top-left corner of any page.
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a></p>
 
