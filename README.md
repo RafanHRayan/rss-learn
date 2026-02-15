@@ -31,6 +31,14 @@ Here are all of our available libraries! You may also access them—and this hom
 
 > Hey...what's that new resource?
 
+<details>
+
+<summary></summary>
+
+- [ ] Previous Global 1 cirriculum
+
+</details>
+
 ***
 
 <p align="right"><strong>RSS Learn</strong> v15.0</p>
