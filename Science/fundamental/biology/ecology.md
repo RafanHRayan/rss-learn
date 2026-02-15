@@ -56,7 +56,7 @@ Only about 10% of energy (on average) at one trophic level is transferred to the
 
 The difference is that biomass scales with the amount of the organism needed to sustain one organism of the next trophic level. If 6 corn is (theoretically) needed to feed one chicken and 85 chicken is (theoretically) needed to feed one human, the biomass pyramid would have the following...
 
-<table data-header-hidden><thead><tr><th width="345.23046875" align="right"></th><th></th></tr></thead><tbody><tr><td align="right">1 Human</td><td>Total mass of the human</td></tr><tr><td align="right">85 Chickens</td><td>Total mass of all the chickens</td></tr><tr><td align="right">510 Corn</td><td>Total mass of all the corn</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="325.2578125" align="right"></th><th></th></tr></thead><tbody><tr><td align="right">1 Human</td><td>Total mass of the human</td></tr><tr><td align="right">85 Chickens</td><td>Total mass of all the chickens</td></tr><tr><td align="right">510 Corn</td><td>Total mass of all the corn</td></tr></tbody></table>
 
 On the other hand, energy is lost transferring from one trophic level to the next. If 1 corn (theoretically) contains 100 calories. A chicken that eats the corn would get 10 calories. A human that then eats the chicken would get only 1 calorie from that single corn alone. However, if a human eats the same corn gets the same 10 calories the chicken got.
 
@@ -155,7 +155,7 @@ Aquatic succession turns lakes into wetlands, and from there into dry land. This
 
 There four global reservoirs[^14] are...
 
-<table data-header-hidden><thead><tr><th width="305.46875" align="right"></th><th></th></tr></thead><tbody><tr><td align="right">Geosphere</td><td>All ground, soil, and other akin materials.</td></tr><tr><td align="right">Atmosphere</td><td>All air and substances around it.</td></tr><tr><td align="right">Hydrosphere</td><td>All water bodies.</td></tr><tr><td align="right">Biosphere</td><td>All life on the entire planet.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="299.921875" align="right"></th><th></th></tr></thead><tbody><tr><td align="right">Geosphere</td><td>All ground, soil, and other akin materials.</td></tr><tr><td align="right">Atmosphere</td><td>All air and substances around it.</td></tr><tr><td align="right">Hydrosphere</td><td>All water bodies.</td></tr><tr><td align="right">Biosphere</td><td>All life on the entire planet.</td></tr></tbody></table>
 
 ## Biomes
 
@@ -173,7 +173,7 @@ Climate zones result from the amount of solar energy that reaches the earth’s 
 
 The climate zones are...
 
-<table data-header-hidden><thead><tr><th width="314.60546875" align="right"></th><th></th></tr></thead><tbody><tr><td align="right">Tropical</td><td>Closest to equator</td></tr><tr><td align="right">Subtropical</td><td>Temperate</td></tr><tr><td align="right">Subarctic</td><td>Boreal</td></tr><tr><td align="right">Arctic</td><td>Farthest from equator</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="309.890625" align="right"></th><th></th></tr></thead><tbody><tr><td align="right">Tropical</td><td>Closest to equator</td></tr><tr><td align="right">Subtropical</td><td>Temperate</td></tr><tr><td align="right">Subarctic</td><td>Boreal</td></tr><tr><td align="right">Arctic</td><td>Farthest from equator</td></tr></tbody></table>
 
 ## Nitrogen Cycle
 
