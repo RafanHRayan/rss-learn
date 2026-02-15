@@ -29,12 +29,11 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <h2 align="center">Upcoming</h2>
 
-> Hey...what's that new resource?
-
 <details>
 
 <summary>Developer Tasks</summary>
 
+- [/] Complete "Origins" in the RSS Learn History Page.
 - [ ] Complete previous Global 1 cirriculum.
     - [/] Complete First Civilizations.
     - [ ] Complete River Valley Civilizations.
