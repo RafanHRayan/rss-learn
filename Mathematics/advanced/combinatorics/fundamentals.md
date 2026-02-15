@@ -43,13 +43,21 @@ What if we were asked to **count all the integers from 1 to 10 that are divisibl
 1. There are _5 integers_ from 1 to 10 that are divisible by 2: $$\{2,4,6,8,10\}$$.
 2. There are _3 integers_ from 1 to 10 that are divisible by 3: $$\{3,6,9\}$$.
 
-Applying The Rule of Sum
+<details>
+
+<summary>Applying The Rule of Sum</summary>
 
 If we apply the Rule of Sum, we get $$5+3=8$$. That must mean that there are 8 integers from 1 to 10 divisible by 2 or 3.
 
-Counting Directly
+</details>
+
+<details>
+
+<summary>Counting Directly</summary>
 
 If we count directly, we get that 7 integers are divisible by 2 or 3: $$\{2,3,4,6,8,9,10\}$$. This contradicts the usage of the Rule of Sum because 6 is in both sets and is counted twice when using the Rule of Sum.
+
+</details>
 {% endhint %}
 
 [^1]: Though this works for small sums, calculating the larger sums takes too long.
