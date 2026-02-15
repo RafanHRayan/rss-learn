@@ -23,7 +23,7 @@
 ## Advanced
 
 * [Statistics](advanced/statistics.md)
-* [Combinatorics and Probability](advanced/combinatorics/README.md)
+* [Combinatorics & Probability](advanced/combinatorics/README.md)
   * [Basic Counting](advanced/combinatorics/fundamentals.md)
 * [Precalculus](advanced/precalculus.md)
 
