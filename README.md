@@ -33,9 +33,9 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <summary>Developer Tasks</summary>
 
-- [/] Complete "Origins" in the RSS Learn History Page.
+- [ ] Complete "Origins" in the RSS Learn History Page.
 - [ ] Complete previous Global 1 cirriculum.
-    - [/] Complete First Civilizations.
+    - [ ] Complete First Civilizations.
     - [ ] Complete River Valley Civilizations.
     - [ ] Complete Ancient China.
     - [ ] Complete Greece and Persia.
