@@ -33,9 +33,13 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <details>
 
-<summary></summary>
+<summary>Developer Tasks</summary>
 
 - [ ] Previous Global 1 cirriculum
+    - [x] Complete First Civilizations
+    - [ ] Complete River Valley Civilizations
+    - [ ] Complete Ancient China
+    - [ ] Complete Greece and Persia
 
 </details>
 
