@@ -22,7 +22,7 @@ In order to speed up the process, a few shortcuts (in the form of postulates and
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> SSS Postulate (Side-Side-Side)</summary>
+<summary><i class="fa-note">:note:</i> SSS Postulate (Side-Side-Side)</summary>
 
 Two triangles are congruent if and only if they have three pairs of congruent corresponding sides.
 
@@ -30,7 +30,7 @@ Two triangles are congruent if and only if they have three pairs of congruent co
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> SAS Postulate (Side-Angle-Side)</summary>
+<summary><i class="fa-note">:note:</i> SAS Postulate (Side-Angle-Side)</summary>
 
 Two triangles are congruent if and only if two pairs of corresponding sides and the included angle of those sides are congruent.
 
@@ -38,7 +38,7 @@ Two triangles are congruent if and only if two pairs of corresponding sides and 
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> ASA Postulate (Angle-Side-Angle)</summary>
+<summary><i class="fa-note">:note:</i> ASA Postulate (Angle-Side-Angle)</summary>
 
 Two triangles are congruent if and only if two pairs of corresponding angles and the included side of those angles are congruent.
 
@@ -50,7 +50,7 @@ The following four are all theorems related to proving triangle congruence and c
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> AAS Theorem (Angle-Angle-Side)</summary>
+<summary><i class="fa-note">:note:</i> AAS Theorem (Angle-Angle-Side)</summary>
 
 The AAS Theorem can be proven using the ASA Postulate. And it states that two triangles are congruent if and only if two pairs of angles and the following side are congruent.
 
@@ -58,7 +58,7 @@ The AAS Theorem can be proven using the ASA Postulate. And it states that two tr
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> CPCTC</summary>
+<summary><i class="fa-note">:note:</i> CPCTC</summary>
 
 Corresponding parts of congruent triangles are congruent.
 
@@ -66,7 +66,7 @@ Corresponding parts of congruent triangles are congruent.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Isosceles Triangle Theorem</summary>
+<summary><i class="fa-note">:note:</i> Isosceles Triangle Theorem</summary>
 
 If two sides of a triangle are congruent, then the opposite angles are also both congruent; the vice versa is also true.
 
@@ -74,7 +74,7 @@ If two sides of a triangle are congruent, then the opposite angles are also both
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> HL Theorem (Hypotenuse-Leg)</summary>
+<summary><i class="fa-note">:note:</i> HL Theorem (Hypotenuse-Leg)</summary>
 
 If two _**right triangles**_ have congruent hypotenuses and one congruent leg, then they are congruent.
 
@@ -93,7 +93,7 @@ A cevian is a line that is dropped from an angle in a triangle down to its oppos
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Median</summary>
+<summary><i class="fa-note">:note:</i> Median</summary>
 
 A cevian is a median if and only if it intersects the opposite side at the **midpoint**; the vice versa is also true.
 
@@ -101,7 +101,7 @@ A cevian is a median if and only if it intersects the opposite side at the **mid
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Altitude</summary>
+<summary><i class="fa-note">:note:</i> Altitude</summary>
 
 A cevian is an altitude if and only if it is **perpendicular** to the opposite side; the vice vera is also true.
 
@@ -109,7 +109,7 @@ A cevian is an altitude if and only if it is **perpendicular** to the opposite s
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Angle Bisector</summary>
+<summary><i class="fa-note">:note:</i> Angle Bisector</summary>
 
 A cevian is an angle bisector if and only if it **bisects** the angle it originates from; the vice versa is also true.
 
@@ -170,7 +170,7 @@ There are two important unnamed theorems when talking about equidistance:
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Equidistance From The Endpoints of a Segment</summary>
+<summary><i class="fa-note">:note:</i> Equidistance From The Endpoints of a Segment</summary>
 
 A point is equidistant from the endpoints of a segment if and only if it lies on the **perpendicular bisector** of the segment.
 
@@ -178,7 +178,7 @@ A point is equidistant from the endpoints of a segment if and only if it lies on
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Equidistance From The Rays of an Angle</summary>
+<summary><i class="fa-note">:note:</i> Equidistance From The Rays of an Angle</summary>
 
 A point is equidistant from the rays of an angle if and only if it lies on the **angle bisector** of the angle.
 

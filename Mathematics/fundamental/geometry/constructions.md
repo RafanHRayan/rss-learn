@@ -439,7 +439,7 @@ The diagrams choose $$\angle{ABC}$$ to bisect originally in step 2.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of an Inscribed Polygon</summary>
+<summary><i class="fa-note">:note:</i> Definition of an Inscribed Polygon</summary>
 
 A polygon is inscribed in a circle if and only if all of its vertices lie on the circumference of the circle.
 
@@ -568,7 +568,7 @@ Constructions for the circumcenter, incenter, orthocenter, and centriod have vid
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Circumcircle</summary>
+<summary><i class="fa-note">:note:</i> Definition of a Circumcircle</summary>
 
 A circle is the circumcircle of a triangle if and only if all three points of the triangle lie on the circumference of the circle.
 
@@ -635,7 +635,7 @@ A circle is the circumcircle of a triangle if and only if all three points of th
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of an Incircle</summary>
+<summary><i class="fa-note">:note:</i> Definition of an Incircle</summary>
 
 A circle is the circumcircle of a triangle if and only if it is tangent to every side of the triangle.
 

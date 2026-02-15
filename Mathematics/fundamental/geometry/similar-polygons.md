@@ -16,7 +16,7 @@ If two triangles have the same height, then the ratio of their _bases_ is equiva
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Triangle Proportionality Theorem</summary>
+<summary><i class="fa-note">:note:</i> Triangle Proportionality Theorem</summary>
 
 A line which meets two sides of a triangle divides those sides proportionally if and only if it is parallel to the third side.
 

@@ -17,7 +17,7 @@ Counting is one of the most basic tasks in mathematics. The mail goal is to—ob
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Rule of Sum</summary>
+<summary><i class="fa-note">:note:</i> Rule of Sum</summary>
 
 If there are $$n$$ objects of the first type and $$k$$ objects of the second type, then there are $$n+k$$ objects of one of the two types of objects.
 

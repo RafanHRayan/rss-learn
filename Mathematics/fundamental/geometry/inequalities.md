@@ -21,7 +21,7 @@ In this unit, six symbols will be introduced:
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Trichotomy Postulate</summary>
+<summary><i class="fa-note">:note:</i> Trichotomy Postulate</summary>
 
 For any **two real numbers** one of the following is true: $$a>b$$, $$a=b$$, or $$a<b$$.
 
@@ -29,7 +29,7 @@ For any **two real numbers** one of the following is true: $$a>b$$, $$a=b$$, or 
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Partition Postulate of Inequality</summary>
+<summary><i class="fa-note">:note:</i> Partition Postulate of Inequality</summary>
 
 A whole is **greater than** any of its parts.
 
@@ -37,7 +37,7 @@ A whole is **greater than** any of its parts.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Operation Postulates of Inequality</summary>
+<summary><i class="fa-note">:note:</i> Operation Postulates of Inequality</summary>
 
 For an operation, $$\oplus{}$$, the "$$\oplus{}$$ Postulate of Inequality" states that...
 
@@ -57,7 +57,7 @@ For any four real numbers where $$a>b$$ and $$c≥d$$, $$(a+b)>(c+d)$$.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Transitive Property of Inequality</summary>
+<summary><i class="fa-note">:note:</i> Transitive Property of Inequality</summary>
 
 For any **three real numbers**, if $$a>b$$ and $$b>c$$, then $$a>c$$.
 
@@ -65,7 +65,7 @@ For any **three real numbers**, if $$a>b$$ and $$b>c$$, then $$a>c$$.
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Substitution Property of Inequality</summary>
+<summary><i class="fa-note">:note:</i> Substitution Property of Inequality</summary>
 
 If **two values** are equal, they can be substituted for each other in _**any**_ inequality.
 
@@ -75,7 +75,7 @@ If **two values** are equal, they can be substituted for each other in _**any**_
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Exterior Angle Theorem of Inequality</summary>
+<summary><i class="fa-note">:note:</i> Exterior Angle Theorem of Inequality</summary>
 
 The measure of an exterior angle drawn from a triangle is always **greater than** either of the triangle's non-adjacent angles.
 
@@ -83,7 +83,7 @@ The measure of an exterior angle drawn from a triangle is always **greater than*
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Triangle Inequality Theorem</summary>
+<summary><i class="fa-note">:note:</i> Triangle Inequality Theorem</summary>
 
 The measure of an exterior angle drawn from a triangle is always **greater than** either of the triangle's non-adjacent angles.
 
@@ -91,7 +91,7 @@ The measure of an exterior angle drawn from a triangle is always **greater than*
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Unnamed Theorem (Side Length to Angle Measure Relation)</summary>
+<summary><i class="fa-note">:note:</i> Unnamed Theorem (Side Length to Angle Measure Relation)</summary>
 
 If the lengths of two sides in a triangle are unequal, then the longer side is always **opposite** the larger angle.
 

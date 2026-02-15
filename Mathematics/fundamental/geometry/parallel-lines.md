@@ -82,7 +82,7 @@ A corollary is a proposition (statement) that can quickly be proven once another
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Polygon Sum Theorem</summary>
+<summary><i class="fa-note">:note:</i> Polygon Sum Theorem</summary>
 
 If a polygon has $$n$$ sides, then the sum of its interior angle measures is $$(180(n-2))\degree$$.
 
@@ -90,7 +90,7 @@ If a polygon has $$n$$ sides, then the sum of its interior angle measures is $$(
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Polygon Angle Measure Corollary</summary>
+<summary><i class="fa-note">:note:</i> Polygon Angle Measure Corollary</summary>
 
 If an _**equiangular**_ polygon has $$n$$ sides, then the measure of one of its interior angle measures is $$\frac{(180(n-2))}{n}\degree$$.
 
@@ -108,7 +108,7 @@ An exterior angle is an angle formed by extending one of the lines in a triangle
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Exterior Angle Theorem</summary>
+<summary><i class="fa-note">:note:</i> Exterior Angle Theorem</summary>
 
 No matter how many sides a polygon has, the sum of its exterior angles sums to 360°.
 

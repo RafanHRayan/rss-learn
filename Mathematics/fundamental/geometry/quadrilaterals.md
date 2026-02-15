@@ -8,7 +8,7 @@ description: >-
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Diagonal</summary>
+<summary><i class="fa-note">:note:</i> Definition of a Diagonal</summary>
 
 A line is a diagonal if and only if it connects two non-consecutive points in a polygon.
 
@@ -16,7 +16,7 @@ A line is a diagonal if and only if it connects two non-consecutive points in a 
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> Definition of a Quadrilateral</summary>
+<summary><i class="fa-note">:note:</i> Definition of a Quadrilateral</summary>
 
 A polygon is a quadrilateral if and only if it is has four distinct sides and four distinct angles.
 
@@ -133,7 +133,7 @@ The medial triangle is similar (with a scale factor of $$\frac{1}{2}$$) to the o
 
 <details>
 
-<summary><i class="fa-memo-pad">:memo-pad:</i> <a data-footnote-ref href="#user-content-fn-7">Transversal Splice Congruence Theorem</a></summary>
+<summary><i class="fa-note">:note:</i> <a data-footnote-ref href="#user-content-fn-7">Transversal Splice Congruence Theorem</a></summary>
 
 If a set of parallel lines cuts one transversal into congruent parts, then it cuts _**every**_ transversal into congruent parts.
 
