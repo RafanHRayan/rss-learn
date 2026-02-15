@@ -93,7 +93,7 @@ Through the Romans were tolerant of all religions, you were required to take par
 
 <details>
 
-<summary><i class="fa-file-lines">:file-lines:</i> <strong>Example of Cults</strong> — Cult of Mithras</summary>
+<summary><i class="fa-note">:note:</i> Cult of Mithras</summary>
 
 The Cult of Mithras was a cult of the Persian sun god Mithras that reached Rome in the first century CE.
 
