@@ -4,7 +4,7 @@ icon: circle-plus
 
 # Style
 
-Style is one of the main [game mechanics](mechanics.md) of Combat Initiation. It's a show of skill and current round contribution, more likely your performance and actions in combat. It is the only way to receive score.
+**Style** is one of the main [game mechanics](mechanics.md) of Combat Initiation. It's a show of skill and current round contribution, more likely your performance and actions in combat. It is the only way to receive score.
 
 A gauge bar is used to show the current amount of style a player has. By receiving any style, the style box will show up, showing the style gauge, current style bonuses, tier, and color, and aerial multiplier. Style gradually goes down as less damage or style bonuses are gained, this can affect players that use the [Red Stratobloxxer](https://combatinitiation.miraheze.org/wiki/Red_Stratobloxxer).
 
