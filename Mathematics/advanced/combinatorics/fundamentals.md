@@ -33,8 +33,7 @@ If we have 3 red apples and 8 green apples, we have 11 apples in total.
 
 If the sets overlap, then the result of applying the Rule of Sum is inflicted, being higher than the actual answer.
 
-{% hint style="info" %}
-### Example
+#### Example
 
 What if we were asked to **count all the integers from 1 to 10 that are divisible by 2 or by 3**.
 
@@ -58,6 +57,11 @@ If we count directly, we get that 7 integers are divisible by 2 or 3: $$\{2,3,4,
 This contradicts the usage of the Rule of Sum because 6 is in both sets and is counted twice when using the Rule of Sum.
 
 </details>
+
+***
+
+{% hint style="danger" %}
+This page is incomplete!
 {% endhint %}
 
 [^1]: Though this works for small sums, calculating the larger sums takes too long.
