@@ -14,13 +14,13 @@ Everyone knows the states of matter: solid, liquid, and gas. However, these stat
 
 ### Atomic Structure Hierarchy
 
-1. Macromolecules — A large _**molecule**_ consisting of multiple small _**molecules**_ bonded together.
-2. Molecules/Ionic Compounds — A bonded group of more than one atom.
-3. Atoms — The smallest unit of matter.
-4. Subatomic Particles — Those that make up an atom.
-   1. Protons — Has a charge of +1.
-   2. Neutrons — Has a neutral charge.
-   3. Electrons — Has a charge of –1.
+1. **Macromolecules** — A large _**molecule**_ consisting of multiple small _**molecules**_ bonded together.
+2. **Molecules/Ionic Compounds** — A bonded group of more than one atom.
+3. **Atoms** — The smallest unit of matter.
+4. **Subatomic Particles** — Those that make up an atom.
+   1. **Protons** — Has a charge of +1.
+   2. **Neutrons** — Has a neutral charge.
+   3. **Electrons** — Has a charge of –1.
 
 {% hint style="danger" %}
 ## Common Misconception

@@ -3,20 +3,6 @@ description: >-
   The branch of science that studies living organisms, their vital processes,
   and their interactions with each other and the environment.
 icon: dna
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Biology
@@ -69,7 +55,15 @@ layout:
 [cells.md](cells.md)
 {% endcontent-ref %}
 
-## Unit 7 — ...
+## Unit 7 — Cellular Respiration??
+
+**Contents:** ...
+
+{% content-ref url="cellular-respiration.md" %}
+[cellular-respiration.md](cellular-respiration.md)
+{% endcontent-ref %}
+
+## Unit 8 — ...
 
 **Contents:** ...
 
