@@ -50,10 +50,6 @@ No current official or popular name for a style bonuses level exists, so a numbe
 
 ***
 
-{% hint style="info" %}
-This page is an adaptation of the [CI Wiki page for style](https://combatinitiation.miraheze.org/wiki/Style).
-{% endhint %}
-
 {% hint style="danger" %}
 This page is incomplete!
 {% endhint %}
