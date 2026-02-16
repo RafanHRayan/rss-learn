@@ -33,19 +33,19 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <summary>Developer Tasks</summary>
 
-- [ ] Complete "Origins" in the RSS Learn History Page.
-- [ ] Complete previous Global 1 cirriculum.
-    - [ ] Complete First Civilizations.
-    - [ ] Complete River Valley Civilizations.
-    - [ ] Complete Ancient China.
-    - [ ] Complete Greece and Persia.
-- [x] Add external resources to the side bar in the home page.
-- [x] Add a new logo.
+* [ ] Complete "Origins" in the RSS Learn History Page.
+* [ ] Complete previous Global 1 cirriculum.
+  * [ ] Complete First Civilizations.
+  * [ ] Complete River Valley Civilizations.
+  * [ ] Complete Ancient China.
+  * [ ] Complete Greece and Persia.
+* [x] Add external resources to the side bar in the home page.
+* [x] Add a new logo.
 
 </details>
 
 ***
 
-<p align="right"><strong>RSS Learn</strong> v15.0</p>
+<p align="right"><strong>RSS Learn</strong> v15.1</p>
 
 [^1]: Hell no it's not.
