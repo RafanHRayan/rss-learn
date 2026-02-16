@@ -5,7 +5,7 @@ icon: acorn
 
 # SAT
 
-The following topics will show up on the Digital SAT...
+The following [**math**](#user-content-fn-1)[^1] topics will show up on the Digital SAT...
 
 ## Algebra 1
 
@@ -26,3 +26,5 @@ The following portions of [geometry](https://app.gitbook.com/s/ZCDUNKo9wgcFEhVRE
 The following portions of [trigonometry](https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/trigonometry) may show up on the SAT...
 
 \[Coming Soon]
+
+[^1]: Good luck for ELA. We can't help you with that.
