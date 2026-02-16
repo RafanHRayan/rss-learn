@@ -2,11 +2,11 @@
 
 * [Welcome to RSS Learn!](README.md "Home")
 
-## Other Resources
+## Resources
 
-* [Study Steps](extra/study-steps.md)
-* [BxSci Schedules](extra/bxsci-schedules.md)
-* [The History of RSS Learn](extra/the-history-of-rss-learn.md)
+* [Study Steps](resources/study-steps.md)
+* [BxSci Schedules](resources/bxsci-schedules.md)
+* [The History of RSS Learn](resources/the-history-of-rss-learn.md)
 
 ## Test Prep
 
