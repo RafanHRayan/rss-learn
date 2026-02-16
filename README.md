@@ -27,8 +27,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-<h2 align="center">Upcoming</h2>
-
 <details>
 
 <summary>Developer Tasks</summary>
@@ -47,6 +45,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-<p align="right"><strong>RSS Learn</strong> v15.2</p>
+<p align="right"><strong>RSS Learn</strong> v15.2.1</p>
 
 [^1]: Hell no it's not.
