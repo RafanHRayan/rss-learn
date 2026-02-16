@@ -61,6 +61,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-<p align="right"><strong>RSS Learn</strong> v15.3</p>
+<p align="right"><strong>RSS Learn</strong> v15.3.1</p>
 
 [^1]: Hell no it's not.
