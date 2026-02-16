@@ -34,7 +34,7 @@ Here are all of our available libraries! You may also access them—and this hom
 <summary>Developer Tasks</summary>
 
 * [ ] Complete "Origins" in the RSS Learn History Page.
-* [ ] Complete previous Global 1 cirriculum.
+* [ ] Complete previous Global 1 curriculum.
   * [ ] Complete First Civilizations.
   * [ ] Complete River Valley Civilizations.
   * [ ] Complete Ancient China.
@@ -46,6 +46,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-<p align="right"><strong>RSS Learn</strong> v15.1</p>
+<p align="right"><strong>RSS Learn</strong> v15.1.1</p>
 
 [^1]: Hell no it's not.
