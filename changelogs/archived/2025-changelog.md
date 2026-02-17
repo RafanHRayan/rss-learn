@@ -67,7 +67,9 @@ Study steps has been added.
 Minor bug fixes and addition of more circular borders.
 
 AMC test prep was also released along with trigonometry and combinatorics.
+{% endupdate %}
 
+{% update date="2025-12-04" %}
 ## Update 4.0
 
 Creation of Science 101 and addition of biology!
@@ -77,7 +79,9 @@ Creation of Science 101 and addition of biology!
 ## Update 3.2
 
 Addition of combinatorics coming soon page.
+{% endupdate %}
 
+{% update date="2025-11-30" %}
 ## Update 3.1
 
 Addition of trigonometry coming soon page.
