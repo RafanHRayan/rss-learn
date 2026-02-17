@@ -9,9 +9,12 @@ icon: scroll
 {% update date="2026-02-17" %}
 ## Update 14.2
 
-The english library has been released. Content will be added soon.
+The english library has been released. Content will be added soon. To accomodate for the addition of this library and the new library that will come soon, the educational group has been split into two...
 
-The changelogs page has been converted into a sidebar heading.
+1. Core Educational
+2. Elective Educational
+
+Additionally, the changelogs page has been converted into a sidebar heading.
 
 ## Update 14.1
 

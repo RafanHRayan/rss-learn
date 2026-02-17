@@ -17,3 +17,7 @@
 
 * [AMC 10/12](test-prep/amc-10-12.md)
 * [SAT](test-prep/sat.md)
+
+***
+
+* [Developer Tasks](developer-tasks.md)

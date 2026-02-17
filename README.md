@@ -29,7 +29,7 @@ RSS Industries brings you learning materials on various things! Browse through t
 
 Here are all of our available libraries! You may also access them—and this homepage—from anywhere in the dropdown in the top-left corner of any page.
 
-<h4 align="center">Educational</h4>
+<h3 align="center">Core Educational</h3>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" class="button primary" data-icon="feather-pointed">English</a></p>
 
@@ -39,25 +39,13 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a></p>
 
+<h3 align="center">Elective Educational</h3>
+
 <p align="center"><a href="./" class="button secondary" data-icon="laptop-binary">Coming Soon</a></p>
 
-<h4 align="center">Game Reference</h4>
+<h3 align="center">Game Reference</h3>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/CNtaDR4SagJHxplwfZen/" class="button primary" data-icon="swords">Combat Initiation Refurbished</a></p>
-
-***
-
-<details>
-
-<summary>Developer Tasks</summary>
-
-* [ ] Complete previous Global 1 curriculum.
-  * [ ] Complete First Civilizations.
-  * [ ] Complete River Valley Civilizations.
-  * [ ] Complete Ancient China.
-  * [ ] Complete Greece and Persia.
-
-</details>
 
 ***
 
