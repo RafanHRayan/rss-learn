@@ -11,7 +11,7 @@ icon: scroll
 
 A new library is coming coming soon!
 
-The english library has been released. Content will be added soon. To accomodate for the addition of this library and the new library that will come soon, the educational group has been split into two: core educational and elective educational.
+The english library has been released. Content will be added soon. To accomodate for the addition of this library and the new library that will come soon, the educational group has been split into two: core educational and elective educational. The core educational category will not get added to further on, and will only contain the english, mathematics, science, and social studies libraries.
 
 The changelogs page has been converted into a sidebar heading.
 
