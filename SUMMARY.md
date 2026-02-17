@@ -8,6 +8,7 @@
 
 * [Study Steps](resources/study-steps.md)
 * [The History of RSS Learn](resources/the-history-of-rss-learn.md)
+* [Schulte Tables](resources/schulte-tables.md)
 
 ## Test Prep
 
