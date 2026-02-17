@@ -7,6 +7,10 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-17" %}
+## Update 14.0.2
+
+Fixed a bug where changelog links in the main changelog page were broken.
+
 ## Update 14.0.1
 
 Addition of the Schulte Tables resource.
