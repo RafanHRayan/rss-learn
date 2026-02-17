@@ -7,6 +7,12 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-17" %}
+## Update 14.2
+
+The english library has been released. Content will be added soon.
+
+The changelogs page has been converted into a sidebar heading.
+
 ## Update 14.1
 
 Removed sidebar background to make it blend it with the rest of the site.
@@ -54,7 +60,7 @@ Categorization of libraries from update 11.0 have been reflected into the home p
 
 ## Update 11.0
 
-Added the CIR library. Libraries are now sectioned by category...
+The CIR library has been released. Libraries are now sectioned by category...
 
 * Educational
   * Mathematics Library

@@ -1,10 +1,12 @@
 # Table of contents
 
 * [Welcome to RSS Learn!](README.md "Home")
-* [Changelogs](changelogs/README.md)
-  * [2026 Changelog](changelogs/2026-changelog.md)
-  * [Archived](changelogs/archived/README.md)
-    * [2025 Changelog](changelogs/archived/2025-changelog.md)
+
+## Changelogs
+
+* [2026 Changelog](changelogs/2026-changelog.md)
+* [Archived](changelogs/archived/README.md)
+  * [2025 Changelog](changelogs/archived/2025-changelog.md)
 
 ## Resources
 
