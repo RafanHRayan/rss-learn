@@ -43,12 +43,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-## Features and Upcoming
-
-{% content-ref url="/broken/pages/GhC7CU43qTe8CEfWQ51D" %}
-[Broken link](/broken/pages/GhC7CU43qTe8CEfWQ51D)
-{% endcontent-ref %}
-
 <details>
 
 <summary><i class="fa-laptop-code">:laptop-code:</i> Developer Tasks</summary>
@@ -66,5 +60,9 @@ Here are all of our available libraries! You may also access them—and this hom
   * [x] Fill out changelog from 2025 and earlier.
 
 </details>
+
+***
+
+<p align="right"><strong>RSS Learn</strong> v<code class="expression">space.vars.product_version</code></p>
 
 [^1]: Hell no it's not.

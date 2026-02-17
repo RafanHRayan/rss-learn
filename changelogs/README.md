@@ -1,11 +1,27 @@
 ---
 description: All versions of RSS Learn.
 icon: align-left
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Changelogs
 
-> **RSS Learn** v14.0.1
+<h3 align="center"><strong>RSS Learn</strong> v<code class="expression">space.vars.product_version</code></h3>
 
 ***
 
