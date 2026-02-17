@@ -1,6 +1,6 @@
 ---
 description: Reaction time game.
-icon: list-check
+icon: table-cells
 ---
 # Schulte Tables
 
