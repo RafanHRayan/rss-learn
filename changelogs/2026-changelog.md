@@ -7,20 +7,17 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-17" %}
-## Update 14.2
-
-The english library has been released. Content will be added soon. To accomodate for the addition of this library and the new library that will come soon, the educational group has been split into two...
-
-1. Core Educational
-2. Elective Educational
-
-Additionally, the changelogs page has been converted into a sidebar heading.
-
 ## Update 14.1
 
-Removed sidebar background to make it blend it with the rest of the site.
+A new library is coming coming soon!
 
-Two new libraries coming soon!
+The english library has been released. Content will be added soon. To accomodate for the addition of this library and the new library that will come soon, the educational group has been split into two: core educational and elective educational.
+
+The changelogs page has been converted into a sidebar heading.
+
+The developer tasks section in the home page has been moved to the sidebar as a separate page.
+
+Removed sidebar background to make it blend it with the rest of the site.
 
 ## Update 14.0.2
 
@@ -28,7 +25,7 @@ Small bug fixes and minor improvements.
 
 ## Update 14.0.1
 
-Addition of the Schulte Tables resource.
+Addition of the schulte tables resource.
 
 Small bug fixes have also been made.
 
@@ -39,6 +36,8 @@ Addition of the changelog!
 
 {% update date="2026-02-16" %}
 ## Update 13.0.1
+
+External resources have been moved to the top navigation bar for easier accessibility.
 
 Minor bug fixes.
 
@@ -53,7 +52,7 @@ Many new improvements have been made...
 {% update date="2026-02-11" %}
 ## Update 12.0
 
-Addition of the developer tasks menu in the home page.
+Addition of the developer tasks view in the home page.
 {% endupdate %}
 
 {% update date="2026-02-02" %}

@@ -15,7 +15,7 @@ Added a bunch of coming soon topics to the mathematics and science libraries to 
 {% update date="2025-12-25" %}
 ## Update 7.3
 
-Minor improvements and bug fixes.
+External resources added to sidebar in home page.
 {% endupdate %}
 
 {% update date="2025-12-22" %}
@@ -24,7 +24,7 @@ Minor improvements and bug fixes.
 RSS Learn is off of maintenance and has been opened again to the public!
 
 * Home page has been added as an introductory welcome page for users visiting the site.
-  * Study steps has been moved to this new homepage.
+  * The study steps resource has been moved to this new homepage.
 {% endupdate %}
 
 {% update date="2025-12-19" %}
@@ -58,7 +58,7 @@ SAT test prep was also added.
 
 Fixed search bar not displaying results along with other minor bugs.
 
-Study steps has been added.
+The study steps resource has been added.
 {% endupdate %}
 
 {% update date="2025-12-04" %}
