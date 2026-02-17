@@ -11,7 +11,7 @@ icon: scroll
 
 Removed sidebar background to make it blend it with the rest of the site.
 
-New library coming soon!
+Two new libraries coming soon!
 
 ## Update 14.0.2
 
@@ -38,7 +38,7 @@ Minor bug fixes.
 Many new improvements have been made...
 
 * Font style changed across the site to a more playful one.
-* Test prep has moved from mathematics into the home page under a new heading to clean up the section and fill up the home page.
+* Test prep has moved from the mathematics library into the home page under a new heading to clean up the section and fill up the home page.
 {% endupdate %}
 
 {% update date="2026-02-11" %}
@@ -73,7 +73,7 @@ Added a coming soon to a new library.
 {% update date="2026-01-23" %}
 ## Update 10.1
 
-Added search bars to the main pages for math, science, and social studies to make it easier to look for concepts within the subject.
+Added search bars to the main pages for the mathematics, science, and social studies libraries to make it easier to look for concepts within the subject.
 {% endupdate %}
 
 {% update date="2026-01-21" %}

@@ -3,13 +3,13 @@ description: Changes in 2025.
 icon: scroll-old
 ---
 
-# 2025
+# 2025 Changelog
 
 {% updates format="full" %}
 {% update date="2025-12-29" %}
 ## Update 8.0
 
-Added a bunch of coming soon topics to mathematics and science to keep the site cozy!
+Added a bunch of coming soon topics to the mathematics and science libraries to keep the site cozy and less empty!
 {% endupdate %}
 
 {% update date="2025-12-25" %}
