@@ -41,7 +41,7 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <h3 align="center">Elective Educational</h3>
 
-<p align="center"><a href="./" class="button secondary" data-icon="laptop-binary">Coming Soon</a></p>
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/2l8iiyzkDSRTzWgXH0cH/" class="button primary" data-icon="laptop-binary">Programming</a></p>
 
 <h3 align="center">Game Reference</h3>
 
