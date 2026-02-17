@@ -3,6 +3,22 @@ description: >-
   The branch of mathematics that studies the relationships between the sides and
   angles of triangles.
 icon: ruler-triangle
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Trigonometry
