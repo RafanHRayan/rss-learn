@@ -5,26 +5,34 @@ icon: acorn
 
 # SAT
 
-The following [**math**](#user-content-fn-1)[^1] topics will show up on the Digital SAT...
+## English
 
-## Algebra 1
+### Grammar
 
-All of Algebra 1 may show up on the SAT.
+All of grammar may show up.
+
+{% content-ref url="https://app.gitbook.com/s/JBZHB9sZwfiz01de02WQ/fundamental/page-1" %}
+[Grammar](https://app.gitbook.com/s/JBZHB9sZwfiz01de02WQ/fundamental/page-1)
+{% endcontent-ref %}
+
+## Mathematics
+
+### Algebra 1
+
+All of algebra 1 may show up.
 
 {% content-ref url="https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/algebra-1" %}
 [Algebra 1](https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/algebra-1)
 {% endcontent-ref %}
 
-## Geometry
+### Geometry
 
-The following portions of [geometry](https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/geometry) may show up on the SAT...
-
-\[Coming Soon]
-
-## Trigonometry
-
-The following portions of [trigonometry](https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/trigonometry) may show up on the SAT...
+The following portions of [geometry](https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/geometry) may show up...
 
 \[Coming Soon]
 
-[^1]: Good luck for ELA. We can't help you with that.
+### Trigonometry
+
+The following portions of [trigonometry](https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/trigonometry) may show up...
+
+\[Coming Soon]
