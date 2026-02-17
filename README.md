@@ -64,6 +64,7 @@ Here are all of our available libraries! You may also access them—and this hom
   * [x] Move external resources to the top navigation bar so they can be accessed throughout all pages.
 * [ ] Fill out changelog.
   * [ ] Fill out changelog from 2025 and earlier.
+* [ ] Turn changelog into a group with pages in it corresponding to years.
 
 </details>
 
