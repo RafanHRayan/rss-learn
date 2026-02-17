@@ -7,17 +7,11 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-17" %}
-## Update 14.2
-
-The programming library has been added.
+## Update 14.1
 
 Small bug fixes and minor improvements.
 
-## Update 14.1
-
-A new library is coming coming soon!
-
-The english library has been released. Content will be added soon. To accomodate for the addition of this library and the new library that will come soon, the educational group has been split into two: core educational and elective educational. The core educational category will not get added to further on, and will only contain the english, mathematics, science, and social studies libraries.
+The english and programming libraries have been released. Content will be added soon. To accomodate for the addition of these libraries, libraries will be split into two categories: core and elective. The core category will not get added to further on, and will only contain the english, mathematics, science, and social studies libraries.
 
 The changelogs page has been converted into a sidebar heading.
 
@@ -63,20 +57,9 @@ Addition of the developer tasks view in the home page.
 {% endupdate %}
 
 {% update date="2026-02-02" %}
-## Update 11.1
-
-Categorization of libraries from update 11.0 have been reflected into the home page.
-
 ## Update 11.0
 
-The CIR library has been released. Libraries are now sectioned by category...
-
-* Educational
-  * Mathematics Library
-  * Science Library
-  * Social Studies Library
-* Game Reference
-  * CIR Library
+Categorization of libraries from update 11.0 have been reflected into the home page.
 {% endupdate %}
 
 {% update date="2026-01-26" %}

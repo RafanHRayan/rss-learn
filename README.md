@@ -21,7 +21,7 @@ metaLinks: {}
 
 # Welcome to RSS Learn!
 
-RSS Industries brings you learning materials on various things! Browse through this expansive[^1] knowledge base using the dropdown in the top-left corner. Learn away...
+RSS Industries brings you learning materials on various subjects! Browse through this expansive[^1] knowledge base using the dropdown in the top-left corner. Learn away...
 
 ***
 
@@ -42,10 +42,6 @@ Here are all of our available libraries! You may also access them—and this hom
 <h3 align="center">Elective Educational</h3>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/2l8iiyzkDSRTzWgXH0cH/" class="button primary" data-icon="laptop-binary">Programming</a></p>
-
-<h3 align="center">Game Reference</h3>
-
-<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/CNtaDR4SagJHxplwfZen/" class="button primary" data-icon="swords">Combat Initiation Refurbished</a></p>
 
 ***
 
