@@ -45,8 +45,8 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ## Features
 
-{% content-ref url="changelog/" %}
-[changelog](changelog/)
+{% content-ref url="/broken/pages/j3FrqdyJnxPz2wB0zThk" %}
+[Broken link](/broken/pages/j3FrqdyJnxPz2wB0zThk)
 {% endcontent-ref %}
 
 <details>

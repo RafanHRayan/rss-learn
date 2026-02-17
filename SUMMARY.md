@@ -1,8 +1,11 @@
 # Table of contents
 
 * [Welcome to RSS Learn!](README.md "Home")
-* [Changelog](changelog/README.md)
-  * [2025 and Earlier](changelog/2025-and-earlier.md)
+* [Changelogs](changelogs/README.md)
+  * [2026](changelogs/2026.md)
+  * [Archived](changelogs/archived/README.md)
+    * [2025](changelogs/archived/2025-and-earlier.md)
+  * [working on it](changelogs/working-on-it.md)
 
 ## Resources
 
@@ -14,7 +17,3 @@
 
 * [AMC 10/12](test-prep/amc-10-12.md)
 * [SAT](test-prep/sat.md)
-
-## Changelog
-
-* [Page 1](changelog-1/page-1.md)
