@@ -14,3 +14,7 @@
 
 * [AMC 10/12](test-prep/amc-10-12.md)
 * [SAT](test-prep/sat.md)
+
+## Changelog
+
+* [Page 1](changelog-1/page-1.md)
