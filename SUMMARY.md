@@ -4,7 +4,7 @@
 * [Changelogs](changelogs/README.md)
   * [2026](changelogs/2026.md)
   * [Archived](changelogs/archived/README.md)
-    * [2025](changelogs/archived/2025-and-earlier.md)
+    * [2025](changelog/2025-and-earlier.md)
   * [working on it](changelogs/working-on-it.md)
 
 ## Resources
