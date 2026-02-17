@@ -36,7 +36,9 @@ layout:
 
 **Contents:** ...
 
-\[Coming Soon]
+{% content-ref url="river-valley-civilizations.md" %}
+[river-valley-civilizations.md](river-valley-civilizations.md)
+{% endcontent-ref %}
 
 ## Ancient China
 
