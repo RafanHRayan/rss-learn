@@ -47,7 +47,7 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <details>
 
-<summary><i class="fa-laptop-code">:laptop-code:</i> Developer Tasks</summary>
+<summary>Developer Tasks</summary>
 
 * [ ] Complete previous Global 1 curriculum.
   * [ ] Complete First Civilizations.
