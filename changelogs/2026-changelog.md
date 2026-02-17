@@ -7,6 +7,12 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-17" %}
+## Update 14.2
+
+The programming library has been added.
+
+Small bug fixes and minor improvements.
+
 ## Update 14.1
 
 A new library is coming coming soon!
