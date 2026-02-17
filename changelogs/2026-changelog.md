@@ -9,6 +9,8 @@ icon: scroll
 {% update date="2026-02-17" %}
 ## Update 14.1
 
+Removed sidebar background to make it blend it with the rest of the site.
+
 New library coming soon!
 
 ## Update 14.0.2
