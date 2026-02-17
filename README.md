@@ -43,6 +43,12 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
+## Features
+
+{% content-ref url="changelog/" %}
+[changelog](changelog/)
+{% endcontent-ref %}
+
 <details>
 
 <summary>Developer Tasks</summary>
@@ -63,6 +69,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-<p align="right"><strong>RSS Learn</strong> v15.4</p>
+<p align="right"><strong>RSS Learn</strong> v16.0</p>
 
 [^1]: Hell no it's not.
