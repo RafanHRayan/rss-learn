@@ -5,6 +5,7 @@
   * [2026 Changelog](changelogs/2026-changelog.md)
   * [Archived](changelogs/archived/README.md)
     * [2025 Changelog](changelogs/archived/2025-changelog.md)
+    * [shhh](changelogs/archived/shhh.md)
 
 ## Resources
 

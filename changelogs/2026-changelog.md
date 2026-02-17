@@ -9,7 +9,7 @@ icon: scroll
 {% update date="2026-02-17" %}
 ## Update 14.0.2
 
-Site color altered to a lighter blue.
+Small bug fixes.
 
 ## Update 14.0.1
 
