@@ -41,6 +41,8 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/CNtaDR4SagJHxplwfZen/" class="button primary" data-icon="swords">Combat Initiation Refurbished</a></p>
 
+<p align="center"><a href="./" class="button secondary" data-icon="laptop-binary">Coming Soon</a></p>
+
 ***
 
 <details>
@@ -52,12 +54,6 @@ Here are all of our available libraries! You may also access them—and this hom
   * [ ] Complete River Valley Civilizations.
   * [ ] Complete Ancient China.
   * [ ] Complete Greece and Persia.
-* [x] Add a new logo.
-* [ ] Complete "Origins" in the RSS Learn History Page.
-* [x] Add external resources to the side bar in the home page.
-  * [x] Move external resources to the top navigation bar so they can be accessed throughout all pages.
-* [ ] Fill out changelog.
-  * [x] Fill out changelog from 2025 and earlier.
 
 </details>
 
