@@ -56,6 +56,8 @@ Here are all of our available libraries! You may also access them—and this hom
 * [ ] Complete "Origins" in the RSS Learn History Page.
 * [x] Add external resources to the side bar in the home page.
   * [x] Move external resources to the top navigation bar so they can be accessed throughout all pages.
+* [ ] Fill out changelog.
+  * [ ] Fill out changelog from 2025 and earlier.
 
 </details>
 
