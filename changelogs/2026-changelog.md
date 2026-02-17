@@ -7,6 +7,10 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-17" %}
+## Update 14.1
+
+New library coming soon!
+
 ## Update 14.0.2
 
 Small bug fixes and minor improvements.

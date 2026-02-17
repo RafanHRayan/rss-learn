@@ -33,6 +33,8 @@ Game-changing updates are colored.
 
 * Version 14.0
   * Version 14.0.1
+  * Version 14.0.2
+  * Version 14.1
 * Version 13.0
   * Version 13.0.1
 * Version 12.0
