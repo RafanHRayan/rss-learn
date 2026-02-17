@@ -37,11 +37,11 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a></p>
 
+<p align="center"><a href="./" class="button secondary" data-icon="laptop-binary">Coming Soon</a></p>
+
 <h4 align="center">Game Reference</h4>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/CNtaDR4SagJHxplwfZen/" class="button primary" data-icon="swords">Combat Initiation Refurbished</a></p>
-
-<p align="center"><a href="./" class="button secondary" data-icon="laptop-binary">Coming Soon</a></p>
 
 ***
 
