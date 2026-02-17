@@ -9,7 +9,7 @@ icon: scroll
 {% update date="2026-02-17" %}
 ## Update 14.0.2
 
-Fixed a bug where changelog links in the main changelog page were broken.
+Small bug fixes.
 
 ## Update 14.0.1
 
