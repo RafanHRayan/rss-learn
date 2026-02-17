@@ -9,7 +9,7 @@ icon: scroll
 {% update date="2026-02-17" %}
 ## Update 14.0.2
 
-Small bug fixes.
+Small bug fixes and minor improvements.
 
 ## Update 14.0.1
 
