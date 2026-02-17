@@ -9,11 +9,13 @@ icon: scroll
 {% update date="2026-02-17" %}
 ## Update 14.0.2
 
-Small bug fixes.
+Site color altered to a lighter blue.
 
 ## Update 14.0.1
 
 Addition of the Schulte Tables resource.
+
+Small bug fixes have also been made.
 
 ## Update 14.0
 
