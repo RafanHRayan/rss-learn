@@ -69,6 +69,6 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-<p align="right"><strong>RSS Learn</strong> v16.0</p>
+<p align="right"><strong>RSS Learn</strong> v<code class="expression">space.vars.product_version</code></p>
 
 [^1]: Hell no it's not.
