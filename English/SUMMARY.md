@@ -4,7 +4,9 @@
 
 ## Fundamental
 
-* [Grammar](fundamental/page-1.md)
+* [Grammar](fundamental/page-1/README.md)
+  * [The Parts of Speech](fundamental/page-1/the-parts-of-speech/README.md)
+    * [Nouns](fundamental/page-1/the-parts-of-speech/nouns.md)
 
 ## Advanced
 

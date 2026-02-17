@@ -26,9 +26,11 @@ metaLinks:
 
 ## Unit 1 — The Parts of Speech
 
-**Contents:** ...
+**Contents:** Nouns, verbs, pronouns, modifiers, prepositions, and conjunctions.
 
-\[Coming Soon]
+{% content-ref url="the-parts-of-speech/" %}
+[the-parts-of-speech](the-parts-of-speech/)
+{% endcontent-ref %}
 
 ## Unit 2 — Punctuation
 
