@@ -43,15 +43,15 @@ Here are all of our available libraries! You may also access them—and this hom
 
 ***
 
-## Features
+## Features and Upcoming
 
-{% content-ref url="/broken/pages/j3FrqdyJnxPz2wB0zThk" %}
-[Broken link](/broken/pages/j3FrqdyJnxPz2wB0zThk)
+{% content-ref url="/broken/pages/GhC7CU43qTe8CEfWQ51D" %}
+[Broken link](/broken/pages/GhC7CU43qTe8CEfWQ51D)
 {% endcontent-ref %}
 
 <details>
 
-<summary>Developer Tasks</summary>
+<summary><i class="fa-laptop-code">:laptop-code:</i> Developer Tasks</summary>
 
 * [ ] Complete previous Global 1 curriculum.
   * [ ] Complete First Civilizations.
@@ -63,13 +63,8 @@ Here are all of our available libraries! You may also access them—and this hom
 * [x] Add external resources to the side bar in the home page.
   * [x] Move external resources to the top navigation bar so they can be accessed throughout all pages.
 * [ ] Fill out changelog.
-  * [ ] Fill out changelog from 2025 and earlier.
-* [ ] Turn changelog into a group with pages in it corresponding to years.
+  * [x] Fill out changelog from 2025 and earlier.
 
 </details>
-
-***
-
-<p align="right"><strong>RSS Learn</strong> v<code class="expression">space.vars.product_version</code></p>
 
 [^1]: Hell no it's not.
