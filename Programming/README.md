@@ -1,6 +1,22 @@
 ---
 hidden: true
 icon: laptop-binary
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/Xtek6Rd6jglsM0ba6nbY/
