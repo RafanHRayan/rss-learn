@@ -43,10 +43,11 @@ Minor bug fixes.
 
 ## Update 13.0
 
-Many new improvements have been made...
+Font style changed across the site to a more playful one.
 
-* Font style changed across the site to a more playful one.
-* Test prep has moved from the mathematics library into the home page under a new heading to clean up the section and fill up the home page.
+Test prep has moved from the mathematics library into the home page under a new heading to clean up the section.
+
+The github repository link has been added to the top navigation bar.
 {% endupdate %}
 
 {% update date="2026-02-11" %}
