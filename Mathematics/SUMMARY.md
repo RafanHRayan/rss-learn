@@ -32,8 +32,3 @@
 * [Calculus AB](elite/page-3.md)
 * [Calculus BC](elite/page-3-1.md)
 * [Linear Algebra](elite/linear-algebra.md)
-
-## Miscellaneous Test Prep
-
-* [AMC 10/12](miscellaneous-test-prep/amc-10-12.md)
-* [SAT](miscellaneous-test-prep/sat.md)

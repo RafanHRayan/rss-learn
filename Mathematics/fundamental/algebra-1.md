@@ -3,20 +3,6 @@ description: >-
   A foundational mathematics course focusing on variables, expressions, and
   solving equations.
 icon: function
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Algebra 1
