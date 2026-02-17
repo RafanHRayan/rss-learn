@@ -1,5 +1,5 @@
 ---
-icon: scroll
+icon: align-left
 ---
 
 # Changelog
