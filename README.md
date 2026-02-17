@@ -31,7 +31,7 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <h4 align="center">Educational</h4>
 
-<p align="center"><a href="./" class="button secondary" data-icon="feather-pointed">Coming Soon</a></p>
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" class="button primary" data-icon="feather-pointed">English</a></p>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a></p>
 
