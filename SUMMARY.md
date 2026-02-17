@@ -4,8 +4,8 @@
 
 ## Resources
 
+* [Changelog](resources/changelog.md)
 * [Study Steps](resources/study-steps.md)
-* [BxSci Schedules](resources/bxsci-schedules.md)
 * [The History of RSS Learn](resources/the-history-of-rss-learn.md)
 
 ## Test Prep
