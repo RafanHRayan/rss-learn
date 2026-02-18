@@ -21,7 +21,9 @@ metaLinks: {}
 
 # Welcome to RSS Learn!
 
-RSS Industries brings you learning materials on various subjects! Browse through this expansive[^1] knowledge base using the dropdown in the top-left corner. Learn away...
+RSS Learn is a information database on various subjects brought to you by <mark style="color:$primary;">**RSS Industries**</mark>. RSS Learn is open-source and the GitHub repository can be accessed from the top-right or [this link](https://github.com/RafanHRayan/rss-learn).
+
+Browse through this knowledge base using the dropdown in the top-left corner. Learn away...
 
 ***
 
@@ -46,5 +48,3 @@ Here are all of our available libraries! You may also access them—and this hom
 ***
 
 <p align="right"><strong>RSS Learn</strong> v<code class="expression">space.vars.product_version</code></p>
-
-[^1]: Hell no it's not.

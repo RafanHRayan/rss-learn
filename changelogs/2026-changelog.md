@@ -11,6 +11,8 @@ icon: scroll
 
 The Developer Tasks page has been updated to make it more intuitive for readers.
 
+The welcome page has a new description!
+
 ## Update 15.0
 
 References section has been added to the home page to clarify on what something may mean on the site. This section is also used for developers so read up!
