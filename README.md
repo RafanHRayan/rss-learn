@@ -34,16 +34,16 @@ Here are all of our available libraries! You may also access them—and this hom
 <h3 align="center">Core</h3>
 
 {% columns %}
-{% column valign="middle" %}
-#### Humanities-Based
+{% column width="50%" valign="middle" %}
+<h4 align="center">Humanities-Based</h4>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" class="button primary" data-icon="feather-pointed">English</a></p>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a></p>
 {% endcolumn %}
 
-{% column valign="middle" %}
-<h4 align="right">STEM-Based</h4>
+{% column width="50%" valign="middle" %}
+<h4 align="center">STEM-Based</h4>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a></p>
 
