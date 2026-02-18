@@ -7,6 +7,12 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-18" %}
+## Update 15.0
+
+References section has been added to the home page to clarify on what something may mean on the site. This section is also used for developers so read up!
+
+The hint and expandable reference pages have been added in complement of this new feature.
+
 ## Update 14.1.1
 
 Small bug fixes and minor improvements.

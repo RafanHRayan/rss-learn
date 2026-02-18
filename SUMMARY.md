@@ -11,6 +11,7 @@
 ## References
 
 * [Hints](references/hints.md)
+* [Expandables](references/expandables.md)
 
 ## Resources
 
