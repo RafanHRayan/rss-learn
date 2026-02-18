@@ -160,9 +160,7 @@ The dependent variable is the variable that changes in response to altercations 
 
 Constants are variables that are _**not**_ altered throughout the experiment. They stay the same to ensure that the dependent variable doesn’t alter for any reason but the independent variable. In Scenario 1, one constant is absence of mental conditions in all participants. A second constant is obviously the drug being given: _Premasin 86_.
 
-{% hint style="info" %}
-## Note
-
+{% hint style="warning" %}
 There may only be _**one**_ independent and dependent variable, but an _endless_ number of constants.
 {% endhint %}
 

@@ -3,20 +3,6 @@ description: >-
   Renewable and nonrenewable resources, climate change and global warming,
   engineering design process, drawbacks versus tradeoffs, and other
   environmental problems.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Human Impact
@@ -36,8 +22,6 @@ Climate change is the [long term shift in weather patterns](#user-content-fn-1)[
 The sun radiates _UV rays_ to Earth. When these UV rays hit Earth, they are reradiated back as _infared radiation_. Greenhouse gases—like carbon dioxide, methane[^3], and nitrous oxide—trap this infrared radiation, warming up the planet more than it should be.
 
 {% hint style="danger" %}
-## Misconception
-
 Note that global warming is a _cause_ of climate change. They are _**not**_ the same!
 {% endhint %}
 

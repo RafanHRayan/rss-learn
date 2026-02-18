@@ -132,8 +132,6 @@ Ecological succession is the sequence of community and ecosystem changes followi
 At the start of both successions, small fast-growing plants like grass or weeds—called [pioneer species](#user-content-fn-12)[^12]—will begin to thrive. These species modify the environment and allow other plant species to grow. All plants living in the environment will then attract animals into the ecosystem. This is when an ecosystem reaches its climax community, which is when an ecosystem is mature and stable; this is the final stage of ecological succession.
 
 {% hint style="info" %}
-## Note
-
 In secondary succession, soil is already present, meaning it takes less time to reach climax community than in primary succession.
 {% endhint %}
 
@@ -162,8 +160,6 @@ There four global reservoirs[^14] are...
 Biomes are groups of ecosystems that share similar characteristics. Biomes are defined by its climate. Climates are composed of two major factors: temperature and precipitation.
 
 {% hint style="warning" %}
-## Warning
-
 There is a difference between climate and weather. Weather is _short_-term temperature and precipitation, but climate is weather over a _long_ period of time.
 {% endhint %}
 
@@ -181,17 +177,21 @@ Plants need nitrogen to grow, and 78% of our atmosphere is nitrogen gas. We call
 
 One way we can turn atmospheric nitrogen into nitrates is through lighting strikes. Lightning uses its immense energy to _break_ apart atmospheric nitrogen molecules. These separated nitrogen atoms then combine with oxygen in the air to form nitrates.
 
-### [Soil to Organism](#user-content-fn-15)[^15]
+### Soil to Organism
 
 Nitrifying bacteria convert ammonia into nitrites (NO<sub>2</sub><sup>–</sup>), which is then turned into nitrates (NO<sub>3</sub><sup>–</sup>) to be used by plants. Plants take in nitrates in the soil and animals, in turn, eat plants containing nitrates.
 
+{% hint style="info" %}
+Also known as assimilation.
+{% endhint %}
+
 ### Air to Soil
 
-Nitrogen-fixing bacteria convert nitrites into ammonia. Nitrogen-fixing bacteria are found in the soil, the roots of legumes[^16], and in oceans[^17].
+Nitrogen-fixing bacteria convert nitrites into ammonia. Nitrogen-fixing bacteria are found in the soil, the roots of legumes[^15], and in oceans[^16].
 
 ### Organism to Soil
 
-[Ammonifying bacteria](#user-content-fn-18)[^18] break down proteins in dead organisms and animal wastes into ammonium.
+[Ammonifying bacteria](#user-content-fn-17)[^17] break down proteins in dead organisms and animal wastes into ammonium.
 
 ### Soil to Air
 
@@ -207,14 +207,12 @@ Organic matter contains the two essential elements of life: carbon and hydrogen,
 
 Fluxes are movements of carbon between different reservoirs.
 
-**Photosynthesis** is the process plants use to make their own energy. Plants take in carbon dioxide, light energy, and water. They then convert them into oxygen and ATP[^19].
+**Photosynthesis** is the process plants use to make their own energy. Plants take in carbon dioxide, light energy, and water. They then convert them into oxygen and ATP[^18].
 
 **Cellular respiration** takes in glucose and oxygen and releases carbon dioxide and water. Producers, consumers, and decomposers perform respiration.
 
 {% hint style="success" %}
-## Extra Note
-
-Plants actually do cellular respiration, but choose to do _mainly_ photosynthesis instead.
+**Fun Fact** — Plants actually do cellular respiration, but choose to do _mainly_ photosynthesis instead.
 {% endhint %}
 
 **Combustion** is the burning of something to release carbon and thermal energy.
@@ -251,12 +249,10 @@ Majority of the carbon in the carbon cycle ends up in the atmosphere and biosphe
 
 [^14]: These are also more commonly referred to as the spheres of Earth.
 
-[^15]: Also known as assimilation.
+[^15]: Plants of and akin to beans.
 
-[^16]: Plants of and akin to beans.
+[^16]: Plants like blue-green algae.
 
-[^17]: Plants like blue-green algae.
+[^17]: These bacteria are decomposers.
 
-[^18]: These bacteria are decomposers.
-
-[^19]: Obtained in the form of glucose.
+[^18]: Obtained in the form of glucose.
