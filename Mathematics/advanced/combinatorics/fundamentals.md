@@ -22,10 +22,10 @@ description: 'Timestamp: 14:20'
 If there are $$n$$ objects in the first set and $$k$$ objects in the second set, then there are $$n+k$$ objects in total.
 
 {% hint style="info" %}
-### Example
-
-If we have 3 red apples and 8 green apples, we have 11 apples in total.
+**Example** — If we have 3 red apples and 8 green apples, we have 11 apples in total.
 {% endhint %}
+
+Also see better definition...
 
 </details>
 
@@ -74,11 +74,21 @@ Sets can be viewed using a venn diagram, with each circle equating to a set. **I
 
 **Unions** are when two sets are combined into a larger set. The union of two sets is defined as the set of all elements that are in _**at least one**_ of the sets: $$S\cup{}P=\{1,2,3,4,5,6,7,12\}$$.
 
-The number of elements in a set can be denoted like this: $$f(x) = x * e^{2 pi i \xi x}$$.
+The number of elements in a set can be denoted like this: $$|A|$$.
 
 {% hint style="info" %}
-Sets may be infinite.
+Sets may be _infinite_ or _zero_. Sets with nothing in them are referred as an empty set: $$B = \{\emptyset{}\}$$.
 {% endhint %}
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Rule of Sum (in Set language)</summary>
+
+If there is a set $$A$$ with $$n$$ elements, a set $$B$$ with $$k$$ elements, and [these sets do not have common elements](#user-content-fn-4)[^4], then the set $$A\cup{}B$$ has $$n+k$$ elements.
+
+</details>
+
+
 
 ***
 
@@ -95,3 +105,5 @@ This page is incomplete!
 [^2]: $$\{1,2,3,4\}$$ is the same set as $$\{2,4,1,3\}$$.
 
 [^3]: $$\{1,3,2,3,4,4\}$$ is the same set as $$\{1,2,3,4\}$$.
+
+[^4]: $$A\cap{}B=\{\emptyset{}\}$$
