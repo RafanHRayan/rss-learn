@@ -98,7 +98,7 @@ In order to count $$|A\cup{}B|$$ where elements are common in both sets, subtrac
 
 ### Number of Paths
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-18 at 2.35.52 PM.png" alt=""><figcaption><p>Image 1 — Paths example diagram.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-18 at 2.35.52 PM.png" alt="" width="563"><figcaption><p>Image 1 — Paths example diagram.</p></figcaption></figure></div>
 
 <details open>
 
