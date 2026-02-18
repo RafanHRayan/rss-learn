@@ -6,6 +6,12 @@ icon: scroll
 # 2026 Changelog
 
 {% updates format="full" %}
+{% update date="2026-02-18" %}
+## Update 14.1.1
+
+Small bug fixes and minor improvements.
+{% endupdate %}
+
 {% update date="2026-02-17" %}
 ## Update 14.1
 
