@@ -7,6 +7,10 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-18" %}
+## Update 15.0.1
+
+The Developer Tasks page has been updated to make it more intuitive for readers.
+
 ## Update 15.0
 
 References section has been added to the home page to clarify on what something may mean on the site. This section is also used for developers so read up!
