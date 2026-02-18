@@ -35,19 +35,19 @@ Here are all of our available libraries! You may also access them—and this hom
 
 {% columns %}
 {% column valign="middle" %}
-<h4 align="right">Humanities-Based</h4>
+#### Humanities-Based
 
-<p align="right"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" class="button primary" data-icon="feather-pointed">English</a></p>
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" class="button primary" data-icon="feather-pointed">English</a></p>
 
-<p align="right"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a></p>
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a></p>
 {% endcolumn %}
 
 {% column valign="middle" %}
-#### STEM-Based
+<h4 align="right">STEM-Based</h4>
 
-<a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a>
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a></p>
 
-<a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/" class="button primary" data-icon="flask">Science</a>
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/" class="button primary" data-icon="flask">Science</a></p>
 {% endcolumn %}
 {% endcolumns %}
 
