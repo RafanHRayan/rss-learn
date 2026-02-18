@@ -29,7 +29,7 @@ RSS Industries brings you learning materials on various subjects! Browse through
 
 Here are all of our available libraries! You may also access them—and this homepage—from anywhere in the dropdown in the top-left corner of any page.
 
-<h3 align="center">Core Educational</h3>
+<h3 align="center">Core</h3>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" class="button primary" data-icon="feather-pointed">English</a></p>
 
@@ -39,7 +39,7 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a></p>
 
-<h3 align="center">Elective Educational</h3>
+<h3 align="center">Elective</h3>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/2l8iiyzkDSRTzWgXH0cH/" class="button primary" data-icon="laptop-binary">Programming</a></p>
 
