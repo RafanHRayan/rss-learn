@@ -7,7 +7,7 @@ icon: flask
 
 This section of RSS Learn teaches you about various **science** topics.
 
-Use the sidebar or search using the bar below. You may search when on any page by using the search bar on the top.
+Use the sidebar or search using the bar below. You may search when on any page by using the search bar on the top navigation bar.
 
 ***
 
