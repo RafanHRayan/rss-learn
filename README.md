@@ -31,11 +31,11 @@ Browse through this knowledge base using the dropdown in the top-left corner. Le
 
 Here are all of our available libraries! You may also access them—and this homepage—from anywhere in the dropdown in the top-left corner of any page.
 
-<h3 align="center">Core</h3>
+<h3 align="center">Core Libraries</h3>
 
 {% columns %}
 {% column width="50%" valign="middle" %}
-<h4 align="center">Humanities-Based</h4>
+<p align="center"><strong>Humanities-Based</strong></p>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" class="button primary" data-icon="feather-pointed">English</a></p>
 
@@ -43,7 +43,7 @@ Here are all of our available libraries! You may also access them—and this hom
 {% endcolumn %}
 
 {% column width="50%" valign="middle" %}
-<h4 align="center">STEM-Based</h4>
+<p align="center"><strong>STEM-Based</strong></p>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a></p>
 
@@ -51,7 +51,7 @@ Here are all of our available libraries! You may also access them—and this hom
 {% endcolumn %}
 {% endcolumns %}
 
-<h3 align="center">Elective</h3>
+<h3 align="center">Elective Libraries</h3>
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/2l8iiyzkDSRTzWgXH0cH/" class="button primary" data-icon="laptop-binary">Programming</a></p>
 
