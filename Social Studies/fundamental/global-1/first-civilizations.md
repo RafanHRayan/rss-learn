@@ -45,7 +45,7 @@ With this problem in mind, Richard Lenski began an experiment with bacteria in 1
 
 For the bacteria, 24 hours roughly equates to approximately 6.67 generations and every 500 generations, a sample is frozen for future reference on how the bacteria looked on a specific date. The experiment is ongoing to this day.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption><p><strong>Image 1</strong> — Lenski Experiment Graph</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-18 at 3.18.35 PM.png" alt="" width="563"><figcaption><p><strong>Image 1</strong> — Lenski Experiment graph.</p></figcaption></figure></div>
 
 In Image 1, the cell size of bacteria increased over thousands of generations. The reason for this is because of natural selection; it was better to be larger, so over time, smaller bacteria died out and larger bacteria thrived. This resulted in an increase in cell size of the overall population. This is also known as **the struggles for existence**.
 
@@ -86,8 +86,6 @@ Along with agriculture however, the domestication of livestock[^12] followed. Th
 All of these new changes allowed humans to sustain more people, leading to larger civilizations and permanent settlements. Though it all seems to be positive, agriculture led to not the most prettiest sights of human history.
 
 {% hint style="info" %}
-## Note
-
 Though agriculture was generally beneficial to the development of humans, it wasn't all good.
 
 The biggest _mistake_ of farming was humans’ overall ability to survive. The hard work of farming caused humans to have poorer health, a shorter lifespan, and hard labor for a majority of the people.
@@ -118,8 +116,6 @@ The eight elements of civilization are as follows:
   * There is a single ruler above everyone else.
 
 {% hint style="info" %}
-## Note
-
 A settlement does **not** need _every_ single element to be considered a civilization.
 {% endhint %}
 
@@ -136,8 +132,6 @@ Gobekli Tepe was built with so much dedication because it is believed to be resu
 Catal Huyuk was one of the earliest civilizations of the Neolithic Age. There were no roads. Instead, people used ladders to let roofs access other roofs; every building had a way to get to its roof.
 
 {% hint style="info" %}
-## Note
-
 Though, Catal Huyuk was very advanced for its time, [it is not considered to be a full-blown civilization](#user-content-fn-13)[^13].
 {% endhint %}
 

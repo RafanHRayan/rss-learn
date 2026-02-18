@@ -82,9 +82,7 @@ The successful revolt against Antiochus led to the Jewish celebration of Hanukka
 Upon the conquest of Rome, the Arch of Titus was built to commemorate. Jewish people refused to walk under this arch. In 70 CE, the temple was destroyed. In 66 CE, Jews in Rome rebelled and took Jerusalem. Four years later, Rome retook Jerusalem and enslaved the Jews there, causing a diaspora[^6] across the entirety of the Roman empire.
 
 {% hint style="success" %}
-## Fun Fact
-
-This diaspora is, in part, why Jewish people are so diverse today. Despite this, Jewish people take up only 0.2% of the world population.
+**Fun Fact** — This diaspora is, in part, why Jewish people are so diverse today. Despite this, Jewish people take up only 0.2% of the world population.
 {% endhint %}
 
 ### The Prominent Problem of Monotheism
@@ -143,9 +141,7 @@ Christians believe that after three days, Jesus rose from the dead and later asc
 After Jesus' death, his disciples said he had risen from the dead, confirming his status as Messiah. The Apostles—his closest followers—began preaching and writing that Jesus was the Son of God. Christians formed their own churches for worship, fellowship, and instruction.
 
 {% hint style="info" %}
-## Note
-
-Those who believed in these teachings were Christians.
+Those who believed in the teachings of Jesus were Christians.
 {% endhint %}
 
 Christianity begins in 30 CE. Most people around Jesus (disciples) couldn’t read or write so they told stories. By 200 CE there may have been as many as fifty Gospels although there are only _four_ in the Bible.
