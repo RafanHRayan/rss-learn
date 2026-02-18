@@ -44,8 +44,6 @@ The following are true...
   * $$y=\frac{bx}{a}$$
 
 {% hint style="info" %}
-## Note
-
 The means and extremes of a proportion can flip, as long as they are [on opposite sides of the fraction bar from each other](#user-content-fn-1)[^1].
 {% endhint %}
 

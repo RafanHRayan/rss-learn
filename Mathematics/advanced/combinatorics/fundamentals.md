@@ -1,5 +1,5 @@
 ---
-description: 'Timestamp: 9:05'
+description: 'Timestamp: 14:20'
 ---
 
 # Basic Counting
@@ -42,7 +42,7 @@ What if we were asked to **count all the integers from 1 to 10 that are divisibl
 
 <details>
 
-<summary><i class="fa-note">:note:</i> Applying The Rule of Sum</summary>
+<summary><i class="fa-arrow-progress">:arrow-progress:</i> Applying The Rule of Sum</summary>
 
 If we apply the Rule of Sum, we get $$5+3=8$$. That must mean that there are 8 integers from 1 to 10 divisible by 2 or 3.
 
@@ -50,13 +50,35 @@ If we apply the Rule of Sum, we get $$5+3=8$$. That must mean that there are 8 i
 
 <details>
 
-<summary><i class="fa-note">:note:</i> Counting Directly</summary>
+<summary><i class="fa-arrow-progress">:arrow-progress:</i> Counting Directly</summary>
 
 If we count directly, we get that 7 integers are divisible by 2 or 3: $$\{2,3,4,6,8,9,10\}$$.
 
 This contradicts the usage of the Rule of Sum because 6 is in both sets and is counted twice when using the Rule of Sum.
 
 </details>
+
+{% hint style="info" %}
+_**No**_ object should belong to both sets when applying the Rule of Sum!
+{% endhint %}
+
+## Sets
+
+A **set** is an arbitrary group of arbitrary objects and tend to be denoted by capital letters. In this notation, [order doesn't matter](#user-content-fn-2)[^2]. Additionally, [repetition doesn't matter](#user-content-fn-3)[^3].
+
+### Set Notation
+
+Sets can be given as a list of its elements: $$S=\{1,2,3,4,5\}$$, $$P=\{2,6,1,7,12\}$$. $$S$$ and $$P$$ are both two different sets declared by their elements.
+
+Sets can be viewed using a venn diagram, with each circle equating to a set. **Intersections** are when two sets contain common elements. The intersection of two sets is defined as the set of all elements common between those two sets: $$S\cap{}P=\{1,2\}$$.
+
+**Unions** are when two sets are combined into a larger set. The union of two sets is defined as the set of all elements that are in _**at least one**_ of the sets: $$S\cup{}P=\{1,2,3,4,5,6,7,12\}$$.
+
+The number of elements in a set can be denoted like this: $$f(x) = x * e^{2 pi i \xi x}$$.
+
+{% hint style="info" %}
+Sets may be infinite.
+{% endhint %}
 
 ***
 
@@ -69,3 +91,7 @@ This page is incomplete!
     ㅤ
 
     If only there was a quicker way...
+
+[^2]: $$\{1,2,3,4\}$$ is the same set as $$\{2,4,1,3\}$$.
+
+[^3]: $$\{1,3,2,3,4,4\}$$ is the same set as $$\{1,2,3,4\}$$.

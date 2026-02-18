@@ -25,8 +25,6 @@ Lines are one of a few one-dimensional figures. Lines are defined by two points 
 Like in Figure 1, different figures are defined by different notations. Lines are denoted by the letters of two points with a line hat (i.e. $$\overleftrightarrow{LM}$$). Rays are the same with a single-arrow line hat. For rays, the end point traditionally comes first. If the endpoint of a ray is at point $$L$$, then a ray with $$L$$ as the endpoint with another point $$M$$ later on the line, must be labelled as $$\overrightarrow{LM}$$. Line segments are also the same with their difference being that the hat has no arrows (i.e. $$\overline{LM}$$).
 
 {% hint style="info" %}
-## Note
-
 Keep in mind that a ray is only _traditionally_ named with the endpoint first. This means that $$\overrightarrow{LM}$$ can also _**technically**_ be expressed as $$\overleftarrow{ML}$$.
 {% endhint %}
 
@@ -104,9 +102,7 @@ Two angles form a linear pair if and only if they are adjacent _**and**_ supplem
 </details>
 
 {% hint style="success" %}
-## Extra Helpful Theorem
-
-If $$n$$ unique rays divide a straight angle, then there are $$n$$ linear pairs.
+**Extra Helpful Theorem** — If $$n$$ unique rays divide a straight angle, then there are $$n$$ linear pairs.
 {% endhint %}
 
 ## Properties of Relations

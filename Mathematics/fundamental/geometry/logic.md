@@ -31,8 +31,6 @@ The **conjunction** is the logical “and” operator. The conjunction can only 
 The **disjunction** is the logical “or” operator. The conjunction will be true if _**at least one**_ of the simple statements is true; if both are false, the disjunction is false. The symbol for disjunctions in its [shortened format](#user-content-fn-6)[^6] is with a $$\lor{}$$ that is between the simple statements.
 
 {% hint style="info" %}
-### Note
-
 Compound statements can have more than one connective (i.e. $$p \land{}(q\lor{}r)$$).
 {% endhint %}
 
@@ -43,9 +41,7 @@ A **conditional** is when the former statement _necessarily implies_ the latter 
 The conditional is true if _**both**_ the antecedent and consequent are true _or_ if the antecedent is _false_. This is because a true antecedent and a false consequent would break the conditional. The antecedent necessarily implies the consequent, so the consequent must be true if the antecedent is true. If the antecedent is false, however, whether the consequent if true or false, the conditional will always be true. This is because of **vacuous truths**.
 
 {% hint style="info" %}
-## Note
-
-If the antecedent is false, the conditional will not break regardless of the consequent's truth value. The statement is true in either instance by _virtue_ of the false antecedent.
+If the antecedent is false, the conditional will _not_ break regardless of the consequent's truth value. The statement is true in either instance by _virtue_ of the false antecedent.
 
 In other words, the antecedent necessarily implies the consequent, but the consequent doesn't imply the antecedent.
 {% endhint %}
@@ -73,8 +69,6 @@ The **converse** of the statement would be the result of _swapping the positions
 The **contrapositive** of the statement would be the result of _both negating and swapping positions of_ both the antecedent and consequent, resulting in $$\neg{}M\rightarrow{}\neg{}J$$.
 
 {% hint style="info" %}
-## Note
-
 The base conditional and its contrapositive are logically equivalent. The inverse and converse of the base conditional are also logically equivalent.
 {% endhint %}
 

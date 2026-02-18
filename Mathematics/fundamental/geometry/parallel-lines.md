@@ -13,8 +13,6 @@ Parallel lines are lines on the same planes that _never_ cross. A transversal is
 
 If there is a line and a point not on the line, then there exists _**exactly one**_ line parallel to the given line that also passes through the point. This is Euclid's 5<sup>th</sup> postulate, known as the **Parallel Postulate**.
 
-
-
 **Example:** We have a line $$\overleftrightarrow{AB}$$ and a point $$C$$. $$C$$ is not on $$\overleftrightarrow{AB}$$. There is only one way we can draw a new line $$\overleftrightarrow{DE}$$ such that $$\overleftrightarrow{DE}$$ is parallel to $$\overleftrightarrow{AB}$$ and $$C$$ is on $$\overleftrightarrow{DE}$$.
 {% endhint %}
 
@@ -52,7 +50,7 @@ A figure is a polygon if and only if it is a plane figure formed by a closed pat
 * A triangle is scalene if and only if _none_ of its sides are congruent.
 
 {% hint style="info" %}
-## Three Notes
+## Note
 
 1. For side length triangles, angles being congruent also correlate. For example, a triangle with two 32° angles is still isosceles even if you don't know the actual side lengths of the triangle.
 2. Note that a triangle is isosceles if _**at least**_ two of its sides are congruent. This means that _all_ equilateral triangles are also isosceles.
@@ -67,7 +65,7 @@ A figure is a polygon if and only if it is a plane figure formed by a closed pat
 * A polygon is irregular if and only if is **not** equilateral _**or**_**&#x20;not** equiangular.
 
 {% hint style="info" %}
-## Two Notes
+## Note
 
 1. Since these relations are all two-sided, a polygon that isn't convex is concave, and a polygon that isn't regular is irregular.
 2. Definitions to clarify the definition of regular/irregular polygons...

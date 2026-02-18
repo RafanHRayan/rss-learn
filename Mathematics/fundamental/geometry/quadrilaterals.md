@@ -23,9 +23,7 @@ A polygon is a quadrilateral if and only if it is has four distinct sides and fo
 </details>
 
 {% hint style="success" %}
-## Tip
-
-Knowing these two definitions, a quadrilateral is essentially two **triangles** that share a side, that being the diagonal of the quadrilateral.
+**Tip** — Knowing these two definitions, a quadrilateral is essentially two _triangles_ that share a side, that being the diagonal of the quadrilateral.
 {% endhint %}
 
 There are many quadrilaterals that have special properties. These special properties are useful in proofs.
@@ -94,8 +92,6 @@ The _bases_ of a trapezoid are the two **parallel** sides. The _legs_ of a trape
 A trapezoid is an isosceles trapezoid if and only if it has congruent base angle pairs.
 
 {% hint style="warning" %}
-## Warning
-
 From knowing a trapezoid is isosceles, you can prove that the legs of that trapezoid are congruent. Despite this, you _**cannot**_ prove that a trapezoid is isosceles _**because**_ the legs are congruent.
 {% endhint %}
 
@@ -124,9 +120,7 @@ If a midsegment is drawn in a triangle, then...
 A medial triangle is the triangle formed by the midsegments of another triangle.
 
 {% hint style="success" %}
-## Extra Fact
-
-The medial triangle is similar (with a scale factor of $$\frac{1}{2}$$) to the original triangle and rotated 180°. Medial triangles also split any larger triangle into four congruent, smaller triangles.
+**Fun Fact** — The medial triangle is similar (with a [scale factor](similar-polygons.md#scale-factors) of $$\frac{1}{2}$$) to the original triangle and rotated 180°. Medial triangles also split any larger triangle into four congruent, smaller triangles.
 {% endhint %}
 
 ## Special Theorem
@@ -189,9 +183,7 @@ You should know what area is; if you are stupid, area is the amount of 1 un<sup>
 {% endtabs %}
 
 {% hint style="success" %}
-## Triangle Area
-
-Don't forget that the area of a triangle is found using $$\frac{1}{2}bh$$.
+**Triangle Area** — Don't forget that the area of a triangle is found using $$\frac{1}{2}bh$$.
 {% endhint %}
 
 [^1]: This item is the **accepted** definition of a parallelogram, as all of the other plausible items use the starred one to be proven true.

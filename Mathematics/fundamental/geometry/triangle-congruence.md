@@ -81,7 +81,7 @@ If two _**right triangles**_ have congruent hypotenuses and one congruent leg, t
 </details>
 
 {% hint style="info" %}
-## Notes
+## Note
 
 1. CPCTC is used to conclude the congruence of _**any**_ two corresponding parts from a triangle congruence statement.
 2. At first, the Isosceles Triangle Theorem may not look like a theorem that can help with triangle congruence, but this theorem can help speed up the process in proving triangle congruence.
@@ -125,17 +125,13 @@ All three specials cevians are the exact same in only two cases:
 2. Any special cevian from _**only the**_ [_**apex angle**_](#user-content-fn-1)[^1] in any **isosceles triangle** will be the same as every other special cevian in the same triangle from the same angle.
 
 {% hint style="warning" %}
-## Warning
-
 When a special cevian is told to be "the same as every other special cevian in the same triangle from the same angle", it means that any median, altitude, or segment bisector from an angle is the same as the other two.
 
 This **does not** mean that there are no other cevians possible for that angle in the same triangle. This holds true for all other angles in triangles with uniform special cevians.
 {% endhint %}
 
 {% hint style="success" %}
-## Tip
-
-If there are $$n$$ cevians drawn in a triangle, there are $$n+1$$ new triangles as a result.
+**Tip** — If there are $$n$$ cevians drawn in a triangle, there are $$n+1$$ new triangles as a result.
 {% endhint %}
 
 ### Special Cases of Altitudes
@@ -149,8 +145,6 @@ In _**right triangles only**_, the altitude dropped from the right angle is alwa
 In _**obtuse triangles only**_, the altitude dropped from the obtuse angle is always inside the triangle; the other two altitudes are completely outside of the triangle. These are called external altitudes.
 
 {% hint style="warning" %}
-## Warning
-
 These two types of altitude cases are abnormal. Don't forget that they are still altitudes!
 {% endhint %}
 
