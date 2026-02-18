@@ -21,7 +21,7 @@ metaLinks: {}
 
 # Welcome to RSS Learn!
 
-RSS Learn is a information database on various subjects brought to you by <mark style="color:$primary;">**RSS Industries**</mark>. RSS Learn is open-source and the GitHub repository can be accessed from the top-right or [this link](https://github.com/RafanHRayan/rss-learn).
+RSS Learn is a information database on various subjects brought to you by <mark style="color:$primary;">**RSS Industries**</mark>. RSS Learn is open-source and the GitHub repository can be accessed from the button in the navigation bar.
 
 Browse through this knowledge base using the dropdown in the top-left corner. Learn away...
 
