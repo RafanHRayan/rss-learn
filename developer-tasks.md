@@ -1,6 +1,7 @@
 ---
-description: Tasks for the developer to do.
-hidden: true
+description: >-
+  Tasks for the developer to do. You may look at these to see upcoming features,
+  goals, and ideas for RSS Learn.
 icon: computer
 ---
 
