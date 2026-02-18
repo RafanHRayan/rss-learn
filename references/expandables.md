@@ -1,6 +1,6 @@
 ---
 description: What icons and titles in expandables mean or can mean.
-icon: angle-down
+icon: arrow-down-wide-short
 ---
 
 # Expandables
