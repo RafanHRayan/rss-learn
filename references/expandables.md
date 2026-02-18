@@ -1,5 +1,5 @@
 ---
-description: What icons and titles in expandables mean or can mean.
+description: What icons and titles in expandables denotes or can denote.
 icon: arrow-down-wide-short
 ---
 
