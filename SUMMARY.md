@@ -8,6 +8,10 @@
 * [Archived Changelogs](changelogs/archived-changelogs/README.md)
   * [2025 Changelog](changelogs/archived-changelogs/2025-changelog.md)
 
+## References
+
+* [Hints](references/hints.md)
+
 ## Resources
 
 * [Study Steps](resources/study-steps.md)
