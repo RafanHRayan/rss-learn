@@ -12,6 +12,7 @@
 
 * [Hints](references/hints.md)
 * [Expandables](references/expandables.md)
+* [Developer Tasks](references/developer-tasks.md)
 
 ## Resources
 
@@ -22,7 +23,3 @@
 
 * [AMC 10/12](test-prep/amc-10-12.md)
 * [SAT](test-prep/sat.md)
-
-***
-
-* [Developer Tasks](developer-tasks.md)

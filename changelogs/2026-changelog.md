@@ -9,7 +9,7 @@ icon: scroll
 {% update date="2026-02-18" %}
 ## Update 15.0.1
 
-The Developer Tasks page has been updated to make it more intuitive for readers.
+The Developer Tasks page has been updated to make it more intuitive for readers and has been moved to the bottom of the references section.
 
 The welcome page has a new description!
 
