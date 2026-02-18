@@ -11,7 +11,7 @@ icon: scroll
 
 The Developer Tasks page has been updated to make it more intuitive for readers and has been moved to the bottom of the references section.
 
-The welcome page has a new description!
+The welcome page has a new description! The core library buttons on the home page have been moved into a 2x2 layout.
 
 ## Update 15.0
 

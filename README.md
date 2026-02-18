@@ -33,13 +33,19 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <h3 align="center">Core</h3>
 
-<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" class="button primary" data-icon="feather-pointed">English</a></p>
+{% columns %}
+{% column valign="middle" %}
+<p align="right"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" class="button primary" data-icon="feather-pointed">English</a></p>
 
-<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a></p>
+<p align="right"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/" class="button primary" data-icon="flask">Science</a></p>
+{% endcolumn %}
 
-<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/" class="button primary" data-icon="flask">Science</a></p>
+{% column valign="middle" %}
+<a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/ZCDUNKo9wgcFEhVREHNj/" class="button primary" data-icon="calculator-simple">Mathematics</a>
 
-<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a></p>
+<a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/Xtek6Rd6jglsM0ba6nbY/" class="button primary" data-icon="globe-stand">Social Studies</a>
+{% endcolumn %}
+{% endcolumns %}
 
 <h3 align="center">Elective</h3>
 
