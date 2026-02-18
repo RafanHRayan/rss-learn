@@ -1,5 +1,5 @@
 ---
-description: 'Timestamp: 14:20'
+description: 'Timestamp: 23:00'
 ---
 
 # Basic Counting
@@ -25,7 +25,7 @@ If there are $$n$$ objects in the first set and $$k$$ objects in the second set,
 **Example** — If we have 3 red apples and 8 green apples, we have 11 apples in total.
 {% endhint %}
 
-Also see better definition...
+[Also see better definition...](https://rss-industries.gitbook.io/learn/math/advanced/combinatorics/fundamentals#rule-of-sum-in-set-language)
 
 </details>
 
@@ -80,15 +80,35 @@ The number of elements in a set can be denoted like this: $$|A|$$.
 Sets may be _infinite_ or _zero_. Sets with nothing in them are referred as an empty set: $$B = \{\emptyset{}\}$$.
 {% endhint %}
 
+## Generalizing The Rule of Sum
+
 <details>
 
-<summary><i class="fa-note">:note:</i> Rule of Sum (in Set language)</summary>
+<summary><i class="fa-note">:note:</i> Rule of Sum (in set language)</summary>
 
 If there is a set $$A$$ with $$n$$ elements, a set $$B$$ with $$k$$ elements, and [these sets do not have common elements](#user-content-fn-4)[^4], then the set $$A\cup{}B$$ has $$n+k$$ elements.
 
 </details>
 
+{% hint style="info" %}
+In order to count $$|A\cup{}B|$$ where elements are common in both sets, subtract the elements that were counted twice.
+{% endhint %}
 
+## Recursive Counting
+
+### Number of Paths
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-18 at 2.35.52 PM.png" alt=""><figcaption><p>Image 1 — Paths example diagram.</p></figcaption></figure></div>
+
+<details open>
+
+<summary><i class="fa-seal-question">:seal-question:</i> Paths Example Question</summary>
+
+Suppose there are several points connected by arrows. The [starting point](#user-content-fn-5)[^5], $$s$$, and [final point](#user-content-fn-6)[^6], $$t$$, are denoted. How many different ways are there to get from $$s$$ to $$t$$?
+
+</details>
+
+You can use the Rule of Sum to answer this question.
 
 ***
 
@@ -107,3 +127,7 @@ This page is incomplete!
 [^3]: $$\{1,3,2,3,4,4\}$$ is the same set as $$\{1,2,3,4\}$$.
 
 [^4]: $$A\cap{}B=\{\emptyset{}\}$$
+
+[^5]: Also known as the **source**.
+
+[^6]: Also known as the **sink**.
