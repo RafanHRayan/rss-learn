@@ -12,7 +12,7 @@ A right triangle is a triangle that has one right angle.
 
 A side **opposite** an angle is the side an angle opens into. A side **adjacent** to an angle is the adjacent side that is not the hypotenuse.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 The opposite is also true for _both_ of the above...
 
 An angle **opposite** a side is the angle _opened into from the angle_. An angle **adjacent** to a side that is not the hypotenuse is the adjacent angle _that is not the right angle_.
@@ -36,7 +36,7 @@ $$
 
 Using these ratios is helpful for finding missing sides and angles of right triangles. To find angles, we can rearrange the equations.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Since both hypotenuse measures cancel out, $$\tan{\theta{}}=\frac{\sin{\theta{}}}{\cos{\theta{}}}=\frac{\text{opp}}{\text{hyp}}*\frac{\text{hyp}}{\text{adj}}=\frac{\text{opp}}{\text{adj}}$$.
 {% endhint %}
 
@@ -68,7 +68,7 @@ $$
 
 In short, the sine of an angle is equal to the cosine of its complement, and vice versa.
 
-{% hint style="info" %}
+{% hint style="info" icon="vial-vertical" %}
 ## Example
 
 If we are told that $$\cos{58\degree{}}=0.14$$, then $$\sin{32\degree{}}$$ would also be $$0.14$$. If we know the cosine of something, then the sin of its complement would be equivalent.

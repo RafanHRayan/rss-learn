@@ -74,7 +74,7 @@ The trigonometric coordinates are written and their relations are also shown.
 
 We know that the tangent of any angle is the slope of the angles ray. Thus, we know that—according to Image 3—the slope of the green and pink rays are equal. Thus, $$\tan{\theta{}+\pi{}}=\tan{\theta{}}$$. Likewise, the slope of the blue and yellow rays are equal. Thus, $$\tan{\theta{}-\pi{}}=\tan{-\theta{}}$$.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Keep in mind that $$\tan{-\theta{}}=-\tan{\theta{}}$$. A trigonometric function of a negative value is equivalent to the _inverse_ of the _**same**_ trigonometric function of the _inverse_ of the value.
 {% endhint %}
 

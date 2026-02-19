@@ -6,13 +6,6 @@ description: 'Timestamp: 23:00'
 
 **Counting** is one of the most basic tasks in mathematics. The mail goal is to—obviously—tell how many objects there are without actually [counting them one by one](#user-content-fn-1)[^1].
 
-{% hint style="info" %}
-### Important Applications
-
-1. Counting the number of steps of algorithms.
-2. Computing probabilities.
-{% endhint %}
-
 ## Rule of Sum
 
 <details>
@@ -58,7 +51,7 @@ This contradicts the usage of the Rule of Sum because 6 is in both sets and is c
 
 </details>
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 _**No**_ object should belong to both sets when applying the Rule of Sum!
 {% endhint %}
 
@@ -76,7 +69,7 @@ Sets can be viewed using a venn diagram, with each circle equating to a set. **I
 
 The number of elements in a set can be denoted like this: $$|A|$$.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Sets may be _infinite_ or _zero_. Sets with nothing in them are referred as an empty set: $$B = \{\emptyset{}\}$$.
 {% endhint %}
 
@@ -90,7 +83,7 @@ If there is a set $$A$$ with $$n$$ elements, a set $$B$$ with $$k$$ elements, an
 
 </details>
 
-{% hint style="info" %}
+{% hint style="success" icon="fire-flame-curved" %}
 In order to count $$|A\cup{}B|$$ where elements are common in both sets, subtract the elements that were counted twice.
 {% endhint %}
 

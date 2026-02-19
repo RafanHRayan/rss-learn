@@ -43,7 +43,7 @@ The following are true...
   * $$x=\frac{ay}{b}$$
   * $$y=\frac{bx}{a}$$
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 The means and extremes of a proportion can flip, as long as they are [on opposite sides of the fraction bar from each other](#user-content-fn-1)[^1].
 {% endhint %}
 
