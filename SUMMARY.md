@@ -10,9 +10,9 @@
 
 ## References
 
+* [Formatting](references/formatting.md)
 * [Hints](references/hints.md)
 * [Expandables](references/expandables.md)
-* [Formatting](references/formatting.md)
 * [Developer Tasks](references/developer-tasks.md)
 
 ## Resources
