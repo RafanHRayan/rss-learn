@@ -31,7 +31,7 @@ layout:
 [logic.md](logic.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Logic is not _technically_ a part of Euclidean geometry, but logical thinking is important for proving different geometrical theorems.
 
 This is why it is taught in this course.

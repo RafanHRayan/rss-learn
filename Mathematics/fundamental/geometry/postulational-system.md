@@ -24,7 +24,7 @@ Lines are one of a few one-dimensional figures. Lines are defined by two points 
 
 Like in Figure 1, different figures are defined by different notations. Lines are denoted by the letters of two points with a line hat (i.e. $$\overleftrightarrow{LM}$$). Rays are the same with a single-arrow line hat. For rays, the end point traditionally comes first. If the endpoint of a ray is at point $$L$$, then a ray with $$L$$ as the endpoint with another point $$M$$ later on the line, must be labelled as $$\overrightarrow{LM}$$. Line segments are also the same with their difference being that the hat has no arrows (i.e. $$\overline{LM}$$).
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Keep in mind that a ray is only _traditionally_ named with the endpoint first. This means that $$\overrightarrow{LM}$$ can also _**technically**_ be expressed as $$\overleftarrow{ML}$$.
 {% endhint %}
 
@@ -101,8 +101,8 @@ Two angles form a linear pair if and only if they are adjacent _**and**_ supplem
 
 </details>
 
-{% hint style="success" %}
-**Extra Helpful Theorem** — If $$n$$ unique rays divide a straight angle, then there are $$n$$ linear pairs.
+{% hint style="success" icon="fire-flame-curved" %}
+If $$n$$ unique rays divide a straight angle, then there are $$n$$ linear pairs.
 {% endhint %}
 
 ## Properties of Relations
@@ -239,7 +239,7 @@ When _**stuff**_ is divided by equivalent _**stuff**_, the quotients are equival
 
 </details>
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-question" %}
 ## What is _**Stuff**_?
 
 In the Addition, Subtraction, Multiplication, and Division Postulates, the word _**stuff**_ is used. This is denote the usage of either geometric objects (lines, rays, points, etc.) or numerical measures (segment lengths, angle measures, etc.).

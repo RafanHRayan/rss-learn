@@ -29,7 +29,7 @@ A circular **arc** is a _part_ of a circle.
 
 As mentioned previously, you can use a compass to store lengths and distances. This can be used to create [a segment that is the result of operations upon other segments](#user-content-fn-3)[^3]. Create a line as a workstation to perform segment operations. We will call this line the workspace line.
 
-{% hint style="warning" %}
+{% hint style="warning" icon="circle-exclamation" %}
 Make sure this line is _**long**_, or you may not have enough space to construct your segment.
 {% endhint %}
 
@@ -43,8 +43,8 @@ To **multiply**, adjust the compass to match the length of the factor segment. G
 
 These constructions are the most basic—yet most important—constructions that require little to no background knowledge.
 
-{% hint style="success" %}
-**Tip** — Though it is helpful to see the whole diagram, you do not need to draw the whole circle every time. You may draw arcs (portions of circles) on the [places where you need them](#user-content-fn-8)[^8].
+{% hint style="success" icon="fire-flame-curved" %}
+Though it is helpful to see the whole diagram, you do not need to draw the whole circle every time. You may draw arcs (portions of circles) on the [places where you need them](#user-content-fn-8)[^8].
 {% endhint %}
 
 <details>
@@ -128,7 +128,7 @@ These constructions are the most basic—yet most important—constructions that
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Perp Line Point.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 This is also how to construct an altitude of a triangle.
 {% endhint %}
 
@@ -219,8 +219,10 @@ This is also how to construct an altitude of a triangle.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Parallel lines.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-{% hint style="success" %}
-**Alternate Method** — You may also construct a parallel line by copying an angle to make congruent corresponding angles.
+{% hint style="success" icon="fire-flame-curved" %}
+## **Alternate Method**
+
+You may also construct a parallel line by copying an angle to make congruent corresponding angles.
 {% endhint %}
 
 </details>
@@ -251,8 +253,8 @@ This is also how to construct an altitude of a triangle.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Segment Splitting Cong Parts.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
-**Clarification** — The diagrams above assume $$n=3$$, that being splitting $$\overline{AB}$$ into 3 congruent segments.
+{% hint style="info" icon="circle-question" %}
+The diagrams above assume $$n=3$$, that being splitting $$\overline{AB}$$ into 3 congruent segments.
 {% endhint %}
 
 </details>
@@ -417,8 +419,8 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 * One of the resulting angles is a 15° angle.
 
-{% hint style="info" %}
-**Clarification** — The diagrams choose $$\angle{ABC}$$ to bisect originally in step 2.
+{% hint style="info" icon="circle-question" %}
+The diagrams choose $$\angle{ABC}$$ to bisect originally in step 2.
 {% endhint %}
 
 </details>
@@ -523,9 +525,7 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 </details>
 
-{% hint style="info" %}
-Constructions for the circumcenter, incenter, orthocenter, and centroid have videos in their relative groupings.
-{% endhint %}
+
 
 <details>
 
@@ -690,8 +690,8 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/orthocenter.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-{% hint style="success" %}
-**Tip** — The orthocenter of a _right_ triangle is always the vertex of the right angle!
+{% hint style="success" icon="fire-flame-curved" %}
+The orthocenter of a _right_ triangle is always the vertex of the right angle!
 {% endhint %}
 
 </details>
@@ -737,8 +737,8 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 </details>
 
-{% hint style="success" %}
-**Fun Fact** — In the real world, the centroid is the center of mass. If you were to take an actual object that shape of a triangle, locate the centroid, and balance it on that point, the triangle would balance!
+{% hint style="success" icon="lightbulb" %}
+In the real world, the centroid is the center of mass. If you were to take an actual object that shape of a triangle, locate the centroid, and balance it on that point, the triangle would balance!
 {% endhint %}
 
 <details>
