@@ -7,6 +7,10 @@
 * [The Parts of Speech](grammar/the-parts-of-speech/README.md)
   * [Nouns](grammar/the-parts-of-speech/nouns.md)
 
+## Fundamental
+
+* [Page 1](fundamental/page-1.md)
+
 ## Advanced
 
 * [Page 2](advanced/page-2.md)
