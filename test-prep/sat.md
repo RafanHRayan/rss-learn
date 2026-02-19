@@ -9,7 +9,9 @@ icon: acorn
 
 ### Craft and Structure
 
-You may be asked to...
+<details>
+
+<summary><i class="fa-list-ul">:list-ul:</i> You may be asked to...</summary>
 
 * Interpret the meaning of high‑utility words and phrases in context (words in context).
 * Choose the best word or phrase to maintain a passage’s tone and style.
@@ -21,9 +23,13 @@ You may be asked to...
 * Analyze relationships between two short, related texts (agreement/disagreement, cause/effect, support/contrast).
 * Compare how two texts treat the same topic or idea (cross‑text connections).
 
+</details>
+
 ### Information and Ideas
 
-You may be asked to...
+<details>
+
+<summary><i class="fa-list-ul">:list-ul:</i> You may be asked to...</summary>
 
 * Identify explicit central ideas or main points.
 * Determine key supporting details that best support a claim or main idea.
@@ -36,6 +42,8 @@ You may be asked to...
 * Identify whether a piece of evidence supports, weakens, or is irrelevant to a claim.
 * Evaluate an argument’s use of evidence and reasoning (basic argument evaluation).
 * Identify relationships like cause/effect, comparison, or sequence in informational texts.
+
+</details>
 
 ### Standard English Conventions
 
