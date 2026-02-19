@@ -99,7 +99,7 @@ From 264-146 BCE, Rome slowly began to amass more territory. This got the attent
 
 Carthage was a Phoenician settlement founded in 814 BCE. The Phoenicians[^8] were highly into trade, primarily trading purple dye. Purple dye was very difficult to obtain and expensive to get; it was considered a color of royalty. In Latin, the Phoenicians were translated as the Punics.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 The Carthaginians are the Phoenicians are the Punics. All of these are just synonymous titles given to the _same_ settlement.
 {% endhint %}
 
@@ -228,8 +228,8 @@ Caesar goes back to Rome, yet he brings is army, disobeying Roman orders. If Cae
 
 The First Triumvirate ends upon the death of the two others. Crassus dies to war in a campaign in Turkey. Crassus flees to Egypt, where he is mercilessly beheaded. Caesar is the only one to remain and no one challenges him; the Senate declares him as dictator for life.
 
-{% hint style="success" %}
-**Extra Note** — Traditionally, those deceased prior are printed on coins. Julius Caesar was the first _**currently living**_ man to appear on a Roman Republican coin.
+{% hint style="success" icon="lightbulb" %}
+Traditionally, those deceased prior are printed on coins. Julius Caesar was the first _**currently living**_ man to appear on a Roman Republican coin.
 {% endhint %}
 
 Caesar does many actions to help the public.
@@ -276,7 +276,7 @@ Many slaves did as they were told, but others violently rebelled. Spartacus, an 
 
 Eventually, Spartacus was killed in battle against an army led by [Crassus](rome.md#julius-caesar); the revolt fell apart.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 ### Aftermath
 
 Approximately 6,000 rebel slaves were crucified along the _Via Appia_.
@@ -286,7 +286,7 @@ Approximately 6,000 rebel slaves were crucified along the _Via Appia_.
 
 For 207 years, Rome—after transitioning from a republic to an empire—began to experience immense provisions of peace, wealth, and expansion.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Pax was the Roman goddess of peace.
 {% endhint %}
 

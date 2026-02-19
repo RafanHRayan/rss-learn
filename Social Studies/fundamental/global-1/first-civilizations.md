@@ -85,7 +85,7 @@ Along with agriculture however, the domestication of livestock[^12] followed. Th
 
 All of these new changes allowed humans to sustain more people, leading to larger civilizations and permanent settlements. Though it all seems to be positive, agriculture led to not the most prettiest sights of human history.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Though agriculture was generally beneficial to the development of humans, it wasn't all good.
 
 The biggest _mistake_ of farming was humans’ overall ability to survive. The hard work of farming caused humans to have poorer health, a shorter lifespan, and hard labor for a majority of the people.
@@ -115,7 +115,7 @@ The eight elements of civilization are as follows:
 * **Central Government**
   * There is a single ruler above everyone else.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 A settlement does **not** need _every_ single element to be considered a civilization.
 {% endhint %}
 
@@ -131,7 +131,7 @@ Gobekli Tepe was built with so much dedication because it is believed to be resu
 
 Catal Huyuk was one of the earliest civilizations of the Neolithic Age. There were no roads. Instead, people used ladders to let roofs access other roofs; every building had a way to get to its roof.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Though, Catal Huyuk was very advanced for its time, [it is not considered to be a full-blown civilization](#user-content-fn-13)[^13].
 {% endhint %}
 

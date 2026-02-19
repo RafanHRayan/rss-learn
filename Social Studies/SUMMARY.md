@@ -8,8 +8,8 @@
   * [First Civilizations](fundamental/global-1/first-civilizations.md)
   * [River Valley Civilizations](fundamental/global-1/river-valley-civilizations.md)
   * [Rome](fundamental/global-1/rome.md)
-  * [Rise of Monotheism](fundamental/global-1/the-rise-of-monotheism.md)
-  * [Byzantine Empire](fundamental/global-1/byzantine-empire.md)
+  * [The Rise of Monotheism](fundamental/global-1/the-rise-of-monotheism.md)
+  * [The Byzantine Empire](fundamental/global-1/byzantine-empire.md)
 
 ## Advanced
 

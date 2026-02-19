@@ -60,7 +60,7 @@ layout:
 [rome.md](rome.md)
 {% endcontent-ref %}
 
-## Rise of Monotheism
+## The Rise of Monotheism
 
 **Contents:** Judaism, Christianity, the conversion of Rome into Christianity, and the branching of Christianity.
 
@@ -68,7 +68,7 @@ layout:
 [the-rise-of-monotheism.md](the-rise-of-monotheism.md)
 {% endcontent-ref %}
 
-## Byzantine Empire
+## The Byzantine Empire
 
 **Contents:** Formation of the Byzantine Empire, Justinian, and the Hagia Sophia.
 

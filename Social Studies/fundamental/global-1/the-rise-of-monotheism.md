@@ -4,7 +4,7 @@ description: >-
   branching of Christianity.
 ---
 
-# Rise of Monotheism
+# The Rise of Monotheism
 
 ## Judaism
 
@@ -53,8 +53,8 @@ That which is given to Moses on Mount Sinai...
 
 The Torah is a _scroll_, not a book. It is not just the text that is sacred, the _object_ itself is sacred. At synagogues, a new section of the Torah is read each week by a Rabbi.
 
-{% hint style="warning" %}
-## Warning
+{% hint style="danger" icon="triangle-exclamation" %}
+## Misconception
 
 * The Torah is focused on **the here and now**.&#x20;
 * God gave these laws to show them how to live a Jewish life.
@@ -81,8 +81,8 @@ The successful revolt against Antiochus led to the Jewish celebration of Hanukka
 
 Upon the conquest of Rome, the Arch of Titus was built to commemorate. Jewish people refused to walk under this arch. In 70 CE, the temple was destroyed. In 66 CE, Jews in Rome rebelled and took Jerusalem. Four years later, Rome retook Jerusalem and enslaved the Jews there, causing a diaspora[^6] across the entirety of the Roman empire.
 
-{% hint style="success" %}
-**Fun Fact** — This diaspora is, in part, why Jewish people are so diverse today. Despite this, Jewish people take up only 0.2% of the world population.
+{% hint style="success" icon="lightbulb" %}
+This diaspora is, in part, why Jewish people are so diverse today. Despite this, Jewish people take up only 0.2% of the world population.
 {% endhint %}
 
 ### The Prominent Problem of Monotheism
@@ -140,7 +140,7 @@ Christians believe that after three days, Jesus rose from the dead and later asc
 
 After Jesus' death, his disciples said he had risen from the dead, confirming his status as Messiah. The Apostles—his closest followers—began preaching and writing that Jesus was the Son of God. Christians formed their own churches for worship, fellowship, and instruction.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Those who believed in the teachings of Jesus were Christians.
 {% endhint %}
 
@@ -210,7 +210,7 @@ Emperor Leo III's outlaw of icons was removed in 780 CE. Christianity, however, 
 ***
 
 {% hint style="warning" icon="trowel-bricks" %}
-This page may be incomplete...
+This page may be incomplete.
 {% endhint %}
 
 [^1]: **Covenant** _n. \[cu-ve-nant]_ — A binding agreement or pact made between two parties.
