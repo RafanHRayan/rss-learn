@@ -2,7 +2,7 @@
 description: >-
   Tasks for the developer to do. You may look at these to see upcoming features,
   goals, and ideas for RSS Learn.
-icon: clipboard-list
+icon: clipboard-list-check
 ---
 
 # Developer Tasks
