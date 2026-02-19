@@ -20,7 +20,7 @@ layout:
 
 # The Parts of Speech
 
-## Unit 1a — Nouns
+## Unit 1 — Nouns
 
 **Contents:** ...
 
@@ -28,31 +28,31 @@ layout:
 [nouns.md](nouns.md)
 {% endcontent-ref %}
 
-## Unit 1b — Verbs
+## Unit 2 — Verbs
 
 **Contents:** ...
 
 \[Coming Soon]
 
-## Unit 1c — Pronouns
+## Unit 3 — Pronouns
 
 **Contents:** ...
 
 \[Coming Soon]
 
-## Unit 1d — Modifiers
+## Unit 4 — Modifiers
 
 **Contents:** ...
 
 \[Coming Soon]
 
-## Unit 1e — Prepositions
+## Unit 5 — Prepositions
 
 **Contents:** ...
 
 \[Coming Soon]
 
-## Unit 1f — Conjunctions
+## Unit 6 — Conjunctions
 
 **Contents:** ...
 

@@ -1,9 +1,7 @@
 ---
 hidden: true
 icon: feather-pointed
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/2l8iiyzkDSRTzWgXH0cH/
+metaLinks: {}
 ---
 
 # English

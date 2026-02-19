@@ -2,11 +2,10 @@
 
 * [English](README.md)
 
-## Fundamental
+## Grammar
 
-* [Grammar](fundamental/page-1/README.md)
-  * [The Parts of Speech](fundamental/page-1/the-parts-of-speech/README.md)
-    * [Nouns](fundamental/page-1/the-parts-of-speech/nouns.md)
+* [The Parts of Speech](grammar/the-parts-of-speech/README.md)
+  * [Nouns](grammar/the-parts-of-speech/nouns.md)
 
 ## Advanced
 
