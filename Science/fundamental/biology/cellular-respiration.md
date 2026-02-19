@@ -70,8 +70,8 @@ Carbon dioxide is released into the environment as you exhale.
 {% endstep %}
 {% endstepper %}
 
-{% hint style="success" %}
-**Fun Fact** — This all happens in the _small_ time that you breathe! Steps 1-8 happen as you breathe in and steps 9-10 happen as you breathe out.
+{% hint style="success" icon="lightbulb" %}
+This all happens in the _small_ time that you breathe! Steps 1-8 happen as you breathe in and steps 9-10 happen as you breathe out.
 {% endhint %}
 
 ### How Breathing Works

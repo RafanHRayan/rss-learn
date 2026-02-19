@@ -70,9 +70,7 @@ There are five different relationships organisms may have with other organisms:
 
 **Competition** is when two different organisms compete for the _same_ resources in the _same_ place. There are two branching relationships from this. _Intraspecific_ competition is when two organisms of the **same** species compete for the same resources. On the other hand, _interspecific_ competition is when two organisms of _**different**_ species compete for the same resources.
 
-{% hint style="danger" %}
-## Common Misconception
-
+{% hint style="danger" icon="triangle-exclamation" %}
 **Interspecific** competition is between _**two different**_ species!
 
 **Intraspecific** competition is between _**two of the same**_ species!
@@ -131,7 +129,7 @@ Ecological succession is the sequence of community and ecosystem changes followi
 
 At the start of both successions, small fast-growing plants like grass or weeds—called [pioneer species](#user-content-fn-12)[^12]—will begin to thrive. These species modify the environment and allow other plant species to grow. All plants living in the environment will then attract animals into the ecosystem. This is when an ecosystem reaches its climax community, which is when an ecosystem is mature and stable; this is the final stage of ecological succession.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 In secondary succession, soil is already present, meaning it takes less time to reach climax community than in primary succession.
 {% endhint %}
 
@@ -159,7 +157,7 @@ There four global reservoirs[^14] are...
 
 Biomes are groups of ecosystems that share similar characteristics. Biomes are defined by its climate. Climates are composed of two major factors: temperature and precipitation.
 
-{% hint style="warning" %}
+{% hint style="danger" icon="triangle-exclamation" %}
 There is a difference between climate and weather. Weather is _short_-term temperature and precipitation, but climate is weather over a _long_ period of time.
 {% endhint %}
 
@@ -181,8 +179,8 @@ One way we can turn atmospheric nitrogen into nitrates is through lighting strik
 
 Nitrifying bacteria convert ammonia into nitrites (NO<sub>2</sub><sup>–</sup>), which is then turned into nitrates (NO<sub>3</sub><sup>–</sup>) to be used by plants. Plants take in nitrates in the soil and animals, in turn, eat plants containing nitrates.
 
-{% hint style="info" %}
-Also known as assimilation.
+{% hint style="info" icon="circle-exclamation" %}
+This is also known as assimilation.
 {% endhint %}
 
 ### Air to Soil
@@ -211,8 +209,8 @@ Fluxes are movements of carbon between different reservoirs.
 
 **Cellular respiration** takes in glucose and oxygen and releases carbon dioxide and water. Producers, consumers, and decomposers perform respiration.
 
-{% hint style="success" %}
-**Fun Fact** — Plants actually do cellular respiration, but choose to do _mainly_ photosynthesis instead.
+{% hint style="success" icon="lightbulb" %}
+Plants actually do cellular respiration, but choose to do _mainly_ photosynthesis instead.
 {% endhint %}
 
 **Combustion** is the burning of something to release carbon and thermal energy.

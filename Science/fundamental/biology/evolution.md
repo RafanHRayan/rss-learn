@@ -43,7 +43,7 @@ Phylogenetic trees represents the evolutionary relationship among a set or group
 
 All phylogenetic trees start from a root ancestor. From there, they branch off at points called nodes. These nodes can represent different traits, and where they lead further down the tree consists of all the organisms with that trait.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 ### Note
 
 1. Phylogenetic trees may also be referred to as evolutionary trees.
@@ -76,10 +76,10 @@ Analogous structures are structures from different organisms that have different
 
 Vestigial structures are structures from an organism that are useless and serve no necessary purpose to that organism. These structures typically lose their use because of evolution.
 
-{% hint style="danger" %}
+{% hint style="danger" icon="triangle-exclamation" %}
 Acknowledge that homologous structures have **similar anatomical structure** but have **different functions**, but analogous structures have **different anatomical structure** but have **similar functions**.
 
-{% hint style="success" %}
+{% hint style="success" icon="fire-flame-curved" %}
 A common way to denote the difference between the two can be with the following reasoning: analogous structures have the root word analogy, which is a comparison between two things that generally are different. Thus, analogous structures look different from each other but have similar functions.
 {% endhint %}
 {% endhint %}
@@ -90,7 +90,7 @@ Biogeography is evidence of evolution. Similar fossils appear on continents that
 
 Looking back at structure similarity, **convergent evolution** is the process where unrelated species independently evolve similar traits as a result of adapting to similar environments.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Since convergent evolution results in unrelated species developing similar traits, we can say that analogous structures are the result of convergent evolution.
 {% endhint %}
 
@@ -100,7 +100,7 @@ Since convergent evolution results in unrelated species developing similar trait
 
 Natural selection ties into evolution, since natural selection is one of the causes of evolution. When mutations happen within a species, natural selection can favor those mutations, resulting in an abundance of that mutated trait.
 
-{% hint style="warning" %}
+{% hint style="warning" icon="circle-exclamation" %}
 Mutations happen randomly via slight alterations of genetics. Mutations **do&#x20;**_**not**_ happen because a species _needs_ it; adaptations are **the result of** mutations that were _**favored**_.
 {% endhint %}
 

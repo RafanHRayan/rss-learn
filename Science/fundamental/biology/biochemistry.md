@@ -22,9 +22,7 @@ Everyone knows the states of matter: solid, liquid, and gas. However, these stat
    2. **Neutrons** — Has a neutral charge.
    3. **Electrons** — Has a charge of –1.
 
-{% hint style="danger" %}
-## Common Misconception
-
+{% hint style="danger" icon="triangle-exclamation" %}
 Note that molecules and ionic compounds are **different**. Molecules are the result of _covalently bonded_ atoms, but ionic compounds are the result of _**ionically bonded**_ atoms.
 {% endhint %}
 
@@ -52,9 +50,7 @@ Generally, **all** atoms are assigned an element defined by the number of proton
 
 Ions are atoms with an **uneven** number of electrons. When balanced atoms lose or gain one or more electrons, they become positively charged or negatively charged, respectively. Atoms will gain, lose, or share electrons with other atoms to have a complete **valence shell**—the outermost shell/orbital of an atom. **Valence electrons** are electrons in the valence shell. There are two ways atoms can bond together.
 
-{% hint style="info" %}
-## Note
-
+{% hint style="info" icon="circle-info" %}
 Note that atoms with many valence electrons can bond with **more than one** atom.
 {% endhint %}
 
@@ -66,9 +62,7 @@ Ionic bonds are when an atom _**"steal"**_ an electron from another in order to 
 
 Covalent bonds are when atoms _**share**_ their electron with each other in order to help complete each other's valence shell. Covalent bonding usually happens between two nonmetals (ex: carbon with hydrogen). Covalently bonded atoms form _**molecules**_.
 
-{% hint style="warning" %}
-## Warning
-
+{% hint style="warning" icon="circle-exclamation" %}
 There is a difference between **molecules** and **ionic compounds**. Molecules are formed through covalent bonding, but ionic compounds are formed through ionic bonding.
 {% endhint %}
 
@@ -80,9 +74,7 @@ Water (H<sub>2</sub>O) is covalently bonded together (hydrogen and oxygen are bo
 
 ### Hydrogen Bonds
 
-{% hint style="danger" %}
-## Misinterpretation
-
+{% hint style="danger" icon="triangle-exclamation" %}
 Hydrogen bonds are _**NOT**_ an actual chemical bond! They are an **intermolecular force** between molecules!!
 {% endhint %}
 
@@ -92,9 +84,7 @@ Hydrogen bonds usually happen between a hydrogen atom that is partially positive
 
 Water is a universal solvent. When a substance is hydrophilic ("water-loving"), it easily dissolves in water. When a substance is hydrophobic ("water-fearing"), it does **not** easily dissolve in water.
 
-{% hint style="info" %}
-## Note
-
+{% hint style="info" icon="circle-info" %}
 Water tends to dissolve **other polar substances** and **charged substances** (ionic atoms and compounds) the easiest.
 {% endhint %}
 
@@ -106,9 +96,7 @@ Adhesion is tendency of water to stick to other surfaces. It allows many functio
 
 Cohesion is the tendency for water to be attracted to itself. When water is placed on a thin surface, it tends to pile up in way that makes a dome-like structure that just barely hangs off the edges of the surface.
 
-{% hint style="info" %}
-## Note
-
+{% hint style="info" icon="circle-info" %}
 Remember that cohesion happens because water is polar and can form hydrogen bonds.
 {% endhint %}
 
@@ -129,7 +117,7 @@ Macromolecules ("giant/big" molecules) are molecules made of smaller molecules. 
 * Proteins
 * Nucleic Acids
 
-{% hint style="success" %}
+{% hint style="success" icon="fire-flame-curved" %}
 ## Extra Information
 
 Some of the most common elements in the body are:
@@ -154,9 +142,7 @@ The monomers of carbohydrates are called **monosaccharides**. The polymers of ca
 
 The _components_ of lipids are **glycerol** and **fatty acids**. The polymers of lipids are called **lipids**. Lipids contain carbon, hydrogen, and oxygen. They are used for long-term energy. Lipids are nonpolar, so they are hydrophobic and don't dissolve easily in water.
 
-{% hint style="info" %}
-## Note
-
+{% hint style="info" icon="circle-info" %}
 Lipids don't have a single monomer, they are built from glycerol and fatty acids. This is why they are listed as components, not monomers.
 {% endhint %}
 
@@ -176,9 +162,7 @@ When monomers are biochemically put together as reactants, the products are a re
 
 In order to break down a polymer water is required, the products are two (or more) resulting monomers. This is known as **hydrolysis**.
 
-{% hint style="info" %}
-## Note
-
+{% hint style="info" icon="circle-info" %}
 Dehydration synthesis and hydrolysis both carry out in the human body to help with life processes and homeostasis.
 {% endhint %}
 
@@ -200,9 +184,7 @@ Phospholipids are a type of lipid molecule that are specialized in forming the b
 
 ## Protein Structure
 
-{% hint style="danger" %}
-## Misinterpretation
-
+{% hint style="danger" icon="triangle-exclamation" %}
 There is a _very large_ difference between a _**polypeptide**_ and a _**protein**_.
 {% endhint %}
 
@@ -224,9 +206,7 @@ When proteins are denatured, they are exposed to an extreme temperature and/or a
 
 Chemical processes in the human body (like dehydration synthesis and hydrolysis) tend to take hours, days, or even weeks to happen. Catalysts can take the reactants of these tedious chemical reactions and **catalyze**, or hasten, them. Organic catalysts are called enzymes.
 
-{% hint style="info" %}
-## Note
-
+{% hint style="info" icon="circle-info" %}
 Inorganic catalysts _do_ exist (e.g. MnO<sub>2</sub>), and they do not contain hydrogen and carbon, often containing metals (magnesium in this example).
 {% endhint %}
 
@@ -236,9 +216,7 @@ Enzymes can help build _**or**_ break down molecules.
 
 The way enzymes work is by binding with reactants of chemical processes; these reactants are called substrates. _**Enzymes are shaped deliberately to bind with a specific substrate(s).**_ A substrate(s) bind to an enzyme in an area at the enzyme called the active site. After binding, the enzyme and substrate (or substrates) form an enzyme-substrate complex. The enzyme then speeds up the reaction, unbinds with, and releases the products of the reaction. Enzymes are never used up, and can catalyze the same reaction for a different substrate(s).
 
-{% hint style="info" %}
-## Note
-
+{% hint style="info" icon="circle-info" %}
 Denaturing an enzyme makes it unable to catalyze reactions.
 
 Enzymes are a special type of _**protein**_. This means that they can be denatured. When an enzyme unfolds, it loses its three-dimensional shape; the same shape that is specific to the substrates. This makes the enzyme **unable** to bind with and catalyze reactions with substrates.

@@ -107,7 +107,7 @@ Cells need materials to move in and out of the cell. Cell membranes mediate this
 
 **Passive transport** is a type of molecule movement into and out of the cell, where molecules _do not_ require energy and can easily pass through the cell. This happens when a molecule is going _with_ the **concentration gradient** (high to low concentration).
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 In a general perspective, passive transport _**is the same as**_ diffusion. They are interchangeable terms.
 {% endhint %}
 
@@ -139,9 +139,7 @@ This is also a type of diffusion, but it uses enzymes to help materials pass thr
 
 **Active transport** is a type of molecule movement into and out of the cell, where molecules _do_ require energy as they can't pass through the cell on their own. This happens when a molecule is going _against_ the concentration gradient (low to high concentration).
 
-{% hint style="info" %}
-### Example
-
+{% hint style="info" icon="vial-vertical" %}
 Though it might seem useless going against the concentration gradient is useful...
 
 In an environment, there may be _less_ glucose compared to inside a cell. The cell still needs the glucose, but can't use passive transport. Energy (specifically ATP) is used to _boost_ molecules to going against the concentration gradient.
@@ -157,7 +155,7 @@ In **endocytosis**, a group of similar molecules attempting to enter a cell will
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption><p><strong>Image 4</strong> — Comparison between exocytosis and endocytosis.</p></figcaption></figure></div>
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Vesicles and vacuoles are made up of phospholipid bilayers too.
 
 Enzymes—along with the nature and properties of phospholipids—help to connect the membranes of vesicles and vacuoles to that of the actual cell membrane.
@@ -193,13 +191,13 @@ In a _hypertonic_ solution, water in the cells will leave more than they enter, 
 
 In a _hypotonic_ solution, water in the cells will enter more than they leave, resulting in a net movement _inside_ the cell. Plant cells in this situation become turgid[^22].
 
-{% hint style="success" %}
-**Fun Fact** — Celery becomes crisp when water is applied because plant cells become turgid when in a hypotonic solution.
+{% hint style="success" icon="lightbulb" %}
+Celery becomes crisp when water is applied because plant cells become turgid when in a hypotonic solution.
 {% endhint %}
 
 In a _isotonic_ solution, water in the cells will enter at the same rate that they leave, resulting in _no_ net movement. Plant cells in this situation will look normal.
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Cells—both plant and animal—eventually _die_ after being exposed to hypotonic or hypertonic solutions for too long.
 {% endhint %}
 
