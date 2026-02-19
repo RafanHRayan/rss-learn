@@ -92,7 +92,7 @@ The reason it gets harder to breathe at higher altitudes is because of the conce
 
 ***
 
-{% hint style="danger" %}
+{% hint style="danger" icon="trowel-bricks" %}
 This page is incomplete!
 {% endhint %}
 
