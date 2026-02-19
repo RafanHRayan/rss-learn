@@ -7,7 +7,7 @@ icon: clipboard-list
 
 # Developer Tasks
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Tasks disappear with the update following their completion.
 {% endhint %}
 

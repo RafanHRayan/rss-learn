@@ -7,9 +7,11 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-19" %}
-## Update 15.1.1
+## Update 15.2
 
 Grammar is now a seperate section in the english library.
+
+Hints have been revamped. Reference page has been updated to match this.
 {% endupdate %}
 
 {% update date="2026-02-18" %}

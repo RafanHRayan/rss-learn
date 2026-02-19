@@ -5,57 +5,63 @@ icon: circle-info
 
 # Hints
 
-In this website you will come across hints...
+In this website you will come across hints. Each hint has a different connotation and meaning.
 
-{% hint style="info" %}
-This is a hint.
+## Types of Hints
+
+### Informatory Hints
+
+**Informatory hints** show information and descriptions. Here are the different types of informatory hints...
+
+{% hint style="info" icon="circle-info" %}
+This is an **info** hint. It is used to show extra information and notes for the reader to keep in mind.
 {% endhint %}
 
-Each hint has a different connotation and meaning.
-
-## Info Hints
-
-{% hint style="info" %}
-This is an **info** hint.
+{% hint style="info" icon="circle-question" %}
+This is a **clarification** hint. It is used to clarify a certain concept that may be confusing to some readers.
 {% endhint %}
 
-An info hint denotes a **note** or **clarification**. It is used to add on to information.
+### Warning Hints
 
-## Warning Hints
+**Warning hints** highlight mild warnings. Here are the different types of informatory hints...
 
-{% hint style="warning" %}
-This is a **warning** hint!
+{% hint style="warning" icon="circle-exclamation" %}
+This is a **warning** hint. It is used to convey a piece of information that is important to the understanding of a concept.
 {% endhint %}
 
-A warning hint denotes a [**warning**](#user-content-fn-1)[^1]. It is used to caution the reader in case of information that is crucial to understanding, but can also be used to address mild misconceptions.
-
-## Danger Hints
-
-{% hint style="danger" %}
-This is a **danger** hint!
+{% hint style="warning" icon="trowel-bricks" %}
+This is a **possibly under-construction** hint. It is typically appended to unfinished pages to denote their incompletion and caution the reader to possible errors within the content.
 {% endhint %}
 
-A danger hint denotes a **severe** or **common misconception**. It is used in cases where misunderstanding of a concept or information may lead to problems.
+### Dangering Hints
 
-## Success Hints
+**Dangering hints** highlight severe warnings. Here are the different types of dangering hints...
 
-{% hint style="success" %}
-This is a **success** hint.
+{% hint style="danger" icon="triangle-exclamation" %}
+This is a **misconception** hint. It is used in cases where misunderstanding of a concept or information may lead to problems.
 {% endhint %}
 
-A success hint denotes **additional information**. It can be used to highlight fun facts and extra information that may not be necessary to understand the concept, but is nice to know.
-
-For specific cases, a small title is given like so...
-
-{% hint style="success" %}
-**Fun Fact** — Books (specifically paper) catch in flames at 451°F.
+{% hint style="danger" icon="trowel-bricks" %}
+This is an **under-construction** hint. It is typically appended to unfinished pages to denote their incompletion and caution the reader to possible errors within the content.
 {% endhint %}
 
-## Miscellaneous Hints
+### Additive Hints
 
-Some hints may have a header.
+Additive hints denote additional information. Here are the different types of additive hints...
 
-{% hint style="info" %}
+{% hint style="success" icon="lightbulb" %}
+This is a **fun fact** hint. It is used to provide a fact that isn't entirely important, but related to the topic.
+{% endhint %}
+
+{% hint style="success" icon="fire-flame-curved" %}
+This is a **tip** hint. It is used to provide a trick that may help you easily understand something or speed up the process of doing something.
+{% endhint %}
+
+## Headers in Hints
+
+Some hints may have a header. Two examples are below...
+
+{% hint style="info" icon="circle-info" %}
 ### What is _Lorem Ipsum_?
 
 Lorem Ipsum is filler or placeholder text used in graphic design, web development, and printing to demonstrate graphic elements (fonts, layouts) without using meaningful content.
@@ -63,11 +69,7 @@ Lorem Ipsum is filler or placeholder text used in graphic design, web developmen
 Derived from Cicero’s 45 BC text De finibus bonorum et malorum, it is scrambled, nonsensical Latin that has been the industry standard since the 1500s.
 {% endhint %}
 
-This hint takes on a connotation similar to success hints, where it does not necessarily mean a note or warning, but is instead an extra bit of information that happens to be important in the context of the page.
-
-Additionally, [larger portions of text](#user-content-fn-2)[^2] may also have headers.
-
-{% hint style="warning" %}
+{% hint style="warning" icon="circle-exclamation" %}
 ### Warning
 
 1. Warning A
@@ -79,14 +81,4 @@ Additionally, [larger portions of text](#user-content-fn-2)[^2] may also have he
 4. Warning D
 {% endhint %}
 
-This denotes the same as normal hints, but just with more information.
-
-***
-
-{% hint style="danger" icon="trowel-bricks" %}
-This page is incomplete!
-{% endhint %}
-
-[^1]: Nice.
-
-[^2]: Like lists.
+Hints with headers take on a connotation similar to their normal hint counterparts, but give a more descriptive title on what the hint contains.
