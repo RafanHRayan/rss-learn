@@ -57,7 +57,9 @@ View grammar here...
 
 ### Expression of Ideas
 
-You may be asked to...
+<details>
+
+<summary><i class="fa-list-ul">:list-ul:</i> You may be asked to...</summary>
 
 * Choose the sentence or phrase that best accomplishes a stated purpose (e.g., provide an example, clarify a claim).
 * Add, revise, or delete material to improve focus and avoid redundancy.
@@ -67,11 +69,17 @@ You may be asked to...
 * Improve coherence and organization in a short passage (order of sentences, avoiding abrupt shifts).
 * Integrate information from a small graphic where relevant to the rhetorical goal (in questions that reference data).
 
+</details>
+
 ## Mathematics
 
 ### Algebra
 
-Linear relationships and equations. You may be asked to...
+Linear relationships and equations.
+
+<details>
+
+<summary><i class="fa-list-ul">:list-ul:</i> You may be asked to...</summary>
 
 * Solve linear equations in one variable (including with fractions and variables on both sides).
 * Solve linear equations in two variables (find x or y for a given equation).
@@ -85,9 +93,15 @@ Linear relationships and equations. You may be asked to...
 * Represent linear inequalities in one or two variables on a number line or coordinate plane.
 * Interpret solutions of inequalities and systems of inequalities in context.
 
+</details>
+
 ### Advanced Math
 
-Nonlinear equations and functions needed for higher‑level math. You may be asked to...
+Nonlinear equations and functions needed for higher‑level math.
+
+<details>
+
+<summary><i class="fa-list-ul">:list-ul:</i> You may be asked to...</summary>
 
 * **Equivalent expressions**
   * Simplify polynomial expressions (add, subtract, multiply).
@@ -109,9 +123,15 @@ Nonlinear equations and functions needed for higher‑level math. You may be ask
   * Use function notation, evaluate functions, and interpret function values in context.
   * Understand and use absolute value functions (including V‑shaped graphs and piecewise interpretations).
 
+</details>
+
 ### Problem-Solving and Data Analysis
 
-Quantitative reasoning, statistics, and probability. You may be asked to...
+Quantitative reasoning, statistics, and probability.
+
+<details>
+
+<summary><i class="fa-list-ul">:list-ul:</i> You may be asked to...</summary>
 
 * **Ratios, rates, proportions, units**
   * Work with ratios and proportional relationships (including scaling).
@@ -143,9 +163,15 @@ Quantitative reasoning, statistics, and probability. You may be asked to...
   * Identify what conclusions (association vs causation) are appropriate from a given study design.
   * Evaluate whether a statistical claim is supported by the data description.
 
+</details>
+
 ### Geometry and Trigonometry
 
-Core geometry plus right‑triangle trigonometry. You may be asked to...
+Core geometry plus right‑triangle trigonometry.
+
+<details>
+
+<summary><i class="fa-list-ul">:list-ul:</i> You may be asked to...</summary>
 
 * **Area and volume**
   * Use area formulas for polygons (especially triangles, rectangles, parallelograms, circles).
@@ -169,6 +195,8 @@ Core geometry plus right‑triangle trigonometry. You may be asked to...
   * Use sector area formulas when needed.
   * Use relationships involving inscribed angles and central angles in basic numeric problems.
   * Relate equations of circles in the coordinate plane to centers and radii in simple cases (when they appear).
+
+</details>
 
 ***
 
