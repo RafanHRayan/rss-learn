@@ -7,7 +7,7 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-19" %}
-## Update 15.2
+## Update 16.0
 
 Grammar is now a seperate section in the english library.
 
