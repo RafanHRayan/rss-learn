@@ -43,8 +43,8 @@ You may be asked to edit sentences to follow core grammar, usage, and punctuatio
 
 View grammar here...
 
-{% content-ref url="https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/algebra-1" %}
-[Algebra 1](https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/algebra-1)
+{% content-ref url="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/" %}
+[English](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/JBZHB9sZwfiz01de02WQ/)
 {% endcontent-ref %}
 
 ### Expression of Ideas
