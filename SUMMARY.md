@@ -8,13 +8,6 @@
 * [Archived Changelogs](changelogs/archived-changelogs/README.md)
   * [2025 Changelog](changelogs/archived-changelogs/2025-changelog.md)
 
-## References
-
-* [Formatting](references/formatting.md)
-* [Hints](references/hints.md)
-* [Expandables](references/expandables.md)
-* [Developer Tasks](references/developer-tasks.md)
-
 ## Resources
 
 * [Study Steps](resources/study-steps.md)
@@ -24,3 +17,10 @@
 
 * [AMC 10/12](test-prep/amc-10-12.md)
 * [SAT](test-prep/sat.md)
+
+## References
+
+* [Formatting](references/formatting.md)
+* [Hints](references/hints.md)
+* [Expandables](references/expandables.md)
+* [Developer Tasks](references/developer-tasks.md)
