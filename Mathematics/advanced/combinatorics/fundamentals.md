@@ -112,7 +112,7 @@ You can use the Rule of Sum to answer this question.
 
 ***
 
-{% hint style="danger" %}
+{% hint style="danger" icon="trowel-bricks" %}
 This page is incomplete!
 {% endhint %}
 

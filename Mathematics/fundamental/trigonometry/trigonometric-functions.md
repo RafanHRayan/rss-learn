@@ -94,8 +94,8 @@ As shown in Image 4, we also can conclude that domain and range of the sine func
 
 ***
 
-{% hint style="danger" %}
-This page in incomplete!
+{% hint style="danger" icon="trowel-bricks" %}
+This page is incomplete!
 {% endhint %}
 
 [^1]: This is _**only**_ true in a **unit circle** assuming that a positive angle goes _counterclockwise_ starting from the initial ray going from $$x=0$$ onward positively (to the right).
