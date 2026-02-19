@@ -21,6 +21,10 @@ This is an **info** hint. It is used to show extra information and notes for the
 This is a **clarification** hint. It is used to clarify a certain concept that may be confusing to some readers.
 {% endhint %}
 
+{% hint style="info" icon="vial-vertical" %}
+This is a **example** hint. It is used to provide an example to a concept for further understanding.
+{% endhint %}
+
 ### Warning Hints
 
 **Warning hints** highlight mild warnings. Here are the different types of informatory hints...
