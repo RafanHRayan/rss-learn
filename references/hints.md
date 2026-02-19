@@ -48,7 +48,7 @@ A success hint denotes **additional information**. It can be used to highlight f
 For specific cases, a small title is given like so...
 
 {% hint style="success" %}
-**Fun Fact** — Books (specifically paper) catches in flames at 451°F.
+**Fun Fact** — Books (specifically paper) catch in flames at 451°F.
 {% endhint %}
 
 ## Miscellaneous Hints
