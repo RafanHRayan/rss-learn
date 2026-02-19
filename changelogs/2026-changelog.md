@@ -7,6 +7,10 @@ icon: scroll
 
 {% updates format="full" %}
 {% update date="2026-02-19" %}
+## Update 16.0.1
+
+Minor changes to pages in the site and to the SAT test prep page.
+
 ## Update 16.0
 
 Grammar is now a seperate section in the english library.
