@@ -70,7 +70,7 @@ There are five different relationships organisms may have with other organisms:
 
 **Competition** is when two different organisms compete for the _same_ resources in the _same_ place. There are two branching relationships from this. _Intraspecific_ competition is when two organisms of the **same** species compete for the same resources. On the other hand, _interspecific_ competition is when two organisms of _**different**_ species compete for the same resources.
 
-{% hint style="danger" icon="triangle-exclamation" %}
+{% hint style="danger" icon="bolt" %}
 **Interspecific** competition is between _**two different**_ species!
 
 **Intraspecific** competition is between _**two of the same**_ species!
@@ -157,7 +157,7 @@ There four global reservoirs[^14] are...
 
 Biomes are groups of ecosystems that share similar characteristics. Biomes are defined by its climate. Climates are composed of two major factors: temperature and precipitation.
 
-{% hint style="danger" icon="triangle-exclamation" %}
+{% hint style="danger" icon="bolt" %}
 There is a difference between climate and weather. Weather is _short_-term temperature and precipitation, but climate is weather over a _long_ period of time.
 {% endhint %}
 

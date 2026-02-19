@@ -76,7 +76,7 @@ Analogous structures are structures from different organisms that have different
 
 Vestigial structures are structures from an organism that are useless and serve no necessary purpose to that organism. These structures typically lose their use because of evolution.
 
-{% hint style="danger" icon="triangle-exclamation" %}
+{% hint style="danger" icon="bolt" %}
 Acknowledge that homologous structures have **similar anatomical structure** but have **different functions**, but analogous structures have **different anatomical structure** but have **similar functions**.
 
 {% hint style="success" icon="fire-flame-curved" %}

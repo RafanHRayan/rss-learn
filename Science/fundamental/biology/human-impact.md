@@ -21,7 +21,7 @@ Climate change is the [long term shift in weather patterns](#user-content-fn-1)[
 
 The sun radiates _UV rays_ to Earth. When these UV rays hit Earth, they are reradiated back as _infared radiation_. Greenhouse gases—like carbon dioxide, methane[^3], and nitrous oxide—trap this infrared radiation, warming up the planet more than it should be.
 
-{% hint style="danger" icon="triangle-exclamation" %}
+{% hint style="danger" icon="bolt" %}
 Global warming is a _cause_ of climate change. They are _**not**_ the same!
 {% endhint %}
 

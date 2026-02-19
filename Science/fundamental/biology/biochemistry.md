@@ -22,8 +22,8 @@ Everyone knows the states of matter: solid, liquid, and gas. However, these stat
    2. **Neutrons** — Has a neutral charge.
    3. **Electrons** — Has a charge of –1.
 
-{% hint style="danger" icon="triangle-exclamation" %}
-Note that molecules and ionic compounds are **different**. Molecules are the result of _covalently bonded_ atoms, but ionic compounds are the result of _**ionically bonded**_ atoms.
+{% hint style="danger" icon="bolt" %}
+Molecules and ionic compounds are **different**. Molecules are the result of _covalently bonded_ atoms, but ionic compounds are the result of _**ionically bonded**_ atoms.
 {% endhint %}
 
 ***
@@ -74,7 +74,7 @@ Water (H<sub>2</sub>O) is covalently bonded together (hydrogen and oxygen are bo
 
 ### Hydrogen Bonds
 
-{% hint style="danger" icon="triangle-exclamation" %}
+{% hint style="danger" icon="bolt" %}
 Hydrogen bonds are _**NOT**_ an actual chemical bond! They are an **intermolecular force** between molecules!!
 {% endhint %}
 
@@ -184,7 +184,7 @@ Phospholipids are a type of lipid molecule that are specialized in forming the b
 
 ## Protein Structure
 
-{% hint style="danger" icon="triangle-exclamation" %}
+{% hint style="danger" icon="bolt" %}
 There is a _very large_ difference between a _**polypeptide**_ and a _**protein**_.
 {% endhint %}
 
