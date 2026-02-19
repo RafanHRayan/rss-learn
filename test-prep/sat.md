@@ -23,7 +23,7 @@ You may be asked to...
 
 ### Information and Ideas
 
-You may be asked...
+You may be asked to...
 
 * Identify explicit central ideas or main points.
 * Determine key supporting details that best support a claim or main idea.
@@ -46,6 +46,18 @@ View grammar here...
 {% content-ref url="https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/algebra-1" %}
 [Algebra 1](https://app.gitbook.com/s/ZCDUNKo9wgcFEhVREHNj/fundamental/algebra-1)
 {% endcontent-ref %}
+
+### Expression of Ideas
+
+You may be asked to...
+
+* Choose the sentence or phrase that best accomplishes a stated purpose (e.g., provide an example, clarify a claim).
+* Add, revise, or delete material to improve focus and avoid redundancy.
+* Improve the logical flow of ideas within or between sentences.
+* Select the best transition word or phrase between ideas, sentences, or short paragraphs.
+* Combine sentences for concision, clarity, and logical emphasis.
+* Improve coherence and organization in a short passage (order of sentences, avoiding abrupt shifts).
+* Integrate information from a small graphic where relevant to the rhetorical goal (in Expression‑of‑Ideas‑type questions that reference data).
 
 ## Mathematics
 
