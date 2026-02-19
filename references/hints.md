@@ -41,7 +41,7 @@ This is a **possibly under-construction** hint. It is typically appended to unfi
 
 **Dangering hints** highlight severe warnings. Here are the different types of dangering hints...
 
-{% hint style="danger" icon="triangle-exclamation" %}
+{% hint style="danger" icon="bolt" %}
 This is a **misconception** hint. It is used in cases where misunderstanding of a concept or information may lead to problems.
 {% endhint %}
 
