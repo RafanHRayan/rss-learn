@@ -13,6 +13,8 @@ Emojis in library dropdown have been removed.
 
 Formatting reference page has been added.
 
+SAT test prep page has updated and will continue to be updated.
+
 ## Update 15.0.1
 
 The Developer Tasks page has been updated to make it more intuitive for readers and has been moved to the bottom of the references section.
