@@ -11,9 +11,8 @@ icon: clipboard-list
 Tasks disappear with the update following their completion.
 {% endhint %}
 
+***
 
-
-* [ ] Create a CSS script for QoL.
 * [ ] Complete previous Global 1 curriculum in social studies library.
   * [x] Complete First Civilizations.
   * [ ] Complete River Valley Civilizations.
