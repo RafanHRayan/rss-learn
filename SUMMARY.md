@@ -11,7 +11,6 @@
 ## Resources
 
 * [Study Steps](resources/study-steps.md)
-* [Schulte Tables](resources/schulte-tables.md)
 
 ## Test Prep
 

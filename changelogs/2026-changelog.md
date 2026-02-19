@@ -63,9 +63,7 @@ Small bug fixes and minor improvements.
 
 ## Update 14.0.1
 
-Addition of the schulte tables resource.
-
-Small bug fixes have also been made.
+Small bug fixes.
 
 ## Update 14.0
 
