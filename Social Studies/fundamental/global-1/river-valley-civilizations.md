@@ -24,6 +24,6 @@ Law codes attempt to establish the rule of law by defining criminal acts and pun
 
 ***
 
-{% hint style="danger" %}
+{% hint style="danger" icon="trowel-bricks" %}
 This page is incomplete!
 {% endhint %}

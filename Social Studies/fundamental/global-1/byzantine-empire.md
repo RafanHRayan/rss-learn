@@ -59,7 +59,7 @@ The Hagia Sophia was the largest church at it's time, with engineering and archi
 
 ***
 
-{% hint style="warning" %}
+{% hint style="warning" icon="trowel-bricks" %}
 This page may be incomplete.
 {% endhint %}
 

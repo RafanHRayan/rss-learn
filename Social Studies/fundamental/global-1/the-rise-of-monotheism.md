@@ -209,7 +209,7 @@ Emperor Leo III's outlaw of icons was removed in 780 CE. Christianity, however, 
 
 ***
 
-{% hint style="warning" %}
+{% hint style="warning" icon="trowel-bricks" %}
 This page may be incomplete...
 {% endhint %}
 
