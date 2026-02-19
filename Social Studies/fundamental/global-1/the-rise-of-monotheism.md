@@ -53,7 +53,7 @@ That which is given to Moses on Mount Sinai...
 
 The Torah is a _scroll_, not a book. It is not just the text that is sacred, the _object_ itself is sacred. At synagogues, a new section of the Torah is read each week by a Rabbi.
 
-{% hint style="danger" icon="triangle-exclamation" %}
+{% hint style="danger" icon="bolt" %}
 ## Misconception
 
 * The Torah is focused on **the here and now**.&#x20;
