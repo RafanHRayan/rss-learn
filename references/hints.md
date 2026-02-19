@@ -56,7 +56,7 @@ For specific cases, a small title is given like so...
 Some hints may have a header.
 
 {% hint style="info" %}
-## What is _Lorem Ipsum_?
+### What is _Lorem Ipsum_?
 
 Lorem Ipsum is filler or placeholder text used in graphic design, web development, and printing to demonstrate graphic elements (fonts, layouts) without using meaningful content.
 
@@ -68,7 +68,7 @@ This hint takes on a connotation similar to success hints, where it does not nec
 Additionally, [larger portions of text](#user-content-fn-2)[^2] may also have headers.
 
 {% hint style="warning" %}
-## Warning
+### Warning
 
 1. Warning A
 2. Warning B
@@ -80,6 +80,12 @@ Additionally, [larger portions of text](#user-content-fn-2)[^2] may also have he
 {% endhint %}
 
 This denotes the same as normal hints, but just with more information.
+
+***
+
+{% hint style="danger" icon="trowel-bricks" %}
+This page is incomplete!
+{% endhint %}
 
 [^1]: Nice.
 
