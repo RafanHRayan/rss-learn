@@ -94,7 +94,7 @@ Increasing growth rate is possible when resource availability high, while compet
 
 Carrying capacity is the amount of a population that an environment can approximately hold. A population will tend to overshoot the carrying capacity at first, before fluctuating above and below the carrying capacity.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-21 at 6.32.53 PM.png" alt=""><figcaption><p><strong>Image 1</strong> — Phases of logistic growth.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-21 at 6.32.53 PM.png" alt="" width="563"><figcaption><p><strong>Image 1</strong> — Phases of logistic growth.</p></figcaption></figure></div>
 
 ### Limiting Factors
 
