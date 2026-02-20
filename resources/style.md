@@ -50,6 +50,27 @@ Style bonuses have tiers based on how difficult or powerful the style bonus is. 
 
 <table><thead><tr><th width="269.578125" align="right">Tier</th><th>Description</th></tr></thead><tbody><tr><td align="right">Tier 1</td><td>The lowest tier. Standard style bonuses and easiest obtainments fall under here.</td></tr><tr><td align="right">Tier 2</td><td>Intermediate level style bonuses fall under here.</td></tr><tr><td align="right">Tier 3</td><td>Advanced level style bonuses fall under here.</td></tr><tr><td align="right">Tier 4</td><td>Elite style bonuses fall under here. These style bonuses are the most difficult or complicated to obtain and give the most score.</td></tr></tbody></table>
 
+## Enemies
+
+### Enemy Hierarchy
+
+The hierarchy of enemies—from lowest to highest—is the following...
+
+|  Lower–  |
+| :------: |
+|   Lower  |
+|  Lower+  |
+| Greater– |
+|  Greater |
+| Greater+ |
+| Superior |
+
+### Enemy Weight Class
+
+Enemies are given a number that represents weight class. Weight classes start from 1 and can go up to extremely high numbers.
+
+For comparison purposes, players are considered to have a weight class of 8.
+
 ## List of All Style Bonuses
 
 Here are all of the style bonuses currently obtainable. Note that all styles are grouped by tier and relation.
@@ -91,12 +112,34 @@ Kill an enemy with an explosive.
 
 <details>
 
-<summary>+Nuked</summary>
+<summary>+Toasty</summary>
 
-Kill an enemy with an explosive.
+Kill an enemy with fire.
 
-* Rewards 45 Score.
+* Rewards 40 Score.
 * Replaces +Kill.
+
+</details>
+
+
+
+<details>
+
+<summary>+Spawnkill</summary>
+
+Kill an enemy within \~3 seconds of them spawning.
+
+* Rewards 150 Score.
+
+</details>
+
+<details>
+
+<summary>+Overkill</summary>
+
+Kill an enemy with direct damage that deals over 3x of its health.
+
+* Rewards 100 Score.
 
 </details>
 
