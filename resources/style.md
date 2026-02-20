@@ -188,11 +188,11 @@ Kill 2 enemies within \~1 second.
 
 <details>
 
-<summary><mark style="color:blue;">+DOUBLE KILL</mark></summary>
+<summary><mark style="color:blue;">+ARSENAL</mark></summary>
 
-Kill 2 enemies within \~1 second.
+Kill an enemy by damaging them with 2 or more weapons.
 
-* Rewards 25 Score.
+* Rewards 50 Score.
 
 </details>
 
