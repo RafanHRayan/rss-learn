@@ -28,7 +28,7 @@ Usually angles are measured in degrees, where a full angle is 360°. However, de
 
 Radians are the measure in which 1 radian is the amount of an angle measure where the arc that subtends it is equal in measure to the radian.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-26 at 11.36.15 AM.png" alt=""><figcaption><p><strong>Image 2</strong> — Visual depiction of a radian.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-26 at 11.36.15 AM.png" alt="" width="563"><figcaption><p><strong>Image 2</strong> — Visual depiction of a radian.</p></figcaption></figure></div>
 
 More information found in the circles unit in geometry...
 
@@ -56,7 +56,7 @@ The Symmetric Trigonometric Identity states how trigonometric functions values a
 
 ### Sine and Cosine Symmetric Identity
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-26 at 12.57.33 PM.png" alt=""><figcaption><p><strong>Image 3</strong> — Final result from <a href="https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-values-special-angles/v/trigonometry-unit-circle-symmetry">this</a> Khan Academy video lecture.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-26 at 12.57.33 PM.png" alt="" width="563"><figcaption><p><strong>Image 3</strong> — Final result from <a href="https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-values-special-angles/v/trigonometry-unit-circle-symmetry">this</a> Khan Academy video lecture.</p></figcaption></figure></div>
 
 <details>
 
@@ -86,7 +86,7 @@ The Periodicity Trigonometric Identity states that trigonometric functions value
 
 If we were to graph $$y=\sin{\theta{}}$$, we would get a sine wave. Image 4 shows the relationship between $$\theta{}$$ and $$\sin{\theta{}}$$ in a unit circle, a table, and [a graph](#user-content-fn-5)[^5].
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-27 at 7.30.28 PM.png" alt=""><figcaption><p><strong>Image 4</strong> — Final result from <a href="https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/graphs-of-sine-cosine-tangent/v/we-graph-domain-and-range-of-sine-function">this</a> Khan Academy video lecture.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-27 at 7.30.28 PM.png" alt="" width="563"><figcaption><p><strong>Image 4</strong> — Final result from <a href="https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/graphs-of-sine-cosine-tangent/v/we-graph-domain-and-range-of-sine-function">this</a> Khan Academy video lecture.</p></figcaption></figure></div>
 
 As shown in Image 4, we also can conclude that domain and range of the sine function. More on domains and ranges below...
 
