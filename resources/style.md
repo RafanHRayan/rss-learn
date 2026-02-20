@@ -145,6 +145,10 @@ Kill an enemy with direct damage that deals over 3x of its health.
 
 ***
 
+{% hint style="info" icon="circle-info" %}
+Most information is taken from [this wiki page](https://combatinitiation.miraheze.org/wiki/Style) and slightly altered.
+{% endhint %}
+
 {% hint style="danger" icon="trowel-bricks" %}
 This page is incomplete!
 {% endhint %}
