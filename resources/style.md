@@ -52,13 +52,51 @@ Style bonuses have tiers based on how difficult or powerful the style bonus is. 
 
 ## List of All Style Bonuses
 
-Here are all of the style bonuses currently obtainable...
+Here are all of the style bonuses currently obtainable. Note that all styles are grouped by tier and relation.
+
+### Tier 1
 
 <details>
 
 <summary>+Kill</summary>
 
+Kill an enemy.
 
+* Rewards 30 Score.
+* Other style bonuses can replace this style bonus.
+
+</details>
+
+<details>
+
+<summary>+Headshot</summary>
+
+Shoot an enemy in the head or hit an enemy in the head with a throwable weapon.
+
+* Rewards 75 Score.
+* Replaces +Kill.
+
+</details>
+
+<details>
+
+<summary>+Nuked</summary>
+
+Kill an enemy with an explosive.
+
+* Rewards 45 Score.
+* Replaces +Kill.
+
+</details>
+
+<details>
+
+<summary>+Nuked</summary>
+
+Kill an enemy with an explosive.
+
+* Rewards 45 Score.
+* Replaces +Kill.
 
 </details>
 
