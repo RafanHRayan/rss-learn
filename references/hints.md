@@ -30,7 +30,7 @@ This is a **example** hint. It is used to provide an example to a concept for fu
 **Warning hints** highlight mild warnings. Here are the different types of informatory hints...
 
 {% hint style="warning" icon="circle-exclamation" %}
-This is a **warning** hint. It is used to convey a piece of information that is important to the understanding of a concept.
+This is an **warning** hint. It is used to convey a piece of information that is important to the understanding of a concept.
 {% endhint %}
 
 {% hint style="warning" icon="trowel-bricks" %}
