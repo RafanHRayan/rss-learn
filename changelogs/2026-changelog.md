@@ -9,7 +9,7 @@ icon: scroll
 {% update date="2026-02-20" %}
 ## Update 16.1
 
-Style resource has been added.
+Style resource has been added and will be update later on.
 {% endupdate %}
 
 {% update date="2026-02-19" %}
