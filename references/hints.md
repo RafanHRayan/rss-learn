@@ -70,7 +70,7 @@ Some hints may have a header. Two examples are below...
 
 Lorem Ipsum is filler or placeholder text used in graphic design, web development, and printing to demonstrate graphic elements (fonts, layouts) without using meaningful content.
 
-Derived from Cicero’s 45 BC text De finibus bonorum et malorum, it is scrambled, nonsensical Latin that has been the industry standard since the 1500s.
+Derived from Cicero’s 45 BC text *De finibus bonorum et malorum*, it is scrambled, nonsensical Latin that has been the industry standard since the 1500s.
 {% endhint %}
 
 {% hint style="warning" icon="circle-exclamation" %}
