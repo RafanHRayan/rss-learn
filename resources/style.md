@@ -48,7 +48,7 @@ Note that the rank multiplier is _different_ from the aerial multiplier. When ca
 
 Style bonuses have tiers based on how difficult or powerful the style bonus is. They are the following...
 
-<table><thead><tr><th width="269.578125" align="right">Tier</th><th>Description</th></tr></thead><tbody><tr><td align="right">Tier 1</td><td>The lowest tier. Standard style bonuses and easiest obtainments fall under here.</td></tr><tr><td align="right">Tier 2</td><td>Intermediate level style bonuses fall under here.</td></tr><tr><td align="right">Tier 3</td><td>Advanced level style bonuses fall under here.</td></tr><tr><td align="right">Tier 4</td><td>Elite style bonuses fall under here. These style bonuses are the most difficult or complicated to obtain and give the most score.</td></tr></tbody></table>
+<table><thead><tr><th width="269.578125" align="right">Tier</th><th>Description</th></tr></thead><tbody><tr><td align="right">Tier 1</td><td>The lowest tier. Standard style bonuses and easiest obtainments fall under here.</td></tr><tr><td align="right"><mark style="color:blue;">Tier 2</mark></td><td>Intermediate level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:purple;">Tier 3</mark></td><td>Advanced level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:red;">Tier 4</mark></td><td>Elite style bonuses fall under here. These style bonuses are the most difficult or complicated to obtain and give the most score.</td></tr></tbody></table>
 
 ## Enemies
 
@@ -121,6 +121,27 @@ Kill an enemy with fire.
 
 </details>
 
+<details>
+
+<summary>+Slammed</summary>
+
+Kill an enemy via slamming them.
+
+* Rewards 80 Score.
+* Replaces +Kill.
+
+</details>
+
+<details>
+
+<summary>+Finisher</summary>
+
+Kill a greater or higher enemy with a sword.
+
+* Rewards 600 Score.
+
+</details>
+
 
 
 <details>
@@ -140,6 +161,38 @@ Kill an enemy within \~3 seconds of them spawning.
 Kill an enemy with direct damage that deals over 3x of its health.
 
 * Rewards 100 Score.
+
+</details>
+
+<details>
+
+<summary>+Icebreaker</summary>
+
+Attack a frozen enemy; breaking their ice in the process.
+
+* Rewards 50 Score.
+
+</details>
+
+### Tier 2
+
+<details>
+
+<summary><mark style="color:blue;">+DOUBLE KILL</mark></summary>
+
+Kill 2 enemies within \~1 second.
+
+* Rewards 25 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+DOUBLE KILL</mark></summary>
+
+Kill 2 enemies within \~1 second.
+
+* Rewards 25 Score.
 
 </details>
 
