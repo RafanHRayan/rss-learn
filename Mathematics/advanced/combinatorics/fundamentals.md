@@ -103,6 +103,8 @@ Suppose there are several points connected by arrows. The [starting point](#user
 
 You can use the Rule of Sum to answer this question.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-20 at 2.38.20 PM.png" alt="" width="563"><figcaption><p><strong>Image 2</strong> — Completeion of path example question.</p></figcaption></figure></div>
+
 ***
 
 {% hint style="danger" icon="trowel-bricks" %}
