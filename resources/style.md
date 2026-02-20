@@ -9,9 +9,13 @@ icon: sparkles
 
 A gauge bar is used to show the current amount of style one has. By receiving any **style bonus**, the style box will show up, showing the style gauge, current style bonuses, tier, color, and aerial multiplier. Style gradually goes down as less damage or style bonuses are gained.
 
+{% hint style="info" icon="circle-question" %}
+Style is the _concept_ and style bonuses are what you _obtain_ to get score.
+{% endhint %}
+
 ### Aerial Multiplier
 
-By staying in the air, an aerial multiplier starts to increase, capping at a multiplier of 2, upon landing on the next surface, the multiplier instantly resets.
+By staying in the air, an **aerial multiplier** starts to increase, capping at a multiplier of 2, upon landing on the next surface, the multiplier instantly resets. The aerial multiplier increases how much score is given for a style bonus.
 
 ## Ranks
 
@@ -25,7 +29,7 @@ Ranks are not just used for style, but in all places where performance is measur
 
 ### Rank Multipliers
 
-Ranks increase how much score is given for a style bonus.
+Ranks increase how much score is given for a style bonus. They increase like so...
 
 |      Rank | Score Multiplier |
 | --------: | ---------------- |
@@ -36,25 +40,25 @@ Ranks increase how much score is given for a style bonus.
 |  Superb!! | +100%            |
 | XTREME!!! | +200%            |
 
+{% hint style="info" icon="circle-info" %}
+Note that the rank multiplier is _different_ from the aerial multiplier. When calculating, the aerial multiplier is factored in first.
+{% endhint %}
+
 ## Tiers of Style Bonuses
 
 Style bonuses have tiers based on how difficult or powerful the style bonus is. They are the following...
 
 <table><thead><tr><th width="269.578125" align="right">Tier</th><th>Description</th></tr></thead><tbody><tr><td align="right">Tier 1</td><td>The lowest tier. Standard style bonuses and easiest obtainments fall under here.</td></tr><tr><td align="right">Tier 2</td><td>Intermediate level style bonuses fall under here.</td></tr><tr><td align="right">Tier 3</td><td>Advanced level style bonuses fall under here.</td></tr><tr><td align="right">Tier 4</td><td>Elite style bonuses fall under here. These style bonuses are the most difficult or complicated to obtain and give the most score.</td></tr></tbody></table>
 
-***
+## List of All Style Bonuses
+
+Here are all of the style bonuses currently obtainable...
 
 <details>
 
-<summary><i class="fa-book-font">:book-font:</i> Glossary</summary>
+<summary>+Kill</summary>
 
-**Score** — The quantified measure of performance.
 
-**Style** — The concept of style. This is what is shown in the gauge bar.
-
-**Style Bonus** — Any bonus that shows up under the gauge bar.
-
-**Rank** — The six levels of performance.
 
 </details>
 
