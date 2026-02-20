@@ -11,6 +11,7 @@
 ## Resources
 
 * [Study Steps](resources/study-steps.md)
+* [Style](resources/style.md)
 
 ## Test Prep
 
