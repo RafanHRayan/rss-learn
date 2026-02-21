@@ -340,6 +340,26 @@ Kill 3 enemies within ~1 second.
 
 </details>
 
+<details>
+
+<summary><mark style="color:purple;">+PARRY!</mark></summary>
+
+Parry an enemy attack or projectile.
+
+* Rewards 100 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">+ENRAGED!</mark></summary>
+
+Enrage an enemy.
+
+* Rewards 250 Score.
+
+</details>
+
 ***
 
 {% hint style="info" icon="circle-info" %}
