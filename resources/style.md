@@ -250,7 +250,18 @@ Boost a projectile by parrying it.
 
 <summary><mark style="color:blue;">+SLASH OF TIX [x<em>N</em>]</mark></summary>
 
-Kill an enemy by hitting a coin.
+Kill an enemy by hitting a coin with a melee weapon.
+
+* Rewards 80 Score.
+* N stands for the number of times a single coin is chained. It does not appear unless a chain of at least 2 is performed.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+RICOSHOT [x<em>N</em>]</mark></summary>
+
+Kill an enemy by hitting a coin with a ranged weapon.
 
 * Rewards 80 Score.
 * N stands for the number of times a single coin is chained. It does not appear unless a chain of at least 2 is performed.
@@ -264,6 +275,68 @@ Kill an enemy by hitting a coin.
 Kill an enemy from at least 200 feet away.
 
 * Rewards 60 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+REACTION</mark></summary>
+
+Detonate an explosive with something other than another explosive.
+
+* Rewards 50 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+UPPERCUT</mark></summary>
+
+Kill an enemy with a melee weapon while the enemy is in midair.
+
+* Rewards 100 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+DISARMED</mark></summary>
+
+Disarm an enemy's weapon or shield.
+
+* Rewards 60 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+CHAIN REACTION</mark></summary>
+
+Cause an explosive to denote because of another explosive's explosion.
+
+* Does not reward score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+LUNGE</mark></summary>
+
+Kill an enemy with a melee weapon while dashing.
+
+* Rewards 105 Score.
+
+</details>
+
+## Tier 3
+
+<details>
+
+<summary><mark style="color:purple;">+TRIPLE KILL!</mark></summary>
+
+Kill 3 enemies within ~1 second.
+
+* Rewards 50 Score.
 
 </details>
 
