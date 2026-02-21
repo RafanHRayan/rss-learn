@@ -196,6 +196,66 @@ Kill an enemy by damaging them with 2 or more weapons.
 
 </details>
 
+<details>
+
+<summary><mark style="color:blue;">+TEAMWORK</mark></summary>
+
+Kill an enemy with the help of a teammate or assist a teammate.
+
+* Does not reward score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+FRIENDLY FIRE</mark></summary>
+
+Parry an enemy's projectile into another enemy or have an enemy strike enemies with their explosives.
+
+* Rewards 250 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+REFLECT</mark></summary>
+
+Reflect a projectile.
+
+* Rewards 50 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+SWATTED</mark></summary>
+
+Knock a flying enemy out of the air.
+
+* Rewards 60 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+PROJECTILE BOOST</mark></summary>
+
+Boost a projectile by parrying it.
+
+* Does not reward score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+SLASH OF TIX [x<em>N</em>]</mark></summary>
+
+Kill an enemy by hitting a coin.
+
+* Rewards 80 Score.
+
+</details>
+
 ***
 
 {% hint style="info" icon="circle-info" %}
