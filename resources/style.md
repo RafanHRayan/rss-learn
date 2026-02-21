@@ -138,16 +138,6 @@ Kill an enemy via slamming them.
 
 <details>
 
-<summary><mark style="color:$info;">+Finisher</mark></summary>
-
-Kill a greater or higher enemy with a sword.
-
-* Rewards 600 Score.
-
-</details>
-
-<details>
-
 <summary><mark style="color:$info;">+Spawnkill</mark></summary>
 
 Kill an enemy within \~3 seconds of them spawning.
@@ -163,6 +153,16 @@ Kill an enemy within \~3 seconds of them spawning.
 Kill an enemy with direct damage that deals over 3x of its health.
 
 * Rewards 100 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:$info;">+Finisher</mark></summary>
+
+Kill a greater or higher enemy with a sword.
+
+* Rewards 600 Score.
 
 </details>
 
@@ -330,7 +330,7 @@ Kill an enemy with a melee weapon while dashing.
 
 </details>
 
-## Tier 3
+### Tier 3
 
 <details>
 
@@ -359,6 +359,47 @@ Parry an enemy attack or projectile.
 Enrage an enemy.
 
 * Rewards 250 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">+INTERRUPTION!</mark></summary>
+
+Prevent an enemies attack before it occurs.
+
+* Rewards 250 Score.
+* Most ranged enemies can be interrupted by hitting or shooting their weapon's barrel before the projectile comes out.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">+ABLAZE!</mark></summary>
+
+Kill an enemy with a bomb that has been imbued with fire and electricity.
+
+* Rewards 100 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">+FROSTBITE!</mark></summary>
+
+Kill an enemy with a bomb that has been imbued with fire and ice.
+
+* Rewards 100 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">+DUAL VOLATILITY!</mark></summary>
+
+Use an explosive on a metallic object imbued with electricity or parry an explosive projectile with a metallic weapon.
+
+* Rewards 100 Score.
 
 </details>
 
