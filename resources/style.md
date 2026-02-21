@@ -19,7 +19,7 @@ By staying in the air, an **aerial multiplier** starts to increase, capping at a
 
 ## Ranks
 
-**Ranks** are the six levels of performance: <mark style="color:red;">Xtreme</mark>, Superb, <mark style="color:purple;">Awesome</mark>, <mark style="color:blue;">Brilliant</mark>, <mark style="color:green;">Cool</mark>, and Dull. They are abbreviated in brackets as \[X!!], \[S!], \[A], \[B], \[C], and \[D].
+**Ranks** are the six levels of performance: Xtreme, Superb, Awesome, Brilliant, Cool, and Dull. They are abbreviated in brackets as \[X!!], \[S!], \[A], \[B], \[C], and \[D].
 
 In this context, they are used to measure overall performance in style. The more style, the more score you obtain and the higher rank you receive. Your rank lowers as style goes down.
 
@@ -142,8 +142,6 @@ Kill a greater or higher enemy with a sword.
 
 </details>
 
-
-
 <details>
 
 <summary>+Spawnkill</summary>
@@ -248,7 +246,7 @@ Boost a projectile by parrying it.
 
 <details>
 
-<summary><mark style="color:blue;">+Slash of Tix [x<em>N</em>]</mark></summary>
+<summary><mark style="color:blue;">+Slash of Tix [x</mark><em><mark style="color:blue;">N</mark></em><mark style="color:blue;">]</mark></summary>
 
 Kill an enemy by hitting a coin with a melee weapon.
 
@@ -259,7 +257,7 @@ Kill an enemy by hitting a coin with a melee weapon.
 
 <details>
 
-<summary><mark style="color:blue;">+Ricoshot [x<em>N</em>]</mark></summary>
+<summary><mark style="color:blue;">+Ricoshot [x</mark><em><mark style="color:blue;">N</mark></em><mark style="color:blue;">]</mark></summary>
 
 Kill an enemy by hitting a coin with a ranged weapon.
 
@@ -334,7 +332,7 @@ Kill an enemy with a melee weapon while dashing.
 
 <summary><mark style="color:purple;">+TRIPLE KILL!</mark></summary>
 
-Kill 3 enemies within ~1 second.
+Kill 3 enemies within \~1 second.
 
 * Rewards 50 Score.
 
