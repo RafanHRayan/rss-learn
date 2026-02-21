@@ -178,7 +178,7 @@ Attack a frozen enemy; breaking their ice in the process.
 
 <details>
 
-<summary><mark style="color:blue;">+DOUBLE KILL</mark></summary>
+<summary><mark style="color:blue;">+Double Kill</mark></summary>
 
 Kill 2 enemies within \~1 second.
 
@@ -188,7 +188,7 @@ Kill 2 enemies within \~1 second.
 
 <details>
 
-<summary><mark style="color:blue;">+ARSENAL</mark></summary>
+<summary><mark style="color:blue;">+Arsenal</mark></summary>
 
 Kill an enemy by damaging them with 2 or more weapons.
 
@@ -198,7 +198,7 @@ Kill an enemy by damaging them with 2 or more weapons.
 
 <details>
 
-<summary><mark style="color:blue;">+TEAMWORK</mark></summary>
+<summary><mark style="color:blue;">+Teamwork</mark></summary>
 
 Kill an enemy with the help of a teammate or assist a teammate.
 
@@ -208,7 +208,7 @@ Kill an enemy with the help of a teammate or assist a teammate.
 
 <details>
 
-<summary><mark style="color:blue;">+FRIENDLY FIRE</mark></summary>
+<summary><mark style="color:blue;">+Friendly Fire</mark></summary>
 
 Parry an enemy's projectile into another enemy or have an enemy strike enemies with their explosives.
 
@@ -218,7 +218,7 @@ Parry an enemy's projectile into another enemy or have an enemy strike enemies w
 
 <details>
 
-<summary><mark style="color:blue;">+REFLECT</mark></summary>
+<summary><mark style="color:blue;">+Reflect</mark></summary>
 
 Reflect a projectile.
 
@@ -228,7 +228,7 @@ Reflect a projectile.
 
 <details>
 
-<summary><mark style="color:blue;">+SWATTED</mark></summary>
+<summary><mark style="color:blue;">+Swatted</mark></summary>
 
 Knock a flying enemy out of the air.
 
@@ -238,7 +238,7 @@ Knock a flying enemy out of the air.
 
 <details>
 
-<summary><mark style="color:blue;">+PROJECTILE BOOST</mark></summary>
+<summary><mark style="color:blue;">+Projectile Boost</mark></summary>
 
 Boost a projectile by parrying it.
 
@@ -248,7 +248,7 @@ Boost a projectile by parrying it.
 
 <details>
 
-<summary><mark style="color:blue;">+SLASH OF TIX [x<em>N</em>]</mark></summary>
+<summary><mark style="color:blue;">+Slash of Tix [x<em>N</em>]</mark></summary>
 
 Kill an enemy by hitting a coin with a melee weapon.
 
@@ -259,7 +259,7 @@ Kill an enemy by hitting a coin with a melee weapon.
 
 <details>
 
-<summary><mark style="color:blue;">+RICOSHOT [x<em>N</em>]</mark></summary>
+<summary><mark style="color:blue;">+Ricoshot [x<em>N</em>]</mark></summary>
 
 Kill an enemy by hitting a coin with a ranged weapon.
 
@@ -270,7 +270,7 @@ Kill an enemy by hitting a coin with a ranged weapon.
 
 <details>
 
-<summary><mark style="color:blue;">+SNIPED</mark></summary>
+<summary><mark style="color:blue;">+Sniped</mark></summary>
 
 Kill an enemy from at least 200 feet away.
 
@@ -280,7 +280,7 @@ Kill an enemy from at least 200 feet away.
 
 <details>
 
-<summary><mark style="color:blue;">+REACTION</mark></summary>
+<summary><mark style="color:blue;">+Reaction</mark></summary>
 
 Detonate an explosive with something other than another explosive.
 
@@ -290,7 +290,7 @@ Detonate an explosive with something other than another explosive.
 
 <details>
 
-<summary><mark style="color:blue;">+UPPERCUT</mark></summary>
+<summary><mark style="color:blue;">+Uppercut</mark></summary>
 
 Kill an enemy with a melee weapon while the enemy is in midair.
 
@@ -300,7 +300,7 @@ Kill an enemy with a melee weapon while the enemy is in midair.
 
 <details>
 
-<summary><mark style="color:blue;">+DISARMED</mark></summary>
+<summary><mark style="color:blue;">+Disarmed</mark></summary>
 
 Disarm an enemy's weapon or shield.
 
@@ -310,7 +310,7 @@ Disarm an enemy's weapon or shield.
 
 <details>
 
-<summary><mark style="color:blue;">+CHAIN REACTION</mark></summary>
+<summary><mark style="color:blue;">+Chain Reaction</mark></summary>
 
 Cause an explosive to denote because of another explosive's explosion.
 
@@ -320,7 +320,7 @@ Cause an explosive to denote because of another explosive's explosion.
 
 <details>
 
-<summary><mark style="color:blue;">+LUNGE</mark></summary>
+<summary><mark style="color:blue;">+Lunge</mark></summary>
 
 Kill an enemy with a melee weapon while dashing.
 
