@@ -48,7 +48,11 @@ Note that the rank multiplier is _different_ from the aerial multiplier. When ca
 
 Style bonuses have tiers based on how difficult or powerful the style bonus is. They are the following...
 
-<table><thead><tr><th width="269.578125" align="right">Tier</th><th>Description</th></tr></thead><tbody><tr><td align="right">Tier 1</td><td>The lowest tier. Standard style bonuses and easiest obtainments fall under here.</td></tr><tr><td align="right"><mark style="color:blue;">Tier 2</mark></td><td>Intermediate level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:purple;">Tier 3</mark></td><td>Advanced level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:red;">Tier 4</mark></td><td>Elite style bonuses fall under here. These style bonuses are the most difficult or complicated to obtain and give the most score.</td></tr></tbody></table>
+<table><thead><tr><th width="269.578125" align="right">Tier</th><th>Description</th></tr></thead><tbody><tr><td align="right"><mark style="color:$info;">Tier 1</mark></td><td>The lowest tier. Standard style bonuses and easiest obtainments fall under here.</td></tr><tr><td align="right"><mark style="color:blue;">Tier 2</mark></td><td>Intermediate level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:purple;">Tier 3</mark></td><td>Advanced level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:red;">Tier 4</mark></td><td>Elite style bonuses fall under here. These style bonuses are the most difficult or complicated to obtain and give the most score.</td></tr></tbody></table>
+
+{% hint style="success" icon="lightbulb" %}
+The colors for each tier correspond to the colors for the Dull, Brilliant, Awesome, and Xtreme.
+{% endhint %}
 
 ## Enemies
 
