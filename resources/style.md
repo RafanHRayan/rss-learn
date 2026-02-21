@@ -19,7 +19,7 @@ By staying in the air, an **aerial multiplier** starts to increase, capping at a
 
 ## Ranks
 
-**Ranks** are the six levels of performance: <mark style="color:red;">Xtreme</mark>, <mark style="color:pink;">Superb</mark>, <mark style="color:purple;">Awesome</mark>, <mark style="color:blue;">Brilliant</mark>, <mark style="color:green;">Cool</mark>, and <mark style="color:gray;">Dull</mark>. They are abbreviated in brackets as \[X!!], \[S!], \[A], \[B], \[C], and \[D].
+**Ranks** are the six levels of performance: <mark style="color:red;">Xtreme</mark>, Superb, <mark style="color:purple;">Awesome</mark>, <mark style="color:blue;">Brilliant</mark>, <mark style="color:green;">Cool</mark>, and Dull. They are abbreviated in brackets as \[X!!], \[S!], \[A], \[B], \[C], and \[D].
 
 In this context, they are used to measure overall performance in style. The more style, the more score you obtain and the higher rank you receive. Your rank lowers as style goes down.
 
