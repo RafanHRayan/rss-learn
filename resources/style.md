@@ -282,7 +282,7 @@ Kill an enemy from at least 200 feet away.
 
 <summary><mark style="color:blue;">+Reaction</mark></summary>
 
-Detonate an explosive with something other than another explosive.
+Detonate a bomb with something other than an explosive.
 
 * Rewards 50 Score.
 
@@ -312,7 +312,7 @@ Disarm an enemy's weapon or shield.
 
 <summary><mark style="color:blue;">+Chain Reaction</mark></summary>
 
-Cause an explosive to denote because of another explosive's explosion.
+Cause a bomb to denote because of another bomb's explosion.
 
 * Does not reward score.
 
