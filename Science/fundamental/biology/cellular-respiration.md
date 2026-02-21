@@ -1,4 +1,8 @@
-# Cellular Respiration???
+---
+description: Respiratory system, circulatory system, ...
+---
+
+# Cellular Respiration??
 
 ## Respiratory System
 
@@ -90,7 +94,9 @@ The **diaphragm** is a parachute-shaped muscle that is attached to the spine, ri
 
 The reason it gets harder to breathe at higher altitudes is because of the concentration gradient. Less oxygen is present at higher altitudes, thus [there is a gentler slope in the concentration gradient](#user-content-fn-5)[^5]. Oxygen, in turn, diffuses slower making it harder to breathe it in.
 
+## Circulatory System
 
+The **circulatory system** brings nutrients to and removes wastes from the body’s cells.
 
 {% hint style="danger" icon="bolt" %}
 Blood is red, and is always red. The shade of red differs depending on how much oxygen is in the blood cell. Blue is used in models to differentiate deoxygenated blood cells from oxygenated blood cells.
