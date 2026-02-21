@@ -253,6 +253,17 @@ Boost a projectile by parrying it.
 Kill an enemy by hitting a coin.
 
 * Rewards 80 Score.
+* N stands for the number of times a single coin is chained. It does not appear unless a chain of at least 2 is performed.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">+SNIPED</mark></summary>
+
+Kill an enemy from at least 200 feet away.
+
+* Rewards 60 Score.
 
 </details>
 
