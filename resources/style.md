@@ -99,7 +99,7 @@ Kill an enemy.
 Shoot an enemy in the head or hit an enemy in the head with a throwable weapon.
 
 * Rewards 75 Score.
-* Replaces +Kill.
+* Replaces <mark style="color:$info;">+Kill</mark>
 
 </details>
 
@@ -110,7 +110,7 @@ Shoot an enemy in the head or hit an enemy in the head with a throwable weapon.
 Kill an enemy with an explosive.
 
 * Rewards 45 Score.
-* Replaces +Kill.
+* Replaces <mark style="color:$info;">+Kill</mark>
 
 </details>
 
@@ -121,7 +121,7 @@ Kill an enemy with an explosive.
 Kill an enemy with fire.
 
 * Rewards 40 Score.
-* Replaces +Kill.
+* Replaces <mark style="color:$info;">+Kill</mark>
 
 </details>
 
@@ -132,7 +132,7 @@ Kill an enemy with fire.
 Kill an enemy via slamming them.
 
 * Rewards 80 Score.
-* Replaces +Kill.
+* Replaces <mark style="color:$info;">+Kill</mark>
 
 </details>
 
@@ -255,7 +255,7 @@ Boost a projectile by parrying it.
 Kill an enemy by hitting a coin with a melee weapon.
 
 * Rewards 80 Score.
-* N stands for the number of times a single coin is chained. It does not appear unless a chain of at least 2 is performed.
+* _N_ stands for the number of times a single coin is chained. It does not appear unless a chain of at least 2 is performed.
 
 </details>
 
@@ -266,7 +266,7 @@ Kill an enemy by hitting a coin with a melee weapon.
 Kill an enemy by hitting a coin with a ranged weapon.
 
 * Rewards 80 Score.
-* N stands for the number of times a single coin is chained. It does not appear unless a chain of at least 2 is performed.
+* _N_ stands for the number of times a single coin is chained. It does not appear unless a chain of at least 2 is performed.
 
 </details>
 
@@ -346,7 +346,7 @@ Kill 3 enemies within \~1 second.
 
 <summary><mark style="color:purple;">+PARRY!</mark></summary>
 
-Parry an enemy attack or projectile.
+Parry an enemy's attack or projectile.
 
 * Rewards 100 Score.
 
@@ -359,6 +359,16 @@ Parry an enemy attack or projectile.
 Enrage an enemy.
 
 * Rewards 250 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">+SUPER REACTION!</mark></summary>
+
+Detonate a bomb with an explosive.
+
+* Rewards 100 Score.
 
 </details>
 
@@ -403,6 +413,111 @@ Use an explosive on a metallic object imbued with electricity or parry an explos
 
 </details>
 
+<details>
+
+<summary><mark style="color:purple;">+REFLECT!</mark></summary>
+
+Reflect a projectile or attack using the reflector's shield.
+
+* Rewards 250 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;">+BACKSTAB!</mark></summary>
+
+Backstab an enemy.
+
+* Rewards 200 Score.
+
+</details>
+
+### Tier 4
+
+<details>
+
+<summary><mark style="color:red;">+MULTI KILL [x</mark><em><mark style="color:red;">N</mark></em><mark style="color:red;">]!!</mark></summary>
+
+Kill 4 or more enemies within \~1 second.
+
+* Rewards 125 Score.
+* _N_ stands for the [number of kills beyond 3](#user-content-fn-1)[^1].
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;">+NUCLEAR REACTION!!</mark></summary>
+
+Detonate a bomb with an explosive whilst it is airborne.
+
+* Rewards 150 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;">+REVERSAL!!</mark></summary>
+
+Kill an enemy by parrying an explosive onto them.
+
+* Rewards 250 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;">+CHARGEBACK!!</mark></summary>
+
+Return a snipeshot back to its sender.
+
+* Rewards 250 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;">+PARRY!!</mark></summary>
+
+Perform a precise parry.
+
+* Rewards 250 Score.
+* Other style bonuses can replace this style bonus.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;">+DOWN TO SIZE!!</mark></summary>
+
+Perform a precise parry on an enemy with a weight class 30 or more above yours.
+
+* Rewards 900 Score.
+* Replaces <mark style="color:red;">+PARRY!!</mark>
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;">+CALAMITY!!</mark></summary>
+
+Kill an enemy with a bomb that has been imbued with fire, ice, and electricity.
+
+* Rewards 250 Score.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;">+SUPERPARRY!!</mark></summary>
+
+Use the reflector's shield right before a heavy melee or projectile attack hits you.
+
+* Rewards 2500 Score.
+
+</details>
+
 ***
 
 {% hint style="info" icon="circle-info" %}
@@ -412,3 +527,7 @@ Most information is taken from [this wiki page](https://combatinitiation.mirahez
 {% hint style="danger" icon="trowel-bricks" %}
 This page is incomplete!
 {% endhint %}
+
+[^1]: * 4 Kills -> N=1
+    * 5 Kills -> N=2
+    * ...
