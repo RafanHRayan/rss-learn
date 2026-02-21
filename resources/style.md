@@ -83,7 +83,7 @@ Here are all of the style bonuses currently obtainable. Note that all styles are
 
 <details>
 
-<summary>+Kill</summary>
+<summary><mark style="color:$info;">+Kill</mark></summary>
 
 Kill an enemy.
 
@@ -94,7 +94,7 @@ Kill an enemy.
 
 <details>
 
-<summary>+Headshot</summary>
+<summary><mark style="color:$info;">+Headshot</mark></summary>
 
 Shoot an enemy in the head or hit an enemy in the head with a throwable weapon.
 
@@ -105,7 +105,7 @@ Shoot an enemy in the head or hit an enemy in the head with a throwable weapon.
 
 <details>
 
-<summary>+Nuked</summary>
+<summary><mark style="color:$info;">+Nuked</mark></summary>
 
 Kill an enemy with an explosive.
 
@@ -116,7 +116,7 @@ Kill an enemy with an explosive.
 
 <details>
 
-<summary>+Toasty</summary>
+<summary><mark style="color:$info;">+Toasty</mark></summary>
 
 Kill an enemy with fire.
 
@@ -127,7 +127,7 @@ Kill an enemy with fire.
 
 <details>
 
-<summary>+Slammed</summary>
+<summary><mark style="color:$info;">+Slammed</mark></summary>
 
 Kill an enemy via slamming them.
 
@@ -138,7 +138,7 @@ Kill an enemy via slamming them.
 
 <details>
 
-<summary>+Finisher</summary>
+<summary><mark style="color:$info;">+Finisher</mark></summary>
 
 Kill a greater or higher enemy with a sword.
 
@@ -148,7 +148,7 @@ Kill a greater or higher enemy with a sword.
 
 <details>
 
-<summary>+Spawnkill</summary>
+<summary><mark style="color:$info;">+Spawnkill</mark></summary>
 
 Kill an enemy within \~3 seconds of them spawning.
 
@@ -158,7 +158,7 @@ Kill an enemy within \~3 seconds of them spawning.
 
 <details>
 
-<summary>+Overkill</summary>
+<summary><mark style="color:$info;">+Overkill</mark></summary>
 
 Kill an enemy with direct damage that deals over 3x of its health.
 
@@ -168,7 +168,7 @@ Kill an enemy with direct damage that deals over 3x of its health.
 
 <details>
 
-<summary>+Icebreaker</summary>
+<summary><mark style="color:$info;">+Icebreaker</mark></summary>
 
 Attack a frozen enemy; breaking their ice in the process.
 
