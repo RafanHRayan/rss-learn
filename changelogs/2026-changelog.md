@@ -6,6 +6,12 @@ icon: scroll
 # 2026 Changelog
 
 {% updates format="full" %}
+{% update date="2026-02-23" %}
+## Update 16.2
+
+Style resource page is complete.
+{% endupdate %}
+
 {% update date="2026-02-20" %}
 ## Update 16.1
 
