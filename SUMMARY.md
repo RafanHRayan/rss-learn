@@ -16,7 +16,11 @@
 ## Test Preperation
 
 * [AMC 10/12](test-preperation/amc-10-12.md)
-* [SAT](test-preperation/sat.md)
+* [SAT](test-preperation/sat/README.md)
+  * [General SAT Strategies](test-preperation/sat/general-sat-strategies.md)
+  * [Reading SAT Strategies](test-preperation/sat/reading-sat-strategies.md)
+  * [Writing SAT Strategies](test-preperation/sat/writing-sat-strategies.md)
+  * [Mathematics SAT Strategies](test-preperation/sat/mathematics-sat-strategies.md)
 
 ## References
 

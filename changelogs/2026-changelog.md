@@ -10,6 +10,8 @@ icon: scroll
 ## Update 16.2
 
 Style resource page is complete.
+
+Updates have been made to the SAT test prep page.
 {% endupdate %}
 
 {% update date="2026-02-20" %}
@@ -25,7 +27,7 @@ Minor changes to pages in the site and to the SAT test prep page.
 
 ## Update 16.0
 
-Grammar is now a seperate section in the english library.
+Grammar is now a separate section in the english library.
 
 Hints have been revamped. Reference page has been updated to match this.
 {% endupdate %}
