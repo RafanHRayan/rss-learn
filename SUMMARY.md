@@ -13,10 +13,10 @@
 * [Study Steps](resources/study-steps.md)
 * [Style](resources/style.md)
 
-## Test Prep
+## Test Preperation
 
-* [AMC 10/12](test-prep/amc-10-12.md)
-* [SAT](test-prep/sat.md)
+* [AMC 10/12](test-preperation/amc-10-12.md)
+* [SAT](test-preperation/sat.md)
 
 ## References
 

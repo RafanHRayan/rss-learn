@@ -66,15 +66,15 @@ This is a **tip** hint. It is used to provide a trick that may help you easily u
 Some hints may have a header. Two examples are below...
 
 {% hint style="info" icon="circle-info" %}
-### What is _Lorem Ipsum_?
+#### What is _Lorem Ipsum_?
 
 Lorem Ipsum is filler or placeholder text used in graphic design, web development, and printing to demonstrate graphic elements (fonts, layouts) without using meaningful content.
 
-Derived from Cicero’s 45 BC text *De finibus bonorum et malorum*, it is scrambled, nonsensical Latin that has been the industry standard since the 1500s.
+Derived from Cicero’s 45 BC text _De finibus bonorum et malorum_, it is scrambled, nonsensical Latin that has been the industry standard since the 1500s.
 {% endhint %}
 
 {% hint style="warning" icon="circle-exclamation" %}
-### Warning
+#### Warning
 
 1. Warning A
 2. Warning B
