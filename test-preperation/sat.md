@@ -198,6 +198,10 @@ Core geometry plus right‑triangle trigonometry.
 
 </details>
 
+## Additional Resources
+
+Coming soon...
+
 ***
 
 {% hint style="danger" icon="trowel-bricks" %}
