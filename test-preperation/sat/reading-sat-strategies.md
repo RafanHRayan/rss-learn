@@ -1,6 +1,6 @@
 ---
 description: Prep Expert's reading SAT strategies.
-icon: book
+icon: chess-king
 ---
 
 # Reading SAT Strategies

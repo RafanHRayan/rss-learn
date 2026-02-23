@@ -1,6 +1,6 @@
 ---
 description: Prep Expert's mathematics SAT strategies.
-icon: book
+icon: chess-king
 ---
 
 # Mathematics SAT Strategies

@@ -1,6 +1,6 @@
 ---
 description: Prep Expert's general SAT strategies.
-icon: book
+icon: chess-king
 ---
 
 # General SAT Strategies

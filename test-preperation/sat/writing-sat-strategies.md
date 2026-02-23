@@ -1,6 +1,6 @@
 ---
 description: Prep Expert's writing SAT strategies.
-icon: book
+icon: chess-king
 ---
 
 # Writing SAT Strategies
