@@ -8,7 +8,7 @@ description: Unit circles, radians, ...
 
 A unit circle is a circle that has a radius of 1.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-23 at 5.50.37 PM.png" alt=""><figcaption><p><strong>Image 1</strong> — Final result from <a href="https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions/v/unit-circle-definition-of-trig-functions-1">this</a> Khan Academy video lecture.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-23 at 5.50.37 PM.png" alt="" width="563"><figcaption><p><strong>Image 1</strong> — Final result from <a href="https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions/v/unit-circle-definition-of-trig-functions-1">this</a> Khan Academy video lecture.</p></figcaption></figure></div>
 
 <details>
 
