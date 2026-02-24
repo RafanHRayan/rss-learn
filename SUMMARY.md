@@ -12,6 +12,7 @@
 
 * [Study Steps](resources/study-steps.md)
 * [Style](resources/style.md)
+* [Skill](resources/skill.md)
 
 ## Test Preperation
 
