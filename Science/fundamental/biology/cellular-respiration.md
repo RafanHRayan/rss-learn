@@ -44,7 +44,7 @@ Oxygen continues to travel downward through your **trachea**.
 {% step %}
 #### Bronchi Tubes
 
-Oxygen travels down the main **bronchi tubes** before it divides into two, leading to both the left and right lungs.
+Oxygen travels down the main [**bronchi**](#user-content-fn-2)[^2] **tubes** before it divides into two, leading to both the left and right lungs.
 {% endstep %}
 
 {% step %}
@@ -56,7 +56,7 @@ Oxygen branches into many small **bronchioles** from the main bronchi.
 {% step %}
 #### Alveoli to Red Blood Cells
 
-Oxygen reaches small sacs, called [**alveoli**](#user-content-fn-2)[^2]. They diffuse through the extremely thin [**respiratory membrane**](#user-content-fn-3)[^3] and into the capillaries, where red blood cells take them. These blood cells then release carbon dioxide, which is pushed back into the alveoli.
+Oxygen reaches small sacs, called [**alveoli**](#user-content-fn-3)[^3]. They diffuse through the extremely thin [**respiratory membrane**](#user-content-fn-4)[^4] and into the capillaries, where red blood cells take them. These blood cells then release carbon dioxide, which is pushed back into the alveoli.
 
 The reason oxygen and carbon dioxide can exchange here is because of [diffusion](cells.md#cell-size).
 {% endstep %}
@@ -64,7 +64,7 @@ The reason oxygen and carbon dioxide can exchange here is because of [diffusion]
 {% step %}
 #### Backtrack
 
-Carbon dioxide from the capillaries backtrack through the entire respiratory system.
+Carbon dioxide from the [capillaries](cellular-respiration.md#parts-of-the-heart) backtrack through the entire respiratory system.
 {% endstep %}
 
 {% step %}
@@ -88,11 +88,11 @@ As volume increases, pressure decreases.
 
 </details>
 
-The **diaphragm** is a parachute-shaped muscle that is attached to the spine, ribs, and sternum. When you inhale, the diaphragm contracts[^4], pressure _decreases_, and your lungs fill up with air. When you exhale, the diaphragm relaxes, pressure _increases_, and your lungs release air.
+The **diaphragm** is a parachute-shaped muscle that is attached to the spine, ribs, and sternum. When you inhale, the diaphragm contracts[^5], pressure _decreases_, and your lungs fill up with air. When you exhale, the diaphragm relaxes, pressure _increases_, and your lungs release air.
 
 ### Breathing at High Altitudes
 
-The reason it gets harder to breathe at higher altitudes is because of the concentration gradient. Less oxygen is present at higher altitudes, thus [there is a gentler slope in the concentration gradient](#user-content-fn-5)[^5]. Oxygen, in turn, diffuses slower making it harder to breathe it in.
+The reason it gets harder to breathe at higher altitudes is because of the concentration gradient. Less oxygen is present at higher altitudes, thus [there is a gentler slope in the concentration gradient](#user-content-fn-6)[^6]. Oxygen, in turn, diffuses slower making it harder to breathe it in.
 
 ## Circulatory System
 
@@ -110,11 +110,11 @@ Human blood maintains pH, temperature, osmotic pressure, and much more.
 
 The **left and right atriums** are small chambers above the **left and right ventricles**.
 
-The [**vena cava**](#user-content-fn-6)[^6] is the main vein where blood flows to the heart. The **aorta** is the main artery where blood leaves the heart.
+The [**vena cava**](#user-content-fn-7)[^7] is the main vein where blood flows to the heart. The **aorta** is the main artery where blood leaves the heart.
 
 The **pulmonary artery** leads blood to the lungs. The **pulmonary vein** leads blood back into the heart from the lungs.
 
-**Valves** are located in both atriums, the pulmonary artery, and the aorta. The valve in the right atrium is called the **tricuspid valve**. The valve in the left atrium is called the [**bicuspid valve**](#user-content-fn-7)[^7]. The valve in the pulmonary artery is called the **pulmonary valve**. The valve in the aorta is called the **aortic valve**.
+**Valves** are located in both atriums, the pulmonary artery, and the aorta. The valve in the right atrium is called the **tricuspid valve**. The valve in the left atrium is called the [**bicuspid valve**](#user-content-fn-8)[^8]. The valve in the pulmonary artery is called the **pulmonary valve**. The valve in the aorta is called the **aortic valve**.
 
 {% hint style="info" icon="circle-info" %}
 The path blood takes have valves to prevent backflow and the mixing of oxygenated with deoxygenated blood. Backflow of blood generally tends to cause diseases, which is why it is important to prevent this.
@@ -186,22 +186,24 @@ This page is incomplete!
 
 [^1]: Oxygen goes in and carbon dioxide goes out.
 
-[^2]: _sing._ **alveolus**
+[^2]: _sing._ **bronchus**
 
-[^3]: The respiratory membrane is the area where the alveoli walls and capillary walls touch.
+[^3]: _sing._ **alveolus**
+
+[^4]: The respiratory membrane is the area where the alveoli walls and capillary walls touch.
 
     ‎‎‎‎‎‎‎‎ㅤ
 
     Both walls are approximately one cell thick, making it extremely easy for oxygen and carbon dioxide to diffuse through.
 
-[^4]: When you diaphragm contracts, it essentially _**expands**_.
+[^5]: When you diaphragm contracts, it essentially _**expands**_.
 
-[^5]: Hypothetically, say a person has 35 molecules of oxygen in them. At sea level, there is approximately 500 atoms of oxygen. At a high altitude, there is only 300 atoms of oxygen.
+[^6]: Hypothetically, say a person has 35 molecules of oxygen in them. At sea level, there is approximately 500 atoms of oxygen. At a high altitude, there is only 300 atoms of oxygen.
 
     ㅤ
 
     Because the gradient from 300 to 32 is gentler than the gradient from 500 to 32, oxygen diffuses slower and breathing becomes harder.
 
-[^6]: The **superior vena cava** opens above the heart, and the **inferior vena cava** opens below the heart.
+[^7]: The **superior vena cava** opens above the heart, and the **inferior vena cava** opens below the heart.
 
-[^7]: It is also called the mitral valve.
+[^8]: It is also called the mitral valve.
