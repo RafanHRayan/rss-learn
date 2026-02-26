@@ -2,7 +2,7 @@
 description: Respiratory system, circulatory system, ...
 ---
 
-# Cellular Respiration??
+# Respiratory and Circulatory Systems
 
 ## Respiratory System
 
@@ -42,9 +42,9 @@ Oxygen continues to travel downward through your **trachea**.
 {% endstep %}
 
 {% step %}
-#### Bronchi
+#### Bronchi Tubes
 
-Oxygen travels down the main **bronchi** before it divides into two, leading to both the left and right lungs.
+Oxygen travels down the main **bronchi tubes** before it divides into two, leading to both the left and right lungs.
 {% endstep %}
 
 {% step %}
@@ -96,11 +96,83 @@ The reason it gets harder to breathe at higher altitudes is because of the conce
 
 ## Circulatory System
 
-The **circulatory system** brings nutrients to and removes wastes from the body’s cells.
+The **circulatory system** brings nutrients to and removes wastes from the body’s cells. The circulatory system consists of mainly the heart, which pumps blood to the rest of the body.
 
 {% hint style="danger" icon="bolt" %}
-Blood is red, and is always red. The shade of red differs depending on how much oxygen is in the blood cell. Blue is used in models to differentiate deoxygenated blood cells from oxygenated blood cells.
+Blood is red, and is _**always**_ red; it is _**never**_ blue. The shade of red differs depending on how much oxygen is in the blood cell. Blue is used in models to differentiate deoxygenated blood cells from oxygenated blood cells.
 {% endhint %}
+
+Human blood maintains pH, temperature, osmotic pressure, and much more.
+
+### Parts of the Heart
+
+**Arteries** carry blood _away_ from the heart. **Veins** carry blood _to_ the heart. **Capillaries** connect arteries and veins and allow for gas exchange throughout the body.
+
+The **left and right atriums** are small chambers above the **left and right ventricles**.
+
+The [**vena cava**](#user-content-fn-6)[^6] is the main vein where blood flows to the heart. The **aorta** is the main artery where blood leaves the heart.
+
+The **pulmonary artery** leads blood to the lungs. The **pulmonary vein** leads blood back into the heart from the lungs.
+
+**Valves** are located in both atriums, the pulmonary artery, and the aorta. The valve in the right atrium is called the **tricuspid valve**. The valve in the left atrium is called the [**bicuspid valve**](#user-content-fn-7)[^7]. The valve in the pulmonary artery is called the **pulmonary valve**. The valve in the aorta is called the **aortic valve**.
+
+### Steps of Blood Oxygenation
+
+{% stepper %}
+{% step %}
+#### Inferior Vena Cava
+
+Deoxygenated blood enters the heart through the inferior vena cava.
+{% endstep %}
+
+{% step %}
+#### Right Atrium
+
+Blood travels into the right atrium.
+{% endstep %}
+
+{% step %}
+#### Right Ventricle
+
+Blood flows down through the tricuspid valve and into the right ventricle.
+{% endstep %}
+
+{% step %}
+#### Pulmonary Artery
+
+Bloods flows back up through the pulmonary artery, passing through the pulmonary valve.
+{% endstep %}
+
+{% step %}
+#### Lungs
+
+Blood enters the lungs and is oxygenated.
+{% endstep %}
+
+{% step %}
+#### Pulmonary Vein
+
+Newly oxygenated blood travels through the pulmonary vein and back into the heart.
+{% endstep %}
+
+{% step %}
+#### Left Atrium
+
+Blood travels into the left atrium.
+{% endstep %}
+
+{% step %}
+#### Left Ventricle
+
+Blood flows down through the bicuspid valve and into the left ventricle.
+{% endstep %}
+
+{% step %}
+#### Aorta
+
+Blood flows up and out through the aorta, passing through the aortic valve. The aorta then carries blood to the rest of the body.
+{% endstep %}
+{% endstepper %}
 
 ***
 
@@ -125,3 +197,7 @@ This page is incomplete!
     ㅤ
 
     Because the gradient from 300 to 32 is gentler than the gradient from 500 to 32, oxygen diffuses slower and breathing becomes harder.
+
+[^6]: The **superior vena cava** opens above the heart, and the **inferior vena cava** opens below the heart.
+
+[^7]: It is also called the mitral valve.
