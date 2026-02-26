@@ -23,7 +23,7 @@ layout:
 
 # Trigonometry
 
-## Unit 1 — Trigonometry in Right Triangles
+## #1 — Trigonometry in Right Triangles
 
 **Contents:** Basic and reciprocal trigonometric ratios, pythagorean trigonometric identity, and sine and cosine of complementary angles.
 
@@ -31,7 +31,7 @@ layout:
 [trigonometry-in-right-triangles.md](trigonometry-in-right-triangles.md)
 {% endcontent-ref %}
 
-## Unit 2 — Trigonometric Functions
+## #2 — Trigonometric Functions
 
 **Contents:** ...
 
@@ -39,7 +39,7 @@ layout:
 [trigonometric-functions.md](trigonometric-functions.md)
 {% endcontent-ref %}
 
-## Unit 3 — Trigonometry in Non-Right Triangles
+## #3 — Trigonometry in Non-Right Triangles
 
 **Contents:** ...
 

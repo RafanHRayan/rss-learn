@@ -23,7 +23,7 @@ layout:
 
 # Geometry
 
-## Unit 1 — Logic
+## #1 — Logic
 
 **Contents:** Statements, logical connectives, and proofs.
 
@@ -37,7 +37,7 @@ Logic is not _technically_ a part of Euclidean geometry, but logical thinking is
 This is why it is taught in this course.
 {% endhint %}
 
-## Unit 2 — Postulational System
+## #2 — Postulational System
 
 **Contents:** Fundamental postulates, definitions, and theorems of Euclidean geometry.
 
@@ -45,7 +45,7 @@ This is why it is taught in this course.
 [postulational-system.md](postulational-system.md)
 {% endcontent-ref %}
 
-## Unit 3 — Parallel Lines
+## #3 — Parallel Lines
 
 **Contents:** Parallel lines, perpendicular lines, and polygons.
 
@@ -53,7 +53,7 @@ This is why it is taught in this course.
 [parallel-lines.md](parallel-lines.md)
 {% endcontent-ref %}
 
-## Unit 4 — Triangle Congruence
+## #4 — Triangle Congruence
 
 **Contents:** Triangle congruence postulates and theorems, cevians, and equidistance.
 
@@ -61,7 +61,7 @@ This is why it is taught in this course.
 [triangle-congruence.md](triangle-congruence.md)
 {% endcontent-ref %}
 
-## Unit 5 — Inequalities
+## #5 — Inequalities
 
 **Contents:** Inequality and inequality properties, postulates, and theorems.
 
@@ -69,7 +69,7 @@ This is why it is taught in this course.
 [inequalities.md](inequalities.md)
 {% endcontent-ref %}
 
-## Unit 6 — Quadrilaterals
+## #6 — Quadrilaterals
 
 **Contents:** Special quadrilaterals, midsegments, medial triangles, and area.
 
@@ -77,7 +77,7 @@ This is why it is taught in this course.
 [quadrilaterals.md](quadrilaterals.md)
 {% endcontent-ref %}
 
-## Unit 7 — Constructions
+## #7 — Constructions
 
 **Contents:** Tools in constructions, fundamentals of circles, length operation, fundamental constructions, and advanced constructions.
 
@@ -85,7 +85,7 @@ This is why it is taught in this course.
 [constructions.md](constructions.md)
 {% endcontent-ref %}
 
-## Unit 8 — Similar Polygons
+## #8 — Similar Polygons
 
 **Contents:** ...
 
@@ -93,25 +93,25 @@ This is why it is taught in this course.
 [similar-polygons.md](similar-polygons.md)
 {% endcontent-ref %}
 
-## Unit 9 — Circles
+## #9 — Circles
 
 **Contents:** ...
 
 \[Coming Soon]
 
-## Unit 10 — Solids
+## #10 — Solids
 
 **Contents:** ...
 
 \[Coming Soon]
 
-## Unit 11 — Coordinate Geometry
+## #11 — Coordinate Geometry
 
 **Contents:** ...
 
 \[Coming Soon]
 
-## Unit 12 — Transformations
+## #12 — Transformations
 
 **Contents:** ...
 

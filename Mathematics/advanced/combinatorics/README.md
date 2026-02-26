@@ -23,7 +23,7 @@ layout:
 
 # Combinatorics and Probability
 
-## Unit 1 — Basic Counting
+## #1 — Basic Counting
 
 **Contents:** ...
 
@@ -31,25 +31,25 @@ layout:
 [fundamentals.md](fundamentals.md)
 {% endcontent-ref %}
 
-## Unit 2 — Binomial Coefficients
+## #2 — Binomial Coefficients
 
 **Contents:** ...
 
 \[Coming soon]
 
-## Unit 3 — Advanced Counting
+## #3 — Advanced Counting
 
 **Contents:** ...
 
 \[Coming soon]
 
-## Unit 4— Probability
+## #4 — Probability
 
 **Contents:** ...
 
 \[Coming soon]
 
-## Unit 5 — Random Variables
+## #5 — Random Variables
 
 **Contents:** ...
 
