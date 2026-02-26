@@ -207,12 +207,6 @@ Icons[^20] were used at the time to keep believers in remembrance of God. Empero
 
 Emperor Leo III's outlaw of icons was removed in 780 CE. Christianity, however, was split. Iconoclasts became Orthodox Christians; iconodules became Catholic Christians.
 
-***
-
-{% hint style="warning" icon="trowel-bricks" %}
-This page may be incomplete.
-{% endhint %}
-
 [^1]: **Covenant** _n. \[cu-ve-nant]_ — A binding agreement or pact made between two parties.
 
     ㅤ
