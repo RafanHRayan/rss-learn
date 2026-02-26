@@ -1,4 +1,5 @@
 ---
+description: Coming soon...
 layout:
   width: default
   title:
@@ -20,5 +21,10 @@ metaLinks:
     - https://app.gitbook.com/s/Xtek6Rd6jglsM0ba6nbY/advanced/page-1
 ---
 
-# Page 1
+# Fundamentals of Programming
 
+## #1 — ...
+
+**Contents:** ...
+
+\[Coming Soon]
