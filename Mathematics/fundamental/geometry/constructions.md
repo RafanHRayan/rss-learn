@@ -558,6 +558,8 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 A circle is the circumcircle of a triangle if and only if all three points of the triangle lie on the circumference of the circle.
 
+More on tangents in the [circles](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...) unit...
+
 </details>
 
 <details>
