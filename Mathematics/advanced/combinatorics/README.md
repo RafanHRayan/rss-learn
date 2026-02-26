@@ -35,22 +35,22 @@ layout:
 
 **Contents:** ...
 
-\[Coming soon]
+\[Coming Soon]
 
 ## #3 — Advanced Counting
 
 **Contents:** ...
 
-\[Coming soon]
+\[Coming Soon]
 
 ## #4 — Probability
 
 **Contents:** ...
 
-\[Coming soon]
+\[Coming Soon]
 
 ## #5 — Random Variables
 
 **Contents:** ...
 
-\[Coming soon]
+\[Coming Soon]
