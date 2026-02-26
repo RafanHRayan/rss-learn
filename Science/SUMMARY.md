@@ -21,4 +21,4 @@
 
 ## Elite
 
-* [Page 2](elite/page-2.md)
+* [Page 1](elite/page-2.md)

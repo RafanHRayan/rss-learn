@@ -7,7 +7,7 @@ icon: dna
 
 # Biology
 
-## Unit 1 — Foundations of Life
+## #1 — Foundations of Life
 
 **Contents:** Life processes, scientific method, experiment design, graphing, and lab tool usage.
 
@@ -15,7 +15,7 @@ icon: dna
 [foundations-of-life.md](foundations-of-life.md)
 {% endcontent-ref %}
 
-## Unit 2 — Ecology
+## #2 — Ecology
 
 **Contents:** Levels of organization, ecosystems, biomass, energy, organismal relationships, population growth, ecological succession, carbon cycle, and nitrogen cycle.
 
@@ -23,7 +23,7 @@ icon: dna
 [ecology.md](ecology.md)
 {% endcontent-ref %}
 
-## Unit 3 — Human Impact
+## #3 — Human Impact
 
 **Contents:** Renewable and nonrenewable resources, climate change and global warming, engineering design process, drawbacks versus tradeoffs, and other environmental problems.
 
@@ -31,7 +31,7 @@ icon: dna
 [human-impact.md](human-impact.md)
 {% endcontent-ref %}
 
-## Unit 4 — Evolution
+## #4 — Evolution
 
 **Contents:** Organism classification, evidence of evolution, natural selection, artificial selection, and speciation.
 
@@ -39,7 +39,7 @@ icon: dna
 [evolution.md](evolution.md)
 {% endcontent-ref %}
 
-## Unit 5 — Biochemistry
+## #5 — Biochemistry
 
 **Contents:** Chemistry foundations, properties of water, macromolecules, protein folding, and enzymes.
 
@@ -47,7 +47,7 @@ icon: dna
 [biochemistry.md](biochemistry.md)
 {% endcontent-ref %}
 
-## Unit 6 — Cells
+## #6 — Cells
 
 **Contents:** Cell theory, cell size, levels of cellular organization, organelles, cell membranes, and osmosis.
 
@@ -55,15 +55,15 @@ icon: dna
 [cells.md](cells.md)
 {% endcontent-ref %}
 
-## Unit 7 — Respiratory and Circulatory Systems
+## #7 — Respiratory and Circulatory Systems
 
-**Contents:** Respiratory system, circulatory system, ...
+**Contents:** Respiratory and circulatory systems and how they work together to pump blood to the body and regulate homeostasis.
 
 {% content-ref url="cellular-respiration.md" %}
 [cellular-respiration.md](cellular-respiration.md)
 {% endcontent-ref %}
 
-## Unit 8 — ...
+## #8 — ...
 
 **Contents:** ...
 

@@ -1,5 +1,7 @@
 ---
-description: Respiratory system, circulatory system, ...
+description: >-
+  Respiratory and circulatory systems and how they work together to pump blood
+  to the body and regulate homeostasis.
 ---
 
 # Respiratory and Circulatory Systems
