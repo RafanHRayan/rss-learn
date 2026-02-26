@@ -116,6 +116,10 @@ The **pulmonary artery** leads blood to the lungs. The **pulmonary vein** leads 
 
 **Valves** are located in both atriums, the pulmonary artery, and the aorta. The valve in the right atrium is called the **tricuspid valve**. The valve in the left atrium is called the [**bicuspid valve**](#user-content-fn-7)[^7]. The valve in the pulmonary artery is called the **pulmonary valve**. The valve in the aorta is called the **aortic valve**.
 
+{% hint style="info" icon="circle-info" %}
+The path blood takes have valves to prevent backflow and the mixing of oxygenated with deoxygenated blood. Backflow of blood generally tends to cause diseases, which is why it is important to prevent this.
+{% endhint %}
+
 ### Steps of Blood Oxygenation
 
 {% stepper %}
