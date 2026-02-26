@@ -180,8 +180,8 @@ Blood flows up and out through the aorta, passing through the aortic valve. The 
 
 ***
 
-{% hint style="danger" icon="trowel-bricks" %}
-This page is incomplete!
+{% hint style="warning" icon="trowel-bricks" %}
+This page may be incomplete.
 {% endhint %}
 
 [^1]: Oxygen goes in and carbon dioxide goes out.
