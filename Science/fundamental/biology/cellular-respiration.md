@@ -56,7 +56,7 @@ Oxygen branches into many small **bronchioles** from the main bronchi.
 {% step %}
 #### Alveoli to Red Blood Cells
 
-Oxygen reaches small sacs, called [**alveoli**](#user-content-fn-3)[^3]. They diffuse through the extremely thin [**respiratory membrane**](#user-content-fn-4)[^4] and into the capillaries, where red blood cells take them. These blood cells then release carbon dioxide, which is pushed back into the alveoli.
+Oxygen reaches small sacs, called [**alveoli**](#user-content-fn-3)[^3]. They diffuse through the extremely thin [**respiratory membrane**](#user-content-fn-4)[^4] and into the [capillaries](cellular-respiration.md#parts-of-the-heart), where red blood cells take them. These blood cells then release carbon dioxide, which is pushed back into the alveoli.
 
 The reason oxygen and carbon dioxide can exchange here is because of [diffusion](cells.md#cell-size).
 {% endstep %}
@@ -64,7 +64,7 @@ The reason oxygen and carbon dioxide can exchange here is because of [diffusion]
 {% step %}
 #### Backtrack
 
-Carbon dioxide from the [capillaries](cellular-respiration.md#parts-of-the-heart) backtrack through the entire respiratory system.
+Carbon dioxide from the capillaries backtrack through the entire respiratory system.
 {% endstep %}
 
 {% step %}
