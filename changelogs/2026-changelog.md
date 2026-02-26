@@ -6,6 +6,12 @@ icon: scroll
 # 2026 Changelog
 
 {% updates format="full" %}
+{% update date="2026-02-26" %}
+## Update 16.3
+
+Styling of course overview pages has been updated.
+{% endupdate %}
+
 {% update date="2026-02-23" %}
 ## Update 16.2
 
