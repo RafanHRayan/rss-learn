@@ -24,7 +24,7 @@ layout:
 
 # Global 1
 
-## First Civilizations
+## Unit 1 — First Civilizations
 
 **Contents:** Defining history, human origination and evolution, the Stone Age, elements of civilization, and early civilizations.
 
@@ -32,7 +32,7 @@ layout:
 [first-civilizations.md](first-civilizations.md)
 {% endcontent-ref %}
 
-## River Valley Civilizations
+## Unit 2 — River Valley Civilizations
 
 **Contents:** ...
 
@@ -40,19 +40,19 @@ layout:
 [river-valley-civilizations.md](river-valley-civilizations.md)
 {% endcontent-ref %}
 
-## Ancient China
+## Unit 3 — Ancient China
 
 **Contents:** ...
 
 \[Coming Soon]
 
-## Persia and Greece
+## Unit 4 — Persia and Greece
 
 **Contents:** ...
 
 \[Coming Soon]
 
-## Rome
+## Unit 5 — Rome
 
 **Contents:** Rome's time as a monarchy, as a republic, as an empire, Punic Wars, Roman politics, the Gracchi brothers, Julius and Augustus Caesar, slavery in Rome, and the Pax Romana.
 
@@ -60,7 +60,7 @@ layout:
 [rome.md](rome.md)
 {% endcontent-ref %}
 
-## The Rise of Monotheism
+## Unit 6 — The Rise of Monotheism
 
 **Contents:** Judaism, Christianity, the conversion of Rome into Christianity, and the branching of Christianity.
 
@@ -68,7 +68,7 @@ layout:
 [the-rise-of-monotheism.md](the-rise-of-monotheism.md)
 {% endcontent-ref %}
 
-## The Byzantine Empire
+## Unit 7 — The Byzantine Empire
 
 **Contents:** Formation of the Byzantine Empire, Justinian, and the Hagia Sophia.
 
@@ -76,7 +76,15 @@ layout:
 [byzantine-empire.md](byzantine-empire.md)
 {% endcontent-ref %}
 
-## ...
+## Unit 8 — Islam
+
+**Contents:** ...
+
+{% content-ref url="islam.md" %}
+[islam.md](islam.md)
+{% endcontent-ref %}
+
+## Unit 9— ...
 
 **Contents:** ...
 

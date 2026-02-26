@@ -10,6 +10,7 @@
   * [Rome](fundamental/global-1/rome.md)
   * [The Rise of Monotheism](fundamental/global-1/the-rise-of-monotheism.md)
   * [The Byzantine Empire](fundamental/global-1/byzantine-empire.md)
+  * [Islam](fundamental/global-1/islam.md)
 
 ## Advanced
 
