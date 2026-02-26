@@ -97,22 +97,30 @@ This is why it is taught in this course.
 
 **Contents:** ...
 
-\[Coming Soon]
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% endcontent-ref %}
 
 ## #10 — Solids
 
 **Contents:** ...
 
-\[Coming Soon]
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% endcontent-ref %}
 
 ## #11 — Coordinate Geometry
 
 **Contents:** ...
 
-\[Coming Soon]
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% endcontent-ref %}
 
 ## #12 — Transformations
 
 **Contents:** ...
 
-\[Coming Soon]
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% endcontent-ref %}
