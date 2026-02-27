@@ -1,5 +1,6 @@
 ---
 description: Coming soon...
+icon: display-code
 layout:
   width: default
   title:
@@ -27,4 +28,6 @@ metaLinks:
 
 **Contents:** ...
 
-\[Coming Soon]
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% endcontent-ref %}
