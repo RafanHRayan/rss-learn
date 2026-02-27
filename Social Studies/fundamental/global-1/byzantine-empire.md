@@ -2,7 +2,7 @@
 description: Formation of the Byzantine Empire, Justinian, and the Hagia Sophia.
 ---
 
-# Byzantine Empire
+# The Byzantine Empire
 
 ## Formation of the Byzantine Empire
 
@@ -50,12 +50,14 @@ Theodora made sure that women’s rights were advanced in this code...
 
 * Women could now own property.
 * Infanticide[^6] was outlawed.
-* Housing was provided for unhoused women
+* Housing was provided for unhoused women.
 * Penalties for sexual assault increased.
 
 ## The Hagia Sophia
 
-The Hagia Sophia was the largest church at it's time, with engineering and architecture that marvelled the world.
+The Hagia Sophia was the largest church at it's time, with engineering and architecture that marveled the world.
+
+After the Byzantine Empire is overthrown by the Ottoman Empire, it is later converted to a mosque.
 
 ***
 
