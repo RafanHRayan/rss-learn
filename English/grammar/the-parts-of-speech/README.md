@@ -20,7 +20,7 @@ layout:
 
 # The Parts of Speech
 
-## #1 — Nouns
+## #1.1 — Nouns
 
 **Contents:** ...
 
@@ -28,7 +28,7 @@ layout:
 [nouns.md](nouns.md)
 {% endcontent-ref %}
 
-## #2 — Verbs
+## #1.2 — Verbs
 
 **Contents:** ...
 
@@ -36,7 +36,7 @@ layout:
 [Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
 {% endcontent-ref %}
 
-## #3 — Pronouns
+## #1.3 — Pronouns
 
 **Contents:** ...
 
@@ -44,7 +44,7 @@ layout:
 [Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
 {% endcontent-ref %}
 
-## #4 — Modifiers
+## #1.4 — Modifiers
 
 **Contents:** ...
 
@@ -52,7 +52,7 @@ layout:
 [Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
 {% endcontent-ref %}
 
-## #5 — Prepositions
+## #1.5 — Prepositions
 
 **Contents:** ...
 
@@ -60,7 +60,7 @@ layout:
 [Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
 {% endcontent-ref %}
 
-## #6 — Conjunctions
+## #1.6 — Conjunctions
 
 **Contents:** ...
 

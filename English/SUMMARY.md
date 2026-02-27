@@ -1,11 +1,9 @@
 # Table of contents
 
 * [English](README.md)
-
-## Grammar
-
-* [The Parts of Speech](grammar/the-parts-of-speech/README.md)
-  * [Nouns](grammar/the-parts-of-speech/nouns.md)
+* [Grammar](grammar/README.md)
+  * [The Parts of Speech](grammar/the-parts-of-speech/README.md)
+    * [Nouns](grammar/the-parts-of-speech/nouns.md)
 
 ## Fundamental
 
