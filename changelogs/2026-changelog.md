@@ -6,6 +6,12 @@ icon: scroll
 # 2026 Changelog
 
 {% updates format="full" %}
+{% update date="2026-02-27" %}
+## Update 16.4
+
+Alteration of the grammar reference in the english library.
+{% endupdate %}
+
 {% update date="2026-02-26" %}
 ## Update 16.3
 
