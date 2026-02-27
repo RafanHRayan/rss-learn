@@ -9,7 +9,7 @@ icon: scroll
 {% update date="2026-02-27" %}
 ## Update 16.4
 
-Alteration of the grammar reference in the english library.
+Alteration of the structure of grammar reference in the english library and the global history course in the social studies library.
 
 Small change to some icons in mathematics library.
 {% endupdate %}
