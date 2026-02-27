@@ -18,7 +18,7 @@
 
 ## Advanced
 
-* [Page 1](advanced/page-1.md)
+* [US History](advanced/page-1.md)
 
 ## Elite
 

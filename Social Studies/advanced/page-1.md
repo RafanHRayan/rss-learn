@@ -1,4 +1,8 @@
 ---
+description: >-
+  A comprehensive survey of American history from colonial times to the present
+  day.
+icon: flag-usa
 layout:
   width: default
   title:
@@ -17,5 +21,12 @@ layout:
     visible: true
 ---
 
-# Page 1
+# US History
 
+## #1 — ...
+
+**Contents:** ...
+
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% endcontent-ref %}
