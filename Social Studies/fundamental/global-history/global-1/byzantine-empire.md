@@ -59,12 +59,6 @@ The Hagia Sophia was the largest church at it's time, with engineering and archi
 
 After the Byzantine Empire is overthrown by the Ottoman Empire, it is later converted to a mosque.
 
-***
-
-{% hint style="warning" icon="trowel-bricks" %}
-This page may be incomplete.
-{% endhint %}
-
 [^1]: Though this is the death of the Roman empire, the Byzantine Empire lives on as Rome for over one thousand _more_ years.
 
 [^2]: Though this is now referenced as the Byzantine Empire, it was still known as Rome at the time.

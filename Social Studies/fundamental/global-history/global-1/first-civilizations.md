@@ -45,7 +45,7 @@ With this problem in mind, Richard Lenski began an experiment with bacteria in 1
 
 For the bacteria, 24 hours roughly equates to approximately 6.67 generations and every 500 generations, a sample is frozen for future reference on how the bacteria looked on a specific date. The experiment is ongoing to this day.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-18 at 3.18.35 PM.png" alt="" width="563"><figcaption><p><strong>Image 1</strong> — Lenski Experiment graph.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Screenshot 2026-02-18 at 3.18.35 PM.png" alt="" width="563"><figcaption><p><strong>Image 1</strong> — Lenski Experiment graph.</p></figcaption></figure></div>
 
 In Image 1, the cell size of bacteria increased over thousands of generations. The reason for this is because of natural selection; it was better to be larger, so over time, smaller bacteria died out and larger bacteria thrived. This resulted in an increase in cell size of the overall population. This is also known as **the struggles for existence**.
 

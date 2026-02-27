@@ -1,8 +1,8 @@
 ---
 description: >-
-  A course that examines human history by transcending national boundaries to
-  analyze connections, networks, and large-scale, transnational processes.
-icon: earth-americas
+  A foundational course covering world history from the Paleolithic era to
+  approximately the late 1700s.
+icon: campfire
 layout:
   width: default
   title:
@@ -21,9 +21,9 @@ layout:
     visible: true
 ---
 
-# Global History
+# Global 1
 
-## #1 — First Civilizations
+## #1.1 — First Civilizations
 
 **Contents:** Defining history, human origination and evolution, the Stone Age, elements of civilization, and early civilizations.
 
@@ -31,7 +31,7 @@ layout:
 [first-civilizations.md](first-civilizations.md)
 {% endcontent-ref %}
 
-## #2 — River Valley Civilizations
+## #1.2 — River Valley Civilizations
 
 **Contents:** ...
 
@@ -39,7 +39,7 @@ layout:
 [river-valley-civilizations.md](river-valley-civilizations.md)
 {% endcontent-ref %}
 
-## #3 — Ancient China
+## #1.3 — Ancient China
 
 **Contents:** ...
 
@@ -47,7 +47,7 @@ layout:
 [ancient-china.md](ancient-china.md)
 {% endcontent-ref %}
 
-## #4 — Persia and Greece
+## #1.4 — Persia and Greece
 
 **Contents:** ...
 
@@ -55,7 +55,7 @@ layout:
 [persia-and-greece.md](persia-and-greece.md)
 {% endcontent-ref %}
 
-## #5 — Rome
+## #1.5 — Rome
 
 **Contents:** Rome's time as a monarchy, as a republic, as an empire, Punic Wars, Roman politics, the Gracchi brothers, Julius and Augustus Caesar, slavery in Rome, and the Pax Romana.
 
@@ -63,7 +63,7 @@ layout:
 [rome.md](rome.md)
 {% endcontent-ref %}
 
-## #6 — The Rise of Monotheism
+## #1.6 — The Rise of Monotheism
 
 **Contents:** Judaism, Christianity, the conversion of Rome into Christianity, and the branching of Christianity.
 
@@ -71,7 +71,7 @@ layout:
 [the-rise-of-monotheism.md](the-rise-of-monotheism.md)
 {% endcontent-ref %}
 
-## #7 — The Byzantine Empire
+## #1.7 — The Byzantine Empire
 
 **Contents:** Formation of the Byzantine Empire, Justinian, and the Hagia Sophia.
 
@@ -79,7 +79,7 @@ layout:
 [byzantine-empire.md](byzantine-empire.md)
 {% endcontent-ref %}
 
-## #8 — Islam
+## #1.8 — Islam
 
 **Contents:** ...
 
@@ -87,7 +87,7 @@ layout:
 [islam.md](islam.md)
 {% endcontent-ref %}
 
-## #9 — ...
+## #1.9 — ...
 
 **Contents:** ...
 
