@@ -6,7 +6,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -17,9 +17,7 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/Xtek6Rd6jglsM0ba6nbY/
+metaLinks: {}
 ---
 
 # Programming
