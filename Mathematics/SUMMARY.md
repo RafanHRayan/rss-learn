@@ -18,14 +18,14 @@
   * [Trigonometry in Right Triangles](fundamental/trigonometry/trigonometry-in-right-triangles.md)
   * [Trigonometric Functions](fundamental/trigonometry/trigonometric-functions.md)
   * [Trigonometry in Non-Right Triangles](fundamental/trigonometry/trigonometry-in-non-right-triangles.md)
-* [Algebra 2](fundamental/algebra-2.md)
 
 ## Advanced
 
+* [Algebra 2](advanced/algebra-2.md)
 * [Statistics](advanced/statistics.md)
-* [Precalculus](advanced/precalculus.md)
 * [Combinatorics and Probability](advanced/combinatorics/README.md)
   * [Basic Counting](advanced/combinatorics/fundamentals.md)
+* [Precalculus](advanced/precalculus.md)
 
 ## Elite
 
