@@ -10,6 +10,8 @@ icon: scroll
 ## Update 16.4
 
 Alteration of the grammar reference in the english library.
+
+Small change to some icons in mathematics library.
 {% endupdate %}
 
 {% update date="2026-02-26" %}
