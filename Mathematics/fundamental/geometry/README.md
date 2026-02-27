@@ -2,7 +2,7 @@
 description: >-
   The branch of mathematics that studies the properties, relationships, and
   measurements of points, lines, angles, surfaces, and solids.
-icon: shapes
+icon: compass-drafting
 layout:
   width: default
   title:

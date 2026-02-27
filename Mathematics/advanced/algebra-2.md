@@ -2,7 +2,7 @@
 description: >-
   A mathematics course building on Algebra 1 and Geometry, that delves deeper
   into functions, equations, and advanced algebraic concepts.
-icon: function
+icon: square-root-variable
 ---
 
 # Algebra 2
