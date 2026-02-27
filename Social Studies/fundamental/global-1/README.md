@@ -1,9 +1,8 @@
 ---
 description: >-
-  A course that covers the history of the world from the earliest civilizations
-  up to the Age of Absolutism or the start of the First Global Age (roughly 4000
-  BCE to 1770 AD).
-icon: earth-asia
+  A course that examines human history by transcending national boundaries to
+  analyze connections, networks, and large-scale, transnational processes.
+icon: earth-americas
 layout:
   width: default
   title:
@@ -22,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Global 1
+# Global History
 
 ## #1 — First Civilizations
 
@@ -44,16 +43,16 @@ layout:
 
 **Contents:** ...
 
-{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
-[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% content-ref url="ancient-china.md" %}
+[ancient-china.md](ancient-china.md)
 {% endcontent-ref %}
 
 ## #4 — Persia and Greece
 
 **Contents:** ...
 
-{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
-[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% content-ref url="persia-and-greece.md" %}
+[persia-and-greece.md](persia-and-greece.md)
 {% endcontent-ref %}
 
 ## #5 — Rome
