@@ -98,25 +98,34 @@ The reason it gets harder to breathe at higher altitudes is because of the conce
 
 ## Circulatory System
 
-The **circulatory system** brings nutrients to and removes wastes from the body’s cells. The circulatory system consists of mainly the heart, which pumps blood to the rest of the body.
+The **circulatory system** brings nutrients to and removes wastes from the body’s cells. These materials are moved throughout the body by blood. Human blood maintains pH, temperature, osmotic pressure, and much more.
+
+The circulatory system consists of mainly the heart, which pumps blood to the rest of the body.
 
 {% hint style="danger" icon="bolt" %}
 Blood is red, and is _**always**_ red; it is _**never**_ blue. The shade of red differs depending on how much oxygen is in the blood cell. Blue is used in models to differentiate deoxygenated blood cells from oxygenated blood cells.
 {% endhint %}
 
-Human blood maintains pH, temperature, osmotic pressure, and much more.
+### The Functions of Blood
+
+Blood has four important functions.
+
+1. Blood carries oxygen from the lungs to the body's cells. Carbon dioxide diffuses from the body's cells to blood. The blood then carries the carbon dioxide to the lungs for exhalation.
+2. Blood carries waste to the kidneys for removal.
+3. Blood carries nutrients and other materials to the body's cells.
+4. Cells and molecules in blood fight infections and help heal wounds.
 
 ### Parts of the Heart
 
-**Arteries** carry blood _away_ from the heart. **Veins** carry blood _to_ the heart. **Capillaries** connect arteries and veins and allow for gas exchange throughout the body.
+**Arteries** carry blood _away_ from the heart. **Veins** carry blood _to_ the heart. **Capillaries** connect arteries and veins and allow for [gas exchange throughout the body](#user-content-fn-7)[^7].
 
 The **left and right atriums** are small chambers above the **left and right ventricles**.
 
-The [**vena cava**](#user-content-fn-7)[^7] is the main vein where blood flows to the heart. The **aorta** is the main artery where blood leaves the heart.
+The [**vena cava**](#user-content-fn-8)[^8] is the main vein where blood flows to the heart. The **aorta** is the main artery where blood leaves the heart.
 
 The **pulmonary artery** leads blood to the lungs. The **pulmonary vein** leads blood back into the heart from the lungs.
 
-**Valves** are located in both atriums, the pulmonary artery, and the aorta. The valve in the right atrium is called the **tricuspid valve**. The valve in the left atrium is called the [**bicuspid valve**](#user-content-fn-8)[^8]. The valve in the pulmonary artery is called the **pulmonary valve**. The valve in the aorta is called the **aortic valve**.
+**Valves** are located in both atriums, the pulmonary artery, and the aorta. The valve in the right atrium is called the **tricuspid valve**. The valve in the left atrium is called the [**bicuspid valve**](#user-content-fn-9)[^9]. The valve in the pulmonary artery is called the **pulmonary valve**. The valve in the aorta is called the **aortic valve**.
 
 {% hint style="info" icon="circle-info" %}
 The path blood takes have valves to prevent backflow and the mixing of oxygenated with deoxygenated blood. Backflow of blood generally tends to cause diseases, which is why it is important to prevent this.
@@ -180,6 +189,70 @@ Blood flows up and out through the aorta, passing through the aortic valve. The 
 {% endstep %}
 {% endstepper %}
 
+### Three Sections of the Circulatory System
+
+There are three sections in the circulatory system.
+
+**Coronary circulation** is the flow of blood both to and from the tissues of the heart.
+
+**Systemic circulation** is the flow of blood both to and from the tissues in the rest of the body.
+
+**Pulmonary circulation** is the flow of blood through the heart, to the lungs, and back to the heart.
+
+### Blood Vessels
+
+Arteries, veins, and capillaries are all **blood vessels**, but are very different. Arteries are the thickest and [capillaries are the thinnest](#user-content-fn-10)[^10].
+
+{% hint style="info" icon="circle-info" %}
+Capillary plasma is the same as blood.
+{% endhint %}
+
+The **lumen** of a blood vessel is the inside space where blood can flow. Veins have the widest lumen and capillaries have the narrowest.
+
+{% hint style="danger" icon="bolt" %}
+Arteries are the thickest type of _blood vessel_, but _**not**_ the type of blood vessel with the widest _lumen_.
+{% endhint %}
+
+### Blood Pressure
+
+**Blood pressure** is the force of blood on the walls of blood vessels. Blood pressure is highest in arteries and lowest in veins. Arteries are the thickest in order to withstand high blood pressure.
+
+{% hint style="success" icon="lightbulb" %}
+Normal resting pulse rates are 60-100 heartbeats per minute for adults and 80-100 heartbeats per minute for children.
+{% endhint %}
+
+#### Measuring Blood Pressure
+
+Blood pressure is measured in large arteries.
+
+Two numbers describe blood pressure, such as _120 over 80_.
+
+The first number is a measure of pressure caused when the ventricles contract and blood is pushed out of the heart. The second number is a measure of the pressure that occurs as the ventricles fill with blood just before they contract again.
+
+### Three Sections of the Circulatory System
+
+There are three sections in the circulatory system.
+
+**Coronary circulation** is the flow of blood both to and from the tissues of the heart.
+
+**Systemic circulation** is the flow of blood both to and from the tissues in the rest of the body.
+
+**Pulmonary circulation** is the flow of blood through the heart, to the lungs, and back to the heart.
+
+## Nervous System
+
+The **central nervous system** consist of your brain and spinal cord. It processes sensory information and coordinates motor response.
+
+The **peripheral nervous system** consists of every other nerve in the body. It gathers sensory information from internal and external environments and transmits these motor responses to muscles, organs, and glands.
+
+### Subdivisions in the Peripheral Nervous System
+
+The peripheral nervous system has two major subdivisions.
+
+The **somatic nervous system** consists of all [voluntary actions](#user-content-fn-11)[^11]. The **autonomic nervous system** consists of all [involuntary actions](#user-content-fn-12)[^12].
+
+The autonomic nervous system is further divided up. The **sympathetic nervous system** increases heart rate upon activation; this essentially triggers the fight or flight response. The **parasympathetic nervous system** decreases heart rate upon activation; this triggers the rest and digest response.
+
 ***
 
 {% hint style="warning" icon="trowel-bricks" %}
@@ -206,6 +279,14 @@ This page may be incomplete.
 
     Because the gradient from 300 to 32 is gentler than the gradient from 500 to 32, oxygen diffuses slower and breathing becomes harder.
 
-[^7]: The **superior vena cava** opens above the heart, and the **inferior vena cava** opens below the heart.
+[^7]: Specifically, the dropping off of carbon dioxide and the picking up of oxygen.
 
-[^8]: It is also called the mitral valve.
+[^8]: The **superior vena cava** opens above the heart, and the **inferior vena cava** opens below the heart.
+
+[^9]: It is also called the mitral valve.
+
+[^10]: Capillaries are made of a _single_ layer of cells. This allows for a high [surface area to volume ratio](cells.md#cellular-efficiency) and to allow the diffusion of gases across the body.
+
+[^11]: e.g. walking, thinking, etc.
+
+[^12]: e.g. heart rate, reflexive movements, etc.

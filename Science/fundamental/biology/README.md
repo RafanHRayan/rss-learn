@@ -63,7 +63,15 @@ icon: dna
 [cellular-respiration.md](cellular-respiration.md)
 {% endcontent-ref %}
 
-## #8 — ...
+## #8 — Photosynthesis and Cellular Respiration
+
+**Contents:** ...
+
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% endcontent-ref %}
+
+## #9 — ...
 
 **Contents:** ...
 
