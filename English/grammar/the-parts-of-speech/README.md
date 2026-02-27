@@ -1,4 +1,7 @@
 ---
+description: >-
+  The categories to which words are assigned in accordance with their syntactic
+  functions.
 icon: comment-dots
 layout:
   width: default
