@@ -48,7 +48,7 @@ Merging of Mathematics 101, Science 101, and Social Studies 101 into a single si
 {% update date="2025-12-17" %}
 ## Update 6.0
 
-Creation of Social Studies 101 and addition of global 1!
+Creation of Social Studies 101 and addition of global history!
 
 SAT test prep was also added.
 {% endupdate %}
