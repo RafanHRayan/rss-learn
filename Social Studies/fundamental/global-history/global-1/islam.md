@@ -41,6 +41,18 @@ The Quran is the holy text of Islam, written in Arabic and composed in poetry fo
 ***
 
 {% hint style="danger" icon="trowel-bricks" %}
+Missing portion of page here!
+{% endhint %}
+
+***
+
+## The Successor of Muhammadﷺ
+
+After Muhammadﷺ's death, it was debated by the Islamic community on who should succeed him as the leader.
+
+***
+
+{% hint style="danger" icon="trowel-bricks" %}
 This page is incomplete!
 {% endhint %}
 
