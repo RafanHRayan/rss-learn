@@ -50,6 +50,10 @@ Missing portion of page here!
 
 After Muhammadﷺ's death, it was debated by the Islamic community on who should succeed him as the leader.
 
+### Sunnis vs. Shi'ites
+
+The Sunnis believed that the next caliph should be _chosen_ by the Islamic community.
+
 ***
 
 {% hint style="danger" icon="trowel-bricks" %}
