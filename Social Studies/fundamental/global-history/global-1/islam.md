@@ -1,3 +1,9 @@
+---
+description: >-
+  The Roots of Islam, the Arabian Peninsula, Muhammadﷺ, the Quran, the
+  Successors of Muhammadﷺ, the Umayyad Caliphate, ...
+---
+
 # Islam
 
 ## Linguistic Roots of Islam

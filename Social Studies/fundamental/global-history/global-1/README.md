@@ -81,7 +81,7 @@ layout:
 
 ## #1.8 — Islam
 
-**Contents:** ...
+**Contents:** The Roots of Islam, the Arabian Peninsula, Muhammadﷺ, the Quran, the Successors of Muhammadﷺ, the Umayyad Caliphate, ...
 
 {% content-ref url="islam.md" %}
 [islam.md](islam.md)
