@@ -52,7 +52,33 @@ After Muhammadﷺ's death, it was debated by the Islamic community on who should
 
 ### Sunnis vs. Shi'ites
 
-The Sunnis believed that the next caliph should be _chosen_ by the Islamic community.
+The Sunnis believed that the next caliph[^4] should be _chosen_ by the Islamic community. The Shi'ites believed that the next caliph should be a _descendent_ of Muhammadﷺ.
+
+This caused arguments within the Islamic community.
+
+## The Umayyad Caliphate
+
+The Umayyad Caliphate[^5] rules from 661 CE to 750 CE. The spread of Islam resulted, as the claiming of coastal regions resulted in the circumvention of deserts and support of merchants.
+
+Islam spread from military expansion, trade networks, and [financial incentives](#user-content-fn-6)[^6].
+
+{% hint style="danger" icon="bolt" %}
+The Arabs didn't _force_ conquered people to practice Islam, as it goes against the teachings of the Quran. However, non-muslims were required to pay extra taxes and non-Arab muslims were not given the same status and authority as Arab muslims.
+{% endhint %}
+
+{% hint style="danger" icon="bolt" %}
+#### Misconception About The Battle of Tours
+
+The Franks of Europe, who were ruled by Charles Martel, were once attempted of invasion by the Umayyads. Many people of the modern world believe of this battle as Martel attempting to stop the Muslims specifically. It has been confirmed that Martel was only defending himself and his ruling area.
+{% endhint %}
+
+### Overthrowing of The Umayyad
+
+Three things led to the downfall of the Umayyad Caliphate...
+
+1. The non-Arabs resented the status of the Arabs.
+2. Shia muslims believed the Umayyad caliphs were illegitimate[^7].
+3. Arabs protested against the luxurious living of rulers, accusing them of corruption.
 
 ***
 
@@ -65,3 +91,11 @@ This page is incomplete!
 [^2]: Anyone who came to the Kaaba for trade or worship.
 
 [^3]: "_Al-Amin_" in Arabic.
+
+[^4]: **Caliph** _n. \[ca-lif]_ — The chief Muslim civil and religious ruler, regarded as the successor of Muhammad.
+
+[^5]: **Caliphate** _n. \[ca-li-fate]_ — The region ruled over by a caliph.
+
+[^6]: Those in Arab territory had to pay a special tax (jizya) if they didn't convert to Islam.
+
+[^7]: They were accused of veering off and lying about Islam.
