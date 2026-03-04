@@ -78,6 +78,10 @@ The Arabs didn't _force_ conquered people to practice Islam, as it goes against 
 The Franks of Europe, who were ruled by Charles Martel, were once attempted of invasion by the Umayyads. Many people of the modern world believe of this battle as Martel attempting to stop the Muslims specifically. It has been confirmed that Martel was only defending himself and his ruling area.
 {% endhint %}
 
+### Influence of Arabian Art
+
+Arabian art, known as Arabesque, consists of floral patterns and designs. It was also defined by the beautiful calligraphy of Arabic.
+
 ### Overthrowing of The Umayyad
 
 Three things led to the downfall of the Umayyad Caliphate...
@@ -85,6 +89,31 @@ Three things led to the downfall of the Umayyad Caliphate...
 1. The non-Arabs resented the status of the Arabs.
 2. Shia muslims believed the Umayyad caliphs were illegitimate[^7].
 3. Arabs protested against the luxurious living of rulers, accusing them of corruption.
+
+## Islamic Golden Age
+
+The Umayyad Caliphate fell rebel groups overthrew them. The most powerful of the rebels, the Abbasids, took control afterwards.
+
+### Muslim Trade Network
+
+The Arabs established banks in major cities and had them issue _sakks_ (letters of credits) to merchants. Merchants could cash a _sakk_ from one bank to another, allowing for secure long-distance transactions
+
+{% hint style="success" icon="lightbulb" %}
+_Sakks_ were like ancient checks.
+{% endhint %}
+
+### House of Wisdom
+
+Baghdad became the capital of the Abbasids because of its prosperity: it became the center of learning. It is here that Muslims experienced their own Renaissance.
+
+The House of Wisdom was a research center founded by the caliph Al-Mamun. There, scholars translated texts in different languages into Arabic and performed experiments. As a result, scholars—both Muslim and non-Muslim—gathered to translate [all the world’s knowledge](#user-content-fn-8)[^8] into Arabic. This effort preserved much the knowledge gained from the Greeks, Romans, and other ancient civilizations.
+
+> "The ink of the scholar is more holy than the blood of martyrs." — Muhammadﷺ
+
+Two more advances occured...
+
+1. Paper began to be used in the Islamic world in 794 CE. By 850 CE, Baghdad had over 100 paper-making workshops.
+2. The astrolabe was an instrument formerly used to make astronomical measurements before the instruments we use today were invented.
 
 ***
 
@@ -105,3 +134,5 @@ This page is incomplete!
 [^6]: Those in Arab territory had to pay a special tax (jizya) if they didn't convert to Islam.
 
 [^7]: They were accused of veering off and lying about Islam.
+
+[^8]: The House of Wisdom focused on subjects like astronomy, medicine, mathematics, geography.
