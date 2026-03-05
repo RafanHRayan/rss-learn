@@ -6,6 +6,12 @@ icon: scroll
 # 2026 Changelog
 
 {% updates format="full" %}
+{% update date="2026-03-05" %}
+## Update 16.5
+
+Slightly changed Github repo button to just say "Repo".
+{% endupdate %}
+
 {% update date="2026-02-27" %}
 ## Update 16.4
 
