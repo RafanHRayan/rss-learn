@@ -81,7 +81,7 @@ layout:
 
 ## #1.8 — Islam
 
-**Contents:** The Roots of Islam, the Arabian Peninsula, Muhammadﷺ, the Quran, the Successors of Muhammadﷺ, the Umayyad Caliphate, ...
+**Contents:** The fundamentals of Islam, Muhammadﷺ, the plot to kill Muhammadﷺ, the successors of Muhammadﷺ, the Umayyad Caliphate, Islam in East Africa, Ibn Battuta, and Mansa Musa.
 
 {% content-ref url="islam.md" %}
 [islam.md](islam.md)

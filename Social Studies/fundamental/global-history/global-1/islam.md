@@ -1,7 +1,8 @@
 ---
 description: >-
-  The Roots of Islam, the Arabian Peninsula, Muhammadﷺ, the Quran, the
-  Successors of Muhammadﷺ, the Umayyad Caliphate, ...
+  The fundamentals of Islam, Muhammadﷺ, the plot to kill Muhammadﷺ, the
+  successors of Muhammadﷺ, the Umayyad Caliphate, Islam in East Africa, Ibn
+  Battuta, and Mansa Musa.
 ---
 
 # Islam
