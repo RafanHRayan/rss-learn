@@ -40,33 +40,78 @@ In 610 CE, Muhammadﷺ was meditating in the Cave of Hira until he was given his
 Muhammadﷺ did not know how to write, so he had employed scribes to transcribe the revelations and messages he received as they were revealed to him.
 {% endhint %}
 
-## The Quran
+### The Quran
 
 The Quran is the holy text of Islam, written in Arabic and composed in poetry form. In contrast to the Bible or Torah, the Quran is said to be the word of God.
 
-***
+### Five Pillars of Islam
 
-{% hint style="danger" icon="trowel-bricks" %}
-Missing portion of page here!
+The Quran mandated the five pillars of Islam. _All_ muslims are required to do all of the following...
+
+|      Declaration of Faith (شهاد)      |
+| :-----------------------------------: |
+|        Obligatory Prayer (صلاة)       |
+|        Compulsory Giving (زكاة)       |
+| Fasting in the Month of Ramadan (صوم) |
+|        Pilgrimage to Mecca (حج)       |
+
+### The Acceptance of Islam
+
+Muhammadﷺ's message was not quickly accepted by the people of Mecca. Monotheism was not new, but the strict message of Muhammadﷺ that "there is no God but God" threatened the importance of Mecca and the Quraysh.
+
+The only followers were his wife, his cousin, and [his slave](#user-content-fn-4)[^4].
+
+### Abu Bakr
+
+Soon after, a wealthy and powerful man—Abu Bakr— began to follow Muhammadﷺ. He spent his wealth purchasing and freeing slaves.
+
+### The Plot to Kill Muhammadﷺ
+
+The Quraysh—out of fear of him—began spreading accusations that Muhammadﷺ was a sorcerer. They were mostly threatened—not be his claims—but by the threat to social order. Upon hearing the plot to kill him, Muhammadﷺ sent his followers to secretly escape to Yathrib.
+
+[This migration](#user-content-fn-5)[^5] marks the beginning in the Hijri calendar.
+
+{% hint style="info" icon="circle-question" %}
+Hijri is the name of the calendar. Hijra is the actual migration that Muhammadﷺ partook in.
 {% endhint %}
 
-***
+### The Medinan Period
 
-## The Successor of Muhammadﷺ
+{% hint style="info" icon="circle-question" %}
+Yathrib is the former name of modern-day Medina.
+{% endhint %}
+
+Muhammadﷺ and his followers grew, gaining alliances and support. The first mosque was built and named Masjid-al-Quba.
+
+### The Qibla
+
+The Qibla is the direction of prayer for muslims. Today, all muslims face towards Mecca to pray, yet it wasn't always like this.
+
+In 622 CE, the Qibla pointed towards Jerusalem, but Muhammadﷺ received a revelation in 624 CE indicating to him that prayer should be towards Mecca.
+
+### The Conquest of Mecca
+
+Muhammadﷺ and all of his followers. entered Mecca, defeated the Quraysh, and removed all the idols there. The Kaaba became a place holy to all muslims.
+
+> "Truth has come and Falsehood has Vanished." — Muhammadﷺ
+
+Muhammadﷺ died in 632 CE.
+
+## The Succession of Muhammadﷺ
 
 After Muhammadﷺ's death, it was debated by the Islamic community on who should succeed him as the leader.
 
 ### Sunnis vs. Shi'ites
 
-The Sunnis believed that the next caliph[^4] should be _chosen_ by the Islamic community. The Shi'ites believed that the next caliph should be a _descendent_ of Muhammadﷺ.
+The Sunnis believed that the next caliph[^6] should be _chosen_ by the Islamic community. The Shi'ites believed that the next caliph should be a _descendent_ of Muhammadﷺ.
 
 This caused arguments within the Islamic community.
 
 ## The Umayyad Caliphate
 
-The Umayyad Caliphate[^5] rules from 661 CE to 750 CE. The spread of Islam resulted, as the claiming of coastal regions resulted in the circumvention of deserts and support of merchants.
+The Umayyad Caliphate[^7] rules from 661 CE to 750 CE. The spread of Islam resulted, as the claiming of coastal regions resulted in the circumvention of deserts and support of merchants.
 
-Islam spread from military expansion, trade networks, and [financial incentives](#user-content-fn-6)[^6].
+Islam spread from military expansion, trade networks, and [financial incentives](#user-content-fn-8)[^8].
 
 {% hint style="danger" icon="bolt" %}
 The Arabs didn't _force_ conquered people to practice Islam, as it goes against the teachings of the Quran. However, non-muslims were required to pay extra taxes and non-Arab muslims were not given the same status and authority as Arab muslims.
@@ -87,7 +132,7 @@ Arabian art, known as Arabesque, consists of floral patterns and designs. It was
 Three things led to the downfall of the Umayyad Caliphate...
 
 1. The non-Arabs resented the status of the Arabs.
-2. Shia muslims believed the Umayyad caliphs were illegitimate[^7].
+2. Shia muslims believed the Umayyad caliphs were illegitimate[^9].
 3. Arabs protested against the luxurious living of rulers, accusing them of corruption.
 
 ## Islamic Golden Age
@@ -106,11 +151,11 @@ _Sakks_ were like ancient checks.
 
 Baghdad became the capital of the Abbasids because of its prosperity: it became the center of learning. It is here that Muslims experienced their own Renaissance.
 
-The House of Wisdom was a research center founded by the caliph Al-Mamun. There, scholars translated texts in different languages into Arabic and performed experiments. As a result, scholars—both Muslim and non-Muslim—gathered to translate [all the world’s knowledge](#user-content-fn-8)[^8] into Arabic. This effort preserved much the knowledge gained from the Greeks, Romans, and other ancient civilizations.
+The House of Wisdom was a research center founded by the caliph Al-Mamun. There, scholars translated texts in different languages into Arabic and performed experiments. As a result, scholars—both Muslim and non-Muslim—gathered to translate [all the world’s knowledge](#user-content-fn-10)[^10] into Arabic. This effort preserved much the knowledge gained from the Greeks, Romans, and other ancient civilizations.
 
 > "The ink of the scholar is more holy than the blood of martyrs." — Muhammadﷺ
 
-Two more advances occured...
+Two more advances occurred...
 
 1. Paper began to be used in the Islamic world in 794 CE. By 850 CE, Baghdad had over 100 paper-making workshops.
 2. The astrolabe was an instrument formerly used to make astronomical measurements before the instruments we use today were invented.
@@ -127,12 +172,16 @@ This page is incomplete!
 
 [^3]: "_Al-Amin_" in Arabic.
 
-[^4]: **Caliph** _n. \[ca-lif]_ — The chief Muslim civil and religious ruler, regarded as the successor of Muhammad.
+[^4]: Whom Muhammadﷺ had freed.
 
-[^5]: **Caliphate** _n. \[ca-li-fate]_ — The region ruled over by a caliph.
+[^5]: Know known as the hijra.
 
-[^6]: Those in Arab territory had to pay a special tax (jizya) if they didn't convert to Islam.
+[^6]: **Caliph** _n. \[ca-lif]_ — The chief Muslim civil and religious ruler, regarded as the successor of Muhammad.
 
-[^7]: They were accused of veering off and lying about Islam.
+[^7]: **Caliphate** _n. \[ca-li-fate]_ — The region ruled over by a caliph.
 
-[^8]: The House of Wisdom focused on subjects like astronomy, medicine, mathematics, geography.
+[^8]: Those in Arab territory had to pay a special tax (jizya) if they didn't convert to Islam.
+
+[^9]: They were accused of veering off and lying about Islam.
+
+[^10]: The House of Wisdom focused on subjects like astronomy, medicine, mathematics, geography.
