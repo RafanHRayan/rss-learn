@@ -9,7 +9,7 @@ icon: scroll
 {% update date="2026-03-05" %}
 ## Update 16.5
 
-Slightly changed Github repo button to just say "Repo".
+Slightly changed Github repo button to just say "Github".
 {% endupdate %}
 
 {% update date="2026-02-27" %}
