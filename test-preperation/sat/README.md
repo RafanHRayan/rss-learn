@@ -51,8 +51,8 @@ You may be asked to edit sentences to follow core grammar, usage, and punctuatio
 
 View grammar here...
 
-{% content-ref url="https://app.gitbook.com/s/JBZHB9sZwfiz01de02WQ/grammar" %}
-[Grammar](https://app.gitbook.com/s/JBZHB9sZwfiz01de02WQ/grammar)
+{% content-ref url="/broken/spaces/JBZHB9sZwfiz01de02WQ/pages/nGhqUIr2lh5nxUhOZwD3" %}
+[Broken link](/broken/spaces/JBZHB9sZwfiz01de02WQ/pages/nGhqUIr2lh5nxUhOZwD3)
 {% endcontent-ref %}
 
 ### Expression of Ideas

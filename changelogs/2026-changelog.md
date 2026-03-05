@@ -63,13 +63,11 @@ SAT test prep page has updated and will continue to be updated.
 
 ## Update 15.0.1
 
-The Developer Tasks page has been updated to make it more intuitive for readers and has been moved to the bottom of the references section.
-
 The welcome page has a new description! The core library buttons on the home page have been moved into a 2x2 layout.
 
 ## Update 15.0
 
-References section has been added to the home page to clarify on what something may mean on the site. This section is also used for developers so read up!
+References section has been added to the home page to clarify on what something may mean on the site.
 
 The hint and expandable reference pages have been added in complement of this new feature.
 
@@ -83,11 +81,9 @@ Small bug fixes and minor improvements.
 
 Small bug fixes and minor improvements.
 
-The english and programming libraries have been released. Content will be added soon. To accomodate for the addition of these libraries, libraries will be split into two categories: core and elective. The core category will not get added to further on, and will only contain the english, mathematics, science, and social studies libraries.
+The english and programming libraries have been released. Content will be added soon. To accommodate for the addition of these libraries, libraries will be split into two categories: core and elective. The core category will not get added to further on, and will only contain the english, mathematics, science, and social studies libraries.
 
 The changelogs page has been converted into a sidebar heading.
-
-The developer tasks section in the home page has been moved to the sidebar as a separate page.
 
 Removed sidebar background to make it blend it with the rest of the site.
 
@@ -123,7 +119,7 @@ The github repository link has been added to the top navigation bar.
 {% update date="2026-02-11" %}
 ## Update 12.0
 
-Addition of the developer tasks view in the home page.
+Bug fixes and minor improvements.
 {% endupdate %}
 
 {% update date="2026-02-02" %}

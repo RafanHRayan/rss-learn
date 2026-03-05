@@ -27,8 +27,9 @@
 * [Formatting](references/formatting.md)
 * [Hints](references/hints.md)
 * [Expandables](references/expandables.md)
-* [Developer Tasks](references/developer-tasks.md)
+* [Tags](references/tags.md)
 
 ***
 
+* [Developer Tasks](developer-tasks.md)
 * [Coming soon...](coming-soon....md)
