@@ -236,4 +236,4 @@ This page may be incomplete.
 
 [^12]: Means "_king_."
 
-[^13]: Equivalent to 1,250 pounds.
+[^13]: Equivalent to about 1,250 pounds.
