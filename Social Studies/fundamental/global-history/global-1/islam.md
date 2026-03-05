@@ -160,10 +160,56 @@ Two more advances occurred...
 1. Paper began to be used in the Islamic world in 794 CE. By 850 CE, Baghdad had over 100 paper-making workshops.
 2. The astrolabe was an instrument formerly used to make astronomical measurements before the instruments we use today were invented.
 
+## Islam in East Africa
+
+The East coast of Africa had access to all the other parts of the world. Arab merchants began to dominate trade routes in the area and influenced the 37 city-states of Swahili to convert to Islam.
+
+The city-states of Swahili were politically independent, each with its own king. Competition arose between them.
+
+### The Great Zimbabwe
+
+The Great Zimbabwe was a stone enclosure built from granite. Though only remains are left, the Great Zimbabwe was found to be huge.
+
+## Ibn Battuta
+
+Ibn Battuta was an Islamic scholar who vowed to visit the whole Islamic world. In his journey, he covered more than 75,000 miles, met with 60 rulers, and interviewed more than 2,000 people.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/unknown (1).png" alt="" width="380"><figcaption><p><strong>Image 1</strong> — The travels of Ibn Battuta.</p></figcaption></figure></div>
+
+### Ibn Battuta's Findings
+
+Above all, Ibn Battuta noticed diversity; he saw different ethnic groups, religions, and governing styles. He claimed that people were eager to accept the benefits of cultural diffusion and that they welcomed exposure to new peoples, goods, and ideas.
+
+## Mansa Musa
+
+The gold-salt trade between northern and southern parts of Africa were very important.
+
+### The Rise of The Mali Empire
+
+Mali[^11] discovered more gold mines and became the most powerful kingdom in Africa.
+
+The greatest leader was Mansa[^12] Musa, who lived from 1280 to 1337 and ruled for 25 years. He was one of the many powerful leaders in the world to convert to Islam, completing the hajj in 1324.
+
+### The Wealth of Mansa Musa
+
+Mansa Musa’s pilgrimage caravan included 60,000 companions: 12,000 slaves carrying 4 pounds of gold each and 80 camels laden with 50-300 pounds of gold each. 500 of Musa’s servants also rode before him each carrying a 10.5 pound gold staff.
+
+He gave beggars huge ingots, overpaid at bazaars, and tipped with fistfuls of gold dust.
+
+In addition, he made formal charitable donations of [20,000 ounces](#user-content-fn-13)[^13] of gold each at Cairo, Mecca, and Medina, causing hyperinflation.
+
+Ultimately, Mansa Musa forged diplomatic ties with Muslim powers in the middle east.
+
+### After Mansa Musa's Pilgrimage
+
+Mansa Musa brought back knowledge and Mali became a center of Muslim learning. Mali’s capital, Timbuktu, became a leading center of the gold/salt trade.
+
+He hired architects to build mosques, he sent Muslim scholars to study in Morocco, and he stressed the importance of learning Arabic to unify his empire.
+
 ***
 
-{% hint style="danger" icon="trowel-bricks" %}
-This page is incomplete!
+{% hint style="warning" icon="trowel-bricks" %}
+This page may be incomplete.
 {% endhint %}
 
 [^1]: Literally all religions existing at the time: Christianity, Judaism, Greek/Roman mythology, etc.
@@ -185,3 +231,9 @@ This page is incomplete!
 [^9]: They were accused of veering off and lying about Islam.
 
 [^10]: The House of Wisdom focused on subjects like astronomy, medicine, mathematics, geography.
+
+[^11]: Means "_where the king dwells_."
+
+[^12]: Means "_king_."
+
+[^13]: Equivalent to 1,250 pounds.
