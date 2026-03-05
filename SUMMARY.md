@@ -31,5 +31,5 @@
 
 ***
 
-* [Developer Tasks](developer-tasks.md)
+* [Developer Tasks](references/developer-tasks.md)
 * [Coming soon...](coming-soon....md)
