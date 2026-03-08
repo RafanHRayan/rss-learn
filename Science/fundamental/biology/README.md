@@ -67,8 +67,8 @@ icon: dna
 
 **Contents:** ...
 
-{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
-[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% content-ref url="cellular-respiration-and-photosynthesis.md" %}
+[cellular-respiration-and-photosynthesis.md](cellular-respiration-and-photosynthesis.md)
 {% endcontent-ref %}
 
 ## #9 — ...

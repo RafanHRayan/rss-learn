@@ -13,6 +13,7 @@
   * [Biochemistry](fundamental/biology/biochemistry.md)
   * [Cells](fundamental/biology/cells.md)
   * [Respiratory and Circulatory Systems](fundamental/biology/cellular-respiration.md)
+  * [Cellular Respiration and Photosynthesis](fundamental/biology/cellular-respiration-and-photosynthesis.md)
 * [Chemistry](fundamental/chemistry.md)
 
 ## Advanced

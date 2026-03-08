@@ -205,13 +205,9 @@ Organic matter contains the two essential elements of life: carbon and hydrogen,
 
 Fluxes are movements of carbon between different reservoirs.
 
-**Photosynthesis** is the process plants use to make their own energy. Plants take in carbon dioxide, light energy, and water. They then convert them into oxygen and ATP[^18].
+[Cellular respiration](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/~/edit/~/changes/110/fundamental/biology/cellular-respiration-and-photosynthesis#cellular-respiration) takes in glucose and oxygen and releases carbon dioxide and water. Producers, consumers, and decomposers perform cellular respiration.
 
-**Cellular respiration** takes in glucose and oxygen and releases carbon dioxide and water. Producers, consumers, and decomposers perform respiration.
-
-{% hint style="success" icon="lightbulb" %}
-Plants actually do cellular respiration, but choose to do _mainly_ photosynthesis instead.
-{% endhint %}
+[Photosynthesis](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/~/edit/~/changes/110/fundamental/biology/cellular-respiration-and-photosynthesis#photosynthesis) is the process plants use to make their own energy. Plants take in carbon dioxide, light energy, and water. They then convert them into oxygen and ATP.
 
 **Combustion** is the burning of something to release carbon and thermal energy.
 
@@ -252,5 +248,3 @@ Majority of the carbon in the carbon cycle ends up in the atmosphere and biosphe
 [^16]: Plants like blue-green algae.
 
 [^17]: These bacteria are decomposers.
-
-[^18]: Obtained in the form of glucose.
