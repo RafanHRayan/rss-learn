@@ -205,7 +205,7 @@ Organic matter contains the two essential elements of life: carbon and hydrogen,
 
 Fluxes are movements of carbon between different reservoirs.
 
-[Cellular respiration](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/~/edit/~/changes/110/fundamental/biology/cellular-respiration-and-photosynthesis#cellular-respiration) takes in glucose and oxygen and releases carbon dioxide and water. Producers, consumers, and decomposers perform cellular respiration.
+[Cellular respiration](cellular-respiration-and-photosynthesis.md#cellular-respiration) takes in glucose and oxygen and releases carbon dioxide and water. Producers, consumers, and decomposers perform cellular respiration.
 
 [Photosynthesis](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/~/edit/~/changes/110/fundamental/biology/cellular-respiration-and-photosynthesis#photosynthesis) is the process plants use to make their own energy. Plants take in carbon dioxide, light energy, and water. They then convert them into oxygen and ATP.
 

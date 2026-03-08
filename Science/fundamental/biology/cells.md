@@ -221,13 +221,13 @@ Cells—both plant and animal—eventually _die_ after being exposed to hypotoni
 
     $$\text{}$$
 
-    [More on this...](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/~/edit/~/changes/110/fundamental/biology/cellular-respiration-and-photosynthesis#cellular-respiration)
+    [More on this...](cellular-respiration-and-photosynthesis.md#cellular-respiration)
 
 [^8]: The process that uses sunlight to convert water and carbon dioxide into glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>).
 
     $$\text{}$$
 
-    [More on this...](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/~/edit/~/changes/110/fundamental/biology/cellular-respiration-and-photosynthesis#photosynthesis)
+    [More on this...](https://rss-industries.gitbook.io/learn/sci/fundamental/biology/cellular-respiration-and-photosynthesis#photosynthesis)
 
 [^9]: e.g. cell division, replication, etc.
 
