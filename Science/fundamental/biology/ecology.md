@@ -207,7 +207,7 @@ Fluxes are movements of carbon between different reservoirs.
 
 [Cellular respiration](cellular-respiration-and-photosynthesis.md#cellular-respiration) takes in glucose and oxygen and releases carbon dioxide and water. Producers, consumers, and decomposers perform cellular respiration.
 
-[Photosynthesis](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/~/edit/~/changes/110/fundamental/biology/cellular-respiration-and-photosynthesis#photosynthesis) is the process plants use to make their own energy. Plants take in carbon dioxide, light energy, and water. They then convert them into oxygen and ATP.
+[Photosynthesis](cellular-respiration-and-photosynthesis.md) is the process plants use to make their own energy. Plants take in carbon dioxide, light energy, and water. They then convert them into oxygen and ATP.
 
 **Combustion** is the burning of something to release carbon and thermal energy.
 

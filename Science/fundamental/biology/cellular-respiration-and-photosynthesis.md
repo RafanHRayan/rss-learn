@@ -14,8 +14,6 @@ Energy is the ability to do work. It is essentially the capacity to do change.
 The ultimate source of energy for [most life](#user-content-fn-1)[^1] comes from the Sun, where [producers](ecology.md#trophic-levels) create glucose with it and higher [trophic levels](ecology.md#trophic-levels) consume producers for that same glucose.
 {% endhint %}
 
-[More on this...](https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/M0Sz4yw9FAQegZP17IFM/~/edit/~/changes/110/fundamental/biology/cellular-respiration-and-photosynthesis#photosynthesis)
-
 ### Adenosine Triphosphate
 
 **Adenosine triphosphate (ATP)** is a nucleotide with three phosphate
