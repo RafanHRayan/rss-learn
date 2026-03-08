@@ -218,7 +218,7 @@ Using these graphs, you can visualize data—especially those of experiments—m
 
 [^2]: It is generally in the "If \[independent variable], then \[dependent variable]." format.
 
-    $$\text{}$$
+    ㅤ
 
     [More on this...](foundations-of-life.md#variables)
 

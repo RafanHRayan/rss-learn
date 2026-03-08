@@ -8,13 +8,13 @@ description: >-
 
 ## Abiotic and Biotic Factors
 
-Abiotic factors are [nonliving physical and chemical components of an environment](#user-content-fn-1)[^1]. They may affect life, but aren’t _actually_ living.
+**Abiotic factors** are [nonliving physical and chemical components of an environment](#user-content-fn-1)[^1]. They may affect life, but aren’t _actually_ living.
 
-On the other hand, biotic factors are living—or once-living—components of an environment. Examples would include plants, animals, and [their remains](#user-content-fn-2)[^2].
+On the other hand, **biotic factors** are living—or once-living—components of an environment. Examples would include plants, animals, and [their remains](#user-content-fn-2)[^2].
 
 ## Trophic Levels
 
-Ecology is the study of the environment and how the organisms interact with each other in that environment. The following are the different trophic levels of organisms in an ecosystem:
+**Ecology** is the study of the environment and how the organisms interact with each other in that environment. The following are the different trophic levels of organisms in an ecosystem:
 
 * **Producers** or autotrophs (plants, green algae) via photosynthesis or chemosynthesis.
 * **Consumers** or heterotrophs that cannot produce their own food, so they rely on other organisms for energy and nutrients.
@@ -28,13 +28,13 @@ Without decomposers, energy would remain locked after an organism dies. Because 
 
 ### Food Chains
 
-Food chains are a visual representation of relationships between trophic levels. Each trophic level has a representative organism which helps a chain continue. At the bottom is generally the producer and at the top is the apex predator.
+**Food chains** are a visual representation of relationships between trophic levels. Each trophic level has a representative organism which helps a chain continue. At the bottom is generally the producer and at the top is the **apex predator**.
 
 Decomposers are not usually included in food chains.
 
 ### Food Webs
 
-Food webs are another visual representation that shows _**all**_ relationships between organisms of different trophic levels in an ecosystem. Arrows[^5] pointing from another show predator-prey relationships.
+**Food webs** are another visual representation that shows _**all**_ relationships between organisms of different trophic levels in an ecosystem. Arrows[^5] pointing from another show predator-prey relationships.
 
 A food web is all the food chains of an ecosystem. Because food webs aren’t limited to being in a straight line[^6], they are much more flexible to allow [more complicated relationships](#user-content-fn-7)[^7] to happen. However, though this is true, an organism at a higher trophic level _does not necessarily_ eat all organisms in trophic levels below it.
 
