@@ -188,7 +188,7 @@ Don't forget that the area of a triangle is found using $$\frac{1}{2}bh$$.
 
 [^1]: This item is the **accepted** definition of a parallelogram, as all of the other plausible items use the starred one to be proven true.
 
-    $$\text{}$$
+    ㅤ
 
     This means that all the other definitions can be considered as _properties_ and _theorems_ as well.
 
@@ -196,7 +196,7 @@ Don't forget that the area of a triangle is found using $$\frac{1}{2}bh$$.
 
 [^3]: As they have two pairs of parallel sides.
 
-    $$\text{}$$
+    ㅤ
 
     A trapezoid has _**at least**_ one pair of parallel sides, not exactly.
 

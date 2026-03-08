@@ -63,7 +63,7 @@ A **set** is an arbitrary group of arbitrary objects and tend to be denoted by c
 
 Sets can be given as a list of its elements: $$S=\{1,2,3,4,5\}$$, $$P=\{2,6,1,7,12\}$$. $$S$$ and $$P$$ are both two different sets declared by their elements.
 
-Sets can be viewed using a venn diagram, with each circle equating to a set. **Intersections** are when two sets contain common elements. The intersection of two sets is defined as the set of all elements common between those two sets: $$S\cap{}P=\{1,2\}$$.
+Sets can be viewed using a Venn diagram, with each circle equating to a set. **Intersections** are when two sets contain common elements. The intersection of two sets is defined as the set of all elements common between those two sets: $$S\cap{}P=\{1,2\}$$.
 
 **Unions** are when two sets are combined into a larger set. The union of two sets is defined as the set of all elements that are in _**at least one**_ of the sets: $$S\cup{}P=\{1,2,3,4,5,6,7,12\}$$.
 
@@ -103,7 +103,7 @@ Suppose there are several points connected by arrows. The [starting point](#user
 
 You can use the Rule of Sum to answer this question.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-20 at 2.38.20 PM.png" alt="" width="563"><figcaption><p><strong>Image 2</strong> — Completeion of path example question.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-20 at 2.38.20 PM.png" alt="" width="563"><figcaption><p><strong>Image 2</strong> — Completion of path example question.</p></figcaption></figure></div>
 
 ***
 

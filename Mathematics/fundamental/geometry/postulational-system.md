@@ -311,7 +311,7 @@ If two lines are perpendicular, then they form 90° angles at their intersection
 
 </details>
 
-***
+
 
 Using these postulates, definitions, and properties, you should be able to create proofs to prove different aspects of diagrams (proving that an angle is supplementary to another angle, that a segment bisects and angle, etc.).
 
