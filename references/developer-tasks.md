@@ -20,4 +20,3 @@ Tasks disappear with the update following their completion.
   * [ ] Complete Greece and Persia.
 * [ ] Fill out grammar curriculum in english library.
 * [ ] Work on the programming library.
-* [ ] Look into [this](https://github.com/orgs/GitbookIO/discussions/1162) so you can hopefully create [this](tags.md).

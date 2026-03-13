@@ -524,10 +524,6 @@ Use the reflector's shield right before a heavy melee or projectile attack hits 
 Most information is taken from [this wiki page](https://combatinitiation.miraheze.org/wiki/Style) and slightly altered.
 {% endhint %}
 
-{% hint style="danger" icon="trowel-bricks" %}
-This page is incomplete!
-{% endhint %}
-
 [^1]: * 4 Kills -> N=1
     * 5 Kills -> N=2
     * ...

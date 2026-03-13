@@ -1,6 +1,6 @@
 ---
 hidden: true
-icon: trowel-bricks
+icon: lightbulb
 ---
 
 # Coming soon...

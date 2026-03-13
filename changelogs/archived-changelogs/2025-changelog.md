@@ -18,7 +18,7 @@ Added a bunch of coming soon topics to the mathematics and science libraries to 
 External resources added to sidebar in home page.
 {% endupdate %}
 
-{% update date="2025-12-22" %}
+{% update date="2025-12-22" tags="major" %}
 ## Update 7.2
 
 RSS Learn is off of maintenance and has been opened again to the public!
@@ -27,7 +27,7 @@ RSS Learn is off of maintenance and has been opened again to the public!
   * The study steps resource has been moved to this new homepage.
 {% endupdate %}
 
-{% update date="2025-12-19" %}
+{% update date="2025-12-19" tags="major" %}
 ## Update 7.1
 
 RSS Learn taken down under maintenance to work on the following...
@@ -45,7 +45,7 @@ RSS Learn taken down under maintenance to work on the following...
 Merging of Mathematics 101, Science 101, and Social Studies 101 into a single site! The name of our site was renamed to RSS Learn!!!
 {% endupdate %}
 
-{% update date="2025-12-17" %}
+{% update date="2025-12-17" tags="major" %}
 ## Update 6.0
 
 Creation of Social Studies 101 and addition of global history!
@@ -61,24 +61,20 @@ Fixed search bar not displaying results along with other minor bugs.
 The study steps resource has been added.
 {% endupdate %}
 
-{% update date="2025-12-04" %}
-## Update 4.1
-
-Minor bug fixes and addition of more circular borders.
-
-AMC test prep was also released along with trigonometry and combinatorics.
-
+{% update date="2025-12-04" tags="major" %}
 ## Update 4.0
 
 Creation of Science 101 and addition of biology!
+
+AMC test prep was also released along with trigonometry and combinatorics.
+
+Minor bug fixes and addition of more circular borders.
 {% endupdate %}
 
 {% update date="2025-11-30" %}
-## Update 3.2
+## Update 3.1
 
 Addition of combinatorics coming soon page.
-
-## Update 3.1
 
 Addition of trigonometry coming soon page.
 {% endupdate %}
@@ -95,7 +91,7 @@ Addition of algebra 1 coming soon page.
 Minor bug fixes.
 {% endupdate %}
 
-{% update date="2025-11-15" %}
+{% update date="2025-11-15" tags="major" %}
 ## Release 1.0
 
 Initial published release of RSS Learn!!!

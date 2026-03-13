@@ -33,20 +33,12 @@ This is an **example** hint. It is used to provide an example to a concept for f
 This is a **warning** hint. It is used to convey a piece of information that is important to the understanding of a concept.
 {% endhint %}
 
-{% hint style="warning" icon="trowel-bricks" %}
-This is a **possibly under-construction** hint. It is typically appended to unfinished pages to denote their incompletion and caution the reader to possible errors within the content.
-{% endhint %}
-
 ### Dangering Hints
 
 **Dangering hints** highlight severe warnings. Here are the different types of dangering hints...
 
 {% hint style="danger" icon="bolt" %}
 This is a **misconception** hint. It is used in cases where misunderstanding of a concept or information may lead to problems.
-{% endhint %}
-
-{% hint style="danger" icon="trowel-bricks" %}
-This is an **under-construction** hint. It is typically appended to unfinished pages to denote their incompletion and caution the reader to possible errors within the content.
 {% endhint %}
 
 ### Additive Hints
