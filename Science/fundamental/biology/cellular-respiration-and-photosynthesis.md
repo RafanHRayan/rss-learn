@@ -1,7 +1,5 @@
 # Cellular Respiration and Photosynthesis
 
-Cellular Respiration
-
 Cells need energy to live. After obtaining glucose, cells need to convert them into energy that it can use. To do this, they use **cellular respiration**.
 
 Cellular respiration is the process where cells break down nutrients to make usable energy.
