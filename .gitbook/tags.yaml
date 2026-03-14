@@ -1,11 +1,11 @@
 - tag: under-construction
   label: Under Construction
   icon: trowel-bricks
-  color: red
+  color: $danger
 - tag: coming-soon
   label: Coming Soon
   icon: lightbulb
-  color: blue
+  color: $primary
 - tag: major
   label: Major
   icon: bolt
