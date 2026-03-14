@@ -6,6 +6,12 @@ icon: scroll
 # 2026 Changelog
 
 {% updates format="full" %}
+{% update date="2026-03-14" %}
+## Update 17.1
+
+Tags have been implemented across RSS Learn.
+{% endupdate %}
+
 {% update date="2026-03-13" tags="major" %}
 ## Update 17.0
 

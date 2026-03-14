@@ -1,12 +1,12 @@
-- tag: under-construction
-  label: Unfinished
-  icon: trowel-bricks
-  color: $danger
-- tag: coming-soon
-  label: Upcoming
-  icon: lightbulb
-  color: $primary
 - tag: major
   label: Major
   icon: bolt
   color: $success
+- tag: unfinished
+  label: Unfinished
+  icon: trowel-bricks
+  color: $danger
+- tag: upcoming
+  label: Upcoming
+  icon: lightbulb
+  color: $primary
