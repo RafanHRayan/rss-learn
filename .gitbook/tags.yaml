@@ -1,9 +1,9 @@
 - tag: under-construction
-  label: Under Construction
+  label: Unfinished
   icon: trowel-bricks
   color: $danger
 - tag: coming-soon
-  label: Coming Soon
+  label: Upcoming
   icon: lightbulb
   color: $primary
 - tag: major
