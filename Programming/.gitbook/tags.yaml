@@ -1,0 +1,8 @@
+- tag: unfinished
+  label: Unfinished
+  icon: trowel-bricks
+  color: $danger
+- tag: upcoming
+  label: Upcoming
+  icon: lightbulb
+  color: $primary
