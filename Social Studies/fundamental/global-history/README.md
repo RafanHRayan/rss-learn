@@ -3,6 +3,9 @@ description: >-
   A course that examines human history by transcending national boundaries to
   analyze connections, networks, and large-scale, transnational processes.
 icon: earth-americas
+tags:
+  - tag: unfinished
+    primary: true
 ---
 
 # Global History
