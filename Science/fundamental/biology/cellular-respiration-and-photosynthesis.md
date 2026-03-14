@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: unfinished
+    primary: true
+---
+
 # Cellular Respiration and Photosynthesis
 
 Cells need energy to live. After obtaining glucose, cells need to convert them into energy that it can use. To do this, they use **cellular respiration**.
@@ -29,11 +35,5 @@ Aerobic cellular respiration is performed by the mitochondria and requires oxyge
 ## Photosynthesis
 
 ...
-
-***
-
-{% hint style="danger" icon="trowel-bricks" %}
-This page is incomplete!
-{% endhint %}
 
 [^1]: There are some exceptions.

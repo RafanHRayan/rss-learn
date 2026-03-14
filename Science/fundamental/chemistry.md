@@ -4,6 +4,9 @@ description: >-
   which matter is composed; the investigation of their properties; and the use
   of processes to form new substances.
 icon: atom
+tags:
+  - tag: upcoming
+    primary: true
 ---
 
 # Chemistry

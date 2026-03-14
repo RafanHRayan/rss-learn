@@ -19,6 +19,9 @@ layout:
     visible: true
   tags:
     visible: true
+tags:
+  - tag: upcoming
+    primary: true
 ---
 
 # Earth Science
