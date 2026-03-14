@@ -3,6 +3,9 @@ description: >-
   A foundational mathematics course focusing on variables, expressions, and
   solving equations.
 icon: function
+tags:
+  - tag: unfinished
+    primary: true
 ---
 
 # Algebra 1

@@ -1,5 +1,8 @@
 ---
 description: Ratio proportionality, ...
+tags:
+  - tag: unfinished
+    primary: true
 ---
 
 # Similar Polygons
@@ -50,11 +53,5 @@ The means and extremes of a proportion can flip, as long as they are [on opposit
 ### Scale Factors
 
 A constant is the **scale factor** of two similar polygons if and only if it is the ratio of any pair of corresponding side lengths.
-
-***
-
-{% hint style="danger" icon="trowel-bricks" %}
-This page is incomplete!
-{% endhint %}
 
 [^1]: i.e. one mean is the _numerator_ of the first ratio and the other is the _denominator_ of the second ratio.

@@ -1,5 +1,8 @@
 ---
 description: 'Timestamp: 23:00'
+tags:
+  - tag: unfinished
+    primary: true
 ---
 
 # Basic Counting
@@ -104,12 +107,6 @@ Suppose there are several points connected by arrows. The [starting point](#user
 You can use the Rule of Sum to answer this question.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-02-20 at 2.38.20 PM.png" alt="" width="563"><figcaption><p><strong>Image 2</strong> — Completion of path example question.</p></figcaption></figure></div>
-
-***
-
-{% hint style="danger" icon="trowel-bricks" %}
-This page is incomplete!
-{% endhint %}
 
 [^1]: Though this works for small sums, calculating the larger sums takes too long.
 
