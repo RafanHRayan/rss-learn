@@ -10,6 +10,8 @@ icon: scroll
 ## Update 17.0
 
 Tags have been implemented! New reference page has been made to denote meanings.
+
+Note that changes were only reflected to the home page; they will be reflected to the libraries soon.
 {% endupdate %}
 
 {% update date="2026-03-05" %}
