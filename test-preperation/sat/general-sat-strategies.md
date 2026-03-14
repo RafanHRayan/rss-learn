@@ -2,7 +2,8 @@
 description: Prep Expert's general SAT strategies.
 icon: chess-king
 tags:
-  - coming-soon
+  - tag: coming-soon
+    primary: true
 ---
 
 # General SAT Strategies
