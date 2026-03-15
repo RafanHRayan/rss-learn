@@ -68,7 +68,7 @@ tags:
 
 ## #8 — Photosynthesis and Cellular Respiration
 
-**Contents:** ...
+**Contents:** How photosynthesis and cellular respiration work to produce glucose and energy respectively.
 
 {% content-ref url="cellular-respiration-and-photosynthesis.md" %}
 [cellular-respiration-and-photosynthesis.md](cellular-respiration-and-photosynthesis.md)

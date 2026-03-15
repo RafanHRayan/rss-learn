@@ -1,4 +1,7 @@
 ---
+description: >-
+  How photosynthesis and cellular respiration work to produce glucose and energy
+  respectively.
 tags:
   - tag: unfinished
     primary: true
@@ -18,7 +21,11 @@ Energy is the ability to do work. It is essentially the capacity to do change.
 The ultimate source of energy for [most life](#user-content-fn-1)[^1] comes from the Sun, where [producers](ecology.md#trophic-levels) create glucose with it and higher [trophic levels](ecology.md#trophic-levels) consume producers for that same glucose.
 {% endhint %}
 
-Cells do specifically cellular respiration and not another process like combustion (both give off CO<sub>2</sub> and energy) because of the many steps it takes to perform cellular respiration. Combustion happens instantly and, in turn, releases heat quickly. Cellular respiration releases heat slowly. To sum, cells do cellular respiration in order to prevent itself from burning up.
+Cells do specifically cellular respiration and [not another process like combustion](#user-content-fn-2)[^2] because of the many steps it takes to perform cellular respiration. Combustion happens instantly and, in turn, releases heat quickly. Cellular respiration releases heat slowly. To sum, cells do cellular respiration in order to prevent itself from burning up.
+
+### Energy Storage and Release
+
+Energy is releasing during the breaking and building of bonds. In cellular respiration, glucose and oxygen are converted into carbon dioxide and water. This conversion requires bonds to be broken, which releases energy.
 
 ### Adenosine Triphosphate
 
@@ -30,10 +37,12 @@ Energy is always stored upon the building of bonds and released during the break
 
 ### Aerobic vs. Anaerobic
 
-Aerobic cellular respiration is performed by the mitochondria and requires oxygen. Anaerobic cellular respiration is performed in the cytoplasm and doesn't require oxygen, though it creates a significantly lower amount of ATP.
+Aerobic cellular respiration is performed by the mitochondria and requires oxygen. Anaerobic cellular respiration is performed in the cytoplasm and doesn't require oxygen, though it creates a significantly _lower_ amount of ATP.
 
 ## Photosynthesis
 
 ...
 
 [^1]: There are some exceptions.
+
+[^2]: Both give off CO<sub>2</sub> and energy.
