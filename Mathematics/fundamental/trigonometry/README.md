@@ -34,18 +34,10 @@ tags:
 [trigonometry-in-right-triangles.md](trigonometry-in-right-triangles.md)
 {% endcontent-ref %}
 
-## #2 — Trigonometric Functions
+## #2 — ...
 
 **Contents:** ...
 
-{% content-ref url="trigonometric-functions.md" %}
-[trigonometric-functions.md](trigonometric-functions.md)
-{% endcontent-ref %}
-
-## #3 — Trigonometry in Non-Right Triangles
-
-**Contents:** ...
-
-{% content-ref url="trigonometry-in-non-right-triangles.md" %}
-[trigonometry-in-non-right-triangles.md](trigonometry-in-non-right-triangles.md)
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
 {% endcontent-ref %}

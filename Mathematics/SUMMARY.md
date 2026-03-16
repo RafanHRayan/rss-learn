@@ -16,9 +16,7 @@
   * [Similar Polygons](fundamental/geometry/similar-polygons.md)
   * [Circles](fundamental/geometry/circles.md)
 * [Trigonometry](fundamental/trigonometry/README.md)
-  * [Trigonometry in Right Triangles](fundamental/trigonometry/trigonometry-in-right-triangles.md)
-  * [Trigonometric Functions](fundamental/trigonometry/trigonometric-functions.md)
-  * [Trigonometry in Non-Right Triangles](fundamental/trigonometry/trigonometry-in-non-right-triangles.md)
+  * [Right Triangle Trigonometry](fundamental/trigonometry/trigonometry-in-right-triangles.md)
 
 ## Advanced
 

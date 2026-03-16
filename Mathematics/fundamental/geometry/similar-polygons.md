@@ -64,6 +64,14 @@ The following are true...
 The means and extremes of a proportion can flip, as long as they are [on opposite sides of the fraction bar from each other](#user-content-fn-2)[^2].
 {% endhint %}
 
+### The Geometric Mean
+
+A constant, $$x$$, is the geometric mean of two numbers, $$a$$ and $$b$$, if and only if $$\frac{x}{a}=\frac{b}{x}$$. it is essentially the square root of their product: $$x=\sqrt{ab}$$.
+
+{% hint style="success" icon="fire-flame-curved" %}
+If either of the extremes is a perfect square, the geometric mean of the extremes will be $$\sqrt{a}\sqrt{b}$$, assuming you simplify the perfect square.
+{% endhint %}
+
 ### Scale Factors
 
 A constant is the **scale factor** of two similar polygons if and only if it is the ratio of any pair of corresponding side lengths.
@@ -118,45 +126,9 @@ If two triangles have all of their corresponding sides proportional, then they a
 
 ## Right Triangle Trigonometry
 
-### Composition of a Right Triangle
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/pythag02.gif" alt="" width="224"><figcaption><p><strong>Image 2</strong> — The composition of a right triangle.</p></figcaption></figure></div>
-
-### The Right Triangle Altitude Theorem
-
-There are three paths/versions of this theorem, all of which are essential to understanding right triangles. All three are derived after dropping an altitude down to the hypotenuse form the right angle.
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="" width="444"><figcaption><p><strong>Image 3</strong> — A right triangle with an altitude dropped down to the hypotenuse.</p></figcaption></figure></div>
-
-<details>
-
-<summary><i class="fa-note">:note:</i> Path of Similarity</summary>
-
-If an altitude is drawn to the hypotenuse of a right triangle, then the two resulting triangles are each similar to each other and the original triangle.
-
-<p align="center"><span class="math">\triangle{ABC}\sim{}\triangle{ACD}\sim{}\triangle{CBD}</span></p>
-
-</details>
-
-<details>
-
-<summary><i class="fa-note">:note:</i> Path of Altitude as a Geometric Mean</summary>
-
-If an altitude is drawn to the hypotenuse of a right triangle, then its length is the geometric mean of the sections of the hypotenuse.
-
-<p align="center"><span class="math">\frac{CD}{AD}=\frac{BD}{CD}</span></p>
-
-</details>
-
-<details>
-
-<summary><i class="fa-note">:note:</i> Path of Legs as Geometric Means</summary>
-
-If an altitude is drawn to the hypotenuse of a right triangle, then its legs are the geometric mean of the hypotenuse and the section of the hypotenuse that is adjacent to the leg.
-
-<p align="center"><span class="math">\frac{AC}{AB}=\frac{AD}{AC}</span>, <span class="math">\frac{BC}{AB}=\frac{BD}{BC}</span></p>
-
-</details>
+{% content-ref url="../trigonometry/trigonometry-in-right-triangles.md" %}
+[trigonometry-in-right-triangles.md](../trigonometry/trigonometry-in-right-triangles.md)
+{% endcontent-ref %}
 
 [^1]: This name is made up. Do not use it officially.
 
