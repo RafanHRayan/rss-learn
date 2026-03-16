@@ -124,13 +124,17 @@ If two triangles have all of their corresponding sides proportional, then they a
 
 ### The Right Triangle Altitude Theorem
 
-There are three paths/versions of this theorem, all of which are essential to understanding right triangles.
+There are three paths/versions of this theorem, all of which are essential to understanding right triangles. All three are derived after dropping an altitude down to the hypotenuse form the right angle.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="" width="444"><figcaption><p><strong>Image 3</strong> — A right triangle with an altitude dropped down to the hypotenuse.</p></figcaption></figure></div>
 
 <details>
 
 <summary><i class="fa-note">:note:</i> Path of Similarity</summary>
 
-If two triangles have all of their corresponding sides proportional, then they are similar.
+If an altitude is drawn to the hypotenuse of a right triangle, then the two resulting triangles are each similar to each other and the original triangle.
+
+<p align="center"><span class="math">\triangle{ABC}\sim{}\triangle{ACD}\sim{}\triangle{CBD}</span></p>
 
 </details>
 
@@ -138,7 +142,9 @@ If two triangles have all of their corresponding sides proportional, then they a
 
 <summary><i class="fa-note">:note:</i> Path of Altitude as a Geometric Mean</summary>
 
-If two triangles have all of their corresponding sides proportional, then they are similar.
+If an altitude is drawn to the hypotenuse of a right triangle, then its length is the geometric mean of the sections of the hypotenuse.
+
+<p align="center"><span class="math">\frac{CD}{AD}=\frac{BD}{CD}</span></p>
 
 </details>
 
@@ -146,7 +152,9 @@ If two triangles have all of their corresponding sides proportional, then they a
 
 <summary><i class="fa-note">:note:</i> Path of Legs as Geometric Means</summary>
 
-If two triangles have all of their corresponding sides proportional, then they are similar.
+If an altitude is drawn to the hypotenuse of a right triangle, then its legs are the geometric mean of the hypotenuse and the section of the hypotenuse that is adjacent to the leg.
+
+<p align="center"><span class="math">\frac{AC}{AB}=\frac{AD}{AC}</span>, <span class="math">\frac{BC}{AB}=\frac{BD}{BC}</span></p>
 
 </details>
 
