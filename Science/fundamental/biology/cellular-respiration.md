@@ -203,7 +203,7 @@ There are three sections in the circulatory system.
 
 Arteries, veins, and capillaries are all **blood vessels**, but are very different. Arteries are the thickest and [capillaries are the thinnest](#user-content-fn-10)[^10].
 
-{% hint style="info" icon="circle-info" %}
+{% hint style="info" icon="circle-question" %}
 Capillary plasma is the same as blood.
 {% endhint %}
 
