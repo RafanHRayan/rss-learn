@@ -70,9 +70,9 @@ A constant is the **scale factor** of two similar polygons if and only if it is 
 
 ## Radicals
 
-Radicals are the inverse of exponents.
+Radicals are the _inverse_ of exponents.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/download.png" alt="" width="169"><figcaption><p><strong>Image 1</strong> — Parts of a radical.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/download.png" alt="" width="169"><figcaption><p><strong>Image 1</strong> — The parts of a radical.</p></figcaption></figure></div>
 
 The **radical sign** is the actual √. The **radicand** is the number under the radical symbol. The **index** is the small superscripted number.
 
@@ -82,7 +82,73 @@ Radicals can also have a coefficient with them, as in $$2\sqrt{24}$$.
 
 ### Operations With Radicals
 
-To add or subtract radicals together, treat the radicals as variables. [Radicals with a like radicand and index can be added or subtracted from each other](#user-content-fn-3)[^3].
+To add or subtract radicals together, treat the radicals as variables. [In radicals with a like radicand and index, the coefficients can be added or subtracted from each other](#user-content-fn-3)[^3].
+
+To multiply radicals together, [multiply the coefficients together and the radicands together](#user-content-fn-4)[^4]. Only radicals of like indexes can be multiplied.
+
+### Simplifying Radicals
+
+To simplify radicals, find two factors that multiply to the radicand such that one or both of the factors are perfect squares. Thus, you can [simplify the perfect square](#user-content-fn-5)[^5].
+
+## Similarity Postulates
+
+<details>
+
+<summary><i class="fa-note">:note:</i> AA Similarity Postulate</summary>
+
+If two triangles have two pairs of congruent corresponding angles, then they are similar.
+
+</details>
+
+<details>
+
+<summary><i class="fa-note">:note:</i> SAS Similarity Postulate</summary>
+
+If two triangles have two pairs of proportional corresponding sides and congruent included angles, then they are similar.
+
+</details>
+
+<details>
+
+<summary><i class="fa-note">:note:</i> SSS Similarity Postulate</summary>
+
+If two triangles have all of their corresponding sides proportional, then they are similar.
+
+</details>
+
+## Right Triangle Trigonometry
+
+### Composition of a Right Triangle
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/pythag02.gif" alt="" width="224"><figcaption><p><strong>Image 2</strong> — The composition of a right triangle.</p></figcaption></figure></div>
+
+### The Right Triangle Altitude Theorem
+
+There are three paths/versions of this theorem, all of which are essential to understanding right triangles.
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Path of Similarity</summary>
+
+If two triangles have all of their corresponding sides proportional, then they are similar.
+
+</details>
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Path of Altitude as a Geometric Mean</summary>
+
+If two triangles have all of their corresponding sides proportional, then they are similar.
+
+</details>
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Path of Legs as Geometric Means</summary>
+
+If two triangles have all of their corresponding sides proportional, then they are similar.
+
+</details>
 
 [^1]: This name is made up. Do not use it officially.
 
@@ -90,14 +156,28 @@ To add or subtract radicals together, treat the radicals as variables. [Radicals
 
 [^3]: You can simplify these...
 
-    $$3\sqrt{12}+8\sqrt{12}=11\sqrt{12}$$
+    $$3\sqrt{12}+8\sqrt{12}=11\sqrt{12}$$,
 
-    $$7\sqrt{5}-\sqrt{5}=6\sqrt{5}$$
+    $$7\sqrt{5}-\sqrt{5}=6\sqrt{5}$$,
 
-    $$5\sqrt{6}-8\sqrt{7}+2\sqrt{6}=7\sqrt{6}-8\sqrt{7}$$
+    $$5\sqrt{6}-8\sqrt{7}+2\sqrt{6}=7\sqrt{6}-8\sqrt{7}$$,
+
+    ㅤ
 
     ...but not these...
 
-    $$2\sqrt{7}+\sqrt{3}$$
+    $$2\sqrt{7}+\sqrt{3}$$,
 
-    $$8\sqrt{16}-12\sqrt{5}$$
+    $$8\sqrt{16}-12\sqrt{5}$$.
+
+[^4]: You can simplify these...
+
+    $$3\sqrt{3}*6\sqrt{2}=18\sqrt{6}$$,
+
+    $$2\sqrt{7}*\sqrt{11}=2\sqrt{77}$$,
+
+    ...but not this...
+
+    $$\sqrt[3]{11}*4\sqrt{7}$$.
+
+[^5]: $$\sqrt{75}=\sqrt{25}\sqrt{3}=5\sqrt{3}$$.
