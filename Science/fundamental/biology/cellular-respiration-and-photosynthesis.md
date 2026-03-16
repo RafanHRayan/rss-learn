@@ -69,6 +69,10 @@ Cellular respiration is done in three different steps.&#x20;
 
 Glycolysis produces two ATP molecules and two NADH molecules.
 
+{% hint style="info" icon="pencil-line" %}
+**Editor Note** — Slideshow 2, Slide 7
+{% endhint %}
+
 ### Krebs Cycle
 
 ...
