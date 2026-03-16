@@ -53,11 +53,11 @@ The equation for cellular respiration is...
 Remember that [energy is lost as heat](ecology.md#energy) during conversion.
 {% endhint %}
 
-{% embed url="https://rss-industries.gitbook.io/learn/style" %}
-
 ### Electron Carriers
 
 NAD+ and FAD are two electron carriers. This means that they carry electrons to the electron transport chain for the production of ATP.
+
+When an electron bonds to NAD+, it turns into NADH. When an electron bonds to FAD, it turns into FADH<sub>2</sub>.
 
 ## The Stages of Cellular Respiration
 
