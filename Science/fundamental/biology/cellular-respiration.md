@@ -253,12 +253,6 @@ The **somatic nervous system** consists of all [voluntary actions](#user-content
 
 The autonomic nervous system is further divided up. The **sympathetic nervous system** increases heart rate upon activation; this essentially triggers the fight or flight response. The **parasympathetic nervous system** decreases heart rate upon activation; this triggers the rest and digest response.
 
-***
-
-{% hint style="warning" icon="trowel-bricks" %}
-This page may be incomplete.
-{% endhint %}
-
 [^1]: Oxygen goes in and carbon dioxide goes out.
 
 [^2]: _sing._ **bronchus**
