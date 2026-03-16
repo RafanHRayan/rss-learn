@@ -100,8 +100,8 @@ This is why it is taught in this course.
 
 **Contents:** ...
 
-{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
-[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% content-ref url="circles.md" %}
+[circles.md](circles.md)
 {% endcontent-ref %}
 
 ## #10 — Solids
