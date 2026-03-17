@@ -136,7 +136,7 @@ If two triangles have all of their corresponding sides proportional, then they a
 
 <details>
 
-<summary><i class="fa-note">:note:</i> SAS Area Formula</summary>
+<summary><i class="fa-note">:note:</i> SAS Area Formula (the <em>acute</em> case)</summary>
 
 The area of any acute triangle given two side lengths, $$a$$ and $$b$$, and the included angle, $$\angle{C}$$, is $$\frac{1}{2}ab*\sin{C}$$.
 
