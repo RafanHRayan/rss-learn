@@ -113,7 +113,7 @@ All pairs of similar right triangles have a fixed side length ratio. Some of the
 
 ### Basic Trigonometric Functions
 
-The three basic trigonometric functions are sine, cosine, and tangent, and they each correspond to a specific ratio in point of view of one of the angles that is not the right angle...
+The three basic trigonometric functions are **sine**, **cosine**, and **tangent**, and they each correspond to a specific ratio in point of view of one of the angles that is not the right angle...
 
 $$
 \sin{\theta{}}=\frac{\text{opp}}{\text{hyp}} \hspace{1cm} \cos{\theta{}}=\frac{\text{adj}}{\text{hyp}} \hspace{1cm} \tan{\theta{}}=\frac{\text{opp}}{\text{adj}}
@@ -123,7 +123,13 @@ Using these functions is helpful for finding missing sides in right triangles. T
 
 ### Inverse Trigonometric Functions
 
-The three inverse trigonometric functions are arcsine, arccosine, and arctangent, and they each correspond to a specific ratio in point of view of one of the angles that is not the right angle...
+The three inverse trigonometric functions are **arcsine**, **arccosine**, and **arctangent**, and they each correspond to a specific ratio in point of view of one of the angles that is not the right angle...
+
+$$
+\arcsin(\frac{\text{opp}}{\text{hyp}})=\theta{} \hspace{1cm} \arccos(\frac{\text{adj}}{\text{hyp}})=\theta{} \hspace{1cm} \arctan(\frac{\text{opp}}{\text{adj}})=\theta{}
+$$
+
+They can also be denoted as follows...
 
 $$
 \sin^{-1}(\frac{\text{opp}}{\text{hyp}})=\theta{} \hspace{1cm} \cos^{-1}(\frac{\text{adj}}{\text{hyp}})=\theta{} \hspace{1cm} \tan^{-1}(\frac{\text{opp}}{\text{adj}})=\theta{}
@@ -141,13 +147,13 @@ $$
 
 In short, the sine of an angle is equal to the cosine of its complement, and vice versa.
 
-{% hint style="info" icon="vial-vertical" %}
-## Example
+## Law of Sines
 
-If we are told that $$\cos{58\degree{}}=0.14$$, then $$\sin{32\degree{}}$$ would also be $$0.14$$. If we know the cosine of something, then the sin of its complement would be equivalent.
-{% endhint %}
+In any acute triangle, $$\triangle{ABC}$$, the ratios of each side to the sine of its opposite angle are proportional...
 
-...
+$$
+\frac{\sin{A}}{a}=\frac{\sin{B}}{b}=\frac{\sin{C}}{c}
+$$
 
 [^1]: The longest side in a _non-right_ triangle is _**not**_ a hypotenuse.
 

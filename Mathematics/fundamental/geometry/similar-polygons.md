@@ -130,6 +130,54 @@ If two triangles have all of their corresponding sides proportional, then they a
 [trigonometry-in-right-triangles.md](../trigonometry/trigonometry-in-right-triangles.md)
 {% endcontent-ref %}
 
+## Area and Perimeter
+
+<details>
+
+<summary><i class="fa-note">:note:</i> SAS Area Formula</summary>
+
+The area of any acute triangle given two side lengths, $$a$$ and $$b$$, and the included angle, $$\angle{C}$$, is $$\frac{1}{2}ab*\sin{C}$$.
+
+</details>
+
+
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Perimeter Ratio</summary>
+
+The ratio of the perimeters, $$P$$, of two similar polygons is equivalent to their scale factor, $$s$$.
+
+<p align="center"><span class="math">\frac{P_1}{P_2}=s</span></p>
+
+</details>
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Area Ratio</summary>
+
+The ratio of the areas, $$A$$, of two similar polygons is equivalent to their scale factor, $$s$$, squared.
+
+<p align="center"><span class="math">\frac{A_1}{A_2}=s^2</span></p>
+
+</details>
+
+## Apothems
+
+If a polygon is regular, it has a fixed center point. A segment is an **apothem** of a regular polygon if and only if it connects the midpoint of any side to the polygon's center.
+
+{% hint style="info" icon="circle-info" %}
+An apothem of a regular polygon is the incircle radius of the same polygon. The circumcircle radius of the polygon is the length of segment from the center to any vertex on the polygon.
+{% endhint %}
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Apothem Area Formula of a Regular Polygon</summary>
+
+The area of any regular polygon where the length of the apothem, $$a$$, and the perimeter, $$P$$, are known is $$\frac{1}{2}aP$$.
+
+</details>
+
 [^1]: This name is made up. Do not use it officially.
 
 [^2]: i.e. one mean is the _numerator_ of the first ratio and the other is the _denominator_ of the second ratio.
