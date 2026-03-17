@@ -131,7 +131,7 @@ $$
 
 Using these functions is helpful for finding missing angles in right triangles.
 
-### Sine and Cosine of Complementary Angles
+### Cofunction Identities
 
 If we have an angle $$\theta{}$$ in a right triangle, the other non-right angle would have to be $$90-\theta{}$$. This is because the two angles that aren't the right angle must add up to 90°. The relationships are shown below...
 
