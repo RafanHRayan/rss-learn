@@ -1,5 +1,7 @@
 ---
-description: Ratio proportionality, ...
+description: >-
+  Ratio proportionality, geometric means, radicals, similarity, right triangle
+  trigonometry, and apothems.
 tags:
   - tag: unfinished
     primary: true
@@ -80,7 +82,7 @@ A constant is the **scale factor** of two similar polygons if and only if it is 
 
 Radicals are the _inverse_ of exponents.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/download.png" alt="" width="169"><figcaption><p><strong>Image 1</strong> — The parts of a radical.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/download.png" alt="" width="169"><figcaption><p><strong>Image 1</strong> — The parts of a radical.</p></figcaption></figure></div>
 
 The **radical sign** is the actual √. The **radicand** is the number under the radical symbol. The **index** is the small superscripted number.
 
@@ -126,8 +128,8 @@ If two triangles have all of their corresponding sides proportional, then they a
 
 ## Right Triangle Trigonometry
 
-{% content-ref url="../trigonometry/trigonometry-in-right-triangles.md" %}
-[trigonometry-in-right-triangles.md](../trigonometry/trigonometry-in-right-triangles.md)
+{% content-ref url="../../trigonometry/trigonometry-in-right-triangles.md" %}
+[trigonometry-in-right-triangles.md](../../trigonometry/trigonometry-in-right-triangles.md)
 {% endcontent-ref %}
 
 ## Area and Perimeter

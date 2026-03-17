@@ -26,7 +26,7 @@ tags:
 
 # Trigonometry
 
-## #1 — Trigonometry in Right Triangles
+## #1 — Right Triangle Trigonometry
 
 **Contents:** Basic and reciprocal trigonometric ratios, pythagorean trigonometric identity, and sine and cosine of complementary angles.
 
