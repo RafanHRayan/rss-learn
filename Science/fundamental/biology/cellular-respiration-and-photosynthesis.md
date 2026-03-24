@@ -39,6 +39,8 @@ Even though the breaking of bonds releases energy, it also requires energy. Desp
 Energy is always stored upon the building of bonds and released during the breaking of bonds.
 {% endhint %}
 
+ATP is required, yet it first must be made. In order to make ATP, a**denosine diphosphate** (ADP) must be bonded together with the extra phosphate.
+
 ### Aerobic vs. Anaerobic
 
 **Aerobic** cellular respiration is performed by the mitochondria and requires oxygen. **Anaerobic** cellular respiration is performed in the cytoplasm and doesn't require oxygen, though it creates a significantly _lower_ amount of ATP.
@@ -55,46 +57,64 @@ Remember that [energy is lost as heat](ecology.md#energy) during conversion.
 
 ### Electron Carriers
 
-NAD+ and FAD are two electron carriers. This means that they carry electrons to the electron transport chain for the production of ATP.
+NAD<sup>+</sup> and FAD are two electron carriers. This means that they carry electrons to the electron transport chain for the production of ATP.
 
-When an electron bonds to NAD+, it turns into NADH. When an electron bonds to FAD, it turns into FADH<sub>2</sub>.
+When an electron bonds to NAD<sup>+</sup>, it turns into NADH. When an electron bonds to FAD, it turns into FADH<sub>2</sub>.
 
 ## The Stages of Cellular Respiration
 
 Cellular respiration is done in three different steps.&#x20;
 
+{% stepper %}
+{% step %}
 ### Glycolysis
 
-**Glycolysis** is the aerobic process in which glucose that the cell takes in is converted to two **pyruvate** molecules each. Pyruvate is smaller than glucose, thus it can fit in the mitochondria for aerobic processes.
+**Glycolysis** is the anaerobic process in which glucose that the cell takes in is converted to two **pyruvate** molecules each. Pyruvate is smaller than glucose, thus it can fit in the mitochondria for aerobic processes. It also loads NAD<sup>+</sup> with electrons.
 
-Glycolysis produces two ATP molecules and two NADH molecules.
+{% hint style="success" icon="fire-flame-curved" %}
+Glycolysis occurs in almost every single organism, including those that do not use oxygen.
 
-{% hint style="info" icon="pencil-line" %}
-**Editor Note** — Slideshow 2, Slide 7
+Knowing that early Earth had little to no atmospheric oxygen, glycolysis was the first stage of cellular respiration to evolve.
 {% endhint %}
+
+For each glucose molecule, glycolysis produces two ATP molecules and two NADH molecules.
+{% endstep %}
+
+{% step %}
+### Krebs Cycle
+
+The **Krebs cycle** is the [indirectly aerobic process](#user-content-fn-4)[^4] that takes in pyruvate and converts NAD<sup>+</sup> and FAD into NADH and FADH<sub>2</sub>.
+{% endstep %}
+
+{% step %}
+### Oxidative Phosphorylation
+
+
+{% endstep %}
+
+{% step %}
+#### Electron Transport Chain
+
+
+{% endstep %}
+
+{% step %}
+#### Chemiosmosis
+
+
+{% endstep %}
+{% endstepper %}
 
 ### Krebs Cycle
 
-...
+After being created, pyruvate enters a mitochondrion in the cell. It is converted into Acetyl CoA. This conversion turns an NAD<sup>+</sup> molecule into NADH and creates CO<sub>2</sub>. It binds with OAA to create citric acid, which has 6 carbon atoms. Carbons are then stripped from the citric acid molecule one by one in order to convert NAD+ into NADH and FAD into FADH<sub>2</sub>. In the process ATP is also created.
 
-### Oxidative Phosphorylation
-
-...
-
-#### Electron Transport Chain
-
-...
-
-#### Chemiosmosis
-
-...
-
-## Photosynthesis
-
-...
+For each pyruvate molecule, 6 NADH, 2 FADH<sub>2</sub>, 6 CO2, and 2 ATP molecules are created. The carbon dioxide is later expelled as waste.
 
 [^1]: There are some exceptions.
 
 [^2]: Both give off CO<sub>2</sub> and energy.
 
 [^3]: <p align="center">In the form of heat and ATP.</p>
+
+[^4]: Though the Krebs cycle doesn't directly use oxygen, it still requires oxygen. This is because the absence of oxygen in the [Electron Transport Chain](cellular-respiration-and-photosynthesis.md#electron-transport-chain) ceases the Krebs cycle.
