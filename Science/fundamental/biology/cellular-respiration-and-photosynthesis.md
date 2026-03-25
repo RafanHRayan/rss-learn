@@ -1,7 +1,7 @@
 ---
 description: >-
   How photosynthesis and cellular respiration work to produce glucose and energy
-  respectively.
+  respectively, and the different types of anaerobic respiration.
 tags:
   - tag: unfinished
     primary: true
@@ -22,14 +22,6 @@ The ultimate source of energy for [most life](#user-content-fn-1)[^1] comes from
 {% endhint %}
 
 Cells do specifically cellular respiration and [not another process like combustion](#user-content-fn-2)[^2] because of the many steps it takes to perform cellular respiration. Combustion happens instantly and, in turn, releases heat quickly. Cellular respiration releases heat slowly. To sum, cells do cellular respiration in order to prevent itself from burning up.
-
-### Energy Storage and Release
-
-Energy is releasing during the breaking and building of bonds. In cellular respiration, glucose and oxygen are converted into carbon dioxide and water. This conversion requires bonds to be broken, which releases energy.
-
-{% hint style="warning" icon="circle-exclamation" %}
-Even though the breaking of bonds releases energy, it also requires energy. Despite this, the net energy is released.
-{% endhint %}
 
 ### Adenosine Triphosphate
 
@@ -83,33 +75,103 @@ For each glucose molecule, glycolysis produces two ATP molecules and two NADH mo
 {% step %}
 ### Krebs Cycle
 
-The **Krebs cycle** is the [indirectly aerobic process](#user-content-fn-4)[^4] that takes in pyruvate and converts NAD<sup>+</sup> and FAD into NADH and FADH<sub>2</sub>.
+[**The Krebs cycle**](#user-content-fn-4)[^4] is the [indirectly aerobic process](#user-content-fn-5)[^5] that takes in pyruvate and converts NAD<sup>+</sup> and FAD into NADH and FADH<sub>2</sub>. The Krebs cycle happens in the **mitochondrial matrix**.
+
+After being created, pyruvate enters a mitochondrion in the cell. It is converted into **acetyl CoA**. This conversion turns an NAD<sup>+</sup> molecule into NADH and creates CO<sub>2</sub>.
+
+{% hint style="success" icon="fire-flame-curved" %}
+The mini-process that converts pyruvate into acetyl CoA is also called **Pyruvate Oxidation**.
+{% endhint %}
+
+It then binds with **OAA** to create **citric acid**, which has 6 carbon atoms. Carbons are then stripped from the citric acid molecule one by one in order to convert NAD+ into NADH and FAD into FADH<sub>2</sub>, creating more CO<sub>2</sub> in the process. In the process ATP is also created.
+
+For each pyruvate molecule, 6 NADH, 2 FADH<sub>2</sub>, 6 CO<sub>2</sub>, and 2 ATP molecules are created. The carbon dioxide is later expelled as waste.
 {% endstep %}
 
 {% step %}
 ### Oxidative Phosphorylation
 
+**Oxidative phosphorylation** is the aerobic process by which NADH and FADH<sub>2</sub> produced by glycolysis and the Krebs cycle are used to generate massive amounts of ATP.
 
-{% endstep %}
-
-{% step %}
 #### Electron Transport Chain
 
+First, electrons in NADH and FADH<sub>2</sub> molecules are released into proteins embedded in the mitochondrion's **inner mitochondrial membrane**. This chain of proteins in known as the **Electron Transport Chain**. The electrons travel through these proteins and perform chemiosmosis.
 
+#### Chemiosmosis
+
+In **chemiosmosis**, electrons guided by the proteins in the mitochondrial membrane are brought to an enzyme called **ATP Synthase**. They then bind together to produce ATP from ADP and a phosphate. The electron then unbinds from the enzyme.
+
+
+
+For each glucose molecule, oxidative phosphorylation generates a net amount of 34 ATP.
 {% endstep %}
 
 {% step %}
-#### Chemiosmosis
+### The Final Electron Acceptor
 
-
+After this, they meet oxygen, which accepts 4 electrons each, and bind with it to create water. Here, oxygen is considered as the **final electron acceptor**.
 {% endstep %}
 {% endstepper %}
 
-### Krebs Cycle
+In total, cellular respiration produces approximately 38 ATP molecules per glucose molecule consumed.
 
-After being created, pyruvate enters a mitochondrion in the cell. It is converted into Acetyl CoA. This conversion turns an NAD<sup>+</sup> molecule into NADH and creates CO<sub>2</sub>. It binds with OAA to create citric acid, which has 6 carbon atoms. Carbons are then stripped from the citric acid molecule one by one in order to convert NAD+ into NADH and FAD into FADH<sub>2</sub>. In the process ATP is also created.
+## Anaerobic Respiration
 
-For each pyruvate molecule, 6 NADH, 2 FADH<sub>2</sub>, 6 CO2, and 2 ATP molecules are created. The carbon dioxide is later expelled as waste.
+When oxygen isn't available to generate ATP, many organisms find anaerobic alternatives to help sustain themselves.
+
+### Fermentation
+
+There are two types of fermentation.
+
+#### Lactic Acid Fermentation
+
+In **Lactic acid fermentation**, pyruvate is converted into **lactate** instead. This generates **lactic acid**, but keeps NAD<sup>+</sup> at converting into NADH, allowing oxidative phosphorylation to happen without stopping.
+
+{% hint style="success" icon="lightbulb" %}
+When oxygen levels are low, the human body switches to lactic acid fermentation in order to keep cellular respiration running.
+{% endhint %}
+
+#### Alcoholic Fermentation
+
+In **Alcoholic fermentation**, pyruvate is converted into [**ethanol**](#user-content-fn-6)[^6] instead. This is done by yeast and keeps NAD<sup>+</sup> at converting into NADH, allowing oxidative phosphorylation to happen without stopping.
+
+### Alternative Electron Acceptors
+
+**Alternative electron acceptors** are molecules other than oxygen that organisms use to complete the electron transport chain when oxygen isn't present.
+
+## Photosynthesis
+
+**Photosynthesis** is a process carried out exclusively by plants to create glucose from sunlight and carbon dioxide.
+
+### Composition of a Chloroplast
+
+[Chloroplasts](cells.md#organelle-list) are responsible for the production of glucose in plant cells. Inside them are **thylakoids**; these small, coin-like structures are what contain chlorophyll[^7]. The inside substance of the chloroplast, which is similar to that of cytoplasm, is called the **stroma**.
+
+### How Nutrients Enter a Plant
+
+Nutrients necessary for carrying out photosynthesis enter the plant through small pores in the leaves and stems called [**stomata**](#user-content-fn-8)[^8]. **Guard cells** regulate what enters and leaves the stomata by opening and closing the pores up.
+
+Inside the leaf, these nutrients enter **mesophyll cells**, which is where photosynthesis mainly takes place. A network of transport tubes called the **vascular tubes** helps water reach the leaf.
+
+## The Stages of Photosynthesis
+
+Photosynthesis is done in two different steps.&#x20;
+
+{% stepper %}
+{% step %}
+### Light-Dependent Reactions
+
+[**Light-dependent reactions**](#user-content-fn-9)[^9] happen in the thylakoids, and require light to function. In these reactions, light energy causes water to split into oxygen and electrons. Oxygen is released from the plant and the electrons bind to NADP<sup>+</sup>, a common electron carrier in plants, to create NADPH. A small amount of ATP is also created in this process.
+{% endstep %}
+
+{% step %}
+### Calvin Cycle
+
+The **Calvin cycle** is a process that happens in the stroma, and [indirectly requires light energy](#user-content-fn-10)[^10] to function. The Calvin cycle attaches carbon dioxide molecules together into a molecule in a process known as **carbon fixation**. The fixed carbon is then converted into a small sugar called **glyceraldehyde 3-phosphate** (G3P).
+
+Most G3P molecules help keep the Calvin cycle running, but some exit and are converted into glucose. The NADPH and ATP created from the light reactions performed in the thylakoids is used to power all of this.
+{% endstep %}
+{% endstepper %}
 
 [^1]: There are some exceptions.
 
@@ -117,4 +179,16 @@ For each pyruvate molecule, 6 NADH, 2 FADH<sub>2</sub>, 6 CO2, and 2 ATP molecul
 
 [^3]: <p align="center">In the form of heat and ATP.</p>
 
-[^4]: Though the Krebs cycle doesn't directly use oxygen, it still requires oxygen. This is because the absence of oxygen in the [Electron Transport Chain](cellular-respiration-and-photosynthesis.md#electron-transport-chain) ceases the Krebs cycle.
+[^4]: Also known as the **Citric Acid cycle**.
+
+[^5]: Though the Krebs cycle doesn't directly use oxygen, it still requires oxygen. This is because the absence of oxygen in the [Electron Transport Chain](cellular-respiration-and-photosynthesis.md#electron-transport-chain) ceases the Krebs cycle.
+
+[^6]: Basically just alcohol.
+
+[^7]: That which gives plants their green color.
+
+[^8]: Sing. _stoma_.
+
+[^9]: Often shortened as **light reactions**.
+
+[^10]: Though the Calvin cycle does not directly need light energy, they need the NADPH and ATP created from the light reactions performed in the thylakoids.
