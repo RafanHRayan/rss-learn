@@ -68,13 +68,29 @@ tags:
 
 ## #8 — Photosynthesis and Cellular Respiration
 
-**Contents:** How photosynthesis and cellular respiration work to produce glucose and energy respectively.
+**Contents:** How cellular respiration produces energy, different types of anaerobic respiration, and how photosynthesis produces glucose.
 
 {% content-ref url="cellular-respiration-and-photosynthesis.md" %}
 [cellular-respiration-and-photosynthesis.md](cellular-respiration-and-photosynthesis.md)
 {% endcontent-ref %}
 
-## #9 — ...
+## #9 — Homeostasis?
+
+**Contents:** ...
+
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% endcontent-ref %}
+
+## #10 — Genetics
+
+**Contents:** ...
+
+{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
+[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% endcontent-ref %}
+
+## #11 — ...
 
 **Contents:** ...
 

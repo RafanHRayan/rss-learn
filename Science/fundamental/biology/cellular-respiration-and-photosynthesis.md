@@ -1,10 +1,7 @@
 ---
 description: >-
-  How photosynthesis and cellular respiration work to produce glucose and energy
-  respectively, and the different types of anaerobic respiration.
-tags:
-  - tag: unfinished
-    primary: true
+  How cellular respiration produces energy, different types of anaerobic
+  respiration, and how photosynthesis produces glucose.
 ---
 
 # Cellular Respiration and Photosynthesis
