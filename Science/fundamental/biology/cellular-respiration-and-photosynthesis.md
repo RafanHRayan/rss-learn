@@ -140,6 +140,12 @@ In **Alcoholic fermentation**, pyruvate is converted into [**ethanol**](#user-co
 
 **Photosynthesis** is a process carried out exclusively by plants to create glucose from sunlight and carbon dioxide.
 
+### Photosynthesis Equation
+
+The equation for photosynthesis is...
+
+<p align="center">6CO<sub>2</sub> + 6H<sub>2</sub>O <i class="fa-dash">:dash:</i>Light Energy<i class="fa-arrow-right-long">:arrow-right-long:</i> C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6CO<sub>2</sub></p>
+
 ### Composition of a Chloroplast
 
 [Chloroplasts](cells.md#organelle-list) are responsible for the production of glucose in plant cells. Inside them are **thylakoids**; these small, coin-like structures are what contain chlorophyll[^7]. The inside substance of the chloroplast, which is similar to that of cytoplasm, is called the **stroma**.
