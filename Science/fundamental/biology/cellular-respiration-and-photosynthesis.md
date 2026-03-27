@@ -106,7 +106,7 @@ For each glucose molecule, oxidative phosphorylation generates a net amount of 3
 {% step %}
 ### The Final Electron Acceptor
 
-After this, they meet oxygen, which accepts 4 electrons each, and bind with it to create water. Here, oxygen is considered as the **final electron acceptor**.
+After this, they meet oxygen, which accepts 4 electrons each, and binds with them to create 2 water molecules. Here, oxygen is considered as the **final electron acceptor**.
 {% endstep %}
 {% endstepper %}
 
