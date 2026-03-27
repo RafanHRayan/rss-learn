@@ -80,7 +80,7 @@ After being created, pyruvate enters a mitochondrion in the cell. It is converte
 The mini-process that converts pyruvate into acetyl CoA is also called **Pyruvate Oxidation**.
 {% endhint %}
 
-It then binds with **OAA** to create **citric acid**, which has 6 carbon atoms. Carbons are then stripped from the citric acid molecule one by one in order to convert NAD+ into NADH and FAD into FADH<sub>2</sub>, creating more CO<sub>2</sub> in the process. In the process ATP is also created.
+It then binds with **OAA** to create **citric acid**, which has 6 carbon atoms. Carbons are then stripped from the citric acid molecule one by one in order to convert NAD<sup>+</sup> into NADH and FAD into FADH<sub>2</sub>, creating more CO<sub>2</sub> in the process. In the process ATP is also created.
 
 For each pyruvate molecule, 6 NADH, 2 FADH<sub>2</sub>, 6 CO<sub>2</sub>, and 2 ATP molecules are created. The carbon dioxide is later expelled as waste.
 {% endstep %}
