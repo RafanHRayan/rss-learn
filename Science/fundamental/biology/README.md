@@ -74,7 +74,7 @@ tags:
 [cellular-respiration-and-photosynthesis.md](cellular-respiration-and-photosynthesis.md)
 {% endcontent-ref %}
 
-## #9 — Homeostasis?
+## #9 — Homeostasis and Metabolism
 
 **Contents:** ...
 
