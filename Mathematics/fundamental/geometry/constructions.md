@@ -777,7 +777,7 @@ In the real world, the centroid is the center of mass. If you were to take an ac
 
 [^4]: The minuend of a subtraction equation is the number that is subtracted _from_. In $$6-2=4$$, the minuend is $$6$$.
 
-[^5]: The minuend of a subtraction equation is the number that the minuend is subtracted _by_. In $$6-2=4$$, the minuend is $$2$$.
+[^5]: The subtrahend of a subtraction equation is the number that the minuend is subtracted _by_. In $$6-2=4$$, the minuend is $$2$$.
 
 [^6]: Essentially, the **difference** of the lengths.
 
