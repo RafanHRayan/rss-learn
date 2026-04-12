@@ -77,7 +77,7 @@ Cell membranes are made of a **phospholipid bilayer**. Because phospholipids hav
 
 {% columns %}
 {% column valign="middle" %}
-<div data-with-frame="true"><figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/0301_Phospholipid_Structure.jpg/510px-0301_Phospholipid_Structure.jpg" alt=""><figcaption><p><strong>Image 1</strong> — Phospholipid diagram.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="https://microbenotes.com/wp-content/uploads/2022/09/Phospholipid-Bilayer.jpg" alt=""><figcaption><p><strong>Image 1</strong> — Phospholipid diagram.</p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column valign="middle" %}

@@ -11,7 +11,7 @@ Cells need energy to live. After obtaining glucose, cells need to convert them i
 Cellular respiration is the process where cells break down nutrients to make usable energy.
 
 {% hint style="info" icon="circle-info" %}
-## Review
+### Review
 
 Energy is the ability to do work. It is essentially the capacity to do change.
 
@@ -52,11 +52,11 @@ When an electron bonds to NAD<sup>+</sup>, it turns into NADH. When an electron 
 
 ## The Stages of Cellular Respiration
 
-Cellular respiration is done in three different steps.&#x20;
+Cellular respiration is done in three different steps.
 
 {% stepper %}
 {% step %}
-### Glycolysis
+#### Glycolysis
 
 **Glycolysis** is the anaerobic process in which glucose that the cell takes in is converted to two **pyruvate** molecules each. Pyruvate is smaller than glucose, thus it can fit in the mitochondria for aerobic processes. It also loads NAD<sup>+</sup> with electrons.
 
@@ -70,7 +70,7 @@ For each glucose molecule, glycolysis produces two ATP molecules and two NADH mo
 {% endstep %}
 
 {% step %}
-### Krebs Cycle
+#### Krebs Cycle
 
 [**The Krebs cycle**](#user-content-fn-4)[^4] is the [indirectly aerobic process](#user-content-fn-5)[^5] that takes in pyruvate and converts NAD<sup>+</sup> and FAD into NADH and FADH<sub>2</sub>. The Krebs cycle happens in the **mitochondrial matrix**.
 
@@ -86,25 +86,23 @@ For each pyruvate molecule, 6 NADH, 2 FADH<sub>2</sub>, 6 CO<sub>2</sub>, and 2 
 {% endstep %}
 
 {% step %}
-### Oxidative Phosphorylation
+#### Oxidative Phosphorylation
 
 **Oxidative phosphorylation** is the aerobic process by which NADH and FADH<sub>2</sub> produced by glycolysis and the Krebs cycle are used to generate massive amounts of ATP.
 
-#### Electron Transport Chain
+**Electron Transport Chain**
 
 First, electrons in NADH and FADH<sub>2</sub> molecules are released into proteins embedded in the mitochondrion's **inner mitochondrial membrane**. This chain of proteins in known as the **Electron Transport Chain**. The electrons travel through these proteins and perform chemiosmosis.
 
-#### Chemiosmosis
+**Chemiosmosis**
 
 In **chemiosmosis**, electrons guided by the proteins in the mitochondrial membrane are brought to an enzyme called **ATP Synthase**. They then bind together to produce ATP from ADP and a phosphate. The electron then unbinds from the enzyme.
-
-
 
 For each glucose molecule, oxidative phosphorylation generates a net amount of 34 ATP.
 {% endstep %}
 
 {% step %}
-### The Final Electron Acceptor
+#### The Final Electron Acceptor
 
 After this, they meet oxygen, which accepts 4 electrons each, and binds with them to create 2 water molecules. Here, oxygen is considered as the **final electron acceptor**.
 {% endstep %}
@@ -158,17 +156,17 @@ Inside the leaf, these nutrients enter **mesophyll cells**, which is where photo
 
 ## The Stages of Photosynthesis
 
-Photosynthesis is done in two different steps.&#x20;
+Photosynthesis is done in two different steps.
 
 {% stepper %}
 {% step %}
-### Light-Dependent Reactions
+#### Light-Dependent Reactions
 
 [**Light-dependent reactions**](#user-content-fn-9)[^9] happen in the thylakoids, and require light to function. In these reactions, light energy causes water to split into oxygen and electrons. Oxygen is released from the plant and the electrons bind to NADP<sup>+</sup>, a common electron carrier in plants, to create NADPH. A small amount of ATP is also created in this process.
 {% endstep %}
 
 {% step %}
-### Calvin Cycle
+#### Calvin Cycle
 
 The **Calvin cycle** is a process that happens in the stroma, and [indirectly requires light energy](#user-content-fn-10)[^10] to function. The Calvin cycle attaches carbon dioxide molecules together into a molecule in a process known as **carbon fixation**. The fixed carbon is then converted into a small sugar called **glyceraldehyde 3-phosphate** (G3P).
 
