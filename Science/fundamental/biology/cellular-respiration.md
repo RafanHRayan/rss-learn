@@ -80,6 +80,8 @@ Carbon dioxide is released into the environment as you exhale.
 This all happens in the _small_ time that you breathe! Steps 1-8 happen as you breathe in and steps 9-10 happen as you breathe out.
 {% endhint %}
 
+<div data-with-frame="true"><figure><img src="https://cdn.serc.carleton.edu/images/NAGTWorkshops/health/case_studies/labeled_diagram_lungsrespirato.v2.webp" alt="" width="563"><figcaption><p><strong>Image 1</strong> — Diagram of the respiratory system in the human body.</p></figcaption></figure></div>
+
 ### How Breathing Works
 
 <details>
@@ -188,6 +190,8 @@ Blood flows down through the bicuspid valve and into the left ventricle.
 Blood flows up and out through the aorta, passing through the aortic valve. The aorta then carries blood to the rest of the body.
 {% endstep %}
 {% endstepper %}
+
+<div data-with-frame="true"><figure><img src="https://i.pinimg.com/736x/8f/00/22/8f002273eb80faf0e9413e0b8f9a1d55.jpg" alt="" width="563"><figcaption><p><strong>Image 2</strong> — Diagram of the circulatory system in the human body.</p></figcaption></figure></div>
 
 ### Three Sections of the Circulatory System
 
