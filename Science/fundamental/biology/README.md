@@ -74,12 +74,12 @@ tags:
 [cellular-respiration-and-photosynthesis.md](cellular-respiration-and-photosynthesis.md)
 {% endcontent-ref %}
 
-## #9 — Homeostasis and Metabolism
+## #9 — Homeostasis
 
 **Contents:** ...
 
-{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
-[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% content-ref url="homeostasis.md" %}
+[homeostasis.md](homeostasis.md)
 {% endcontent-ref %}
 
 ## #10 — Genetics

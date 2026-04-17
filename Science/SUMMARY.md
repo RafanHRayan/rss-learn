@@ -14,6 +14,7 @@
   * [Cells](fundamental/biology/cells.md)
   * [Respiratory and Circulatory Systems](fundamental/biology/cellular-respiration.md)
   * [Cellular Respiration and Photosynthesis](fundamental/biology/cellular-respiration-and-photosynthesis.md)
+  * [Homeostasis](fundamental/biology/homeostasis.md)
 * [Chemistry](fundamental/chemistry.md)
 
 ## Advanced
