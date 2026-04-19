@@ -1,9 +1,3 @@
----
-tags:
-  - tag: unfinished
-    primary: true
----
-
 # Circles
 
 ## Defining a Circle
