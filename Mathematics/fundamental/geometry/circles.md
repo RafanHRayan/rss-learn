@@ -36,11 +36,13 @@ A segment is the radius of a circle if and only if it is the distance in which e
 
 ## Pi
 
-Pi ($$\pi{}$$) is a mathematical concept that
+**Pi** ($$\pi{}$$) is a mathematical concept that is equivalent to the ratio of a circle's circumfrance to its diameter.
+
+Assuming that $$r$$ is the radius of any given circle, we can conclude that the circumfrance of a circle is $$2\pi{}r$$ and the area of a circle is $$\pi{}r^2$$.
 
 ## Radians
 
-Radians are another way to reference angle and arc measures, being a popular alternative to degrees. A radian is the ratio of the arc length to the radius. There are $$2\pi{}$$ radians in a circle, meaing that $$180\degree{}=\pi{}\text{ rad}$$.
+**Radians** are another way to reference angle and arc measures, being a popular alternative to degrees. A radian is the ratio of the arc length to the radius. There are $$2\pi{}$$ radians in a circle, meaing that $$180\degree{}=\pi{}\text{ rad}$$.
 
 Because of this, it is easy to convert between degrees and radians using ratios...
 
@@ -106,6 +108,8 @@ An angle is intercepted if two lines and/or segments
 
 </details>
 
+
+
 <details>
 
 <summary><i class="fa-note">:note:</i> Definition of A Circular Arc</summary>
@@ -113,6 +117,24 @@ An angle is intercepted if two lines and/or segments
 A circular arc is a part of a circle.
 
 </details>
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Definition of Arc Measure</summary>
+
+Arc measure is the measure of the angle whose rays it's intercepted by.
+
+</details>
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Definition of Arc Length</summary>
+
+Arc length is the length of the actual arc.
+
+</details>
+
+
 
 <details>
 
@@ -161,6 +183,12 @@ All radii of the same circle are congruent.
 <summary><i class="fa-note">:note:</i> Tangent Perpendicularity</summary>
 
 A tangent to a circle is always perpendicular to the radius that meets its point of tangency.
+
+{% hint style="success" icon="fire-flame-curved" %}
+A tangent is called such because of its relation to the [tangent function](../trigonometry/trigonometry-in-right-triangles.md#basic-trigonometric-functions). Let's assume that we have a circle, $$O$$, and point $$O$$ connects to a point, $$P$$, which is on the circle; the radius of the circle is 1; a point, $$Q$$, is some other point on the tangent; the tangent is $$\overleftrightarrow{QP}$$; and the angle with the vertex, $$O$$ ($$\angle{QOP}$$), has a measure of $$\theta{}$$.
+
+With this, we can conclude that $$\tan{\theta{}}=QP$$.
+{% endhint %}
 
 </details>
 
