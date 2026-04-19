@@ -74,15 +74,29 @@ Breathing, being dehydrated, and even having a high temperature are all examples
 
 ## Excretory/Urinary System
 
+The **excretory system** is the body system that removes wastes from the body.
+
 {% hint style="info" icon="circle-question" %}
 Only one subsystem of the excretory system is covered here.
 {% endhint %}
 
-When proteins and nucleic acids break down, they are converted to ammonia. Since ammonia is toxic though, it is again converted into **urea** in the liver.
+The **urinary system** consists of many organs necessary for the excretion of wastes.
+
+When proteins and nucleic acids break down, they are converted to ammonia. Since ammonia is toxic though, it is again converted into **urea** in the liver which is water soluble and can be excreted in **urine**.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-04-18 at 8.22.40 PM.png" alt="" width="563"><figcaption><p><strong>Image 5</strong> — The urinary system.</p></figcaption></figure></div>
 
+### Nephrons
 
+In each kidney, there are millions of nephrons, which are long tubules that filter blood to remove wastes and reabsorb essential materials.
+
+### P\*\*\*ing
+
+After urea is released from the kidneys, it travels through the ureters and down into the bladder. It is then excreted out through the urethra.
+
+### Osmoregulation
+
+**Osmoregulation** is the process of maintaining salt and water balance—also known as **osmotic balance**—within the body's fluids.
 
 [^1]: Only found in males.
 
