@@ -98,7 +98,7 @@ This is why it is taught in this course.
 
 ## #9 — Circles
 
-**Contents:** ...
+**Contents:** Pi, radians, figures of circles, and theorems of circles.
 
 {% content-ref url="circles.md" %}
 [circles.md](circles.md)

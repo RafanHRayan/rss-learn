@@ -1,3 +1,7 @@
+---
+description: Pi, radians, figures of circles, and theorems of circles.
+---
+
 # Circles
 
 ## Defining a Circle
