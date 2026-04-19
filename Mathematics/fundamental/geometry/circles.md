@@ -111,3 +111,7 @@ All radii of the same circle are congruent.
 A tangent to a circle is always perpendicular to the radius that meets its point of tangency.
 
 </details>
+
+## Radians
+
+Radians are another way to reference angle and arc measures, being a popular alternative to degrees. A radian is the ratio of the arc length to the radius. There are $$2\pi{}$$ radians in a circle, meaing that $$180\degree{}=\pi{}\text{ rad}$$.
