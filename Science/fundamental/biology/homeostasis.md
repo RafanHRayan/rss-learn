@@ -126,9 +126,9 @@ Filtrate then travels into the **loop of Henle**. While descending...
 
 While ascending...
 
-| Filtered In | Reabsorbed Out                               |
-| ----------: | -------------------------------------------- |
-|        Urea | <p>Salt<br>(Water isn't reabsorbed here)</p> |
+| Filtered In | Reabsorbed Out                                  |
+| ----------: | ----------------------------------------------- |
+|        Urea | <p>Salt</p><p>(Water isn't reabsorbed here)</p> |
 
 {% hint style="success" icon="lightbulb" %}
 Organisms that live in the _dryest_ environments have the _**longest**_ loops of Henle, because they need to conserve as much water as they can to prevent dehydration.
@@ -142,9 +142,9 @@ Organisms that live in the _wettest_ environments have the _**shortest**_ loops 
 
 Filtrate then travels up into the **distal proximal tubule** and there...
 
-|                                                   Filtered In | Reabsorbed Out                      |
-| ------------------------------------------------------------: | ----------------------------------- |
-| <p>Hydrogen Ions (H<sup>+</sup>)<br>Potassium<br>Ammonium</p> | <p>Water<br>Salt<br>Bicarbonate</p> |
+|                                                         Filtered In | Reabsorbed Out                            |
+| ------------------------------------------------------------------: | ----------------------------------------- |
+| <p>Hydrogen Ions (H<sup>+</sup>)</p><p>Potassium</p><p>Ammonium</p> | <p>Water</p><p>Salt</p><p>Bicarbonate</p> |
 {% endstep %}
 
 {% step %}
