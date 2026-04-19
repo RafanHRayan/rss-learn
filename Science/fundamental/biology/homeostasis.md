@@ -88,7 +88,39 @@ When proteins and nucleic acids break down, they are converted to ammonia. Since
 
 ### Nephrons
 
-In each kidney, there are millions of nephrons, which are long tubules that filter blood to remove wastes and reabsorb essential materials.
+In each kidney, there are millions of **nephrons**, which are long tubules that filter blood to remove wastes and reabsorb essential materials.
+
+{% stepper %}
+{% step %}
+#### Glomerulus and Bowman's Capsule
+
+In the kidneys, capillaries bunch up into a twisted bunch called the **glomerulus**. Through diffusion, fluid, called **filtrate**, is diffused out of blood and into the **Bowman's capsule** where it travels down further into the **proximal tubule**.
+{% endstep %}
+
+{% step %}
+#### Proximal Tubule
+
+In the proximal tubule, ...
+{% endstep %}
+
+{% step %}
+#### Loop of Henle
+
+
+{% endstep %}
+
+{% step %}
+#### I forgot :/
+
+
+{% endstep %}
+
+{% step %}
+#### Collecting Duct
+
+
+{% endstep %}
+{% endstepper %}
 
 ### P\*\*\*ing
 
