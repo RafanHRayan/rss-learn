@@ -63,11 +63,19 @@ In a **negative feedback loop**, the response reverses the stimulus back the **s
 {% hint style="info" icon="vial-vertical" %}
 ## Blood Glucose Levels
 
-This is one example of a positive feedback loop.
+This is one example of a negative feedback loop.
 
 All food contains some form of sugar. When food is consumed, blood glucose levels rise. This tells beta cells in the pancreas to produce insulin. Insulin makes body cells take in glucose causing glucose levels in the blood to decrease back to the set point.
 
 When blood glucose levels drop, alpha cells in the pancreas produce glucagon. Glucagon then goes to the liver, causing it to release glucose into the blood, reverting glucose levels back to the set point.
+{% endhint %}
+
+{% hint style="info" icon="vial-vertical" %}
+## Sweating
+
+This is another example of a feedback loop.
+
+When body temperature rises, it is released from your skin cells in a process that is known as sweating. The skin cells are part of the integumentary system.
 {% endhint %}
 
 Breathing, being dehydrated, and even having a high temperature are all examples of feedback loops, positive or negative.
@@ -88,7 +96,7 @@ When proteins and nucleic acids break down, they are converted to ammonia. Since
 
 ### Nephrons
 
-In each kidney, there are millions of **nephrons**, which are long tubules that filter blood to remove wastes and reabsorb essential materials.
+In each kidney, there are millions of **nephrons**, which are long tubules that filter blood to remove wastes and reabsorb essential materials. These processes are called **filtration** and **reabsorption** respectively.
 
 {% stepper %}
 {% step %}
@@ -98,15 +106,37 @@ In the kidneys, capillaries bunch up into a twisted bunch called the **glomerulu
 {% endstep %}
 
 {% step %}
-#### Proximal Tubule
+#### Proximal Convoluted Tubule
 
-In the proximal tubule, ...
+In the **proximal convoluted tubule**...
+
+|                                                                                                    Filtered In | Reabsorbed Out                                                                |
+| -------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
+| <ul><li>Salt</li><li>Water</li><li>Glucose</li><li>Amino Acids</li><li>Potassium</li><li>Bicarbonate</li></ul> | <ul><li>Hydrogen Ions (H<sup>+</sup>)</li><li>Ammonium</li><li>Urea</li></ul> |
+
+Filtrate then travels into the **loop of Henle**.
 {% endstep %}
 
 {% step %}
 #### Loop of Henle
 
+While descending...
 
+|            Filtered In | Reabsorbed Out                       |
+| ---------------------: | ------------------------------------ |
+| <ul><li>Urea</li></ul> | <ul><li>Salt</li><li>Water</li></ul> |
+
+While ascending...
+
+|                                                                                                    Filtered In | Reabsorbed Out                                                                |
+| -------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
+| <ul><li>Salt</li><li>Water</li><li>Glucose</li><li>Amino Acids</li><li>Potassium</li><li>Bicarbonate</li></ul> | <ul><li>Hydrogen Ions (H<sup>+</sup>)</li><li>Ammonium</li><li>Urea</li></ul> |
+
+{% hint style="success" icon="lightbulb" %}
+Organisms that live in the _dryest_ environments have the _**longest**_ loops of Henle, because they need to conserve as much water as they can to prevent dehydration.
+
+Organisms that live in the _wettest_ environments have the _**shortest**_ loops of Henle, because they don't need to conserve as much water.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -121,6 +151,8 @@ In the proximal tubule, ...
 
 {% endstep %}
 {% endstepper %}
+
+<div data-with-frame="true"><figure><img src="https://o.quizlet.com/lAa-v9jotDhJ8lA8WDWRRw.jpg" alt="" width="563"><figcaption><p><strong>Image 6</strong> — Diagram of a nephron.</p></figcaption></figure></div>
 
 ### P\*\*\*ing
 
