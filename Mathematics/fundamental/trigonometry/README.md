@@ -30,8 +30,8 @@ tags:
 
 **Contents:** Basic and reciprocal trigonometric ratios, pythagorean trigonometric identity, and sine and cosine of complementary angles.
 
-{% content-ref url="trigonometry-in-right-triangles.md" %}
-[trigonometry-in-right-triangles.md](trigonometry-in-right-triangles.md)
+{% content-ref url="/broken/pages/PTq7ttXPh1yYb0eBGCxx" %}
+[Broken link](/broken/pages/PTq7ttXPh1yYb0eBGCxx)
 {% endcontent-ref %}
 
 ## #2 — ...

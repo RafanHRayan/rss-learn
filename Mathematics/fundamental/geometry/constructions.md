@@ -220,7 +220,7 @@ This is also how to construct an altitude of a triangle.
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Parallel lines.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="success" icon="fire-flame-curved" %}
-## **Alternate Method**
+### **Alternate Method**
 
 You may also construct a parallel line by copying an angle to make congruent corresponding angles.
 {% endhint %}
@@ -289,8 +289,6 @@ The constructions are grouped—along with definitions—by relation or clarific
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Median.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 </details>
-
-
 
 <details>
 
@@ -374,8 +372,6 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 </details>
 
-
-
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a 45° Angle</summary>
@@ -424,8 +420,6 @@ The diagrams choose $$\angle{ABC}$$ to bisect originally in step 2.
 {% endhint %}
 
 </details>
-
-
 
 <details>
 
@@ -525,8 +519,6 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 </details>
 
-
-
 <details>
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Circumcenter of a Triangle</summary>
@@ -593,8 +585,6 @@ More on tangents in the [circles](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW
 {% file src="../../.gitbook/assets/circumcenter_construction.mp4" %}
 
 </details>
-
-
 
 <details>
 
@@ -666,8 +656,6 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 {% file src="../../.gitbook/assets/incenter_construction.mp4" %}
 
 </details>
-
-
 
 <details>
 
