@@ -312,12 +312,12 @@ If $$\overline{AB}$$ and $$\overline{CD}$$ are chords that meet inside a circle 
 
 <details>
 
-<summary><i class="fa-note">:note:</i> <strong>Power of A Point Case #2</strong> — Tangent-Tangent Interception</summary>
+<summary><i class="fa-note">:note:</i> <strong>Power of A Point Case #2</strong> — Secant-Secant Interception</summary>
 
 If two secants meet outside a circle, then the products of their respective outside parts and whole lengths are equivalent.
 
 {% hint style="info" icon="circle-question" %}
-If $$\overline{AB}$$ and $$\overline{CD}$$ are chords that meet inside a circle at a point, $$X$$, then $$AX*XB=CX*XD$$.
+If $$\overline{AC}$$ and $$\overline{AY}$$ are secants that meet outside a circle at point, $$A$$, and each individually meet the circle at points, $$B$$ and $$C$$, and $$X$$ and $$Y$$ respectively, then $$AB*AC=AX*AY$$.
 {% endhint %}
 
 </details>
@@ -329,7 +329,7 @@ If $$\overline{AB}$$ and $$\overline{CD}$$ are chords that meet inside a circle 
 If a secant and a tangent meet outside a circle, then the length of the tangent segment is the geometric mean of the outside part and whole length of the secant segment.
 
 {% hint style="info" icon="circle-question" %}
-If $$\overline{AB}$$ and $$\overline{CD}$$ are chords that meet inside a circle at a point, $$X$$, then $$AX*XB=CX*XD$$.
+If $$\overline{AB}$$ is a tangent; $$\overline{AD}$$ is a secant; both meet outside a circle at point, $$A$$; the tangent meets the circle at $$B$$; and the secant meets the circle at $$C$$ and $$D$$; then $$\frac{AB}{AC}=\frac{AD}{AB}$$.
 {% endhint %}
 
 </details>
