@@ -92,8 +92,8 @@ This is why it is taught in this course.
 
 **Contents:** Ratio proportionality, geometric means, radicals, similarity, right triangle trigonometry, and apothems.
 
-{% content-ref url="similar-polygons.md" %}
-[similar-polygons.md](similar-polygons.md)
+{% content-ref url="similar-polygons/" %}
+[similar-polygons](similar-polygons/)
 {% endcontent-ref %}
 
 ## #9 — Circles

@@ -120,7 +120,7 @@ If a midsegment is drawn in a triangle, then...
 A medial triangle is the triangle formed by the midsegments of another triangle.
 
 {% hint style="success" icon="fire-flame-curved" %}
-The medial triangle is similar (with a [scale factor](similar-polygons.md#scale-factors) of $$\frac{1}{2}$$) to the original triangle and rotated 180°. Medial triangles also split any larger triangle into four congruent, smaller triangles.
+The medial triangle is similar (with a [scale factor](similar-polygons/#scale-factors) of $$\frac{1}{2}$$) to the original triangle and rotated 180°. Medial triangles also split any larger triangle into four congruent, smaller triangles.
 {% endhint %}
 
 ## Special Theorem
