@@ -110,27 +110,25 @@ In the kidneys, capillaries bunch up into a twisted bunch called the **glomerulu
 
 In the **proximal convoluted tubule**...
 
-|                                                                                                    Filtered In | Reabsorbed Out                                                                |
-| -------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
-| <ul><li>Salt</li><li>Water</li><li>Glucose</li><li>Amino Acids</li><li>Potassium</li><li>Bicarbonate</li></ul> | <ul><li>Hydrogen Ions (H<sup>+</sup>)</li><li>Ammonium</li><li>Urea</li></ul> |
-
-Filtrate then travels into the **loop of Henle**.
+|                                                    Filtered In | Reabsorbed Out                                                                            |
+| -------------------------------------------------------------: | ----------------------------------------------------------------------------------------- |
+| <p>Hydrogen Ions (H<sup>+</sup>)</p><p>Ammonium</p><p>Urea</p> | <p>Salt</p><p>Water</p><p>Glucose</p><p>Amino Acids</p><p>Potassium</p><p>Bicarbonate</p> |
 {% endstep %}
 
 {% step %}
 #### Loop of Henle
 
-While descending...
+Filtrate then travels into the **loop of Henle**. While descending...
 
-|            Filtered In | Reabsorbed Out                       |
-| ---------------------: | ------------------------------------ |
-| <ul><li>Urea</li></ul> | <ul><li>Salt</li><li>Water</li></ul> |
+| Filtered In | Reabsorbed Out          |
+| ----------: | ----------------------- |
+|        Urea | <p>Salt</p><p>Water</p> |
 
 While ascending...
 
-|                                                                                                    Filtered In | Reabsorbed Out                                                                |
-| -------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
-| <ul><li>Salt</li><li>Water</li><li>Glucose</li><li>Amino Acids</li><li>Potassium</li><li>Bicarbonate</li></ul> | <ul><li>Hydrogen Ions (H<sup>+</sup>)</li><li>Ammonium</li><li>Urea</li></ul> |
+| Filtered In | Reabsorbed Out                               |
+| ----------: | -------------------------------------------- |
+|        Urea | <p>Salt<br>(Water isn't reabsorbed here)</p> |
 
 {% hint style="success" icon="lightbulb" %}
 Organisms that live in the _dryest_ environments have the _**longest**_ loops of Henle, because they need to conserve as much water as they can to prevent dehydration.
@@ -140,15 +138,19 @@ Organisms that live in the _wettest_ environments have the _**shortest**_ loops 
 {% endstep %}
 
 {% step %}
-#### I forgot :/
+#### Distal Convoluted Tubule
 
+Filtrate then travels up into the **distal proximal tubule** and there...
 
+|                                                   Filtered In | Reabsorbed Out                      |
+| ------------------------------------------------------------: | ----------------------------------- |
+| <p>Hydrogen Ions (H<sup>+</sup>)<br>Potassium<br>Ammonium</p> | <p>Water<br>Salt<br>Bicarbonate</p> |
 {% endstep %}
 
 {% step %}
 #### Collecting Duct
 
-
+Filtrate finally enters the collecting duct, where they kidneys release it as urine.
 {% endstep %}
 {% endstepper %}
 
@@ -160,7 +162,7 @@ After urea is released from the kidneys, it travels through the ureters and down
 
 ### Osmoregulation
 
-**Osmoregulation** is the process of maintaining salt and water balance—also known as **osmotic balance**—within the body's fluids.
+**Osmoregulation** is the process of maintaining salt and water balance—also known as **osmotic balance**—within the body's fluids. Osmoregulation is done by the **antidiuretic hormone** (ADH), which influences the nephrons to [reabsorb more water in](#user-content-fn-8)[^8].
 
 [^1]: Only found in males.
 
@@ -175,3 +177,5 @@ After urea is released from the kidneys, it travels through the ureters and down
 [^6]: Anterior means front.
 
 [^7]: Also known as feedback mechanisms.
+
+[^8]: This is done by reabsorbing more salt in and letting osmosis diffuse water out by the concetration gradient.
