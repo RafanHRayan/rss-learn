@@ -76,7 +76,7 @@ tags:
 
 ## #9 — Homeostasis
 
-**Contents:** ...
+**Contents:** The nervous system, the endocrine system, feedback loops, and the urinary system.
 
 {% content-ref url="homeostasis.md" %}
 [homeostasis.md](homeostasis.md)

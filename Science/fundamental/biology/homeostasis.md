@@ -1,7 +1,7 @@
 ---
-tags:
-  - tag: unfinished
-    primary: true
+description: >-
+  The nervous system, the endocrine system, feedback loops, and the urinary
+  system.
 ---
 
 # Homeostasis
@@ -80,12 +80,12 @@ When body temperature rises, it is released from your skin cells in a process th
 
 Breathing, being dehydrated, and even having a high temperature are all examples of feedback loops, positive or negative.
 
-## Excretory/Urinary System
+## Urinary System
 
 The **excretory system** is the body system that removes wastes from the body.
 
 {% hint style="info" icon="circle-question" %}
-Only one subsystem of the excretory system is covered here.
+Only one subsystem of the excretory system is covered here: the urinary system.
 {% endhint %}
 
 The **urinary system** consists of many organs necessary for the excretion of wastes.
