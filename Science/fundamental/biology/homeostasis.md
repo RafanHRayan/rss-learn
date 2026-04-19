@@ -42,17 +42,21 @@ The hypothalamus is a region in the brain that tells endocrine glands to secrete
 
 [**Feedback loops**](#user-content-fn-3)[^3] are mechanisms where the output or response of a loop impacts or influences the input or stimulus. In most feedback loops, a **receptor** receives a **stimulus**, provoking it to signal the **control**, which tells the **effector** to do a **response**.
 
-In a **negative feedback loop**, the response reverses the stimulus. In a **positive feedback loop**, the response amplifies the stimulus.
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-04-18 at 8.05.43 PM.png" alt="" width="497"><figcaption><p><strong>Image 4</strong> — A feedback loop.</p></figcaption></figure></div>
+
+In a **negative feedback loop**, the response reverses the stimulus back the **set point**. In a **positive feedback loop**, the response amplifies the stimulus.
 
 {% hint style="info" icon="vial-vertical" %}
 ## Blood Glucose Levels
 
 This is one example of a positive feedback loop.
 
-All food contains some form of sugar. When food is consumed, blood glucose levels rise. This tells beta cells in the pancreas to produce insulin.&#x20;
+All food contains some form of sugar. When food is consumed, blood glucose levels rise. This tells beta cells in the pancreas to produce insulin. Insulin makes body cells take in glucose causing glucose levels in the blood to decrease back to the set point.
+
+When blood glucose levels drop, alpha cells in the pancreas produce glucagon. Glucagon then goes to the liver, causing it to release glucose into the blood, reverting glucose levels back to the set point.
 {% endhint %}
 
-### Blood Gluco
+Breathing, being dehydrated, and even having a high temperature are all examples of feedback loops, positive or negative.
 
 [^1]: **Lipid-based** like testosterone or estrogen.
 
