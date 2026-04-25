@@ -6,6 +6,16 @@ icon: scroll
 # 2026 Changelog
 
 {% updates format="full" %}
+{% update date="2026-04-25" tags="major" %}
+## Update 18.0
+
+Page groups can now collapse.
+
+The site—on mobile—now show page outlines.
+
+Tags reference page has been completed.
+{% endupdate %}
+
 {% update date="2026-03-14" %}
 ## Update 17.1
 
