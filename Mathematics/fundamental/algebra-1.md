@@ -4,7 +4,7 @@ description: >-
   solving equations.
 icon: function
 tags:
-  - tag: unfinished
+  - tag: upcoming
     primary: true
 ---
 

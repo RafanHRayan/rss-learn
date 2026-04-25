@@ -15,6 +15,7 @@
   * [Constructions](fundamental/geometry/constructions.md)
   * [Similar Polygons](fundamental/geometry/similar-polygons/README.md)
   * [Circles](fundamental/geometry/circles.md)
+  * [Solids](fundamental/geometry/solids.md)
 * [Trigonometry](fundamental/trigonometry/README.md)
   * [Right Triangle Trigonometry](fundamental/trigonometry/trigonometry-in-right-triangles.md)
 
