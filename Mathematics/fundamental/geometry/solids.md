@@ -27,9 +27,13 @@ A **lateral face** of a solid is a face that is not a base.
 
 A **lateral edge** of a solid is the edge formed by the intersection of two adjacent lateral faces of a polyhedron.
 
+**Volume** is the amount of space that a solid takes up. It is essentially how many 1x1x1 cubes can fit inside the solid.
+
 ### Types of Solids
 
 There are several types of solids...
 
 * A solid is a **polyhedron** if and only if it is bounded by flat polygonal surfaces which intersect at edges and vertices.
-
+  * A polyhedron is a prism if and only if...
+  * A polyhedron is a pyramid if and only if...
+* A solid is a cylinder if and only if...

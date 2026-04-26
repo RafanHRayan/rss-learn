@@ -102,7 +102,7 @@ A point is the point of tangency if and only if it is the point where a circle a
 
 <summary><i class="fa-note">:note:</i> Definition of An Intercepted Angle</summary>
 
-An angle is intercepted if two lines and/or segments
+An angle is intercepted if two lines and/or segments isolate an arc from the rest of the circle.
 
 </details>
 
