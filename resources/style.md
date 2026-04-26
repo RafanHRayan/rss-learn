@@ -19,7 +19,7 @@ By staying in the air, an **aerial multiplier** starts to increase, capping at a
 
 ## Ranks
 
-**Ranks** are the six levels of performance: Xtreme, Superb, Awesome, Brilliant, Cool, and Dull. They are abbreviated in brackets as \[X!!], \[S!], \[A], \[B], \[C], and \[D].
+**Ranks** are the six levels of performance: <mark style="color:red;">Xtreme</mark>, <mark style="color:pink;">Superb</mark>, <mark style="color:violet;">Awesome</mark>, <mark style="color:blue;">Brilliant</mark>, <mark style="color:green;">Cool</mark>, and <mark style="color:$info;">Dull</mark>. They are abbreviated in brackets as <mark style="color:red;">\[X!!]</mark>, <mark style="color:pink;">\[S!]</mark>, <mark style="color:violet;">\[A]</mark>, <mark style="color:blue;">\[B]</mark>, <mark style="color:green;">\[C]</mark>, and <mark style="color:$info;">\[D]</mark>.
 
 In this context, they are used to measure overall performance in style. The more style, the more score you obtain and the higher rank you receive. Your rank lowers as style goes down.
 
@@ -31,14 +31,14 @@ Ranks are not just used for style, but in all places where performance is measur
 
 Ranks increase how much score is given for a style bonus. They increase like so...
 
-|      Rank | Score Multiplier |
-| --------: | ---------------- |
-|      Dull | +0%              |
-|      Cool | +25%             |
-| Brilliant | +50%             |
-|  Awesome! | +75%             |
-|  Superb!! | +100%            |
-| XTREME!!! | +200%            |
+|                                        Rank | Score Multiplier |
+| ------------------------------------------: | ---------------- |
+|      <mark style="color:$info;">Dull</mark> | +0%              |
+|      <mark style="color:green;">Cool</mark> | +25%             |
+|  <mark style="color:blue;">Brilliant</mark> | +50%             |
+| <mark style="color:violet;">Awesome!</mark> | +75%             |
+|   <mark style="color:pink;">Superb!!</mark> | +100%            |
+|   <mark style="color:red;">XTREME!!!</mark> | +200%            |
 
 {% hint style="info" icon="circle-info" %}
 Note that the rank multiplier is _different_ from the aerial multiplier. When calculating, the aerial multiplier is factored in first.
@@ -48,7 +48,7 @@ Note that the rank multiplier is _different_ from the aerial multiplier. When ca
 
 Style bonuses have tiers based on how difficult or powerful the style bonus is. They are the following...
 
-<table><thead><tr><th width="269.578125" align="right">Tier</th><th>Description</th></tr></thead><tbody><tr><td align="right"><mark style="color:$info;">Tier 1</mark></td><td>The lowest tier. Standard style bonuses and easiest obtainments fall under here.</td></tr><tr><td align="right"><mark style="color:blue;">Tier 2</mark></td><td>Intermediate level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:purple;">Tier 3</mark></td><td>Advanced level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:red;">Tier 4</mark></td><td>Elite style bonuses fall under here. These style bonuses are the most difficult or complicated to obtain and give the most score.</td></tr></tbody></table>
+<table><thead><tr><th width="269.578125" align="right">Tier</th><th>Description</th></tr></thead><tbody><tr><td align="right"><mark style="color:$info;">Tier 1</mark></td><td>The lowest tier. Standard style bonuses and easiest obtainments fall under here.</td></tr><tr><td align="right"><mark style="color:blue;">Tier 2</mark></td><td>Intermediate level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:violet;">Tier 3</mark></td><td>Advanced level style bonuses fall under here.</td></tr><tr><td align="right"><mark style="color:red;">Tier 4</mark></td><td>Elite style bonuses fall under here. These style bonuses are the most difficult or complicated to obtain and give the most score.</td></tr></tbody></table>
 
 {% hint style="success" icon="lightbulb" %}
 The colors for each tier correspond to the colors for the Dull, Brilliant, Awesome, and Xtreme.
@@ -334,7 +334,7 @@ Kill an enemy with a melee weapon while dashing.
 
 <details>
 
-<summary><mark style="color:purple;">+TRIPLE KILL!</mark></summary>
+<summary><mark style="color:violet;">+TRIPLE KILL!</mark></summary>
 
 Kill 3 enemies within \~1 second.
 
@@ -344,7 +344,7 @@ Kill 3 enemies within \~1 second.
 
 <details>
 
-<summary><mark style="color:purple;">+PARRY!</mark></summary>
+<summary><mark style="color:violet;">+PARRY!</mark></summary>
 
 Parry an enemy's attack or projectile.
 
@@ -354,7 +354,7 @@ Parry an enemy's attack or projectile.
 
 <details>
 
-<summary><mark style="color:purple;">+ENRAGED!</mark></summary>
+<summary><mark style="color:violet;">+ENRAGED!</mark></summary>
 
 Enrage an enemy.
 
@@ -364,7 +364,7 @@ Enrage an enemy.
 
 <details>
 
-<summary><mark style="color:purple;">+SUPER REACTION!</mark></summary>
+<summary><mark style="color:violet;">+SUPER REACTION!</mark></summary>
 
 Detonate a bomb with an explosive.
 
@@ -374,7 +374,7 @@ Detonate a bomb with an explosive.
 
 <details>
 
-<summary><mark style="color:purple;">+INTERRUPTION!</mark></summary>
+<summary><mark style="color:violet;">+INTERRUPTION!</mark></summary>
 
 Prevent an enemies attack before it occurs.
 
@@ -385,7 +385,7 @@ Prevent an enemies attack before it occurs.
 
 <details>
 
-<summary><mark style="color:purple;">+ABLAZE!</mark></summary>
+<summary><mark style="color:violet;">+ABLAZE!</mark></summary>
 
 Kill an enemy with a bomb that has been imbued with fire and electricity.
 
@@ -395,7 +395,7 @@ Kill an enemy with a bomb that has been imbued with fire and electricity.
 
 <details>
 
-<summary><mark style="color:purple;">+FROSTBITE!</mark></summary>
+<summary><mark style="color:violet;">+FROSTBITE!</mark></summary>
 
 Kill an enemy with a bomb that has been imbued with fire and ice.
 
@@ -405,7 +405,7 @@ Kill an enemy with a bomb that has been imbued with fire and ice.
 
 <details>
 
-<summary><mark style="color:purple;">+DUAL VOLATILITY!</mark></summary>
+<summary><mark style="color:violet;">+DUAL VOLATILITY!</mark></summary>
 
 Use an explosive on a metallic object imbued with electricity or parry an explosive projectile with a metallic weapon.
 
@@ -415,7 +415,7 @@ Use an explosive on a metallic object imbued with electricity or parry an explos
 
 <details>
 
-<summary><mark style="color:purple;">+REFLECT!</mark></summary>
+<summary><mark style="color:violet;">+REFLECT!</mark></summary>
 
 Reflect a projectile or attack using the reflector's shield.
 
@@ -425,7 +425,7 @@ Reflect a projectile or attack using the reflector's shield.
 
 <details>
 
-<summary><mark style="color:purple;">+BACKSTAB!</mark></summary>
+<summary><mark style="color:violet;">+BACKSTAB!</mark></summary>
 
 Backstab an enemy.
 
