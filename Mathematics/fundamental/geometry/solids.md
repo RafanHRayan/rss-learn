@@ -1,10 +1,8 @@
 ---
 description: >-
   Polyhedrons, prisms, pyramids, cylinders, cones, spheres, cross-sections,
-  solids of revolution, Cavalieri's Principle, nets of solids...
-tags:
-  - tag: unfinished
-    primary: true
+  solids of revolution, Cavalieri's Principle, nets of solids, and density word
+  problems.
 ---
 
 # Solids
@@ -185,6 +183,18 @@ The following is the net of a cone...
 As shown in Image 5, the net of a cone is composed of a circle and a sector.
 
 The length of the radius forming the sector is the slant height of the cone. The circle is the base of the cone.
+
+## Density World Problems
+
+Use the formula. Good luck! :D
+
+$$
+\text{Density}=\frac{\text{Mass}}{\text{Volume}}
+$$
+
+{% hint style="success" icon="fire-flame-curved" %}
+Use the formula and dimensional analysis.
+{% endhint %}
 
 [^1]: As the base of the pyramid.
 

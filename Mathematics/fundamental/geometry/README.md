@@ -106,7 +106,7 @@ This is why it is taught in this course.
 
 ## #10 — Solids
 
-**Contents:** Polyhedrons, prisms, pyramids, cylinders, cones, spheres, cross-sections, solids of revolution, Cavalieri's Principle, nets of solids...
+**Contents:** Polyhedrons, prisms, pyramids, cylinders, cones, spheres, cross-sections, solids of revolution, Cavalieri's Principle, nets of solids, and density word problems.
 
 {% content-ref url="solids.md" %}
 [solids.md](solids.md)
