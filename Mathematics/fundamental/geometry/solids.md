@@ -168,12 +168,6 @@ As shown in Image 4, the net of a cylinder is composed of a rectange and two cir
 
 The length of the two sides of the rectangle tangent to the circles are equal to the circumfrance of each of the circles. The length of the other two sides is the height of the cylinder. Each circle is a base of the cylinder.
 
-<div data-with-frame="true"><figure><img src="https://mathbitsnotebook.com/Geometry/3DShapes/conenet.jpg" alt="" width="563"><figcaption><p><strong>Image 5</strong> —The net of a cone.</p></figcaption></figure></div>
-
-As shown in Image 5, the net of a cone is composed of a circle and a sector.
-
-The length of the radius forming the sector is the slant height of the cone. The circle is the base of the cone.
-
 ### Nets of Cones
 
 The following is the net of a cone...
