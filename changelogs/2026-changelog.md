@@ -6,6 +6,12 @@ icon: scroll
 # 2026 Changelog
 
 {% updates format="full" %}
+{% update date="2026-05-02" %}
+## Update 18.1
+
+Tags have been colored to be brighter.
+{% endupdate %}
+
 {% update date="2026-04-25" tags="major" %}
 ## Update 18.0
 
