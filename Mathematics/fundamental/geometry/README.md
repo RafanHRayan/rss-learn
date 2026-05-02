@@ -116,14 +116,14 @@ This is why it is taught in this course.
 
 **Contents:** ...
 
-{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
-[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% content-ref url="coordinate-geometry.md" %}
+[coordinate-geometry.md](coordinate-geometry.md)
 {% endcontent-ref %}
 
 ## #12 — Transformations
 
 **Contents:** ...
 
-{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
-[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% content-ref url="transformations.md" %}
+[transformations.md](transformations.md)
 {% endcontent-ref %}
