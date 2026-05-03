@@ -55,6 +55,8 @@ Here are all of our available libraries! You may also access them—and this hom
 
 <p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/2l8iiyzkDSRTzWgXH0cH/" class="button primary" data-icon="laptop-binary">Programming</a></p>
 
+<p align="center"><a href="https://app.gitbook.com/o/1tRDzmjyJpejSTwKU9L1/s/GlCjyhsQznyGckm6fSFQ/" class="button primary" data-icon="uniform-martial-arts">Martiality</a></p>
+
 ***
 
 <p align="right"><strong>RSS Learn</strong> v<code class="expression">space.vars.product_version</code></p>

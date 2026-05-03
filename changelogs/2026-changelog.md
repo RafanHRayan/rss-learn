@@ -6,6 +6,12 @@ icon: scroll
 # 2026 Changelog
 
 {% updates format="full" %}
+{% update date="2026-05-03" tags="major" %}
+## Update 19.0
+
+Added the martiality library as a new elective. This library covers topics and concepts of made up or real martial arts. This library is fictional! Nothing in the library should be taken seriously but may be used to create techniques.
+{% endupdate %}
+
 {% update date="2026-05-02" %}
 ## Update 18.1
 

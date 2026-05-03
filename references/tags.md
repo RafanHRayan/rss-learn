@@ -9,7 +9,7 @@ tags:
 
 <details open>
 
-<summary><mark style="color:$danger;">(</mark> <i class="fa-trowel-bricks">:trowel-bricks:</i> <mark style="color:$danger;">Unfinished )</mark></summary>
+<summary><mark style="color:$danger;">(</mark> <i class="fa-trowel-bricks" style="color:$danger;">:trowel-bricks:</i> <mark style="color:$danger;">Unfinished )</mark></summary>
 
 Denotes that a page is under construction.
 
@@ -17,7 +17,7 @@ Denotes that a page is under construction.
 
 <details open>
 
-<summary><mark style="color:$primary;">(</mark> <i class="fa-lightbulb">:lightbulb:</i> <mark style="color:$primary;">Upcoming )</mark></summary>
+<summary><mark style="color:$primary;">(</mark> <i class="fa-lightbulb" style="color:$primary;">:lightbulb:</i> <mark style="color:$primary;">Upcoming )</mark></summary>
 
 Denotes that a page is coming soon.
 
@@ -27,7 +27,7 @@ Denotes that a page is coming soon.
 
 <details open>
 
-<summary><mark style="color:$success;">(</mark> <i class="fa-bolt">:bolt:</i> <mark style="color:$success;">Major )</mark></summary>
+<summary><mark style="color:$success;">(</mark> <i class="fa-bolt" style="color:$success;">:bolt:</i> <mark style="color:$success;">Major )</mark></summary>
 
 Denotes that an update in the changelog is a major update.
 
