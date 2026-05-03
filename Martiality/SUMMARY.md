@@ -2,6 +2,14 @@
 
 * [Martiality](README.md)
 
-## Fundamental
+## Fist-Work
 
-* [Fundamental Fist-Work](fundamental/fundamental-fist-work.md)
+* [Fundamental Fist-Work](fist-work/fundamental-fist-work.md)
+
+## Footwork
+
+* [Page 1](footwork/page-1.md)
+
+## Parrying
+
+* [Page 2](parrying/page-2.md)
