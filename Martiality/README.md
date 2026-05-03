@@ -26,6 +26,10 @@ metaLinks:
 
 This section of RSS Learn teaches you about various **martial** skills and concepts.
 
+{% hint style="danger" icon="bolt" %}
+This library is _**fictional**_! Nothing in the library should be taken seriously in the slightest, but may be used to create possible, legit techniques.
+{% endhint %}
+
 Use the sidebar or search using the bar below. You may search when on any page by using the search bar on the top navigation bar.
 
 ***
