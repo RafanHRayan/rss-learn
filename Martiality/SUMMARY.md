@@ -2,9 +2,9 @@
 
 * [Martiality](README.md)
 
-## Fist-Work
+## Handwork
 
-* [Fundamental Fist-Work](fist-work/fundamental-fist-work.md)
+* [Fundamental Handwork](handwork/fundamental-handwork.md)
 
 ## Footwork
 

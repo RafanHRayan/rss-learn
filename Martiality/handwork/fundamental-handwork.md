@@ -1,12 +1,12 @@
 ---
-description: Proper handling and basic moves.
+description: Proper handling of the hand.
 icon: book-open-cover
 tags:
   - tag: unfinished
     primary: true
 ---
 
-# Fundamental Fist-Work
+# Fundamental Handwork
 
 ## Punching
 
@@ -21,6 +21,3 @@ For a proper knife hand—often also called a hand blade—hold out your hand be
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Screenshot 2026-05-03 at 5.59.17 PM.png" alt="" width="563"><figcaption><p><strong>Image 2</strong> — A proper knife hand.</p></figcaption></figure></div>
 
 For horizontal knife hand strikes, you may curve your hand but only slightly.
-
-## Basic Moves
-
