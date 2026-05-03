@@ -4,7 +4,7 @@
 
 ## Fundamental
 
-* [Fundamentals of Programming](fundamental/page-1.md)
+* [Page 1](fundamental/page-1.md)
 
 ## Advanced
 

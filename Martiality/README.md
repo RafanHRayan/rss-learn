@@ -28,10 +28,6 @@ This section of RSS Learn teaches you about various **martial** skills and conce
 
 Use the sidebar or search using the bar below. You may search when on any page by using the search bar on the top navigation bar.
 
-{% hint style="danger" %}
-test
-{% endhint %}
-
 ***
 
 <p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search martiality library...</button></p>
