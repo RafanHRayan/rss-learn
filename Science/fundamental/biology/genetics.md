@@ -24,7 +24,7 @@ Through this, we can also conclude that _phenotype isn't permanent but genotype 
 
 DNA is also **antiparallel**, meaning the ends of its strands are opposites. Each DNA strand has a 3' end and a 5' end, which is denoted by the order in which carbons of the sugars are placed. At the 3' end, there is a \_\_\_ and at the 5' end, there is a \_\_\_.
 
-DNA's nucleotides each consist of a deoxyribose sugar, a phosphate group, and a nitrogenous base. DNA's nitrogenous bases are arranged so that each of the two strands' bases meet and are connected by hydrogen bonds.
+DNA's nucleotides each consist of a deoxyribose sugar, a phosphate group, and a nitrogenous base. The sugars and phosphates make up the **phosphate-sugar backbone**. DNA's nitrogenous bases are arranged so that each of the two strands' bases meet and are connected by hydrogen bonds.
 
 ### The Nitrogenous Bases of DNA
 
