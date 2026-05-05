@@ -20,11 +20,11 @@ Through this, we can also conclude that _phenotype isn't permanent but genotype 
 
 ## DNA Structure
 
-**Deoxyribonucleic acid** (DNA) is a [double helix](#user-content-fn-2)[^2] consisting of two long strands that wind around each other. DNA is composed of a chain of nucleotides. DNA strands are also antiparallel, meaning they ...
+**Deoxyribonucleic acid** (DNA) is a [double helix](#user-content-fn-2)[^2] consisting of two long strands that wind around each other. DNA is composed of a chain of nucleotides.
 
-DNA's nucleotides consist of deoxyribose sugars, a nitrogenous base, and a phosphate group.
+DNA is also **antiparallel**, meaning the ends of its strands are opposites. Each DNA strand has a 3' end and a 5' end, which is denoted by the order in which carbons of the sugars are placed. At the 3' end, there is a \_\_\_ and at the 5' end, there is a \_\_\_.
 
-DNA's nitrogenous bases are arranged so that each of the two strands' bases meet and are connected by hydrogen bonds.
+DNA's nucleotides each consist of a deoxyribose sugar, a phosphate group, and a nitrogenous base. DNA's nitrogenous bases are arranged so that each of the two strands' bases meet and are connected by hydrogen bonds.
 
 ### The Nitrogenous Bases of DNA
 
