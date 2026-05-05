@@ -36,6 +36,10 @@ Cytosine and guanine are complementary. When there is an cytosine on one strand,
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-04 at 9.11.27 PM.png" alt="" width="563"><figcaption><p><strong>Image 1</strong> — Different representations of the structure of DNA.</p></figcaption></figure></div>
 
+{% hint style="info" %}
+**Editor** — Resume on slide 20.
+{% endhint %}
+
 [^1]: The set of genes of the organism.
 
 [^2]: Which resembles a twisted ladder.
