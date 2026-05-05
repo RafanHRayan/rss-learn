@@ -38,11 +38,11 @@ Generally, **all** atoms are assigned an element defined by the number of proton
 
 {% columns %}
 {% column %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2025-12-14 at 8.30.46 AM (1).png" alt=""><figcaption><p><strong>Image 1</strong> — Balanced atom with a stable nucleus.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2025-12-14 at 8.30.46 AM.png" alt=""><figcaption><p><strong>Image 1</strong> — Balanced atom with a stable nucleus.</p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2025-12-14 at 8.31.03 AM (1).png" alt=""><figcaption><p><strong>Image 2</strong> — Positively charged atom with an unstable nucleus.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2025-12-14 at 8.31.03 AM.png" alt=""><figcaption><p><strong>Image 2</strong> — Positively charged atom with an unstable nucleus.</p></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -118,7 +118,7 @@ Macromolecules ("giant/big" molecules) are molecules made of smaller molecules. 
 * Nucleic Acids
 
 {% hint style="success" icon="fire-flame-curved" %}
-## Extra Information
+### Extra Information
 
 Some of the most common elements in the body are:
 

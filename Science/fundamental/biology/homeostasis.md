@@ -61,7 +61,7 @@ Most pituitary hormones control other endocrine glands, which is why the pituita
 In a **negative feedback loop**, the response reverses the stimulus back the **set point**. In a **positive feedback loop**, the response amplifies the stimulus.
 
 {% hint style="info" icon="vial-vertical" %}
-## Blood Glucose Levels
+### Blood Glucose Levels
 
 This is one example of a negative feedback loop.
 
@@ -71,7 +71,7 @@ When blood glucose levels drop, alpha cells in the pancreas produce glucagon. Gl
 {% endhint %}
 
 {% hint style="info" icon="vial-vertical" %}
-## Sweating
+### Sweating
 
 This is another example of a feedback loop.
 
@@ -100,13 +100,13 @@ In each kidney, there are millions of **nephrons**, which are long tubules that 
 
 {% stepper %}
 {% step %}
-#### Glomerulus and Bowman's Capsule
+**Glomerulus and Bowman's Capsule**
 
 In the kidneys, capillaries bunch up into a twisted bunch called the **glomerulus**. Through diffusion, fluid, called **filtrate**, is diffused out of blood and into the **Bowman's capsule** where it travels down further into the **proximal tubule**.
 {% endstep %}
 
 {% step %}
-#### Proximal Convoluted Tubule
+**Proximal Convoluted Tubule**
 
 In the **proximal convoluted tubule**...
 
@@ -116,7 +116,7 @@ In the **proximal convoluted tubule**...
 {% endstep %}
 
 {% step %}
-#### Loop of Henle
+**Loop of Henle**
 
 Filtrate then travels into the **loop of Henle**. While descending...
 
@@ -138,7 +138,7 @@ Organisms that live in the _wettest_ environments have the _**shortest**_ loops 
 {% endstep %}
 
 {% step %}
-#### Distal Convoluted Tubule
+**Distal Convoluted Tubule**
 
 Filtrate then travels up into the **distal proximal tubule** and there...
 
@@ -148,7 +148,7 @@ Filtrate then travels up into the **distal proximal tubule** and there...
 {% endstep %}
 
 {% step %}
-#### Collecting Duct
+**Collecting Duct**
 
 Filtrate finally enters the collecting duct, where they kidneys release it as urine.
 {% endstep %}
