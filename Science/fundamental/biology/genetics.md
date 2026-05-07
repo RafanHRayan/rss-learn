@@ -90,7 +90,7 @@ Finally, an enzyme called **DNA Ligase** seals both DNA strands up.
 {% endstep %}
 {% endstepper %}
 
-### d
+## Organization of DNA
 
 **Genes** are sequences of DNA that encode for RNA and proteins.
 
