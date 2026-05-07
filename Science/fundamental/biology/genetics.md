@@ -42,11 +42,15 @@ When DNA replicates, it is **semiconservative**. Instead of duplicating and stay
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-07 at 7.14.20 PM.png" alt="" width="563"><figcaption><p><strong>Image 2</strong> — DNA replication is semiconservative.</p></figcaption></figure></div>
 
+### Steps of DNA Replication
+
 {% stepper %}
 {% step %}
 #### Splitting DNA
 
 In order to replicate, DNA must split apart first. An enzyme called **helicase** breaks the hydrogen bonds between bases to separate the strands into a **replication fork** like in Image 3.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-07 at 7.25.21 PM.png" alt="" width="563"><figcaption><p><strong>Image 3</strong> — A replication fork. The protein shown is helicase.</p></figcaption></figure></div>
 
 The strand that is cut starting at the 3' end is called the **leading strand template**. The strand cut at the 5' end is called the **lagging strand template**. The new DNA strands made complementary to these templates are the **leading strand** and **lagging strand** respectively.
 {% endstep %}
@@ -62,19 +66,31 @@ An enzyme called **Primase** adds a small sequence of RNA bases complementary to
 
 An enzyme called **DNA Polymerase** binds to the primer. DNA Polymerase can only add bases in one direction: from the 5' end to the 3' end.
 
-On the leading strand template, the enzyme then adds new complementary DNA bases to construct the actual leading strand continuously whilst the helicase enzyme is still splitting the DNA strands apart.
+On the leading strand template, the enzyme then adds new complementary DNA bases to construct the actual leading strand continuously whilst the helicase enzyme is still splitting the DNA strands apart like in Image 4.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-07 at 7.41.45 PM.png" alt="" width="563"><figcaption><p><strong>Image 4</strong> — The creation of the leading strand on top by DNA Polymerase. Helicase, to the far<br>left, is still splitting DNA as this goes on.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 #### Priming and Constructing the Lagging Strand
 
-Since the lagging strand template runs in the opposite direction, DNA Polymerase can't continuously create the lagging strand. It instead creates them in chunks called **Okazaki fragments**. A primer is created
+Since the lagging strand template runs in the opposite direction, DNA Polymerase can't continuously create the lagging strand. It instead creates them in chunks called **Okazaki fragments**.
+
+A primer is first created. Then, a short row of DNA bases are created in the 3' to 5' direction. Another primer is added further down and the process repeats like in Image 5.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-07 at 7.45.09 PM.png" alt="" width="563"><figcaption><p><strong>Image 5</strong> — Primase priming the lagging strand. The gap is where the Okazaki fragment will be.</p></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+#### Cleaning Up and Resealing
+
+An enzyme called **exonuclease** removes all the RNA primers from both of the new DNA strands. Then, DNA Polymerase fills in the gaps.
+
+Finally, an enzyme called **DNA Ligase** seals both DNA strands up.
 {% endstep %}
 {% endstepper %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-07 at 7.25.21 PM.png" alt="" width="563"><figcaption><p><strong>Image 3</strong> — A replication fork. The protein shown is helicase.</p></figcaption></figure></div>
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-07 at 7.41.45 PM.png" alt="" width="563"><figcaption><p><strong>Image 4</strong> — The creation of the leading strand on top by DNA Polymerase. Helicase, to the far left, is still splitting DNA.</p></figcaption></figure></div>
+### d
 
 **Genes** are sequences of DNA that encode for RNA and proteins.
 
