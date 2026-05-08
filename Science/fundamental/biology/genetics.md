@@ -6,9 +6,9 @@ description: >-
 
 # Genetics
 
-**Traits** are any characteristics of an organism.
-
 ## Variation in Traits
+
+**Traits** are any characteristics of an organism.
 
 An organism's **genotype** is [the genetic makeup of the organism](#user-content-fn-1)[^1], but its **phenotype** would be the actual characteristics and behaviors the organism actually expresses. Both genetic _and_ environmental factors can influence the variation and distribution of traits.
 
