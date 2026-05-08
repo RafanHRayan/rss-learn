@@ -3,6 +3,22 @@ description: >-
   The branch of science that studies living organisms, their vital processes,
   and their interactions with each other and the environment.
 icon: dna
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 tags:
   - tag: unfinished
     primary: true
@@ -84,10 +100,10 @@ tags:
 
 ## #10 — Genetics
 
-**Contents:** ...
+**Contents:** Variation of traits, DNA structure, DNA replication, DNA Organization, central dogma, mutations, ...
 
-{% content-ref url="https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon..." %}
-[Coming soon...](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW/coming-soon...)
+{% content-ref url="genetics.md" %}
+[genetics.md](genetics.md)
 {% endcontent-ref %}
 
 ## #11 — ...

@@ -82,43 +82,43 @@ The scientific method is the series of steps that scientists use to verify or di
 
 {% stepper %}
 {% step %}
-#### Observe
+**Observe**
 
 Make an observation of a specific thing or environment.
 {% endstep %}
 
 {% step %}
-#### Question
+**Question**
 
 Think about the reason on why this observed thing happens or the relationship between things in an observed environment; question why something occurs.
 {% endstep %}
 
 {% step %}
-#### Hypothesize
+**Hypothesize**
 
 Formulate a hypothesis that can be tested, in which answering it will clarify your questions.
 {% endstep %}
 
 {% step %}
-#### Experiment
+**Experiment**
 
 Test your hypothesis using a controlled experiment or observational study.
 {% endstep %}
 
 {% step %}
-#### Analyze
+**Analyze**
 
 Analyze the data from your experiment's results.
 {% endstep %}
 
 {% step %}
-#### Conclude
+**Conclude**
 
 Make a conclusion based on your data; this conclusion should _either_ validate or disprove your hypothesis.
 {% endstep %}
 
 {% step %}
-#### Repeat
+**Repeat**
 
 Repeat steps 4-6 to further strengthen the validity of your hypothesis and clarify any further questions. Repeat the _**entire**_ scientific method to validate correlating hypotheses.
 {% endstep %}
@@ -200,7 +200,7 @@ Bar graphs are graphical representations that are used to show categorical data.
 {% endcolumn %}
 
 {% column %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption><p><strong>Image 2</strong> — Sample line graph.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption><p><strong>Image 2</strong> — Sample line graph.</p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column %}
