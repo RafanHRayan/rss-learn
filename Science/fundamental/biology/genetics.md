@@ -212,4 +212,4 @@ If the mutation happens in any other cell, it is a **somatic mutation**, making 
 
 [^3]: In most cases, it's a protein.
 
-[^4]: A gamete is a reproductive cell of an organism. For human, women have eggs and men have sperm.
+[^4]: A gamete is a reproductive cell of an organism. For humans, women have eggs and men have sperm.
