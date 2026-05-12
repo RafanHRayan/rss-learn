@@ -27,9 +27,9 @@ layout:
 
 <i class="fa-sparkles">:sparkles:</i>  Signature Move
 
-<i class="fa-head-side-gear">:head-side-gear:</i>  Mechanical Concept
+<i class="fa-head-side-gear">:head-side-gear:</i>  Mechanical Concept/Phenomenon
 
-<i class="fa-head-side-heart">:head-side-heart:</i>  Mental Concept
+<i class="fa-head-side-heart">:head-side-heart:</i>  Mental Concept/Phenomenon
 
 ***
 
@@ -67,4 +67,22 @@ Use your dominant hand to perform the strike to the chest.
 
 </details>
 
+<details>
+
+<summary><i class="fa-head-side-heart">:head-side-heart:</i> Inferiority Complex</summary>
+
+**Definition** — A state where one's helplessness and self-loathing leads to a mix of strong emotions inciting a hysteric frenzy. During this short period of time, the user will feel "alive," having temporarily heightened senses and the will to decimate.
+
+</details>
+
+<details>
+
+<summary><i class="fa-head-side-heart">:head-side-heart:</i> Maturity Complex</summary>
+
+**Definition** — A state where one's insecurities of [topics relating to development](#user-content-fn-2)[^2] result in a rapid increase in mental and physical growth, often before one's—and others'—very eyes.
+
+</details>
+
 [^1]: The other hand of that which was used to perform the elbow strike.
+
+[^2]: Puberty, height, childish behavior, overwhelming senses of responsibility, etc.
