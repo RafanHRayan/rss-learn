@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: unfinished
+    primary: true
+---
+
 # Italian Renaissance
 
 After the Black Death and Crusades, people begin to doubt the church, slowly starting to think less about religion and more about themselves, their surroundings, and new types of knowledge.
@@ -49,8 +55,76 @@ Because of these differences, medievals paintings felt flat and two-dimensional.
 
 Renaissance art also reflected Classical values from Greece and Rome. They showed motion, nudity, and the subject matter always represented the "Classics" in some way.
 
+## Northern Renaissance
+
+Italy wasn't the only region experiencing a Renaissance period, however. Trade routes helped to spread Renaissance ideas from Italy to Northern Europe as well.
+
+Though many ideas were similar, there were also differences...
+
+* They weren't as interested in the Classics. More focus on the common man.
+* No nudity was present.
+* There was more focus on [interior paintings](#user-content-fn-4)[^4].
+
+Reflections and angles were used a lot in European Renaissance paintings. Mirrors in paintings actually looked like they reflected.
+
+## Printing
+
+Before printing, anything that needed to be copied was done by hand. This was called illuminated manuscript. It was very pretty but took a long time to make. Then, people bagan to use stamps but they took a long time to make, were fragile, and would sometimes only be able to be used for a specific book.
+
+### The Printing Press
+
+Finally, the printing press was invented by Johann Gutenberg. He used Chinese style movable type, but since there are fewer characters in the Latin alphabet than in Chinese, it was much faster. This substantially lowered price of books so more people could afford them. Books now written in the vernacular so people who had no classical education could now read the classics. This all led to increased literacy, helping to spread Renaissance ideas to Northern Europe.
+
+<table data-header-hidden><thead><tr><th width="200.3515625" align="right">Impact Area</th><th>Actual Impact</th></tr></thead><tbody><tr><td align="right">Religious Impacts</td><td><ul><li>Christian ideas could spread more easily.</li><li><p>People felt that they could have a more direct connection to God because they could now have a Bible in their homes.</p><ul><li>Not surprisingly, the Church didn’t love this.</li></ul></li></ul></td></tr><tr><td align="right">Scientific Impacts</td><td><ul><li>People could privately acquire information/education.</li><li><p>They could question and build off of scientific findings</p><ul><li>The Church didn’t like this.</li></ul></li></ul></td></tr><tr><td align="right">Language Impacts</td><td><ul><li>Even more emphasis in writing in the vernacular.</li><li>There was increased education.</li><li>They could start to use the Bible from different areas to teach themselves new languages.</li></ul></td></tr><tr><td align="right">Social Class Impacts</td><td><ul><li>Books were made at a faster rate and cheaper cost, so lower class could get educated.</li><li>Emergence of a middle class.</li><li>Increased literacy in all class.</li></ul></td></tr></tbody></table>
+
+## The Protestant Reformation
+
+In the Middle Ages the Church had a lot of power[^5]. Wars like the Crusades were expensive and the Church was also supporting expensive projects. They needed the money to come from somewhere...
+
+This is where simony emerged. Simony is the act of selling jobs/positions. People could pay their way into a position of high power in the Church. Because of this, many priests ended up as uneducated.
+
+### Indulgences
+
+Indulgences were basically a "get out of Hell free card." If you knew you committed a grave sin, you could pay the Church money to get a place in Heaven.
+
+One of the many to do this was the Medicis.
+
+Johann Tetzel, a popular friar was appointed by the archbishop in Germany in 1517 to sell indulgences. Even though this is from 1517, the same practice was used in the Middle Ages.
+
+### Martin Luther
+
+Martin Luther was a German monk and theologian who became disillusioned with the church. When Luther heard Tetzel’s speech, it was the final straw. Luther wanted to reform the Catholic Church, not do away with it. His movement, though, caused a radical split in Christianity.
+
+Specifically, Luther believed that an individual believer can interpret the Bible with help from the Holy Spirit and that humans are saved for purgatory by faith alone.
+
+### The _95 Theses_
+
+Luther wrote the _95 Theses_, which detailed his beliefs on true Christianity. He then nailed to the local Church’s door.
+
+{% hint style="info" icon="circle-question" %}
+In those days, the Church door was like the town bulletin board.
+{% endhint %}
+
+Luther’s _95 Theses_ were a sensation. Within one day everyone in town knew what he had wrote, within one week all the surrounding villages knew, within one month the country knew, and within six months he was running for his life.
+
+|    The Three Solae    |
+| :-------------------: |
+|     Only Scripture    |
+|       Only Faith      |
+| Only the Grace of God |
+
+{% hint style="info" icon="circle-question" %}
+The Three Solae were the only things necessary to reach heaven.
+{% endhint %}
+
+The Church, however, was not happy in the slightest.
+
 [^1]: Europe; otherwise known as the Old World's west.
 
 [^2]: In french, renaissance means "_rebirth_."
 
 [^3]: Greece and Rome.
+
+[^4]: Paintings of indoor places.
+
+[^5]: They had the ability to excommunicate, interdict, and collect tithes (money that went to Rome).
