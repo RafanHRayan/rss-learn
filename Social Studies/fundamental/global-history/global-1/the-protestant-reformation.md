@@ -82,7 +82,68 @@ During Luther's absence, however, drastic changes began to take place. Priests b
 4. The practice of Indulgences.
 5. Early reformers like Wycliffe and Hus.
 6. Martin Luther’s _95 theses_.
-7. The printing press (to spread Luthers’s ideas).
+7. The printing press (to spread Luther’s ideas).
 8. People have increased access to the Bible.
 
+## Henry VIII
+
+After Luther refuses to recant his heretical beliefs at the Diet of Worms, Henry VIII responds against him immediately. In 1521 he publishes _In Defense of the Seven Sacraments Against Martin Luther_.&#x20;The message is very clear:&#x20;heresy will not be tolerated in England., and all heretics will be burned.&#x20;Not only were the messages published, but they were taken seriously, too.
+
+William Tyndale was an English scholar who studied the Bible. However, he was also a protestant.&#x20;He translated the Bible into English.&#x20;In 1536, Tyndale was strangled and burned for heresy.
+
+For this reason and many others, the Pope awards him the title Defender of the Faith for this. However, Henry VIII would soon turn against the Pope.
+
+### Henry VIII's Six Wives
+
+<details>
+
+<summary><i class="fa-rectangle-list">:rectangle-list:</i> Quick Overview</summary>
+
+1. Catherine of Aragon (Divorced)
+2. Anne Boleyn (Executed)
+
+</details>
+
+{% stepper %}
+{% step %}
+#### Catherine of Aragon
+
+Catherine of Aragon was the daughter of Isabella and Ferdinand of Spain—the couple who completed the Reconquista of Spain and the Spanish Inquisition.&#x20;The Holy Roman Emperor, Charles V, was her nephew, and she was _extremely_ Catholic.
+
+Before her marriage to Henry, Catherine had married his brother, Arthur.&#x20;Henry fell in love with her and married her when Arthur died.&#x20;This went against Church law and the Pope had to issue a special allowance for it.&#x20;He didn’t mind, as Catherine’s family was a very good friend of the Church.
+
+Henry and Catherine’s marriage only produced a daughter, Mary.&#x20;Henry wanted a son and heir—he blamed Catherine!&#x20;Henry wanted to divorce Catherine so he could find a new wife.
+
+But divorce goes against church teachings, so&#x20;the Pope refused to grant an exception.
+{% endstep %}
+
+{% step %}
+#### Anne Boleyn
+
+Anne Boleyn caught the King’s eye.&#x20;He fell madly in love with her but she refused to have an affair with him.&#x20;He had to put a ring on it. The problem was his ring was on Catherine’s finger and he needed to get it off.
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Henry's Solution</summary>
+
+Henry VIII has Parliament issue the Act of Supremacy.&#x20;He enlists a reformer, Thomas Cranmer to help him push it through.
+
+He and all his future heirs was named the head of the State and head of the new [Anglican Church](#user-content-fn-2)[^2]. So begins the Reformation in England...
+
+He makes himself the head of the Church of England (rejects the Pope) using the Act of Supremacy and splits with Rome.&#x20;Anglican practices are almost the same as the Roman Catholic Church, however...
+
+* Still needed sacraments  .
+* Priests couldn’t marry.
+* Confession was necessary.
+
+</details>
+
+Thomas Cranmer becomes the Archbishop of Canterbury and grants Henry a divorce. Catherine of Aragon and her daughter Mary are sent away, and Henry marries Anne Boleyn.
+
+Like Catherine of Aragon, Anne also failed to give Henry the son he longed for.&#x20;Anne and Henry only had one daughter Elizabeth.&#x20;Henry became convinced Anne was having an affair with her brother and had her executed for treason.&#x20;There is no evidence to support that she had an affair, so it is believed she was framed.
+{% endstep %}
+{% endstepper %}
+
 [^1]: They had the ability to excommunicate, interdict, and collect tithes (money that went to Rome).
+
+[^2]: Otherwise known as the Church of England.
