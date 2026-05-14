@@ -1,4 +1,5 @@
 ---
+description: Indulgences, Martin Luther, the 95 Thesis, Henry VIII, and Henry's six wives.
 tags:
   - tag: unfinished
     primary: true
@@ -101,6 +102,10 @@ For this reason and many others, the Pope awards him the title Defender of the F
 
 1. Catherine of Aragon (Divorced)
 2. Anne Boleyn (Executed)
+3. Jane Seymour (Death from Childbirth)
+4. Anne of Cleves (Divorced)
+5. Catherine Howard (Executed)
+6. Katherine Parr
 
 </details>
 
@@ -141,6 +146,36 @@ He makes himself the head of the Church of England (rejects the Pope) using the 
 Thomas Cranmer becomes the Archbishop of Canterbury and grants Henry a divorce. Catherine of Aragon and her daughter Mary are sent away, and Henry marries Anne Boleyn.
 
 Like Catherine of Aragon, Anne also failed to give Henry the son he longed for.&#x20;Anne and Henry only had one daughter Elizabeth.&#x20;Henry became convinced Anne was having an affair with her brother and had her executed for treason.&#x20;There is no evidence to support that she had an affair, so it is believed she was framed.
+
+Anne was executed at the Bloody Tower in London.
+{% endstep %}
+
+{% step %}
+#### Jane Seymour
+
+Henry married Jane Seymour only 11 days after the execution of Anne Boleyn. She births a son named Edward, but she died right after the birth. Edward was sickly and died young.
+{% endstep %}
+
+{% step %}
+#### Anne of Cleves
+
+King Henry needs new alliances and he is lonely so he seeks a new wife. Why would he need an alliance and where would the logical place be for him to look? Much of Europe is still Catholic, and Spain and its allies were still furious at Henry.
+
+He decides to marry a German Princess. Henry met Anne of Cleves through a painting of her, and had never laid eyes on her. When he does see her her, he divorces immediately, calling her the "Flanders Mare".
+{% endstep %}
+
+{% step %}
+#### Catherine Howard
+
+Henry VIII falls in love again—this time with Catherine Howard, the first cousin of Anne Boleyn. She was much younger than he and she is accused of having an affair. She is tried for treason and executed just like Anne.
+{% endstep %}
+
+{% step %}
+#### Katherine Parr
+
+Henry next selected Katherine Parr to marry. She was a dutiful wife who took excellent care of him while he was sick.
+
+Once he died, however, Katherine _immediately_ married another man.
 {% endstep %}
 {% endstepper %}
 

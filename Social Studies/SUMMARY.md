@@ -15,8 +15,10 @@
     * [The Byzantine Empire](fundamental/global-history/global-1/byzantine-empire.md)
     * [Islam](fundamental/global-history/global-1/islam.md)
     * [Medieval China](fundamental/global-history/global-1/medieval-china.md)
+    * [The Mongol Empire](fundamental/global-history/global-1/the-mongol-empire.md)
     * [The Renaissance](fundamental/global-history/global-1/the-renaissance.md)
     * [The Protestant Reformation](fundamental/global-history/global-1/the-protestant-reformation.md)
+    * [The Gunpowder Empires](fundamental/global-history/global-1/the-gunpowder-empires.md)
   * [Global 2](fundamental/global-history/global-2.md)
 
 ## Advanced
