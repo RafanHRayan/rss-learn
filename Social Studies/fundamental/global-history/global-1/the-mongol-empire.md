@@ -33,7 +33,7 @@ Emperor Zhu Di desired to send ships to the west of China.
 
 Zheng He—born to a Muslim family—was placed as the admiral in control of the huge fleet and armed forces that undertook the expeditions. But, these were not strictly explorations. He was tasked to do this in order to receive tribute from other places.
 
-Despite trade being important in the voyage, the main mission was collecting tribute; Zheng He had over 25,000 soldiers aboard his fleet.]
+Despite trade being important in the voyage, the main mission was collecting tribute; Zheng He had over 25,000 soldiers aboard his fleet.
 
 These journeys occurred over the course of decades. The economic motive for these huge ventures may have been important, but the chief aim was probably political: to mark the reemergence of the Chinese Empire following nearly a century of Mongol rule.
 
