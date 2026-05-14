@@ -100,7 +100,7 @@ tags:
 
 ## #1.10 — The Mongol Empire
 
-**Contents:** ...
+**Contents:** ..., and the Ming Dynasty.
 
 {% content-ref url="the-mongol-empire.md" %}
 [the-mongol-empire.md](the-mongol-empire.md)
