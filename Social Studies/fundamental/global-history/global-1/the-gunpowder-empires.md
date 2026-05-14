@@ -93,8 +93,24 @@ Access to the spices, silks and luxury goods of the east was closed off to the w
 
 Ruling from 1520-1566, Suleiman the Magnificent upgraded the Ottoman Empire. Through the use of his modernized military and diplomatic skill, he built one of the largest empires in Europe and the Middle East. Art, architecture, and poetry also flourished.
 
+### The Devshirme System
+
+Young Christian males between the ages of 8-15 were pulled from their families and trained in military techniques. Some become the elite infantry of the Ottoman Empire—the Janissary Corps. Their jobs were based on merit, and they were tasked with protecting Christians and Jews from mob violence.
+
+> "I made my first acquaintance with the Janissaries; this is the name by which the Turks call the infantry \[foot soldiers] of the royal guard. The Turkish state has 12,000 of these troops... They are scattered through every part of the empire...to protect the Christians and Jews from the violence of the mob...
+>
+> — Ogier Ghiselin de Busbecq, writer and diplomat
+
+### The Millet System
+
+Millet System was a separate legal court pertaining to "personal law" under which a [confessional community](#user-content-fn-4)[^4] was allowed to rule itself under its own system.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Screenshot 2026-05-13 at 8.28.31 PM.png" alt="" width="563"><figcaption><p><strong>Image 1</strong> — The Ottoman Millet system.</p></figcaption></figure></div>
+
 [^1]: Only two are mentioned in this curriculum.
 
 [^2]: The tax against non-muslims.
 
 [^3]: Means "_House of Worship_" in Arabic.
+
+[^4]: A group abiding by the laws of Muslim Sharia, Christian Canon law, or Judaism.
