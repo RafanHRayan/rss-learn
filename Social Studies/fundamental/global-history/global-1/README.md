@@ -122,15 +122,23 @@ tags:
 [the-protestant-reformation.md](the-protestant-reformation.md)
 {% endcontent-ref %}
 
-## #1.13 — ...
+## #1.13 — The Gunpowder Empires
 
-**Contents:** ...
+**Contents:** The Mughal and Ottoman empires.
 
 {% content-ref url="the-gunpowder-empires.md" %}
 [the-gunpowder-empires.md](the-gunpowder-empires.md)
 {% endcontent-ref %}
 
 ## #1.14 — ...
+
+**Contents:** ...
+
+{% content-ref url="idk-what-to-call-this.md" %}
+[idk-what-to-call-this.md](idk-what-to-call-this.md)
+{% endcontent-ref %}
+
+## #1.15 — ...
 
 **Contents:** ...
 

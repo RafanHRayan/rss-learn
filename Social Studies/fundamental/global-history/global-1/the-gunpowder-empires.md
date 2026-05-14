@@ -1,4 +1,5 @@
 ---
+description: The Mughal and Ottoman empires.
 tags:
   - tag: unfinished
     primary: true

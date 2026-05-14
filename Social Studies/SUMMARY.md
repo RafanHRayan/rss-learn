@@ -19,6 +19,7 @@
     * [The Renaissance](fundamental/global-history/global-1/the-renaissance.md)
     * [The Protestant Reformation](fundamental/global-history/global-1/the-protestant-reformation.md)
     * [The Gunpowder Empires](fundamental/global-history/global-1/the-gunpowder-empires.md)
+    * [idk what to call this :/](fundamental/global-history/global-1/idk-what-to-call-this.md)
   * [Global 2](fundamental/global-history/global-2.md)
 
 ## Advanced
