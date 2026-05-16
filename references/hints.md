@@ -25,6 +25,10 @@ This is a **clarification** hint. It is used to clarify a certain concept that m
 This is an **example** hint. It is used to provide an example to a concept for further understanding.
 {% endhint %}
 
+{% hint style="info" icon="asterisk" %}
+This is an **asterisk** hint. It is used to pinpoint on a specific thing—typically denoted with an asterisk—and elaborate on it further.
+{% endhint %}
+
 ### Warning Hints
 
 **Warning hints** highlight mild warnings. Here are the different types of informatory hints...
