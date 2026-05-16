@@ -123,7 +123,7 @@ Any object is associated with itself (i.e. $$A$$ is associated with $$A$$).
 
 <summary><i class="fa-note">:note:</i> Symmetric Property</summary>
 
-If an object is associated with a second object, then the second object is associated with the first (i.e. $$A$$ is associated with $$B$$, thus  is associated with $$A$$).
+If an object is associated with a second object, then the second object is associated with the first (i.e. $$A$$ is associated with $$B$$, thus is associated with $$A$$).
 
 </details>
 
@@ -159,7 +159,7 @@ Lines are concurrent if they all meet (share) at the same vertex (i.e. $$\overri
 
 <summary><i class="fa-note">:note:</i> Opposite Rays</summary>
 
-Rays are opposite rays if and only if they share a vertex and are angled in a way that they would form a line together (i.e. $$\overrightarrow{GF}$$  and $$\overrightarrow{GH}$$ would be opposite rays if and only if $$\overleftrightarrow{FGH}$$ exists).
+Rays are opposite rays if and only if they share a vertex and are angled in a way that they would form a line together (i.e. $$\overrightarrow{GF}$$ and $$\overrightarrow{GH}$$ would be opposite rays if and only if $$\overleftrightarrow{FGH}$$ exists).
 
 </details>
 
@@ -205,8 +205,6 @@ Distinct expressions of equivalent measure may be substituted for one another in
 
 </details>
 
-
-
 <details>
 
 <summary><i class="fa-note">:note:</i> Addition Postulate</summary>
@@ -240,7 +238,7 @@ When _**stuff**_ is divided by equivalent _**stuff**_, the quotients are equival
 </details>
 
 {% hint style="info" icon="circle-question" %}
-## What is _**Stuff**_?
+### What is _**Stuff**_?
 
 In the Addition, Subtraction, Multiplication, and Division Postulates, the word _**stuff**_ is used. This is denote the usage of either geometric objects (lines, rays, points, etc.) or numerical measures (segment lengths, angle measures, etc.).
 {% endhint %}
@@ -310,8 +308,6 @@ If there is a midpoint on a line, then the regions before and after the midpoint
 If two lines are perpendicular, then they form 90° angles at their intersection; the vice versa is also true.
 
 </details>
-
-
 
 Using these postulates, definitions, and properties, you should be able to create proofs to prove different aspects of diagrams (proving that an angle is supplementary to another angle, that a segment bisects and angle, etc.).
 

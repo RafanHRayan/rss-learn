@@ -81,7 +81,7 @@ If two _**right triangles**_ have congruent hypotenuses and one congruent leg, t
 </details>
 
 {% hint style="info" icon="circle-info" %}
-## Note
+### Note
 
 1. CPCTC is used to conclude the congruence of _**any**_ two corresponding parts from a triangle congruence statement.
 2. At first, the Isosceles Triangle Theorem may not look like a theorem that can help with triangle congruence, but this theorem can help speed up the process in proving triangle congruence.

@@ -114,7 +114,7 @@ This is why it is taught in this course.
 
 ## #11 — Coordinate Geometry
 
-**Contents:** ...
+**Contents:** The Cartesian plane, parallel lines, perpendicular lines, distance formula, midpoint formula, circles, and scaling line segments.
 
 {% content-ref url="coordinate-geometry.md" %}
 [coordinate-geometry.md](coordinate-geometry.md)

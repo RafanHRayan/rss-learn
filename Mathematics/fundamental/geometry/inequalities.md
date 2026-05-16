@@ -44,7 +44,7 @@ For an operation, $$\oplus{}$$, the "$$\oplus{}$$ Postulate of Inequality" state
 For any **four real numbers** where $$a>b$$ and $$c≥d$$, $$(a\oplus{}b)>(c\oplus{}d)$$.
 
 {% hint style="info" %}
-## Clarification
+### Clarification
 
 Using the Addition Postulate of Inequality as an example:
 
@@ -96,7 +96,7 @@ The measure of an exterior angle drawn from a triangle is always **greater than*
 If the lengths of two sides in a triangle are unequal, then the longer side is always **opposite** the larger angle.
 
 {% hint style="info" %}
-## Note
+### Note
 
 **The converse is also always true:**
 

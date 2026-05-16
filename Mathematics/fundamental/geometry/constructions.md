@@ -191,7 +191,7 @@ This is also how to construct an altitude of a triangle.
 
 * $$\angle{BAC} \cong{} \angle{FDE}$$.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Copy Angs (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Copy Angs.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -220,7 +220,7 @@ This is also how to construct an altitude of a triangle.
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Parallel lines.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="success" icon="fire-flame-curved" %}
-### **Alternate Method**
+#### **Alternate Method**
 
 You may also construct a parallel line by copying an angle to make congruent corresponding angles.
 {% endhint %}
@@ -231,7 +231,7 @@ You may also construct a parallel line by copying an angle to make congruent cor
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Dividing a Segment Into Congruent Parts</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -294,7 +294,7 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Rhombus</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -321,7 +321,7 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Rectangle</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB (3).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -348,7 +348,7 @@ The constructions are grouped—along with definitions—by relation or clarific
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing a Parallelogram</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB (4).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AB.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -462,7 +462,7 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Inscribing a Square in a Circle</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Circle O with A (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Circle O with A.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -492,7 +492,7 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Inscribing a Hexagon in a Circle</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Circle O with A (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Circle O with A.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -515,7 +515,7 @@ A polygon is inscribed in a circle if and only if all of its vertices lie on the
   * $$\overline{AD} \cong{} \overline{DF} \cong{} \overline{BF} \cong{} \overline{BE} \cong{} \overline{CE} \cong{} \overline{AC}$$.
 * $$ADFBEC$$ is inscribed in circle $$O$$.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Inscribe hexa (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Inscribe hexa.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -558,7 +558,7 @@ More on tangents in the [circles](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing the Circumcircle of a Triangle</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -590,7 +590,7 @@ More on tangents in the [circles](https://app.gitbook.com/s/RpxO7DkVQtE6i7VJlQUW
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Incenter of a Triangle</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (3).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -623,7 +623,7 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Constructing the Incircle of a Triangle</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (4).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -661,7 +661,7 @@ A circle is the circumcircle of a triangle if and only if it is tangent to every
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Orthocenter of a Triangle</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (5).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -698,7 +698,7 @@ The orthocenter of a _right_ triangle is always the vertex of the right angle!
 
 <summary><i class="fa-compass-drafting">:compass-drafting:</i> Locating the Centroid of a Triangle</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2 (6).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tri ABC 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Prelude:**
 
@@ -723,7 +723,7 @@ The orthocenter of a _right_ triangle is always the vertex of the right angle!
 
 <summary><i class="fa-video">:video:</i> Centroid Construction Demo Video</summary>
 
-{% file src="../../.gitbook/assets/centroid_construction (1).mp4" %}
+{% file src="../../.gitbook/assets/centroid_construction.mp4" %}
 
 </details>
 

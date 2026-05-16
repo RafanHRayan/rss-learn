@@ -6,12 +6,12 @@ description: Parallel lines, perpendicular lines, and polygons.
 
 ## Parallel Lines and Transversals
 
-Parallel lines are lines on the same planes that _never_ cross. A transversal is a line a intersects a set of _any_ lines (not just parallel lines). Two lines are parallel if and only if any transversal intersecting those lines forms _**congruent**_ corresponding angles. Corresponding angles are angles that are on the same place at intersections formed by the transversal, respectively.
+**Parallel lines** ($$\text{}\parallel{}$$) are lines on the same planes that _never_ cross. A **transversal** is a line a intersects a set of _any_ lines (not just parallel lines). Two lines are parallel if and only if any transversal intersecting those lines forms _congruent_ corresponding angles. Corresponding angles are angles that are on the same place at intersections formed by the transversal, respectively.
 
 {% hint style="success" icon="fire-flame-curved" %}
-## Helpful Theorem
+### Helpful Theorem
 
-If there is a line and a point not on the line, then there exists _**exactly one**_ line parallel to the given line that also passes through the point. This is Euclid's 5<sup>th</sup> postulate, known as the **Parallel Postulate**.
+If there is a line and a point not on the line, then there exists _exactly one_ line parallel to the given line that also passes through the point. This is Euclid's 5<sup>th</sup> postulate, known as the **Parallel Postulate**.
 
 **Example:** We have a line $$\overleftrightarrow{AB}$$ and a point $$C$$. $$C$$ is not on $$\overleftrightarrow{AB}$$. There is only one way we can draw a new line $$\overleftrightarrow{DE}$$ such that $$\overleftrightarrow{DE}$$ is parallel to $$\overleftrightarrow{AB}$$ and $$C$$ is on $$\overleftrightarrow{DE}$$.
 {% endhint %}
@@ -50,7 +50,7 @@ A figure is a polygon if and only if it is a plane figure formed by a closed pat
 * A triangle is scalene if and only if _none_ of its sides are congruent.
 
 {% hint style="info" icon="circle-info" %}
-## Note
+### Note
 
 1. For side length triangles, angles being congruent also correlate. For example, a triangle with two 32° angles is still isosceles even if you don't know the actual side lengths of the triangle.
 2. Note that a triangle is isosceles if _**at least**_ two of its sides are congruent. This means that _all_ equilateral triangles are also isosceles.
@@ -65,7 +65,7 @@ A figure is a polygon if and only if it is a plane figure formed by a closed pat
 * A polygon is irregular if and only if is **not** equilateral _**or**_**&#x20;not** equiangular.
 
 {% hint style="info" icon="circle-info" %}
-## Note
+### Note
 
 1. Since these relations are all two-sided, a polygon that isn't convex is concave, and a polygon that isn't regular is irregular.
 2. Definitions to clarify the definition of regular/irregular polygons...
@@ -93,7 +93,7 @@ If a polygon has $$n$$ sides, then the sum of its interior angle measures is $$(
 If an _**equiangular**_ polygon has $$n$$ sides, then the measure of one of its interior angle measures is $$\frac{(180(n-2))}{n}\degree$$.
 
 {% hint style="warning" %}
-## Warning
+### Warning
 
 Note that this corollary is for _**equiangular polygons only**_! This is not true for _all_ irregular polygons. This is why it is not a theorem, rather a corollary of the [Polygon Sum Theorem](parallel-lines.md#polygon-sum-theorem).
 {% endhint %}

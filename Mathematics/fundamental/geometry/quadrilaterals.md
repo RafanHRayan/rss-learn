@@ -85,7 +85,7 @@ A quadrilateral is a trapezoid if and only if it has _**at least one**_ pair of 
 
 Note that parallelograms[^3], rectangles[^4], rhombi[^4], and squares[^5] are all trapezoids as well.
 
-The _bases_ of a trapezoid are the two **parallel** sides. The _legs_ of a trapezoid are the two _**non-parallel**_ sides.  A base angle pair is a pair of two angles that is included by a base in a trapezoid. Every trapezoid has _**exactly**_ two base angle pairs.
+The _bases_ of a trapezoid are the two **parallel** sides. The _legs_ of a trapezoid are the two _**non-parallel**_ sides. A base angle pair is a pair of two angles that is included by a base in a trapezoid. Every trapezoid has _**exactly**_ two base angle pairs.
 
 ### Isosceles Trapezoids
 
@@ -138,7 +138,7 @@ If a set of parallel lines cuts one transversal into congruent parts, then it cu
 You should know what area is; if you are stupid, area is the amount of 1 un<sup>2</sup> squares that can fit inside of a region. Here are the different formulae to find the area of all of the special quadrilaterals.
 
 {% hint style="info" icon="circle-question" %}
-## Assuming that...
+### Assuming that...
 
 * $$b$$ is the length of the base of a quadrilateral.
 * $$h$$ is the length of the height of a quadrilateral.

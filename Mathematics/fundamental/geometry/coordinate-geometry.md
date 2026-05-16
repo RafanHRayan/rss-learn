@@ -1,26 +1,15 @@
 ---
+description: >-
+  The Cartesian plane, parallel lines, perpendicular lines, distance formula,
+  midpoint formula, circles, and scaling line segments.
 tags:
-  - tag: upcoming
+  - tag: unfinished
     primary: true
 ---
 
 # Coordinate Geometry
 
 Up until now, we have been looking at figures[^1] at a geometric perspective called **synthetic geometry**. A plane with figures overlayed on top; in the case of a solid, its plane on top of planes. What if we took this and put it on the **Cartesian plane**?
-
-A Cartesian plane contains infinitely many points, four quadrants, and two axes. Equally spaced horizontal and vertical lines help readers analyze geometric figures on the plane. The points where gird lines meet are called **lattice points**.
-
-Lines on planes have a **slope** defining how steep its orientation is in regards to the axes and grid lines. The slope is defined as the ratio of vertical measure to the ratio of horizontal measure between any two points on the line.
-
-{% hint style="success" icon="lightbulb" %}
-Don't forget that a right triangle can be created from the two points on the line, with the actual segment of the line between the points being the hypotenuse.
-
-Thus, the slope a line is the ratio of the length of its leg parallel to the y-axis to the length of its leg parallel to the x-axis.
-{% endhint %}
-
-Almost every line meet _both_ axes _exactly_ once. There are two exceptions. A line with a slope of 0 _only_ meets the y-axis. A line with an undefined slope _only_ meets the x-axis.
-
-When a line intercepts the x-axis, the point in which they meet is called the x-intercept. When a line intercepts the y-axis, the point in which they meet is called the y-intercept.
 
 <details open>
 
@@ -46,6 +35,24 @@ A representation of geometry that depends on algebraic methodology and coordinat
 
 </details>
 
+## Fundaments of the Cartesian Plane
+
+A Cartesian plane contains infinitely many points, four quadrants, and two axes. Equally spaced horizontal and vertical lines help readers analyze geometric figures on the plane. The points where grid lines meet are called **lattice points**.
+
+### Lines
+
+Lines on planes have a **slope** defining how steep its orientation is in regards to the axes and grid lines. The slope is defined as the ratio of vertical measure to the ratio of horizontal measure between any two points on the line.
+
+{% hint style="success" icon="lightbulb" %}
+Don't forget that a right triangle can be created from the two points on the line, with the actual segment of the line between the points being the hypotenuse.
+
+Thus, the slope a line is the ratio of the length of its leg parallel to the y-axis to the length of its leg parallel to the x-axis.
+{% endhint %}
+
+Almost every line meet _both_ axes _exactly_ once. There are two exceptions. A line with a slope of 0 _only_ meets the y-axis. A line with an undefined slope _only_ meets the x-axis.
+
+When a line intercepts the x-axis, the point in which they meet is called the x-intercept. When a line intercepts the y-axis, the point in which they meet is called the y-intercept.
+
 Recall that Euclid's first postulate states that a line can be drawn through any two points. In synthetic geometry, the line through points $$A$$ and $$B$$ is $$\overleftrightarrow{AB}$$. In analytic geometry, the line through points $$A(0,1)$$ and $$B(3,7)$$ is defined as all of the following including its variants[^2]...
 
 |    $$y=2x+1$$    |
@@ -58,8 +65,73 @@ Recall that Euclid's first postulate states that a line can be drawn through any
 The starred equations are both variations of the same form of graphing the line. Each equation just uses each of the two points with the slope.
 {% endhint %}
 
+The equation of a line is commonly written in the three formats below...
 
+| Slope-Intercept Form | $$y=mx+b$$         |
+| -------------------: | ------------------ |
+|        Standard Form | $$Ax+By=C$$        |
+|     Point-Slope Form | $$y-y_1=m(x-x_1)$$ |
+
+## Parallel and Perpendicular Lines
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Definition of Parallel (<span class="math">\text{}\parallel{}</span>) Lines on a Plane</summary>
+
+On a plane, two lines are parallel if and only if they have the same slope.
+
+{% hint style="info" icon="vial-vertical" %}
+If we have two lines with a slope of $$-\frac{2}{3}$$, then they would be perpendicular because they have the same slope.
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Definition of Perpendicular (<span class="math">\text{}\perp{}</span>) Lines on a Plane</summary>
+
+On a plane, two lines are perpendicular if and only if the product of their slopes is -1.
+
+{% hint style="info" icon="vial-vertical" %}
+If we have a line with a slope of $$-\frac{2}{3}$$ and a line with a slope of $$\frac{3}{2}$$, then they would be perpendicular because $$-\frac{2}{3}*\frac{3}{2}=-1$$.
+{% endhint %}
+
+</details>
+
+## Fundamental Formulae
+
+The **Distance Formula states** that the distance between any two points $$(x_1,y_1)$$ and $$(x_2,y_2)$$ is $$\sqrt{(x_1-x_2)^2+(y_1-y_2)^2}$$.
+
+The Midpoint Formula states that the midpoint of any two points $$(x_1,y_1)$$ and $$(x_2,y_2)$$ is located at $$(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$$.
+
+## Circles
+
+On a plane, the equation of a circle in **standard form**, where $$(h,k)$$ is the center of the circle and $$r$$ is the radius, is $$(x-h)^2+(y-k)^2=r^2$$.
+
+On a plane, the equation of a circle in **standard form**, where $$(h,k)$$ is the center of the circle and $$r$$ is the radius, is $$x^2+y^2+Dx+Ey+F=0$$.
+
+## Scaling Line Segments
+
+In order to scale segments, create two _similar_ right triangles. [When the midpoint is asked for](#user-content-fn-3)[^3], use the formula. But otherwise, do this...
+
+{% hint style="info" icon="vial-vertical" %}
+The following .pdf file has examples of this...
+
+{% file src="../../.gitbook/assets/Week 32 Homework (May 9, 2026 at 12_11 PM).pdf" %}
+{% endhint %}
+
+## Proofs in Coordinate Geometry
+
+Use the [new theorems and definitions learned here](#user-content-fn-4)[^4] to complete proofs.
+
+{% hint style="success" icon="fire-flame-curved" %}
+It is recommended to complete coordinate geometry proofs in paragraph form. Write it out like you were to explain it to someone.
+{% endhint %}
 
 [^1]: Points, lines, polygons, solids, etc...
 
 [^2]: An equivalent variation of the equations below found using algebra.
+
+[^3]: The ratio of each segment is 1 to 1.
+
+[^4]: The formulae, parallel, perpendicular, etc...
