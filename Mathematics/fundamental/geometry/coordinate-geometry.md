@@ -136,6 +136,12 @@ The following .pdf file has examples of this...
 {% file src="../../.gitbook/assets/Week 32 Homework (May 9, 2026 at 12_11 PM).pdf" %}
 {% endhint %}
 
+### Scaling Formula
+
+Alternatively, you may also use the formula...
+
+The location of the point $$K$$ which divides the segment with endpoints $$A(x_1,y_1)$$ and $$B(x_2,y_2)$$ such that $$AK:KB=p:q$$ is $$K(\frac{qx_1,px_2}{p+q},\frac{qy_1+qy_2}{p+q})$$.
+
 ## Proofs in Coordinate Geometry
 
 Use the [new theorems and definitions learned here](#user-content-fn-4)[^4] to complete proofs.
