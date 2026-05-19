@@ -11,6 +11,10 @@ tags:
 
 Up until now, we have been looking at figures[^1] at a geometric perspective called **synthetic geometry**. A plane with figures overlayed on top; in the case of a solid, its plane on top of planes. What if we took this and put it on the **Cartesian plane**?
 
+{% hint style="success" icon="lightbulb" %}
+The Cartesian plane is named after its inventor, Rene Descartes.
+{% endhint %}
+
 <details open>
 
 <summary><i class="fa-ruler-triangle">:ruler-triangle:</i> Synthetic Geometry</summary>
@@ -35,7 +39,7 @@ A representation of geometry that depends on algebraic methodology and coordinat
 
 </details>
 
-## Fundaments of the Cartesian Plane
+## Fundamentals of the Cartesian Plane
 
 A Cartesian plane contains infinitely many points, four quadrants, and two axes. Equally spaced horizontal and vertical lines help readers analyze geometric figures on the plane. The points where grid lines meet are called **lattice points**.
 
@@ -71,6 +75,18 @@ The equation of a line is commonly written in the three formats below...
 | -------------------: | ------------------ |
 |        Standard Form | $$Ax+By=C$$        |
 |     Point-Slope Form | $$y-y_1=m(x-x_1)$$ |
+
+In slope-intercept form, $$m$$ is the slope and $$b$$ is the y-intercept. In standard form, $$A$$, $$B$$, and $$C$$ are constants. In point-slope form, $$m$$ is the slope and $$(x_1,y_1)$$ are the coordinates of a point on the line.
+
+{% hint style="success" icon="fire-flame-curved" %}
+Rearranging the equation for slope-intercept form, we find that the x-intercept is $$-\frac{b}{m}$$.
+{% endhint %}
+
+In standard form, the slope is $$-\frac{A}{B}$$, the y-intercept is $$\frac{C}{B}$$, and the x-intercept is $$\frac{C}{A}$$.
+
+{% hint style="success" icon="fire-flame-curved" %}
+To differentiate between the x-intercept and y-intercept in standard form, note that the x-intercept is found with $$\frac{C}{A}$$, where $$A$$ is the coefficient for the $$x$$ term. The same goes for the y-intercept.
+{% endhint %}
 
 ## Parallel and Perpendicular Lines
 
