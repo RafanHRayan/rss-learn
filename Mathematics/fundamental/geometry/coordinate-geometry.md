@@ -130,7 +130,7 @@ On a plane, the equation of a circle in **standard form**, where $$(h,k)$$ is th
 
 In order to scale segments, create two _similar_ right triangles. [When the midpoint is asked for](#user-content-fn-3)[^3], use the formula. But otherwise, do this...
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-19 at 7.50.56 PM.png" alt="" width="563"><figcaption><p>Image 1 — Example of scaling line segments. You are given A's and B's existence and location;<br>K's existence; and the ratio between <span class="math">\overline{AK}</span> and <span class="math">\overline{KB}</span>. Find the coordinates of K.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-19 at 7.50.56 PM.png" alt="" width="563"><figcaption><p><strong>Image 1</strong> — Example of scaling line segments. You are given <span class="math">A</span>'s and <span class="math">B</span>'s existence and location;<br><span class="math">K</span>'s existence; and the ratio between <span class="math">\overline{AK}</span> and <span class="math">\overline{KB}</span>. Find the coordinates of <span class="math">K</span>.</p></figcaption></figure></div>
 
 ### Scaling Formula
 
