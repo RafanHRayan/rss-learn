@@ -2,6 +2,9 @@
 description: >-
   Variation of traits, DNA structure, DNA replication, DNA Organization, central
   dogma, mutations, ...
+tags:
+  - tag: unfinished
+    primary: true
 ---
 
 # Genetics
@@ -206,6 +209,104 @@ Sometimes, a mutation may be present in a [**gamete**](#user-content-fn-4)[^4]. 
 
 If the mutation happens in any other cell, it is a **somatic mutation**, making it non-heritable.
 
+## The Cell Cycle
+
+The goal of **cell division** is to make a copy of a cell in order to grow, repair damage, and reproduce[^5].
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 6.55.30 PM.png" alt="" width="563"><figcaption><p><strong>Image 9</strong> — The cell cycle and its phases.</p></figcaption></figure></div>
+
+### Interphase
+
+During the cell cycle, the cell spends most of its time in **interphase**.
+
+{% stepper %}
+{% step %}
+#### G<sub>1</sub> Phase (Cell Growth)
+
+During this phase, the cell undergoes normal growth and development.
+{% endstep %}
+
+{% step %}
+#### S Phase (DNA Synthesis)
+
+During this phase, the cell will [make copies of all the chromosomes](#user-content-fn-6)[^6]. This phase takes the most time during interphase. Additionally, the **centriole** also duplicates.
+
+The centrosome is a small structure in the cell that can produce tubules called **spindle fibers**. They are essential in cell division.
+
+{% hint style="warning" icon="circle-exclamation" %}
+Centrioles are only in animal cells.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+#### G<sub>2</sub> Phase (Cell Growth)
+
+During this phase, the cell undergoes normal growth and development.
+{% endstep %}
+{% endstepper %}
+
+The cell then undergoes **mitosis** and **cytokinesis**, where it splits to form two **daughter cells**. Both daughter cells then start their cell cycle.
+
+## Mitosis
+
+**Germline cells** are the gametes in your body. This consists of the sperm for males and the egg for  females. **Somatic cells** are body cells. This includes every cell in your body except for germline cells.
+
+Somatic cells undergo mitosis, while germline cells do not. Because somatic cells need to undergo mitosis, they have two sets of chromosomes. Cells that have two sets of chromosomes are called **diploid cells**.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.11.11 PM.png" alt="" width="563"><figcaption><p><strong>Image 10</strong> — How chromosomes duplicate during the S Phase.</p></figcaption></figure></div>
+
+### Chromosomes and Chromatids
+
+**Chromatids** are the individual structures that each hold a copy of DNA. All chromatids for the same chromosome hold the same genetic information.
+
+A **centromere** is the point where two **sister chromatids** are conjoined. See Image 10 above.
+
+{% hint style="success" icon="fire-flame-curved" %}
+Chromosomes are counted by the number of centromeres, but chromatids are counted by the individual number of copies of the DNA. Thus—after replication—human cells after undergoing DNA synthesis will still have 46 chromosomes, but will have 96 individual chromatids.
+{% endhint %}
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.29.37 PM.png" alt="" width="563"><figcaption><p><strong>Image 11</strong> — The steps of mitosis.</p></figcaption></figure></div>
+
+Multicellular organisms' cells undergo mitosis to perform growth and repair. In single-celled organisms, mitosis is performed for asexual reproduction.
+
+The steps of mitosis are as follows...
+
+{% stepper %}
+{% step %}
+### Prophase
+
+In **prophase**, the chromosomes in the nucleus begin to compact into the classic x-shape. The nucleus begins to disappear and the the centrioles move to opposite sides of the cell.
+
+The centrioles also start to create spindle fibers.
+{% endstep %}
+
+{% step %}
+### Metaphase
+
+In **metaphase**, the nucleus is gone. The chromosomes line up directly in the center of cell in a row called the **metaphase plate**.
+
+The spindle fibers begin to attach to the chromosomes.
+{% endstep %}
+
+{% step %}
+### Anaphase
+
+In **anaphase**, the sister chromatids are pulled apart by the spindle fibers onto either side of the cell.
+{% endstep %}
+
+{% step %}
+### Telophase
+
+In **telophase**, two nuclei begin to form around the chromosomes[^7]. The spindle fibers begin to disappear and cytokinesis starts.
+{% endstep %}
+{% endstepper %}
+
+### Cytokinesis
+
+During telophase, cytokinesis begins, causing the cytoplasm to physically split into the two daughter cells. In the end, each daughter cell [has 46 chromosomes each](#user-content-fn-8)[^8] and a centriole each.
+
+
+
 [^1]: The set of genes of the organism.
 
 [^2]: Which resembles a twisted ladder.
@@ -213,3 +314,11 @@ If the mutation happens in any other cell, it is a **somatic mutation**, making 
 [^3]: In most cases, it's a protein.
 
 [^4]: A gamete is a reproductive cell of an organism. For humans, women have eggs and men have <mark style="color:red;">s</mark><mark style="color:orange;">p</mark><mark style="color:yellow;">e</mark><mark style="color:green;">r</mark><mark style="color:blue;">m</mark>.
+
+[^5]: In the case of single-celled organisms.
+
+[^6]: DNA is replicated.
+
+[^7]: Formerly the chromatids; they are now considered as individual chromosomes because they each have a single centromere.
+
+[^8]: And, thus, are also both diploid cells.

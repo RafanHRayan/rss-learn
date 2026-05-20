@@ -51,37 +51,37 @@ The following are the steps to the engineering design process.
 
 {% stepper %}
 {% step %}
-#### Define a problem
+**Define a problem**
 
 Figure out what your trying to resolve, understand your constraints, and [gather necessary materials](#user-content-fn-4)[^4].
 {% endstep %}
 
 {% step %}
-#### Brainstorm solutions
+**Brainstorm solutions**
 
 Brainstorm to formulate a possible[^5] plan in solving your problem.
 {% endstep %}
 
 {% step %}
-#### Research externally
+**Research externally**
 
 Do external research to figure out more about your topic.
 {% endstep %}
 
 {% step %}
-#### Design and test a prototype
+**Design and test a prototype**
 
 Your prototype is your _**first**_ iteration of a solution. Test your prototype and record the pros and cons.
 {% endstep %}
 
 {% step %}
-#### Iterate your prototype
+**Iterate your prototype**
 
 [Iterate your prototype](#user-content-fn-6)[^6] to more efficiently solve your problem.
 {% endstep %}
 
 {% step %}
-#### Communicate results
+**Communicate results**
 
 Communicate results with [other people](#user-content-fn-7)[^7]. It is important to let others understand your solution and for them to repeat and revise your experiment.
 {% endstep %}

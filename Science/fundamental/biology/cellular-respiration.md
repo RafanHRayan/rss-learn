@@ -14,49 +14,49 @@ The **respiratory system** facilitates [gas exchange](#user-content-fn-1)[^1].
 
 {% stepper %}
 {% step %}
-#### Outside Environment
+**Outside Environment**
 
 Oxygen resides in the environment.
 {% endstep %}
 
 {% step %}
-#### Nose/Mouth
+**Nose/Mouth**
 
 When you inhale, you force oxygen in through your nose and/or mouth.
 {% endstep %}
 
 {% step %}
-#### Pharynx
+**Pharynx**
 
 The **pharynx** is also you _throat_. Oxygen travels down through here.
 {% endstep %}
 
 {% step %}
-#### Larynx
+**Larynx**
 
 The **larynx** is also your _voice box_. Oxygen travels downward through here.
 {% endstep %}
 
 {% step %}
-#### Trachea
+**Trachea**
 
 Oxygen continues to travel downward through your **trachea**.
 {% endstep %}
 
 {% step %}
-#### Bronchi Tubes
+**Bronchi Tubes**
 
 Oxygen travels down the main [**bronchi**](#user-content-fn-2)[^2] **tubes** before it divides into two, leading to both the left and right lungs.
 {% endstep %}
 
 {% step %}
-#### Bronchioles
+**Bronchioles**
 
 Oxygen branches into many small **bronchioles** from the main bronchi.
 {% endstep %}
 
 {% step %}
-#### Alveoli to Red Blood Cells
+**Alveoli to Red Blood Cells**
 
 Oxygen reaches small sacs, called [**alveoli**](#user-content-fn-3)[^3]. They diffuse through the extremely thin [**respiratory membrane**](#user-content-fn-4)[^4] and into the [capillaries](cellular-respiration.md#parts-of-the-heart), where red blood cells take them. These blood cells then release carbon dioxide, which is pushed back into the alveoli.
 
@@ -64,13 +64,13 @@ The reason oxygen and carbon dioxide can exchange here is because of [diffusion]
 {% endstep %}
 
 {% step %}
-#### Backtrack
+**Backtrack**
 
 Carbon dioxide from the capillaries backtrack through the entire respiratory system.
 {% endstep %}
 
 {% step %}
-#### Back to Outside Environment
+**Back to Outside Environment**
 
 Carbon dioxide is released into the environment as you exhale.
 {% endstep %}
@@ -137,55 +137,55 @@ The path blood takes have valves to prevent backflow and the mixing of oxygenate
 
 {% stepper %}
 {% step %}
-#### Inferior Vena Cava
+**Inferior Vena Cava**
 
 Deoxygenated blood enters the heart through the inferior vena cava.
 {% endstep %}
 
 {% step %}
-#### Right Atrium
+**Right Atrium**
 
 Blood travels into the right atrium.
 {% endstep %}
 
 {% step %}
-#### Right Ventricle
+**Right Ventricle**
 
 Blood flows down through the tricuspid valve and into the right ventricle.
 {% endstep %}
 
 {% step %}
-#### Pulmonary Artery
+**Pulmonary Artery**
 
 Bloods flows back up through the pulmonary artery, passing through the pulmonary valve.
 {% endstep %}
 
 {% step %}
-#### Lungs
+**Lungs**
 
 Blood enters the lungs and is oxygenated.
 {% endstep %}
 
 {% step %}
-#### Pulmonary Vein
+**Pulmonary Vein**
 
 Newly oxygenated blood travels through the pulmonary vein and back into the heart.
 {% endstep %}
 
 {% step %}
-#### Left Atrium
+**Left Atrium**
 
 Blood travels into the left atrium.
 {% endstep %}
 
 {% step %}
-#### Left Ventricle
+**Left Ventricle**
 
 Blood flows down through the bicuspid valve and into the left ventricle.
 {% endstep %}
 
 {% step %}
-#### Aorta
+**Aorta**
 
 Blood flows up and out through the aorta, passing through the aortic valve. The aorta then carries blood to the rest of the body.
 {% endstep %}
