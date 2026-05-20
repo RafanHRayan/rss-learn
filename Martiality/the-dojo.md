@@ -83,6 +83,14 @@ Use your dominant hand to perform the strike to the chest.
 
 </details>
 
+<details>
+
+<summary><i class="fa-head-side-heart">:head-side-heart:</i> Judgement of The Light</summary>
+
+**Definition** — The state of being where one's willpower, judgement, and strengths coalesce into a gut feeling of vengeance. Unlike other forms of judicial willpower, this one is calm yet firm. It involves using learned techniques and channeling willpower to the point of overwhelming your opponent.
+
+</details>
+
 [^1]: The other hand of that which was used to perform the elbow strike.
 
 [^2]: Puberty, height, childish behavior, overwhelming senses of responsibility, etc.
