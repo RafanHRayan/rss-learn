@@ -2,9 +2,6 @@
 description: >-
   The Cartesian plane, parallel lines, perpendicular lines, distance formula,
   midpoint formula, circles, and scaling line segments.
-tags:
-  - tag: unfinished
-    primary: true
 ---
 
 # Coordinate Geometry
