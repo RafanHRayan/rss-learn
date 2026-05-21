@@ -1,10 +1,8 @@
 ---
 description: >-
   Variation of traits, DNA structure, DNA replication, DNA Organization, central
-  dogma, mutations, ...
-tags:
-  - tag: unfinished
-    primary: true
+  dogma, mutations, the cell cycle, mitosis, gene cloning, meiosis, and
+  variation in traits.
 ---
 
 # Genetics
@@ -339,9 +337,11 @@ A **zygote** is a fertilized egg cell that results from the union of a [female g
 
 **Meiosis** is different from mitosis as there are two divisions in meiosis. The steps of meiosis are broken down into two different portions; they are as follows...
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.16.27 PM.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.16.27 PM.png" alt="" width="563"><figcaption><p><strong>Image 14</strong> — The steps of meiosis.</p></figcaption></figure></div>
 
 ### Meiosis I
+
+For the first division...
 
 {% stepper %}
 {% step %}
@@ -350,6 +350,8 @@ A **zygote** is a fertilized egg cell that results from the union of a [female g
 In **prophase I**, the chromosomes in the nucleus begin to compact into the classic x-shape. The nucleus begins to disappear and the the centrioles move to opposite sides of the cell.
 
 The centrioles also start to create spindle fibers.
+
+**Crossing over** may also happen, where homologous pairs exchange genetic information.
 {% endstep %}
 
 {% step %}
@@ -363,7 +365,7 @@ The spindle fibers begin to attach to the chromosomes.
 {% step %}
 #### Anaphase I
 
-In **anaphase I**, the homologous pairs are pulled apart by the spindle fibers onto either side of the cell.
+In **anaphase I**, the _homologous pairs_ are pulled apart by the spindle fibers onto either side of the cell.
 {% endstep %}
 
 {% step %}
@@ -373,11 +375,102 @@ In **telophase I**, two nuclei begin to form around the chromosomes[^7]. The spi
 {% endstep %}
 {% endstepper %}
 
-Cytokinesis then completes, creating two daughter cells where each chromosome in each cell has two sister chromatids.
+Cytokinesis then completes, creating two diploid daughter cells; each chromosome in each cell has two sister chromatids.
 
 ### Meiosis II
 
-...
+Now for the second round of division...
+
+{% stepper %}
+{% step %}
+#### Prophase II
+
+In **prophase II**, the chromosomes in the nucleus begin to compact into the classic x-shape. The nucleus begins to disappear and the the centrioles move to opposite sides of the cell.
+
+The centrioles also start to create spindle fibers.
+
+Crossing over does not happen in this phase.
+{% endstep %}
+
+{% step %}
+#### Metaphase II
+
+In **metaphase II**, the nucleus is gone. The chromosomes line up directly in the center of cell in a row.
+
+The spindle fibers begin to attach to the chromosomes.
+{% endstep %}
+
+{% step %}
+#### Anaphase II
+
+In **anaphase II**, the sister chromatids are pulled apart by the spindle fibers onto either side of the cell.
+{% endstep %}
+
+{% step %}
+#### Telophase II
+
+In **telophase II**, nuclei begin to form around the chromosomes[^7]. The spindle fibers begin to disappear and cytokinesis starts.
+{% endstep %}
+{% endstepper %}
+
+Cytokinesis then completes, creating four haploid daughter cells. Meiosis is done and each haploid daughter cell is a gamete.
+
+## Gender-Specific Meiosis
+
+### Meiosis in Males
+
+{% columns %}
+{% column valign="middle" %}
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.41.29 PM.png" alt="" width="552"><figcaption><p><strong>Image 14</strong> — The process of spermatogenesis.</p></figcaption></figure></div>
+{% endcolumn %}
+
+{% column valign="middle" %}
+**Spermatogenesis** is production of sperm via meiosis.
+{% endcolumn %}
+{% endcolumns %}
+
+### Meiosis in Females
+
+{% columns %}
+{% column valign="middle" %}
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.43.50 PM.png" alt="" width="443"><figcaption><p><strong>Image 15</strong> — The process of oogenesis.</p></figcaption></figure></div>
+{% endcolumn %}
+
+{% column valign="middle" %}
+**Oogenesis** is the production of [**oocytes**](#user-content-fn-12)[^12] via meiosis. One egg is produced from each meiotic process.
+{% endcolumn %}
+{% endcolumns %}
+
+## Variation in Traits
+
+### Genetic Variation
+
+#### Effect of Independent Assortment
+
+The random orientation of homologous pairs in metaphase I allows for the production of gametes with many different assortments of homologous chromosomes.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.48.01 PM.png" alt="" width="563"><figcaption><p><strong>Image 16</strong> — The effect of independent assortment on genetic variation.</p></figcaption></figure></div>
+
+#### Effect of Crossing Over
+
+The combination of [shuffling genes](#user-content-fn-13)[^13] also ensures that each of the four gametes produced is unique.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.51.03 PM.png" alt="" width="563"><figcaption><p><strong>Image 17</strong> — How crossing over (recombination) works.</p></figcaption></figure></div>
+
+### Heritable Variation
+
+There are three ways this can happen...
+
+* Mutations
+  * Errors in DNA replication due to environmental factors like radiation.
+* New genetic combinations through meiosis
+  * Crossing over in Prophase I.
+  * Independent assortment (we will be learning about this).
+* Possibility of any sperm fertilizing an egg.
+
+### Genetic Diversity
+
+**GDp** (Genetic Diversity of Populations) is measured with a number from 0 to 1 representing how much genetic variation exists across sampled genes in a population. The larger the number, the more genetic variation a population has.
 
 [^1]: The set of genes of the organism.
 
@@ -400,3 +493,7 @@ Cytokinesis then completes, creating two daughter cells where each chromosome in
 [^10]: An ovum, or egg.
 
 [^11]: A sperm.
+
+[^12]: Eggs.
+
+[^13]: Crossing over.
