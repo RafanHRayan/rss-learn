@@ -247,17 +247,15 @@ During this phase, the cell undergoes normal growth and development.
 
 The cell then undergoes **mitosis** and **cytokinesis**, where it splits to form two **daughter cells**. Both daughter cells then start their cell cycle.
 
-## Mitosis
+{% hint style="success" icon="fire-flame-curved" %}
+There are different checkpoints throughout the cell cycle that check for errors in the cell and stop the cell if there is a problem.
 
-**Germline cells** are the gametes in your body. This consists of the sperm for males and the egg for  females. **Somatic cells** are body cells. This includes every cell in your body except for germline cells.
-
-Somatic cells undergo mitosis, while germline cells do not. Because somatic cells need to undergo mitosis, they have two sets of chromosomes. Cells that have two sets of chromosomes are called **diploid cells**.
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.11.11 PM.png" alt="" width="563"><figcaption><p><strong>Image 10</strong> — How chromosomes duplicate during the S Phase.</p></figcaption></figure></div>
+Certain cases can make cells bypass these checkpoints, which can cause diseases like cancer.
+{% endhint %}
 
 ### Chromosomes and Chromatids
 
-**Chromatids** are the individual structures that each hold a copy of DNA. All chromatids for the same chromosome hold the same genetic information.
+**Chromatids** are the individual DNA molecules that each hold a copy of DNA.
 
 A **centromere** is the point where two **sister chromatids** are conjoined. See Image 10 above.
 
@@ -265,15 +263,25 @@ A **centromere** is the point where two **sister chromatids** are conjoined. See
 Chromosomes are counted by the number of centromeres, but chromatids are counted by the individual number of copies of the DNA. Thus—after replication—human cells after undergoing DNA synthesis will still have 46 chromosomes, but will have 96 individual chromatids.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.29.37 PM.png" alt="" width="563"><figcaption><p><strong>Image 11</strong> — The steps of mitosis.</p></figcaption></figure></div>
+## Mitosis
+
+**Germline cells** are the gametes in your body. This consists of the **sperm** for males and the **ovum** (eggs) for  females. **Somatic cells** are body cells. This includes every cell in your body except for germline cells.
+
+Somatic cells undergo mitosis, while germline cells do not. Because somatic cells need to undergo mitosis, they have two sets of chromosomes. Cells that have two sets of chromosomes are called **diploid cells**.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.11.11 PM.png" alt="" width="563"><figcaption><p><strong>Image 10</strong> — How chromosomes duplicate during the S Phase.</p></figcaption></figure></div>
+
+### The Stages of Mitosis
 
 Multicellular organisms' cells undergo mitosis to perform growth and repair. In single-celled organisms, mitosis is performed for asexual reproduction.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.29.37 PM.png" alt="" width="563"><figcaption><p><strong>Image 11</strong> — The steps of mitosis.</p></figcaption></figure></div>
 
 The steps of mitosis are as follows...
 
 {% stepper %}
 {% step %}
-### Prophase
+#### Prophase
 
 In **prophase**, the chromosomes in the nucleus begin to compact into the classic x-shape. The nucleus begins to disappear and the the centrioles move to opposite sides of the cell.
 
@@ -281,7 +289,7 @@ The centrioles also start to create spindle fibers.
 {% endstep %}
 
 {% step %}
-### Metaphase
+#### Metaphase
 
 In **metaphase**, the nucleus is gone. The chromosomes line up directly in the center of cell in a row called the **metaphase plate**.
 
@@ -289,13 +297,13 @@ The spindle fibers begin to attach to the chromosomes.
 {% endstep %}
 
 {% step %}
-### Anaphase
+#### Anaphase
 
 In **anaphase**, the sister chromatids are pulled apart by the spindle fibers onto either side of the cell.
 {% endstep %}
 
 {% step %}
-### Telophase
+#### Telophase
 
 In **telophase**, two nuclei begin to form around the chromosomes[^7]. The spindle fibers begin to disappear and cytokinesis starts.
 {% endstep %}
@@ -305,7 +313,71 @@ In **telophase**, two nuclei begin to form around the chromosomes[^7]. The spind
 
 During telophase, cytokinesis begins, causing the cytoplasm to physically split into the two daughter cells. In the end, each daughter cell [has 46 chromosomes each](#user-content-fn-8)[^8] and a centriole each.
 
+## Gene Cloning
 
+**Gene cloning** is a technique used to create identical copies of a specific gene or segment of DNA.
+
+### Recombinant DNA
+
+Scientists looked to using bacteria to make insulin. In order to do this, scientists inserted the gene in humans for making insulin into a bacterial [**plasmid**](#user-content-fn-9)[^9] so that the bacteria will create the insulin.
+
+A **restriction enzyme** is an enzyme that can splice DNA in specific areas.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.49.24 PM.png" alt="" width="563"><figcaption><p><strong>Image 12</strong> — How recombinant DNA is formed.</p></figcaption></figure></div>
+
+When a sequence in DNA is removed and replaced with a different sequence, it is called **recombinant DNA**.
+
+### Cell Differentiation
+
+**Cell differentiation** is the process by which cells become specialized during development. All body cells have the same DNA, but cells can activate or deactivate different genes from other cells.
+
+## Meiosis
+
+A **zygote** is a fertilized egg cell that results from the union of a [female gamete](#user-content-fn-10)[^10] with a [male gamete](#user-content-fn-11)[^11]. Each gamete has **haploid cells**, meaning they have only _one_ set of chromosomes. This is because when gametes combine, the zygote gets half its chromosomes from the egg and half from sperm.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.08.02 PM.png" alt="" width="563"><figcaption><p><strong>Image 13</strong> — How gametes form a zygote.</p></figcaption></figure></div>
+
+**Meiosis** is different from mitosis as there are two divisions in meiosis. The steps of meiosis are broken down into two different portions; they are as follows...
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.16.27 PM.png" alt=""><figcaption></figcaption></figure>
+
+### Meiosis I
+
+{% stepper %}
+{% step %}
+#### Prophase I
+
+In **prophase I**, the chromosomes in the nucleus begin to compact into the classic x-shape. The nucleus begins to disappear and the the centrioles move to opposite sides of the cell.
+
+The centrioles also start to create spindle fibers.
+{% endstep %}
+
+{% step %}
+#### Metaphase I
+
+In **metaphase I**, the nucleus is gone. The chromosomes line up in the center of cell, but do so in homologous pairs.
+
+The spindle fibers begin to attach to the chromosomes.
+{% endstep %}
+
+{% step %}
+#### Anaphase I
+
+In **anaphase I**, the homologous pairs are pulled apart by the spindle fibers onto either side of the cell.
+{% endstep %}
+
+{% step %}
+#### Telophase I
+
+In **telophase I**, two nuclei begin to form around the chromosomes[^7]. The spindle fibers begin to disappear and cytokinesis starts.
+{% endstep %}
+{% endstepper %}
+
+Cytokinesis then completes, creating two daughter cells where each chromosome in each cell has two sister chromatids.
+
+### Meiosis II
+
+...
 
 [^1]: The set of genes of the organism.
 
@@ -322,3 +394,9 @@ During telophase, cytokinesis begins, causing the cytoplasm to physically split 
 [^7]: Formerly the chromatids; they are now considered as individual chromosomes because they each have a single centromere.
 
 [^8]: And, thus, are also both diploid cells.
+
+[^9]: A plasmid is a circular (connected at the ends), extra sequence of DNA that can easily be isolated and manipulated.
+
+[^10]: An ovum, or egg.
+
+[^11]: A sperm.
