@@ -77,7 +77,7 @@ On the leading strand template, the enzyme then adds new complementary DNA bases
 
 Since the lagging strand template runs in the opposite direction, DNA Polymerase can't continuously create the lagging strand. It instead creates them in chunks called **Okazaki fragments**.
 
-A primer is first created. Then, a short row of DNA bases are created in the 3' to 5' direction. Another primer is added further down and the process repeats like in Image 5.
+A primer is first created. Then, a short row of DNA bases are created in the 5' to 3' direction. Another primer is added further down and the process repeats like in Image 5.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-07 at 7.45.09 PM.png" alt="" width="563"><figcaption><p><strong>Image 5</strong> — Primase priming the lagging strand. The gap is where the Okazaki fragment will be.</p></figcaption></figure></div>
 {% endstep %}
@@ -149,7 +149,7 @@ DNA, being long and complex, is to large to leave the nucleus as is. To transfer
 {% step %}
 #### Transcription
 
-To start, the enzyme **RNA Polymerase** attaches onto the DNA where the gene is located. RNA Polymerase—like DNA Polymerase—can also only read from the 3' end to the 5' end. The strand that RNA Polymerase reads is called the **coding strand**. The other strand is called the **noncoding strand**.
+To start, the enzyme **RNA Polymerase** attaches onto the DNA where the gene is located. RNA Polymerase—like DNA Polymerase—can also only read from the 5' end to the 3' end. The strand that RNA Polymerase reads is called the **coding strand**. The other strand is called the **noncoding strand**.
 
 RNA Polymerase then reads the coding strand and creates the RNA sequence complementary to the gene. This sequence of RNA is called **messenger RNA** (mRNA).
 
@@ -163,8 +163,10 @@ Once mRNA reaches the ribosome, it feeds into it.
 
 More RNA called **transfer RNA** (tRNA) reside within the cytoplasm. tRNA molecules read the mRNA strand in units called **codons**, which are snippets of _three consecutive_ nitrogenous bases.
 
+A **start codon** tells the ribosome to start reading and translating the mRNA strand. A **stop codon** is a specific codon that tells the ribosome to stop reading and translating the mRNA.
+
 {% hint style="info" icon="circle-info" %}
-Note that a ribosome won't start making a protein until it reads a start codon. Conversely, it won't stop reading and release the mRNA until it reaches a stop codon.
+Note that a ribosome won't start making a polypeptide chain until it reads a start codon. Conversely, it won't stop reading and release the mRNA until it reaches a stop codon.
 {% endhint %}
 
 <div data-with-frame="true"><figure><img src="https://microbenotes.com/wp-content/uploads/2023/09/Amino-Acid-Codon-Wheel-scaled.jpeg" alt="" width="563"><figcaption><p><strong>Image 8</strong> — Amino acid codon wheel.</p></figcaption></figure></div>
@@ -229,8 +231,6 @@ When transcription factors bind to chromatin, they can trigger the addition of *
 
 <div data-with-frame="true"><figure><img src="https://gradschooldigest.github.io/gradschooldigest/blogposts/Shalini_GSD_1_overview_of_epigenetics/figure2.png" alt="" width="563"><figcaption><p><strong>Image 9</strong> —How transcription factors work.</p></figcaption></figure></div>
 
-
-
 ## The Cell Cycle
 
 The goal of **cell division** is to make a copy of a cell in order to grow, repair damage, and reproduce[^6].
@@ -287,7 +287,7 @@ Chromosomes are counted by the number of centromeres, but chromatids are counted
 
 ## Mitosis
 
-**Germline cells** are the gametes in your body. This consists of the **sperm** for males and the **ovum** (eggs) for  females. **Somatic cells** are body cells. This includes every cell in your body except for germline cells.
+**Germline cells** are the gametes in your body. This consists of the **sperm** for males and the **ovum** (eggs) for females. **Somatic cells** are body cells. This includes every cell in your body except for germline cells.
 
 Somatic cells undergo mitosis, while germline cells do not. Because somatic cells need to undergo mitosis, they have two sets of chromosomes. Cells that have two sets of chromosomes are called **diploid cells**.
 
