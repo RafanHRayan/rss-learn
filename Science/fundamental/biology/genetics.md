@@ -161,13 +161,15 @@ mRNA can now leave the nucleus in order to reach a ribosome.
 
 Once mRNA reaches the ribosome, it feeds into it.
 
-More RNA called **transfer RNA** (tRNA) reside within the cytoplasm. tRNA molecules read the mRNA strand in units called **codons**, which are snippets of _three consecutive_ nitrogenous bases. Each codon corrsponds to a specific amino acid (or stop codon). The tRNA then takes the amino acid coding for the **anticodon** of the codon it read.
+More RNA called **transfer RNA** (tRNA) reside within the cytoplasm. tRNA molecules read the mRNA strand in units called **codons**, which are snippets of _three consecutive_ nitrogenous bases.
 
 {% hint style="info" icon="circle-info" %}
 Note that a ribosome won't start making a protein until it reads a start codon. Conversely, it won't stop reading and release the mRNA until it reaches a stop codon.
 {% endhint %}
 
 <div data-with-frame="true"><figure><img src="https://microbenotes.com/wp-content/uploads/2023/09/Amino-Acid-Codon-Wheel-scaled.jpeg" alt="" width="563"><figcaption><p><strong>Image 8</strong> — Amino acid codon wheel.</p></figcaption></figure></div>
+
+Each codon corresponds to a specific amino acid (or stop codon). The tRNA then takes the amino acid coding for the **anticodon** of the codon it read.
 
 {% hint style="info" icon="circle-question" %}
 The anticodon is the set of three base pairs that is complementary to the codon.
