@@ -100,7 +100,7 @@ tags:
 
 ## #10 — Genetics
 
-**Contents:** Variation of traits, DNA structure, DNA replication, DNA Organization, central dogma, mutations, the cell cycle, mitosis, gene cloning, meiosis, and variation in traits.
+**Contents:** Variation of traits, DNA structure, DNA replication, DNA Organization, central dogma, mutations, epigenetics, the cell cycle, mitosis, gene cloning, meiosis, and variation in traits.
 
 {% content-ref url="genetics.md" %}
 [genetics.md](genetics.md)

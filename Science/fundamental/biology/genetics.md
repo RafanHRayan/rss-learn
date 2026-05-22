@@ -1,8 +1,8 @@
 ---
 description: >-
   Variation of traits, DNA structure, DNA replication, DNA Organization, central
-  dogma, mutations, the cell cycle, mitosis, gene cloning, meiosis, and
-  variation in traits.
+  dogma, mutations, epigenetics, the cell cycle, mitosis, gene cloning, meiosis,
+  and variation in traits.
 ---
 
 # Genetics
