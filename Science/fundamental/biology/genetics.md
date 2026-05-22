@@ -7,7 +7,7 @@ description: >-
 
 # Genetics
 
-## Variation in Traits
+Variation in Traits
 
 **Traits** are any characteristics of an organism.
 
@@ -207,11 +207,33 @@ Sometimes, a mutation may be present in a [**gamete**](#user-content-fn-4)[^4]. 
 
 If the mutation happens in any other cell, it is a **somatic mutation**, making it non-heritable.
 
+## Epigenetics
+
+**Epigenetics** is how cells control gene expressions [without changing the DNA](#user-content-fn-5)[^5].
+
+A **promoter** is an area of DNA before a gene where RNA polymerase binds.
+
+{% hint style="danger" icon="bolt" %}
+Do not confuse primers with promoters! A promoter is a _permanent_ part of the DNA strand, but a primer is _temporary_ and removed after use.
+{% endhint %}
+
+A **transcription factors** are proteins that helps turn specific genes on or off by binding to nearby DNA.
+
+**Histones** are proteins that chromatin wraps around to ocndense into chromosomes.
+
+Chromatin is open when it is loosely wrapped and can be accessed for transcription. Chromatin is closed when it is wrapped tightly around histones. This makes enzymes unable to use the DNA.
+
+When transcription factors bind to chromatin, they can trigger the addition of **methyl groups**. This often serves as a chemical "lock" that stabilizes the closed state and makes the area unusable. The process of methylating DNA is called **DNA methylation**.
+
+<div data-with-frame="true"><figure><img src="https://gradschooldigest.github.io/gradschooldigest/blogposts/Shalini_GSD_1_overview_of_epigenetics/figure2.png" alt="" width="563"><figcaption><p><strong>Image 9</strong> —How transcription factors work.</p></figcaption></figure></div>
+
+
+
 ## The Cell Cycle
 
-The goal of **cell division** is to make a copy of a cell in order to grow, repair damage, and reproduce[^5].
+The goal of **cell division** is to make a copy of a cell in order to grow, repair damage, and reproduce[^6].
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 6.55.30 PM.png" alt="" width="563"><figcaption><p><strong>Image 9</strong> — The cell cycle and its phases.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 6.55.30 PM.png" alt="" width="563"><figcaption><p><strong>Image 10</strong> — The cell cycle and its phases.</p></figcaption></figure></div>
 
 ### Interphase
 
@@ -227,7 +249,7 @@ During this phase, the cell undergoes normal growth and development.
 {% step %}
 #### S Phase (DNA Synthesis)
 
-During this phase, the cell will [make copies of all the chromosomes](#user-content-fn-6)[^6]. This phase takes the most time during interphase. Additionally, the **centriole** also duplicates.
+During this phase, the cell will [make copies of all the chromosomes](#user-content-fn-7)[^7]. This phase takes the most time during interphase. Additionally, the **centriole** also duplicates.
 
 The centrosome is a small structure in the cell that can produce tubules called **spindle fibers**. They are essential in cell division.
 
@@ -267,13 +289,13 @@ Chromosomes are counted by the number of centromeres, but chromatids are counted
 
 Somatic cells undergo mitosis, while germline cells do not. Because somatic cells need to undergo mitosis, they have two sets of chromosomes. Cells that have two sets of chromosomes are called **diploid cells**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.11.11 PM.png" alt="" width="563"><figcaption><p><strong>Image 10</strong> — How chromosomes duplicate during the S Phase.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.11.11 PM.png" alt="" width="563"><figcaption><p><strong>Image 11</strong> — How chromosomes duplicate during the S Phase.</p></figcaption></figure></div>
 
 ### The Stages of Mitosis
 
 Multicellular organisms' cells undergo mitosis to perform growth and repair. In single-celled organisms, mitosis is performed for asexual reproduction.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.29.37 PM.png" alt="" width="563"><figcaption><p><strong>Image 11</strong> — The steps of mitosis.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.29.37 PM.png" alt="" width="563"><figcaption><p><strong>Image 12</strong> — The steps of mitosis.</p></figcaption></figure></div>
 
 The steps of mitosis are as follows...
 
@@ -303,13 +325,13 @@ In **anaphase**, the sister chromatids are pulled apart by the spindle fibers on
 {% step %}
 #### Telophase
 
-In **telophase**, two nuclei begin to form around the chromosomes[^7]. The spindle fibers begin to disappear and cytokinesis starts.
+In **telophase**, two nuclei begin to form around the chromosomes[^8]. The spindle fibers begin to disappear and cytokinesis starts.
 {% endstep %}
 {% endstepper %}
 
 ### Cytokinesis
 
-During telophase, cytokinesis begins, causing the cytoplasm to physically split into the two daughter cells. In the end, each daughter cell [has 46 chromosomes each](#user-content-fn-8)[^8] and a centriole each.
+During telophase, cytokinesis begins, causing the cytoplasm to physically split into the two daughter cells. In the end, each daughter cell [has 46 chromosomes each](#user-content-fn-9)[^9] and a centriole each.
 
 ## Gene Cloning
 
@@ -317,11 +339,11 @@ During telophase, cytokinesis begins, causing the cytoplasm to physically split 
 
 ### Recombinant DNA
 
-Scientists looked to using bacteria to make insulin. In order to do this, scientists inserted the gene in humans for making insulin into a bacterial [**plasmid**](#user-content-fn-9)[^9] so that the bacteria will create the insulin.
+Scientists looked to using bacteria to make insulin. In order to do this, scientists inserted the gene in humans for making insulin into a bacterial [**plasmid**](#user-content-fn-10)[^10] so that the bacteria will create the insulin.
 
 A **restriction enzyme** is an enzyme that can splice DNA in specific areas.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.49.24 PM.png" alt="" width="563"><figcaption><p><strong>Image 12</strong> — How recombinant DNA is formed.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 7.49.24 PM.png" alt="" width="563"><figcaption><p><strong>Image 13</strong> — How recombinant DNA is formed.</p></figcaption></figure></div>
 
 When a sequence in DNA is removed and replaced with a different sequence, it is called **recombinant DNA**.
 
@@ -329,15 +351,25 @@ When a sequence in DNA is removed and replaced with a different sequence, it is 
 
 **Cell differentiation** is the process by which cells become specialized during development. All body cells have the same DNA, but cells can activate or deactivate different genes from other cells.
 
+#### Specialized Cells
+
+**Stem cells** are the body's raw materials—unspecialized cells capable of dividing and transforming into specific types of cells.
+
+Stems cells are **pluripotent** if they can differentiate into any of the cell types in the body, _except_ the placenta. Stems cells are **unipotent** if they are restricted to producing only one specific cell type.
+
+**Specialized cells** are the mature, [distinct building blocks](#user-content-fn-11)[^11] that have a fixed structure and perform dedicated, highly specific functions.
+
 ## Meiosis
 
-A **zygote** is a fertilized egg cell that results from the union of a [female gamete](#user-content-fn-10)[^10] with a [male gamete](#user-content-fn-11)[^11]. Each gamete has **haploid cells**, meaning they have only _one_ set of chromosomes. This is because when gametes combine, the zygote gets half its chromosomes from the egg and half from sperm.
+A **zygote** is a fertilized egg cell that results from the union of a [female gamete](#user-content-fn-12)[^12] with a [male gamete](#user-content-fn-13)[^13], this process is called **fertilization**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.08.02 PM.png" alt="" width="563"><figcaption><p><strong>Image 13</strong> — How gametes form a zygote.</p></figcaption></figure></div>
+Each gamete has **haploid cells**, meaning they have only _one_ set of chromosomes. This is because when gametes combine, the zygote gets half its chromosomes from the egg and half from sperm.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.08.02 PM.png" alt="" width="563"><figcaption><p><strong>Image 14</strong> — How gametes form a zygote.</p></figcaption></figure></div>
 
 **Meiosis** is different from mitosis as there are two divisions in meiosis. The steps of meiosis are broken down into two different portions; they are as follows...
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.16.27 PM.png" alt="" width="563"><figcaption><p><strong>Image 14</strong> — The steps of meiosis.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.16.27 PM.png" alt="" width="563"><figcaption><p><strong>Image 15</strong> — The steps of meiosis.</p></figcaption></figure></div>
 
 ### Meiosis I
 
@@ -371,7 +403,7 @@ In **anaphase I**, the _homologous pairs_ are pulled apart by the spindle fibers
 {% step %}
 #### Telophase I
 
-In **telophase I**, two nuclei begin to form around the chromosomes[^7]. The spindle fibers begin to disappear and cytokinesis starts.
+In **telophase I**, two nuclei begin to form around the chromosomes[^8]. The spindle fibers begin to disappear and cytokinesis starts.
 {% endstep %}
 {% endstepper %}
 
@@ -409,7 +441,7 @@ In **anaphase II**, the sister chromatids are pulled apart by the spindle fibers
 {% step %}
 #### Telophase II
 
-In **telophase II**, nuclei begin to form around the chromosomes[^7]. The spindle fibers begin to disappear and cytokinesis starts.
+In **telophase II**, nuclei begin to form around the chromosomes[^8]. The spindle fibers begin to disappear and cytokinesis starts.
 {% endstep %}
 {% endstepper %}
 
@@ -421,7 +453,7 @@ Cytokinesis then completes, creating four haploid daughter cells. Meiosis is don
 
 {% columns %}
 {% column valign="middle" %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.41.29 PM.png" alt="" width="552"><figcaption><p><strong>Image 14</strong> — The process of spermatogenesis.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.41.29 PM.png" alt="" width="552"><figcaption><p><strong>Image 16</strong> — The process of spermatogenesis.</p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column valign="middle" %}
@@ -433,11 +465,11 @@ Cytokinesis then completes, creating four haploid daughter cells. Meiosis is don
 
 {% columns %}
 {% column valign="middle" %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.43.50 PM.png" alt="" width="443"><figcaption><p><strong>Image 15</strong> — The process of oogenesis.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.43.50 PM.png" alt="" width="443"><figcaption><p><strong>Image 17</strong> — The process of oogenesis.</p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column valign="middle" %}
-**Oogenesis** is the production of [**oocytes**](#user-content-fn-12)[^12] via meiosis. One egg is produced from each meiotic process.
+**Oogenesis** is the production of [**oocytes**](#user-content-fn-14)[^14] via meiosis. One egg is produced from each meiotic process.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -449,28 +481,35 @@ Cytokinesis then completes, creating four haploid daughter cells. Meiosis is don
 
 The random orientation of homologous pairs in metaphase I allows for the production of gametes with many different assortments of homologous chromosomes.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.48.01 PM.png" alt="" width="563"><figcaption><p><strong>Image 16</strong> — The effect of independent assortment on genetic variation.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.48.01 PM.png" alt="" width="563"><figcaption><p><strong>Image 18</strong> — The effect of independent assortment on genetic variation.</p></figcaption></figure></div>
 
 #### Effect of Crossing Over
 
-The combination of [shuffling genes](#user-content-fn-13)[^13] also ensures that each of the four gametes produced is unique.
+The combination of [shuffling genes](#user-content-fn-15)[^15] also ensures that each of the four gametes produced is unique.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.51.03 PM.png" alt="" width="563"><figcaption><p><strong>Image 17</strong> — How crossing over (recombination) works.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.51.03 PM.png" alt="" width="563"><figcaption><p><strong>Image 19</strong> — How crossing over (recombination) works.</p></figcaption></figure></div>
 
 ### Heritable Variation
 
 There are three ways this can happen...
 
-* Mutations
+* Mutations.
   * Errors in DNA replication due to environmental factors like radiation.
-* New genetic combinations through meiosis
+* New genetic combinations through meiosis.
   * Crossing over in Prophase I.
-  * Independent assortment (we will be learning about this).
+  * Independent assortment.
+    * Random arrangement of chromosomes in Metaphase II.
 * Possibility of any sperm fertilizing an egg.
 
 ### Genetic Diversity
 
 **GDp** (Genetic Diversity of Populations) is measured with a number from 0 to 1 representing how much genetic variation exists across sampled genes in a population. The larger the number, the more genetic variation a population has.
+
+#### Population Bottleneck
+
+When a severe change happens to an environment, few may survive, resulting in a **population bottleneck**.
+
+<div data-with-frame="true"><figure><img src="https://www.nps.gov/articles/images/genetics.jpg" alt="" width="563"><figcaption><p><strong>Image 20</strong> — A population bottleneck.</p></figcaption></figure></div>
 
 [^1]: The set of genes of the organism.
 
@@ -480,20 +519,24 @@ There are three ways this can happen...
 
 [^4]: A gamete is a reproductive cell of an organism. For humans, women have eggs and men have <mark style="color:red;">s</mark><mark style="color:orange;">p</mark><mark style="color:yellow;">e</mark><mark style="color:green;">r</mark><mark style="color:blue;">m</mark>.
 
-[^5]: In the case of single-celled organisms.
+[^5]: Without physically changing nucleotides (mutation).
 
-[^6]: DNA is replicated.
+[^6]: In the case of single-celled organisms.
 
-[^7]: Formerly the chromatids; they are now considered as individual chromosomes because they each have a single centromere.
+[^7]: DNA is replicated.
 
-[^8]: And, thus, are also both diploid cells.
+[^8]: Formerly the chromatids; they are now considered as individual chromosomes because they each have a single centromere.
 
-[^9]: A plasmid is a circular (connected at the ends), extra sequence of DNA that can easily be isolated and manipulated.
+[^9]: And, thus, are also both diploid cells.
 
-[^10]: An ovum, or egg.
+[^10]: A plasmid is a circular (connected at the ends), extra sequence of DNA that can easily be isolated and manipulated.
 
-[^11]: A sperm.
+[^11]: Like neurons or muscle cells.
 
-[^12]: Eggs.
+[^12]: An ovum, or egg.
 
-[^13]: Crossing over.
+[^13]: A sperm.
+
+[^14]: Eggs.
+
+[^15]: Crossing over.
