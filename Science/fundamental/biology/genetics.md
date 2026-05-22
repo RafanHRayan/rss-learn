@@ -229,7 +229,7 @@ Chromatin is open when it is loosely wrapped and can be accessed for transcripti
 
 When transcription factors bind to chromatin, they can trigger the addition of **methyl groups**. This often serves as a chemical "lock" that stabilizes the closed state and makes the area unusable. The process of methylating DNA is called **DNA methylation**.
 
-<div data-with-frame="true"><figure><img src="https://gradschooldigest.github.io/gradschooldigest/blogposts/Shalini_GSD_1_overview_of_epigenetics/figure2.png" alt="" width="563"><figcaption><p><strong>Image 9</strong> —How transcription factors work.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="https://gradschooldigest.github.io/gradschooldigest/blogposts/Shalini_GSD_1_overview_of_epigenetics/figure2.png" alt="" width="563"><figcaption><p><strong>Image 9</strong> —How methyl factors work.</p></figcaption></figure></div>
 
 ## The Cell Cycle
 
