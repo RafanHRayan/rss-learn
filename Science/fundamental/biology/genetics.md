@@ -7,7 +7,7 @@ description: >-
 
 # Genetics
 
-Variation in Traits
+## Variation in Traits
 
 **Traits** are any characteristics of an organism.
 
