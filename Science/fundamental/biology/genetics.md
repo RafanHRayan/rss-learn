@@ -453,27 +453,11 @@ Cytokinesis then completes, creating four haploid daughter cells. Meiosis is don
 
 ### Meiosis in Males
 
-{% columns %}
-{% column valign="middle" %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.41.29 PM.png" alt="" width="552"><figcaption><p><strong>Image 16</strong> — The process of spermatogenesis.</p></figcaption></figure></div>
-{% endcolumn %}
-
-{% column valign="middle" %}
-**Spermatogenesis** is production of sperm via meiosis.
-{% endcolumn %}
-{% endcolumns %}
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.41.29 PM.png" alt="" width="368"><figcaption><p><strong>Image 16</strong> — The process of <strong>spermatogenesis</strong>.<br>Spermatogenesis is production of sperm via meiosis. It produces<br>four haploid sperm cells.</p></figcaption></figure></div>
 
 ### Meiosis in Females
 
-{% columns %}
-{% column valign="middle" %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.43.50 PM.png" alt="" width="443"><figcaption><p><strong>Image 17</strong> — The process of oogenesis.</p></figcaption></figure></div>
-{% endcolumn %}
-
-{% column valign="middle" %}
-**Oogenesis** is the production of [**oocytes**](#user-content-fn-14)[^14] via meiosis. One egg is produced from each meiotic process.
-{% endcolumn %}
-{% endcolumns %}
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.43.50 PM.png" alt="" width="443"><figcaption><p><strong>Image 17</strong> — The process of <strong>oogenesis</strong>. Oogenesis is the production of<br>via meiosis. One functional egg and four useless polar bodies are produced<br>from each meiotic process. This is because in oogenesis, the cytoplasm splits<br>unevenly during cytokinesis.</p></figcaption></figure></div>
 
 ## Variation in Traits
 
@@ -487,7 +471,7 @@ The random orientation of homologous pairs in metaphase I allows for the product
 
 #### Effect of Crossing Over
 
-The combination of [shuffling genes](#user-content-fn-15)[^15] also ensures that each of the four gametes produced is unique.
+The combination of [shuffling genes](#user-content-fn-14)[^14] also ensures that each of the four gametes produced is unique.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2026-05-20 at 8.51.03 PM.png" alt="" width="563"><figcaption><p><strong>Image 19</strong> — How crossing over (recombination) works.</p></figcaption></figure></div>
 
@@ -539,6 +523,4 @@ When a severe change happens to an environment, few may survive, resulting in a 
 
 [^13]: A sperm.
 
-[^14]: Eggs.
-
-[^15]: Crossing over.
+[^14]: Crossing over.
