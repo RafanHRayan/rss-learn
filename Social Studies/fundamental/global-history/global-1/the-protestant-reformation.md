@@ -1,8 +1,5 @@
 ---
 description: Indulgences, Martin Luther, the 95 Thesis, Henry VIII, and Henry's six wives.
-tags:
-  - tag: unfinished
-    primary: true
 ---
 
 # The Protestant Reformation

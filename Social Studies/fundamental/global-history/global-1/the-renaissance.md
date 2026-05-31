@@ -2,9 +2,6 @@
 description: >-
   Italian renaissance, European renaissance, renaissance art, and the printing
   press.
-tags:
-  - tag: unfinished
-    primary: true
 ---
 
 # The Renaissance

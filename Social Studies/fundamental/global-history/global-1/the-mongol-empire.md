@@ -1,8 +1,5 @@
 ---
 description: ..., and the Ming Dynasty.
-tags:
-  - tag: unfinished
-    primary: true
 ---
 
 # The Mongol Empire
