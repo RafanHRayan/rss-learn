@@ -1,7 +1,7 @@
 ---
-tags:
-  - tag: unfinished
-    primary: true
+description: >-
+  Reflections, compositions, translations, rotations, mapping, dilations,
+  symmetry, inverse compositions, and synthetic compositions.
 ---
 
 # Transformations
@@ -128,7 +128,7 @@ The transformation $$R_{(7,-4),-90\degree{}}(A)=A'$$ would denote a 90° rotatio
 
 When the degree of rotation is positive, it denotes a _counterclockwise_ rotation. When the degree of rotation is negative, it denotes a _clockwise_ rotation.
 
-A rotation—where $$O$$ denotes the center of reflection, $$\theta{}$$ denotes the degree of rotation, $$A$$ is the preimage, and $$A'$$ is the image—is defined such that $$OA=OA'$$ and that $$\text{m}\angle{AOA'}=\theta{}\degree{}$$.
+A rotation—where $$O$$ is the center of reflection, $$\theta{}$$ is the degree of rotation, $$A$$ is the preimage, and $$A'$$ is the image—is defined such that $$OA=OA'$$ and that $$\text{m}\angle{AOA'}=\theta{}\degree{}$$.
 
 {% hint style="success" icon="fire-flame-curved" %}
 To perform a rotation by multiples of 90, use your knowledge of perpendicular lines on Cartesian planes.
@@ -142,9 +142,63 @@ Two figures are congruent if and only if there exists a composition of isometrie
 
 A **dilation** is when a figure is shrunk or grown about a point.
 
+A dilation is not an isometry.
+
+The point where a dilation is centered on is called the **center of dilation**. The factor in which the image is from the preimage is called the **scale factor**.
+
+<details>
+
+<summary><i class="fa-note">:note:</i> Dilation Notation</summary>
+
+Do denote a dilation, use the following notation...
+
+<p align="center"><span class="math">D_{(x,y),k}(A)=A'</span></p>
+
+Where $$D$$ denotes the type of transformation, $$(x,y)$$ denotes the center of dilation, $$k$$ denotes the scale factor, $$A$$ is the preimage, and $$A'$$ is the image.
+
+{% hint style="info" icon="vial-vertical" %}
+The transformation $$D_{(2,4),3}(A)=A'$$ would denote a dilation centered at the point $$(2,4)$$ of $$A$$ to get $$A'$$, where $$A'$$ is three times as far away from the center of dilation that $$A$$.
+{% endhint %}
+
+</details>
+
+A dilation—where $$O$$ is the center of dilation, $$k$$ is the scale factor, $$A$$ is the preimage, and $$A'$$ is the image—is defined such that $$\overrightarrow{OA'}=k(\overrightarrow{OA})$$, where $$\overrightarrow{OA'}$$ and $$\overrightarrow{OA}$$ are vectors.
+
 {% hint style="success" icon="fire-flame-curved" %}
 A composition consisting of [only one unique transformation](#user-content-fn-5)[^5] is able to disregard the order in which they are completed, _except_ for dilations.
 {% endhint %}
+
+## Symmetry
+
+### Reflectional Symmetry
+
+A figure in **invariant** after a transformation if it is visually unchanging after it.
+
+A figure is symmetric about a line if and only if it is invariant under a reflection over that line. A figure has [**reflectional symmetry**](#user-content-fn-6)[^6] if and only if there exists at least one line that the figure is symmetric about. The **order of reflectional symmetry** of a figure is equivalent to the number of lines that the figure is symmetric about.
+
+### Rotational Symmetry
+
+A figure is symmetric about its center if an only if it is invariant under a $$\theta{}\degree{}$$ rotation about its center such that $$0<\theta{}≤360$$. A figure has **rotational symmetry** if and only if there exists at least _two_ angle measures that the figure is symmetric upon a rotation by those angle measures. The **order of rotational symmetry** of a figure is equivalent to the number of angle measures upon which a rotation of those measures results in an invariance of the figure.
+
+{% hint style="danger" icon="bolt" %}
+The definition of rotational symmetry necessarily implies that a figure has an order of rotational symmetry of _**at least one**_, as any figure receiving a 360° rotation will always be invariant.
+{% endhint %}
+
+{% hint style="info" icon="circle-info" %}
+The definition of rotational symmetry necessarily implies that a figure has [no rotational symmetry](#user-content-fn-7)[^7] unless it has a center.
+{% endhint %}
+
+## Inverse Compositions
+
+The inverse of a composition is the reversal of that composition. Do this intuitively. For example, the inverse of $$T_{7,-6}\circ{}R_{(-4,0),-90\degree{}}(\triangle{}ABC)=\triangle{}A'B'C'$$ is the following...
+
+$$
+R_{(-4,0),90\degree{}}\circ{}T_{-7,6}(\triangle{}A'B'C')=\triangle{}ABC
+$$
+
+## Synthetic Compositions
+
+Intuitively write a transformation using no lengths, measures, or other values. Write a sequence to translate by vectors written by name, not values and so on.
 
 [^1]: It may also be called a rigid motion.
 
@@ -155,3 +209,7 @@ A composition consisting of [only one unique transformation](#user-content-fn-5)
 [^4]: Essentially length.
 
 [^5]: For example, three reflections.
+
+[^6]: Often called line symmetry.
+
+[^7]: An order of 1.

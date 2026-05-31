@@ -19,9 +19,8 @@ layout:
     visible: true
   tags:
     visible: true
-tags:
-  - tag: unfinished
-    primary: true
+  actions:
+    visible: true
 ---
 
 # Geometry
@@ -122,7 +121,7 @@ This is why it is taught in this course.
 
 ## #12 — Transformations
 
-**Contents:** ...
+**Contents:** Reflections, compositions, translations, rotations, mapping, dilations, symmetry, inverse compositions, and synthetic compositions.
 
 {% content-ref url="transformations.md" %}
 [transformations.md](transformations.md)
