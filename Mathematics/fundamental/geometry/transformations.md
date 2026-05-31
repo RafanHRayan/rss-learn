@@ -108,7 +108,7 @@ When a point is translated by some vector, the tail of the vector is the preimag
 
 A **rotation** is when a figure is manipulated around a point.
 
-The point in which a figure is rotated is the **center of rotation**. The amount in which a figure is rotated is the **degree of rotation**.
+The point in which a figure is rotated is the **center of rotation**. The amount in which a figure is rotated is the **angle of rotation**.
 
 <details>
 
@@ -126,9 +126,9 @@ The transformation $$R_{(7,-4),-90\degree{}}(A)=A'$$ would denote a 90° rotatio
 
 </details>
 
-When the degree of rotation is positive, it denotes a _counterclockwise_ rotation. When the degree of rotation is negative, it denotes a _clockwise_ rotation.
+When the angle of rotation is positive, it denotes a _counterclockwise_ rotation. When the angle of rotation is negative, it denotes a _clockwise_ rotation.
 
-A rotation—where $$O$$ is the center of reflection, $$\theta{}$$ is the degree of rotation, $$A$$ is the preimage, and $$A'$$ is the image—is defined such that $$OA=OA'$$ and that $$\text{m}\angle{AOA'}=\theta{}\degree{}$$.
+A rotation—where $$O$$ is the center of reflection, $$\theta{}$$ is the angle of rotation, $$A$$ is the preimage, and $$A'$$ is the image—is defined such that $$OA=OA'$$ and that $$\text{m}\angle{AOA'}=\theta{}\degree{}$$.
 
 {% hint style="success" icon="fire-flame-curved" %}
 To perform a rotation by multiples of 90, use your knowledge of perpendicular lines on Cartesian planes.
